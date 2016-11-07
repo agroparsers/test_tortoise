@@ -1,0 +1,84 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 14.366
+Nombre comercial: ETIZOL TL
+Titular:
+NUFARM ESPAÑA, S.A.
+Balmes, 200 - 1º-4ª
+08006
+BARCELONA
+Fabricante:
+NUFARM ESPAÑA, S.A.
+Balmes, 200 - 1º-4ª
+08006
+BARCELONA
+Fecha de inscripción: 05/05/1979
+Fecha de caducidad: 30/06/2017
+Tipo de envase:
+Botella de polietileno de 1 l.
+Garrafas de polietileno de 5 y 25 l.
+Composición: AMITROL 24% + TIOCIANATO AMONICO 21% [SL] P/V
+Tipo de preparado: CONCENTRADO SOLUBLE [SL]
+Tipo de función: Herbicida
+Ámbitos de utilización: Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Avellano MALAS HIERBAS 4-6 l/ha #
+(2) Cítricos MALAS HIERBAS 4-6 l/ha #
+(3) Frutales de pepita MALAS HIERBAS 4-6 l/ha #
+(4) Olivo MALAS HIERBAS 4-6 l/ha #
+(5) Vid MALAS HIERBAS 4-6 l/ha #
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Controla malas hierbas anuales y vivaces en postemergencia. En caso de abundancia de gramíneas
+(ballico, avena loca) es recomendable utilizar preparados que incluyan otro herbicida de espectro
+complementario (p.e. glifosato)
+Aplicar en pulverización a baja presión dirigida hacia el suelo, con 250 l. de caldo/Ha.
+Dosificar atendiendo al estado de desarrollo de las malas hierbas, utilizando las dosis más bajas en
+los estados más precoces.
+No tratar plantaciones de menos de 4 años.
+No mojar las partes verdes del cultivo.
+P.S.: 15 días para la entrada de ganado.
+Específicos: (4) No tratar cuando exista aceituna caída.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Registro de Productos FitoSanitarios
+Nº Registro: 14.366
+Nombre comercial: ETIZOL TL
+- Los tratamientos pueden ser peligrosos para mamíferos herbívoros y aves:
+No tratar inmediatamente después de una lluvia o un riego, ni cuando haya rocío sobre las hierbas, ni con ambiente
+muy seco y temperaturas elevadas.
+- Los tratamientos pueden afectar a los artrópodos útiles:
+En caso de malas hierbas desarrolladas no tratar los bordes de la parcela.
+- Los tratamientos junto a cursos de agua pueden ser peligrosos para la fauna acuática:
+Respetar una banda de seguridad de 5 m. de distancia a los cursos de agua.
+- El grado de solubilidad del amitrol entraña un riesgo de contaminación de aguas subterráneas:
+No tratar cuando se prevean lluvias ni regar hasta pasados 7 días después del tratamiento.
+No utilizar en suelos arenosos.
+Mitigación de riesgos en la manipulación:
+El aplicador deberá usar protección respiratoria, guantes y ropa de protección durante las operaciones de dilución,
+carga del pulverizador y aplicación. Además para utilizar equipos de aplicación manual, deberá usar botas altas de
+goma.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Es obligatorio enjuagar enérgicamente tres veces, o mediante dispositivo de presión, cada envase de producto que se
+vacíe al preparar la dilución y verter las aguas al depósito del pulverizador.
+ Indicar en la etiqueta la obligación de entregar los envases vacíos a un gestor autorizado de residuos clasificados y
+peligrosos así como las opciones alternativas que el titular está obligado a ofrecer, conforme a lo establecido en el
+R.D. 1416/2001, de entregarlos directamente al sistema integrado de gestión al que esté adherido o al propio, de
+depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Nocivo, Peligroso para el medio ambiente, Tóxico para la reproducción cat. 3
+Símbolos y pictogramas: --
+Frases de riesgo: R32, R63, R48/22, R52/53
+Consejos de prudencia: S2, S13, S45, S36/37, S24/25, S23
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que "este producto no debe ser utilizado por
+mujeres embarazadas".
+La frase: 'A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO', en caracteres que resalten del
+texto. 
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

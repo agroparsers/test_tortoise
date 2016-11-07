@@ -1,0 +1,90 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.633
+Nombre comercial: BOTECTOR
+Titular:
+BIO-FERM GMBH
+Technologiezentrum Tulln, Technopark 1B
+3430
+TULLN
+AUSTRIA
+Fabricante:
+BIO-FERM GMBH
+Technologiezentrum Tulln, Technopark 1B
+3430
+TULLN
+AUSTRIA
+Fecha de inscripción: 18/07/2016
+Fecha de caducidad: 31/01/2024
+Tipo de envase:
+Saco de aluminio de 0,4-1,2 kg y garrafa de PEHD de 0,4-1,2 kg.
+Composición: AUREOBASIDIUM PULLULANS (CEPA DSM 14940) 50% (2,5 X 10E9 CFU/G) +
+AUREOBASIDIUM PULLULANS (CEPA DSM 14941) 50% (2,5 X 10E9 CFU/G) [WG] P/P
+Tipo de preparado: GRANULADO DISPERSABLE EN AGUA [WG]
+Tipo de función: Fungicida, Bactericida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Fresal BOTRITIS 0,7 Kg/ha NP
+(2) Tomate BOTRITIS 0,5 Kg/ha NP
+(3) Vid de mesa BOTRITIS 1 Kg/ha NP
+(4) Vid de vinificación BOTRITIS 1 Kg/ha NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Tratamiento fungicida en vid (aire libre) y en fresa y tomate (invernadero, aire libre y túnel) contra
+botrytis cynerea.
+Específicos: (1) Aire libre, invernadero y túnel. Volumen de caldo: 600-2000 l/ha. Máx 6 aplicaciones por
+campaña, mediante pulverización normal con tractor ó manual, en aplicación preventiva desde
+comienzo de la floración (10% de las flores abiertas) hasta segunda cosecha (más frutos con color).
+(2) Aire libre e invernadero. Volumen de caldo: 500-1000 l/ha. Máx 5 aplicaciones por campaña,
+mediante pulverización normal con tractor ó manual, en aplicación preventiva desde primera
+inflorescencia (primera flor abierta) hasta madurez completa (los frutos tienen el color típico de
+madurez).
+(3), (4) Aire libre. Volumen de caldo: 400-1000 l/ha. Máx 4 aplicaciones por campaña mediante
+pulverización normal con tractor ó manual, en aplicación preventiva desde alrededor de 80% de
+capuchones caídos (las bayas comienzan a tocarse) hasta ablandamiento de bayas (entre
+ablandamiento y bayas listas para recolectarse).
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.633
+Nombre comercial: BOTECTOR
+Spe3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m hasta las masas
+de agua superficial. 
+Mitigación de riesgos en la manipulación:
+Seguridad del aplicador y del trabajador:
+Para todos los cultivos autorizados, mediante pulverización con tractor y manual, durante la mezcla/carga, aplicación,
+limpieza y mantenimiento del equipo se deberán utilizar guantes y ropa de protección (según norma UNE-EN
+14126:2004; tipo 5-B en mezcla/carga y tipo 6-B en aplicación, manipulación y limpieza del equipo), además de
+protección respiratoria (mascarilla auto-filtrante  para partículas al menos de tipo FFP2 (según norma UNE-EN
+149:2001+A1:2010) o bien, mascarilla con filtro al menos tipo P2(según normas UNE-EN 143:2001, UNE-EN
+143/AC:2002, UNE-EN 143:2001/AC:2005, UNE-EN 143:2001/A1:2006).
+Durante la aplicación con tractor con cabina cerrada y dispositivo de filtrado de aire, se podrá prescindir del equipo de
+protección, siempre que se mantengan las ventanas cerradas. 
+Evítese el contacto con el follaje húmedo durante el tratamiento. 
+No tratar con este producto en caso de que se prevea la realización de labores mecánicas que puedan deteriorar los
+guantes de protección química.
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : --
+Símbolos y pictogramas: --
+Frases de riesgo: EUH 401
+Consejos de prudencia: P261, P280, P284, P302+P352, P304+P340, P411
+Otras indicaciones reglamentarias: Contiene Aureobasidium pullulans cepa DSM 14940 y cepa DSM 14941. Es
+sensibilizante por vía cutánea y potencialmente sensibilizante por vía inhalatoria.
+El preparado no se usará en combinación con otros productos.
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.

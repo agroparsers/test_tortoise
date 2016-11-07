@@ -1,0 +1,124 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.593
+Nombre comercial: ABOTRIL 500
+Titular:
+SHARDA CROPCHEM ESPAÑA S.L.
+Carril Condomina, 3- Edif. Atalayas Business Center. Planta 12.
+Murcia
+30006
+MURCIA
+Fabricante:
+MANICA, SPA
+ Via All´Adige, 4 - Borgo Sacco
+38068 Rovereto
+TRENTO
+ITALIA
+Fecha de inscripción: 16/11/2015
+Fecha de caducidad: 31/10/2017
+Tipo de envase:
+Botellas de COEX de 500 ml; botellas de polietileno HDPE de 100 ml, 250 ml y 1 L; garrafas de polietileno HDPE de 5 y
+10 L (diámetro de boca 63 mm); garrafa politainer de polietileno LDPE de 10 L (diámetro de boca 60 mm).
+Composición: IPRODIONA 50% ( ESPIV) [SC] P/V
+Tipo de preparado: SUSPENSION CONCENTRADA [SC]
+Tipo de función: Fungicida
+Ámbitos de utilización: Cultivos, Invernaderos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Albaricoquero MONILIA 0,15 % 3
+(2) Bulbos de ornamentales BOTRITIS 0,05-0,1 % NP
+(3) Bulbos de ornamentales RIZOCTONIA 0,05-0,1 % NP
+(4) Cerezo MONILIA 0,15 % 3
+(5) Ciruelo MONILIA 0,15 % 14
+(6) Fresal BOTRITIS 0,15 % 21
+(7) Hierbas aromáticas BOTRITIS 0,15 % 21
+(8) Hierbas aromáticas ESCLEROTINIA 0,15 % 21
+(9) Hierbas aromáticas RIZOCTONIA 0,15 % 21
+(10) Kiwi ALTERNARIA 0,1 % 15
+(11) Kiwi BOTRITIS 0,1 % 15
+(12) Kiwi ESCLEROTINIA 0,1 % 15
+(13) Lechugas y similares BOTRITIS 0,12-0,15 % 14-21
+(14) Lechugas y similares ESCLEROTINIA 0,12-0,15 % 14-21
+(15) Lechugas y similares RIZOCTONIA 0,12-0,15 % 14-21
+(16) Manzano ALTERNARIA 0,15 % 21
+(17) Melocotonero MONILIA 0,15 % 3
+Registro de Productos FitoSanitarios
+Nº Registro: 25.593
+Nombre comercial: ABOTRIL 500
+(18) Nectarino MONILIA 0,15 % 3
+(19) Peral STEMFILIUM 0,15 % 21
+(20) Vid BOTRITIS 0,15 % 15
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales :
+Específicos: (1), (17), (18) Aplicar máx de 1,5 L pf/ha para 1000 L/ha. Máx 2 aplicaciones por campaña con un
+intervalo de 20 días entre aplicaciones en pulverización manual o con tractor, solo en suelos con
+ph>6.  Aplicar desde que aparecen las primeras flores abiertas (BBCH 60-87) 
+(2), (3) Aplicar un máx. de 0.8 L pf/ha para un volumen de 600-800 L/ha. Máx 2 aplicaciones por
+campaña con un intervalo de 20 días entre aplicaciones en pulverización manual o  tractor, solo en
+suelos con ph<6.  
+(4), (5) Aplicar máx de 1,5 L pf/ha para 1000 L/ha. Máx 2 aplicaciones por campaña con un intervalo
+de 20 días, en pulverización manual o con tractor, solo en suelos con ph>6. Desde aparición del
+órgano floral hasta fin de floración (BBCH 51-69)  
+(6) Aplicar máx. de 1,5 L pf/ha en volumen de 1.000 L/ha. Máximo 2 aplicaciones por campaña con
+un intervalo de 20 días entre aplicaciones en pulverización manual (aire libre e invernadero) o con
+tractor (aire libre).
+(7), (8), (9) Aire libre: un max de 0,9 L pf/ha para un volumen de 800 L/ha. Máx 2 aplicaciones por
+campaña con un intervalo de 20 días entre aplicaciones, en pulverización manual o con tractor.
+(10), (11), (12) Aplicar max de 1,5 L pf/ha para un volumen de 1000 L. Una aplicación por campaña,
+en pulverización manual o con tractor y durante la floración y en suelos con ph>6.
+(13), (14), (15) Invernadero: dosis 0,12% y  máx. 0,96 L pf/ha. PS: 14 días. Aire libre: dosis 0,15% y
+máx. 0,9 L pf/ha. PS: 21 días. V=800 L/ha. Máx 2 aplic/campaña con intervalo 20 días, pulverización
+manual. Tratar desde 2-3 hojas.
+(16), (19) Aplicar un máx de 1,5 L pf/ha para un volumen de 1000 L. Máx 2 aplicaciones por
+campaña con un intervalo de 20 días entre aplicaciones en pulverización manual o  tractor, solo en
+suelos con ph>6.  Desde la aparición de las primeras flores (BBCH 60-85)
+(20) Aplicar máx. de 1,5 L pf/ha en volumen de 1.000 L/ha. Máx. 2 aplicaciones/campaña con 20
+días entre ellas; no aplicar en suelos arenosos, ni pedregosos, ni con drenaje, ni ácidos (pH<6).
+Aplicar desde  cuajado de frutos hasta recolección (BBCH 71-89)
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SP3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad hasta las masas de agua
+superficial de:
+- 20 m con cubierta vegetal en manzano, peral, cerezo, ciruelo, melocotonero, nectarino, albaricoquero y kiwi.
+- 10 m con cubierta vegetal en vid, lechuga y similares, hierbas frescas y aromáticas y fresas. 
+- 5 m en flores y ornamentales, bulbos de flores.
+Mitigación de riesgos en la manipulación:
+Seguridad del aplicador:
+Para todos los usos autorizados durante la mezcla/carga, aplicación, limpieza y mantenimiento del equipo se deberán
+utilizar guantes de protección química. 
+Durante la aplicación con tractor con cabina cerrada y dispositivo de filtrado de aire, se podrá prescindir del equipo de
+protección, siempre que se mantengan las ventanas cerradas. 
+No entrar al cultivo hasta que el producto este seco. 
+SPo 2: Lávese toda la ropa de protección después de usarla. 
+SPo 4: El recipiente debe abrirse al aire libre y en tiempo seco.
+SPo 5: Ventilar los invernaderos tratados hasta que se haya secado la pulverización antes de volver a entrar.
+Restricciones por clases de usuarios:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.593
+Nombre comercial: ABOTRIL 500
+Uso profesional en lugares no destinados al público en general.
+No autorizado para parques y jardines ni para uso profesional en lugares destinados al público en general, en
+cumplimiento con el artículo 49.4 del Real Decreto 1311/2012 de 14 de septiembre por el que se establece el marco de
+actuación para conseguir un uso sostenible de productos fitosanitarios. 
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Sensibilizantes cutáneos. Categoría 1., Carcinogenicidad.
+Categoría 2.
+Símbolos y pictogramas: 0
+Frases de riesgo: H317, H351, H410, EUH 401
+Consejos de prudencia: P261, P273, P280, P391, P302+P352, P501, P201+P202
+Otras indicaciones reglamentarias: Contiene 2,2',2''-(hexahydro-1,3,5-triazine-1,3,5-tryl)triethanol (CAS 4719-04-4).
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.

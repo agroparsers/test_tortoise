@@ -1,0 +1,90 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 24.443
+Nombre comercial: CHORUS
+Titular:
+SYNGENTA ESPAÑA S.A.
+C/ Ribera del Loira, 8-10 - 3º Planta
+28042
+MADRID
+Fabricante:
+SYNGENTA CROP PROTECTION AG
+Schwarzwaldallee 215 P.O. Box
+CH-4002
+BASILEA
+SUIZA
+Fecha de inscripción: 21/02/2007
+Fecha de caducidad: 30/04/2018
+Tipo de envase:
+Cajas de cartón con bolsa interior de aluminio y polietileno o de  polietileno y EVOH de 300 g, 1 kg y 5 kg.
+Envases HDPE desde 50 g a 5 kg
+Composición: CIPRODINIL 50% [WG] P/P
+Tipo de preparado: GRANULADO DISPERSABLE EN AGUA [WG]
+Tipo de función: Fungicida
+Ámbitos de utilización: Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Albaricoquero MONILIA 0,3-0,75 Kg/ha 7
+(2) Cerezo MONILIA 0,3-0,75 Kg/ha 7
+(3) Ciruelo MONILIA 0,3-0,75 Kg/ha 7
+(4) Manzano MOTEADO 0,3-0,75 Kg/ha 21
+(5) Melocotonero MONILIA 0,3-0,75 Kg/ha 7
+(6) Nectarino MONILIA 0,3-0,75 Kg/ha 7
+(7) Peral MOTEADO 0,3-0,75 Kg/ha 21
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar en pulverización foliar, comenzando los tratamientos cuando se den las condiciones para el
+desarrollo de la enfermedad.
+En la etiqueta se darán las indicaciones oportunas para su correcto uso y se informará de la
+posibilidad de que se produzcan problemas de resistencias y se establcerá una estrategia de
+prevención y manejo de las mismas.
+SPa 1: Para evitar la aparición de resistencias, no aplicar este producto ni ningún otro que contenga
+ciprodinil más de 2 veces al año.
+Específicos: (1), (2), (3), (5), (6) Efectuar un máximo de 2 aplicaciones desde la apertura de las yemas hasta la
+madurez del fruto, en un volumen de caldo entre 1.000-1.500 l/ha.
+(4), (7) Efectuar un máximo de 2 aplicaciones desde el estadio oreja de ratón hasta el cuajado, en
+un volumen de caldo entre 1.000-1.500 l/ha.
+Registro de Productos FitoSanitarios
+Nº Registro: 24.443
+Nombre comercial: CHORUS
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe3: Para proteger los organismos acuáticos respétese sin tratar una banda de seguridad de 50 m en manzano y
+peral en estadios tempranos (BBCH < 40) y 20 m para manzano y peral en estadios tardíos (BBCH > 40) y para el
+resto de cultivos hasta las masas de agua superficial.
+SPe 3: Para proteger los artrópodos no objetivo, respétese sin tratar una banda de seguridad de 5 m hasta la zona no
+cultivada.
+Mitigación de riesgos en la manipulación:
+Aplicador:
+Para la aplicación y limpieza y mantenimiento del equipo, deben utilizarse guantes de protección química, ropa de
+protección química tipo 3 o 4 (de acuerdo a UNE-EN14605: 2005+A1:2009), y calzado adecuado. Para la
+mezcla/carga deben utilizarse guantes de protección química.
+Durante la aplicación con tractor con cabina cerrada y dispositivo de filtrado de aire, se podrá prescindir del equipo de
+protección, siempre que se mantengan las ventanas cerradas. 
+No entrar al cultivo hasta que el producto esté seco.
+Trabajador:
+Para la re-entrada en la parcela tratada, deben utilizarse guantes de protección química para tareas de más de 2horas
+de duración.
+No tratar con este producto en aquellas labores que impliquen actividades mecánicas que puedan derivar en un
+deterioro de los guantes de protección química del trabajador durante la re-entrada de éste a la parcela.
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Acuático crónico 1, Acuático agudo 1
+Símbolos y pictogramas: --
+Frases de riesgo: H410, EUH 401
+Consejos de prudencia: P261, P262, P273, P391, P501
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene ciprodinil, puede provocar una
+reacción alérgica".  
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+Puede solicitarse la ficha de datos de seguridad.

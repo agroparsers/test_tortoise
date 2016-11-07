@@ -1,0 +1,88 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.148
+Nombre comercial: BROMOGAN
+Titular:
+ADAMA AGRICULTURE ESPAÑA S.A.
+C/ Méndez Álvaro nº 20, 5ª Planta
+28045
+MADRID
+Fabricante:
+ADAMA AGRICULTURE ESPAÑA S.A.
+C/ Méndez Álvaro nº 20, 5ª Planta
+28045
+MADRID
+Fecha de inscripción: 11/06/2013
+Fecha de caducidad: 31/07/2017
+Tipo de envase:
+Garrafa PET de 5 l. (boca de 63 mm). 
+Bidón de PET de 200 l. Se utilizará en condiciones de trasvase cerrado (utilizando una bomba automática que vierta
+directamente del bidón al tanque de aplicación). 
+Composición: BROMOXINIL 22,5% (ESTER OCTANÓICO) [EC] P/V
+Tipo de preparado: CONCENTRADO EMULSIONABLE [EC]
+Tipo de función: Herbicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Avena DICOTILEDONEAS 1-1,5 l/ha NP
+(2) Cebada DICOTILEDONEAS 1-1,5 l/ha NP
+(3) Centeno DICOTILEDONEAS 1-1,5 l/ha NP
+(4) Maíz DICOTILEDONEAS 1-2 l/ha NP
+(5) Trigo DICOTILEDONEAS 1-1,5 l/ha NP
+(6) Triticale DICOTILEDONEAS 1-1,5 l/ha NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Controla malas hierbas en postemergencia precoz.
+Aplicar en pulverización de baja presión.
+La aplicación deberá efectuarse antes de que el cereal cubra la adventicias.
+En la etiqueta se darán las instrucciones oportunas para el correcto uso del producto, así como las
+advertencias necesarias para que el agricultor pueda cerciorarse de los riesgos de su utilización por
+fitotoxicidad en variedades sensibles del propio cultivo, en los cultivos adyacentes o en los
+siguientes en la alternativa.
+Específicos: (1), (2), (3), (5), (6) Aplicar a partir del estado de 3 hojas del cultivo.
+(4) Aplicar en postemergencia del cultivo: desde el estado de 2-4 hojas hasta 6-8 hojas.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.148
+Nombre comercial: BROMOGAN
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m. hasta las masas
+de agua superficial. 
+SPe 3: Para proteger las plantas no objetivo, respétese sin tratar una banda de seguridad de 5 m. hasta la zona no
+cultivada.  
+SPe 8: Para proteger las abejas y otros insectos polinizadores, no aplicar durante la floración de los cultivos. No
+aplicar cuando las malas hierbas estén en floración.
+Mitigación de riesgos en la manipulación:
+El aplicador debe utilizar guantes de protección química adecuados y mascarilla autofiltrante de tipo FFP3 durante la
+mezcla/carga, aplicación y limpieza del equipo, así como ropa de protección química de tipo 3 ó 4 (hermética a
+productos líquidos) para el tronco y las piernas.
+No entrar al cultivo hasta que el producto esté seco.
+Por motivos de seguridad, no complementar la utilización del producto con escarda manual en maíz. 
+SPo 2: Lávese toda la ropa de protección después de usarla.
+SPo 4: El recipiente debe abrirse al aire libre y en tiempo seco.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Es obligatorio enjuagar enérgicamente tres veces, o mediante dispositivo de presión, cada envase de producto que se
+vacíe al preparar la dilución y verter las aguas al depósito del pulverizador.
+Indicar en la etiqueta la obligación de entregar los envases vacíos o residuos de envases, conforme a lo establecido
+en el R.D. 1416/2001, de 14 de diciembre, sobre envases de productos fitosanitarios: bien en los puntos de recogida
+establecidos por los sistemas colectivos de responsabilidad ampliada o directamente en el punto de venta donde se
+hubiera adquirido si dichos envases se han puesto en el mercado a través de un sistema de depósito, devolución y
+retorno. Posteriormente los residuos de envases se gestionarán por gestores autorizados de residuos conforme a lo
+que establece el citado Real Decreto.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Nocivo, Peligroso para el medio ambiente, Tóxico para la reproducción cat. 3
+Símbolos y pictogramas: --
+Frases de riesgo: R20/22, R36/38, R63, R50/53, R65
+Consejos de prudencia: S2, S13, S45, S36/37, S25, S62, S23
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene nafta disolvente del petróleo, nº CAS:
+64742-94-5" y que contiene bromoxinil octanoato. Puede provocar una reacción
+alérgica.
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.  
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

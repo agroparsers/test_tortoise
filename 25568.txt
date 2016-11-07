@@ -1,0 +1,93 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.568
+Nombre comercial: BOFIX
+Titular:
+DOW AGROSCIENCES IBERICA, S.A.
+C/ Ribera del Loira 4-6, Edificio Iris, 4ª Planta
+28042
+MADRID
+Fabricante:
+DOW AGROSCIENCES S.A.S.(MOUGINS)
+Marco Polo-Bâtiment B, ZAC Du Font de l`Orme 1 - BP 1220
+06254 790 Avenue du Docteur Donat
+MOUGINS CEDEX
+FRANCIA
+Fecha de inscripción: 25/10/2011
+Fecha de caducidad: 31/12/2018
+Tipo de envase:
+Botellas de plástico de 0,25, 0,5, 1, 2 y 3 l.
+Garrafas de plástico de 5 y 10 l.
+Composición: CLOPIRALIDA 2% (SAL MONOETANOLAMINA) + FLUROXIPIR 4% (ESTER METILHEPTIL) +
+MCPA 20% (SAL POTÁSICA) [EW] P/V
+Tipo de preparado: EMULSION DE ACEITE EN AGUA [EW]
+Tipo de función: Herbicida
+Ámbitos de utilización: Cultivos, Praderas, Pastizales
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Cereales CARDOS 4 l/ha NP
+(2) Cereales DICOTILEDONEAS ANUALES 4 l/ha NP
+(3) Pastizales MALAS HIERBAS 4 l/ha 28
+(4) Praderas MALAS HIERBAS 4 l/ha 28
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Controla malas hierbas em postemergencia
+En cereales, aplicar en pulverización foliar con un volumen de caldo de 200-400 l/Ha. desde la mitad
+del ahijamiento contra dicotiledóneas y del final del mismo contra cardos hasta la formación del
+segundo nudo en ambos casos.
+En la etiqueta se indicarán las advertencias relativas a los riesgos de utilización del producto por su
+fitotoxicidad para el propio cultivo, cultivos adyacentes y/o próximos en la alternativa, así como las
+instrucciones oportunas para su correcta aplicación, con indicación detallada de la dosis en función
+de las especies de malas hierbas a controlar y su estado de desarrollo. 
+Se observarán las normas oficiales para almacenamiento y aplicación de herbicidas hormonales
+(O.M. de 8-10-73, BOE del 17-10-73).
+Específicos: (1), (2) La dosis será de 3 l/Ha. en cereales de primavera.
+(3), (4) Praderas jóvenes: Dosis: 4 l/ha. 1 aplicación cada 2 años de marzo a junio. Praderas
+establecidas: Dosis: 4 l/ha. 1 aplicación cada año de marzo a junio. Praderas establecidas: Dosis: 3
+l/ha. 1 aplicación cada tres años en septiembre.
+Registro de Productos FitoSanitarios
+Nº Registro: 25.568
+Nombre comercial: BOFIX
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 1: Para proteger los organismos del suelo, no aplicar este producto ni ningún otro que contenga fluroxipir más de
+1 vez cada 2 años en praderas jóvenes.
+SPe 1: Para proteger las aguas subterráneas, no aplicar este producto ni ningún otro que contenga clopiralida:
+- Más de 1 vez cada 2 años sobre CEREALES DE INVIERNO.
+- más de 1 vez cada dos años en PRADERAS JOVENES (aplicación en primavera).
+- más de 1 vez cada tres años en PRADERAS ESTABLECIDAS (aplicación en otoño).
+SPe3: Para proteger las plantas no objetivo, respétese sin tratar una banda de seguridad de 5 m hasta la zona
+cultivada.
+SPe3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m hasta las masas
+de agua superficial.
+Mitigación de riesgos en la manipulación:
+Seguridad del aplicador:
+En los usos autorizados, mediante aplicación normal con tractor, durante la mezcla-carga, aplicación, limpieza y
+mantenimiento del equipo se deberán utilizar guantes y ropa de protección química (tipo 3 ó 4 de acuerdo a norma
+UNE-EN14605:2005 + A1:2009) además de protección respiratoria tipo FFP2.
+Restricciones por clases de usuarios:
+Uso profesional
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno. Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el
+agua de lavado al depósito (del pulverizador).
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Irritación ocular. Categoría 2., Sensibilizantes cutáneos.
+Categoría 1 B.
+Símbolos y pictogramas: --
+Frases de riesgo: H317, H319, H410, EUH 066, EUH 401
+Consejos de prudencia: P261, P273, P280, P391, P302+P352, P305+P351+P338, P501
+Otras indicaciones reglamentarias: Otros componentes además del ingrediente activo técnico:
+1,2-Benzisotiazol-3-(2H)-ona (nº CAS 2634-33-5).
+La Nafta disolvente del petróleo con nº CAS 64742-94-5 debe tener un contenido
+en naftaleno menor de 1%.
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.

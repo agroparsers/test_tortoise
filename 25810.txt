@@ -1,0 +1,87 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.810
+Nombre comercial: CALLISTO 100 SC
+Titular:
+SYNGENTA ESPAÑA S.A.
+C/ Ribera del Loira, 8-10 - 3º Planta
+28042
+MADRID
+Fabricante:
+SYNGENTA CROP PROTECTION AG
+Schwarzwaldallee 215 P.O. Box
+CH-4002
+BASILEA
+SUIZA
+Fecha de inscripción: 31/08/2016
+Fecha de caducidad: 31/07/2017
+Tipo de envase:
+Envases de 5 L.
+Composición: MESOTRIONA 10% ( ESP) [SC] P/V
+Tipo de preparado: SUSPENSION CONCENTRADA [SC]
+Tipo de función: Herbicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Adormidera MALAS HIERBAS 0,3 l/ha NP
+(2) Caña de azúcar MALAS HIERBAS 1-1,5 l/ha 150
+(3) Colza MALAS HIERBAS 0,15 l/ha NP
+(4) Lino MALAS HIERBAS 1,5 l/ha NP
+(5) Maíz MALAS HIERBAS 0,75-1,5 l/ha 60
+(6) Maíz dulce MALAS HIERBAS 0,75 l/ha 42
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Tratamiento herbicida de post y pre-emergencia.
+Específicos: (1) Volumen de caldo mínimo: 200 l/ha. Una aplicación cada dos años en pre-emergencia y
+post-emergencia (hasta cultivo con 6 hojas desplegadas) y mediante pulverización normal con
+tractor.
+(2), (5), (6) Volumen de caldo mínimo: 200 l/ha. Una aplicación al año en post-emergencia y
+mediante pulverización normal con tractor.
+(3) Volumen de caldo mínimo: 200 l/ha. Máximo 2 aplicaciones al año en post-emergencia (cultivo
+de 6 a 9 hojas desplegadas) y mediante pulverización normal con tractor y con un intervalo de 2-3
+semanas entre aplicaciones. 
+(4) Lino textil. Volumen de caldo mínimo: 200 l/ha. Una aplicación al año en pre-emergencia y
+mediante pulverización normal con tractor.
+Registro de Productos FitoSanitarios
+Nº Registro: 25.810
+Nombre comercial: CALLISTO 100 SC
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m hasta las masas
+de agua superficial.
+SPe3: Para proteger los artrópodos y las plantas no objetivo, respétese  sin tratar una banda de seguridad de 5 m
+hasta la zona no cultivada.
+Mitigación de riesgos en la manipulación:
+Seguridad del aplicador:
+Para todos los usos autorizados, mediante pulverización normal con tractor, durante la mezcla/carga, limpieza y
+mantenimiento del equipo se deberá utilizar guantes de protección química como mínima medida de protección
+individual y ropa de trabajo, y durante la aplicación se deberá utilizar ropa de trabajo. 
+Se entiende como ropa de trabajo: manga larga, pantalón largo y calzado adecuado. 
+Seguridad del trabajador:
+Para todos los usos autorizados se utilizara ropa de trabajo.
+No entrar al cultivo hasta que el producto este seco. 
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno. Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el
+agua de lavado al depósito (del pulverizador).
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Irritación ocular. Categoría 2., Acuático agudo 1
+Símbolos y pictogramas: GHS07,GHS09
+Frases de riesgo: H319, H410, EUH 401
+Consejos de prudencia: P261, P273, P280, P391, P305+P351+P338, P501
+Otras indicaciones reglamentarias: La evaluación toxicológica se ha realizado sobre este formulado sin tener en
+cuenta la mezcla con un herbicida complementario, por lo que se desconocen los
+efectos para la salud a dicha mezcla. 
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.

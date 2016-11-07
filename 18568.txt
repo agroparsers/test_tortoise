@@ -1,0 +1,68 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 18.568
+Nombre comercial: MONDAS
+Titular:
+AZUFRERA Y FERTILIZANTES PALLARES, S.A
+Av.Europa, 1-7  Polg. Ind. Constantí
+CONSTANTI
+43120
+TARRAGONA
+Fabricante:
+AZUFRERA Y FERTILIZANTES PALLARES, S.A
+Av.Europa, 1-7  Polg. Ind. Constantí
+43120 CONSTANTI
+TARRAGONA
+Fecha de inscripción: 08/01/1990
+Fecha de caducidad: 30/06/2017
+Tipo de envase:
+Composición: AZUFRE 80% + CIPROCONAZOL 0,8% [WG] P/P
+Tipo de preparado: GRANULADO DISPERSABLE EN AGUA [WG]
+Tipo de función: Acaricida, Fungicida
+Ámbitos de utilización: Cultivos, Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Calabacín OIDIO 0,1-0,2 % 5
+(2) Frutales de hueso MONILIA 0,1-0,2 % 14
+(3) Frutales de hueso MOTEADO 0,1-0,2 % 14
+(4) Frutales de hueso OIDIO 0,1-0,2 % 14
+(5) Frutales de pepita MONILIA 0,1-0,2 % 14
+(6) Frutales de pepita MOTEADO 0,1-0,2 % 14
+(7) Frutales de pepita OIDIO 0,1-0,2 % 14
+(8) Pepino OIDIO 0,1-0,2 % 5
+(9) Pimiento OIDIOPSIS 0,1-0,2 % 5
+(10) Tomate OIDIOPSIS 0,1-0,2 % 5
+(11) Vid OIDIO 0,1-0,2 % 28
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar en pulverización normal, variando la dosis según la frecuencia de las aplicaciones, de la
+intensidad de ataque y del estado de desarrollo de la enfermedad.
+No mezclar con aceites ni productos de reacción alcalina, ni efectuar tratamientos a temperaturas
+demasiado elevadas.
+No efectuar tratamientos con aceites minerales durante los 21 días anteriores o posteriores.
+Específicos: (2), (3), (4), (5), (6), (7) Acción frenante de araña roja.
+Registro de Productos FitoSanitarios
+Nº Registro: 18.568
+Nombre comercial: MONDAS
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Mamíferos: A
+Aves: A
+Peces: A
+Abejas: Relativamente poco peligroso para abejas
+Para protección de las abejas, tratar en las horas en que no estén presentes (atardecer y amanecer).
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Peligroso para el medio ambiente
+Símbolos y pictogramas: --
+Frases de riesgo: R52/53
+Consejos de prudencia: S2, S13, S45, S24/25
+Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten del
+texto.
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

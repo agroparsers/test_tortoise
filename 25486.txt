@@ -1,0 +1,88 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.486
+Nombre comercial: NEOSTOP 500 L HN
+Titular:
+ARYSTA LIFESCIENCE BENELUX SPRL
+Rue de Renory, 26/1.
+Ougrée (Seraing)
+B-4102
+LIEGE
+BELGICA
+Fabricante:
+ARYSTA LIFESCIENCE BENELUX SPRL
+Rue de Renory, 26/1.
+B-4102 Ougrée (Seraing)
+LIEGE
+BELGICA
+Fecha de inscripción: 24/03/2011
+Fecha de caducidad: 31/07/2017
+Tipo de envase:
+Garrafa de polietileno (HDPE) de 5, 10 y 20 l.
+Composición: CLORPROFAM 50% [HN] P/V
+Tipo de preparado: CONCENTRADO PARA NEBULIZACION EN CALIENTE [HN]
+Tipo de función: Herbicida
+Ámbitos de utilización: Productos Recolectados
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Patatas de consumo EVITAR BROTACIÓN (ver nota) NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar por termonebulización con un máximo de 72 ml/Tm. de patatas, distribuidos en varias
+aplicaciones.
+Realizar la 1ª aplicación a las 2-3 semanas de la entrada en almacén, si las patatas fuesen tratadas
+al inicio del almacenamiento con otro producto a base de CIPC, las siguientes aplicaciones deberán
+adaptarse de forma que la dosis total no exceda de 36 g, de clorprofam/Tm.
+La secuencia de tratamientos puede variar según un calendario de aplicaciones que puede ser
+diaria, semanal o mensual.
+Si efectuamos la aplicación diaria, los primeros 28 días se tratará con una dosis máxima de 0,6
+ml/Tm/día, posteriormente 0,3 ml/Tm/día hasta el final del almacenamiento. Si la secuencia es
+semanal, realizar la 1ª aplicación con una dosis máxima de 4 ml/Tm para seguir hasta el final del
+almacenamiento a razón de 2 ml/Tm por semana, si la aplicación se realiza mensualmente, efectuar
+el 1º tratamiento con 12-24 ml/Tm. para seguir a intervalos de 1-2 meses con dosis de 10-16 ml/Tm.
+dependiendo de la variedad, temperatura de almacenamiento, presión de brotación etc., hasta un
+máximo de 7 aplicaciones.
+Se supervisará siempre la operación manteniendo una constante atención al equipo y evitando que
+las partes calientes de la máquina entren en contacto con materiales inflamables.
+En la etiqueta se darán las instrucciones necesarias para el correcto uso del producto y la
+realización de los tratamientos.
+Condicionamientos preventivos de riesgos:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.486
+Nombre comercial: NEOSTOP 500 L HN
+Mitigación de riesgos en la manipulación:
+En patata mediante termonebulización tanto el aplicador como el trabajador, durante la mezcla/carga  deberán utilizar
+guantes de protección química.
+En reentrada se deberá mantener el almacén cerrado durante 24 horas y seguidamente conectar nuevamente la
+ventilación exterior. Mientras tanto la ventilación interior puede conectarse para evitar la acumulación de CO2.
+Se recomienda renovar el aire del almacén antes del tratamiento para eliminar el CO2 presente en el interior del
+mismo. Las puertas externas y las aperturas de ventilación del almacén de patatas deben cerrarse durante el
+tratamiento. Después del tratamiento, mantener la ventilación interior en marcha hasta que haya desaparecido la
+nebulización.
+Interrumpir la entrada de producto antes de parar la máquina. Se recomienda instalar un sistema automático de
+interrupción de entrada de producto para prevenir paradas inesperadas del motor, ya que debido a la falta de flujo de
+aire, el producto puede empezar a arder si entra en contacto con piezas calientes.
+SPo 2: Lávese toda la ropa de protección después de usarla. 
+SPo 5: Ventilar los almacenes tratados hasta que se haya secado la pulverización antes de volver a entrar.
+Restricciones por clases de usuarios:
+El producto se utilizará exclusivamente en centrales y almacenes de patatas acondicionados para tratamientos por
+termonebulización.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Nocivo, Carcinogénico cat. 3, Peligroso para el medio ambiente, Acuático crónico 2
+Símbolos y pictogramas: --
+Frases de riesgo: R40, R48/22, R51/53, H411, EUH 401
+Consejos de prudencia: S2, S13, S45, S36/37, S21, S25, S46, S23, P273, P391, P501
+Otras indicaciones reglamentarias: SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.

@@ -1,0 +1,157 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.381
+Nombre comercial: CYTHRIN MAX
+Titular:
+ARYSTA LIFESCIENCE BENELUX SPRL
+Rue de Renory, 26/1.
+Ougrée (Seraing)
+B-4102
+LIEGE
+BELGICA
+Fabricante:
+ARYSTA LIFESCIENCE BENELUX SPRL
+Rue de Renory, 26/1.
+B-4102 Ougrée (Seraing)
+LIEGE
+BELGICA
+Fecha de inscripción: 24/03/2015
+Fecha de caducidad: 31/10/2017
+Tipo de envase:
+Botellas de polietileno de 100, 250, 500 ml. y 1 l.
+Garrafas de polietileno de 5, 10 y 20 l.
+Composición: CIPERMETRIN 50% [EC] P/V
+Tipo de preparado: CONCENTRADO EMULSIONABLE [EC]
+Tipo de función: Insecticida
+Ámbitos de utilización: Cultivos, Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Alcachofa ORUGAS 0,1 l/ha 3
+(2) Alcachofa PULGONES 0,1 l/ha 3
+(3) Alfalfa CUCA 0,1 l/ha 7
+(4) Alfalfa ORUGAS 0,1 l/ha 7
+(5) Alfalfa PULGONES 0,1 l/ha 7
+(6) Alfalfa TRIPS 0,1 l/ha 7
+(7) Algodonero MOSCA BLANCA 0,1 l/ha 21
+(8) Algodonero ORUGAS 0,1 l/ha 21
+(9) Algodonero PULGONES 0,1 l/ha 21
+(10) Algodonero TRIPS 0,1 l/ha 21
+(11) Arbustos ornamentales CHINCHES 0,01-0,02 % NP
+(12) Arbustos ornamentales COCHINILLAS 0,01-0,02 % NP
+(13) Arbustos ornamentales MOSCA BLANCA 0,01-0,02 % NP
+(14) Arbustos ornamentales ORUGAS 0,01-0,02 % NP
+(15) Arbustos ornamentales PULGONES 0,01-0,02 % NP
+(16) Arbustos ornamentales TRIPS 0,01-0,02 % NP
+(17) Cereales LEMA 0,05 l/ha 28
+Registro de Productos FitoSanitarios
+Nº Registro: 25.381
+Nombre comercial: CYTHRIN MAX
+(18) Cereales PULGONES 0,05 l/ha 28
+(19) Chopos PULGONES 0,01 % NP
+(20) Chopos SAPERDA 0,01 % NP
+(21) Colza ALTICA 0,05 l/ha 21
+(22) Colza GORGOJOS 0,05 l/ha 21
+(23) Colza MELIGUETES 0,05 l/ha 21
+(24) Espárrago CRIOCERO 0,1 l/ha NP
+(25) Hortalizas del género brassica MOSCA BLANCA 0,1 l/ha 3
+(26) Hortalizas del género brassica ORUGAS 0,1 l/ha 3
+(27) Hortalizas del género brassica PULGONES 0,1 l/ha 3
+(28) Hortícolas MOSCA BLANCA 0,1 l/ha 3
+(29) Hortícolas MOSQUITO VERDE 0,1 l/ha 3
+(30) Hortícolas ORUGAS 0,1 l/ha 3
+(31) Hortícolas PULGONES 0,1 l/ha 3
+(32) Hortícolas TRIPS 0,1 l/ha 3
+(33) Leguminosas GORGOJOS 0,1 l/ha 3
+(34) Leguminosas ORUGAS 0,1 l/ha 3
+(35) Leguminosas PULGONES 0,1 l/ha 3
+(36) Leguminosas TRIPS 0,1 l/ha 3
+(37) Maíz DIABROTICA 0,15 l/ha 21
+(38) Maíz ORUGAS 0,15 l/ha 21
+(39) Ornamentales herbáceas CHINCHES 0,01-0,02 % NP
+(40) Ornamentales herbáceas COCHINILLAS 0,01-0,02 % NP
+(41) Ornamentales herbáceas MOSCA BLANCA 0,01-0,02 % NP
+(42) Ornamentales herbáceas ORUGAS 0,01-0,02 % NP
+(43) Ornamentales herbáceas PULGONES 0,01-0,02 % NP
+(44) Ornamentales herbáceas TRIPS 0,01-0,02 % NP
+(45) Patata ESCARABAJO 0,08-0,1 l/ha 3
+(46) Patata PULGONES 0,08-0,1 l/ha 3
+(47) Patata PULGUILLA 0,08-0,1 l/ha 3
+(48) Remolacha CASIDA 0,1 l/ha 14
+(49) Remolacha ORUGAS 0,1 l/ha 14
+(50) Remolacha PULGONES 0,1 l/ha 14
+(51) Remolacha PULGUILLAS 0,1 l/ha 14
+(52) Tabaco MOSCA BLANCA 0,1 l/ha 14
+(53) Tabaco ORUGAS 0,1 l/ha 14
+(54) Tabaco PULGONES 0,1 l/ha 14
+(55) Tabaco TRIPS 0,1 l/ha 14
+(56) Vid CIGARRERO 0,06 l/ha 21
+(57) Vid COCHINILLAS 0,06 l/ha 21
+Registro de Productos FitoSanitarios
+Nº Registro: 25.381
+Nombre comercial: CYTHRIN MAX
+(58) Vid MOSQUITO VERDE 0,06 l/ha 21
+(59) Vid PIRAL 0,06 l/ha 21
+(60) Vid POLILLAS DEL RACIMO 0,06 l/ha 21
+P.S.: Plazo de seguridad (días)
+Excepciones: (25), (26), (27) P.S.: Brassica rapa, 14 días
+(28), (29), (30), (31), (32) Excepto hortícolas de hojas.
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar en pulverización normal solo en cultivos al aire libre.
+Específicos: (1), (2), (7), (8), (9), (10), (48), (49), (50), (51) Efectuar hasta 2 aplicaciones con un intervalo de 10
+días y un volumen de caldo de  300-1.000 l/Ha.
+(3), (4), (5), (6) Efectuar hasta 2 aplicaciones con un intervalo de 10 días y un volumen de caldo de
+150-1.000 l/Ha.
+(11), (12), (13), (14), (15), (16), (19), (20), (25), (26), (27), (39), (40), (41), (42), (43), (44) Efectuar
+hasta 2 aplicaciones con un intervalo de 10 días y un volumen de caldo de  500-1.000 l/Ha.
+(17), (18), (21), (22), (23) Efectuar hasta 2 aplicaciones con un intervalo de 14 días y un volumen de
+caldo de  150-600 l/Ha.
+(24) Efectuar hasta 2 aplicaciones en postcosecha, con un intervalo de 10 días y un volumen de
+caldo de  200-1.000 l/Ha.
+(28), (29), (30), (31), (32), (33), (34), (35), (36), (45), (46), (47) Efectuar hasta 2 aplicaciones con un
+intervalo de 10 días y un volumen de caldo de  400-1.000 l/Ha.
+(37), (38) Efectuar hasta 2 aplicaciones con un intervalo de 10 días, hasta el final de la floración  con
+un volumen de caldo de 150-1.000 l/Ha..
+(52), (53), (54), (55) Efectuar hasta 2 aplicaciones con un intervalo de 10 días y un volumen de caldo
+de  500-1.500 l/Ha.
+(56), (57), (58), (59), (60) Efectuar 1 aplicación un volumen de caldo de  200-1.500 l/Ha.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m. en cereales,
+colza, algodón y mostaza, 10 m. (5 con boquilla de reducción de deriva del 50%) en alfalfa, leguminosas, patata,
+remolacha, tabaco, hortícolas, alcachofa y ornamentales de altura superior a 50 cm.), 15 m. (5 con boquillas
+reductoras de deriva del 50%) en maíz, 30 m.(5 con boquillas reductoras de deriva del 50%) en vid, 30 m. (20 con
+boquillas reductoras de deriva del 50%) en olivo, 30 m. en chopos hasta las masas de agua superficial. 
+SPe 8: Para proteger las abejas y otros insectos polinizadores, no aplicar durante la floración de los cultivos. No
+utilizar donde haya abejas en pecoreo activo.
+Mitigación de riesgos en la manipulación:
+El aplicador deberá utilizar guantes de protección química durante la mezcla/carga, aplicación, mantenimiento,
+limpieza del equipo y reentrada a la parcela, en la aplicación (si el tractor carece de cabina cerrada y limpieza del
+equipo se utilizará ropa de protección química, tipo 3 o 4 y calzado adecuado. Si fuese necesario manipular los tubos
+de riego se utilizarán botas (de caucho o poliméricas), ropa y guantes de protección química adecuados.
+Evítese el contacto con el follaje húmedo.  
+SPo 4: El recipiente debe abrirse al aire libre y en tiempo seco. SPo 2: Lávese toda la ropa de protección después de
+usarla.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Registro de Productos FitoSanitarios
+Nº Registro: 25.381
+Nombre comercial: CYTHRIN MAX
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Líquidos inflamables. Categoría 3., Toxicidad aguda (oral,
+cutánea, por inhalación). Categoría 4., Lesión ocular grave. Categoría 1., Irritación
+cutánea. Categoría 2., Sensibilizantes cutáneos. Categoría 1., Tóxicos específicos en
+determinados órganos tras una exposición única. Categoría 3., Peligro por aspiración.
+Categoría 1., Peligro, Acuático agudo 1
+Símbolos y pictogramas: --
+Frases de riesgo: H226, H302, H304, H315, H317, H318, H332, H335, H336, EUH 401
+Consejos de prudencia: P210, P261, P273, P280, P391, P301+P330+P331, P304+P340, P305+P351+P338,
+P370+P378, P403+P233, P403+P235, P501
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene nafta disolvente del petróleo, nº CAS:
+64742-95-6".

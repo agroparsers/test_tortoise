@@ -1,0 +1,104 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.626
+Nombre comercial: ENERVIN DUO
+Titular:
+BASF ESPAÑOLA, S.L.
+Can Rabia, 3-5
+08017
+BARCELONA
+Fabricante:
+BASF SE
+D-67056 LUDWIGSHAFEN
+RHEIN
+ALEMANIA
+Fecha de inscripción: 06/06/2016
+Fecha de caducidad: 31/07/2019
+Tipo de envase:
+Botellas/Garrafa HDPE de 0.15, 0.25, 0.5, 1 L (diámetro de boca 42 mm), 5 y 10 L (diámetro de boca 42 mm), 5 y 10 L
+(diámetro de boca 54 mm); Eco-botella/Garrafa HDPE de 1, 5 y 10 L (diámetro de boca 54 mm). 
+Composición: AMETOCTRADIN 30% + DIMETOMORF 22,5% [SC] P/V
+Tipo de preparado: SUSPENSION CONCENTRADA [SC]
+Tipo de función: Fungicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Berenjena MILDIU 0,1-0,25 l/Hl 1
+(2) Cucurbitáceas de piel comestible MILDIU 0,1-0,25 l/Hl 1
+(3) Cucurbitáceas de piel no comestible MILDIU 0,1-0,25 l/Hl 1
+(4) Lechugas y similares MILDIU 0,25 l/Hl 7
+(5) Patata MILDIU 0,25 l/Hl 7
+(6) Tomate MILDIU 0,1-0,25 l/Hl 1
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Tratamiento fungicida contra mildiu en patata y cucurbitáceas de piel no comestible al aire libre, y en
+tomate, berenjena, lechuga y similares y cucurbitáceas de piel comestible al aire libre e invernadero.
+Registro de Productos FitoSanitarios
+Nº Registro: 25.626
+Nombre comercial: ENERVIN DUO
+Específicos: (1), (6) Max 0,25 L/hl (aire libre) y 0,1 L/hl (invernadero), sin superar el consumo de 0,8 L pf/ha. Max
+3 aplicaciones por campaña mediante pulverización tractor (aire libre) y manual (invernadero)
+espaciadas de 7-10 días entre los estados vegetativos BBCH 10 (cotiledones desplegados
+completamente) y BBCH 89 (madurez completa). 
+(2) Al aire libre: Max de 0,25 l/hl. Invernadero: Max de 0,1 l/hl. En ambos casos sin superar el
+consumo de 0,8 l/ha. En aplicación tardia dos veces por campaña desde BBCH 40 (inicio del
+desarrollo de las partes vegetativas cosechables de la planta o de los órganos de propagación
+vegetativa) con un intervalo entre las mismas de 7-10.
+(3) Al aire libre: Max de 0,25 l/hl sin superar el consumo de 0,8 l/ha. En aplicación tardía dos veces
+por campaña desde BBCH 40 (inicio del desarrollo de las partes vegetativas cosechables de la
+planta o de los órganos de propagación vegetativa) con un intervalo de 7-10 días.
+(4) (Excepto escarola) Max 0,25 L/hl (aire libre e invernadero) sin superar el consumo de 0,8 L pf/ha.
+En aplicación tardía dos veces por campaña desde BBCH 40 (inicio del desarrollo de las partes
+vegetativas cosechables de la planta o de los órganos de propagación vegetativa) con un intervalo
+entre las mismas de 7 días.
+(5) Max 0,25 L/hl sin superar el consumo de 0,8 L pf/ha. Max 2 aplicaciones por campaña (riesgo en
+aguas subterráneas) mediante pulverización con tractor, espaciadas de 5 días y entre los estados
+vegetativos BBCH 20 (formación brotes laterales) y BBCH 89 (bayas de la fructificación de 1er grado
+arrugadas, semilla oscura).
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe3: Para proteger a los organismos acuáticos, respétese sin tratar una banda de seguridad de 10 m con cubierta
+vegetal hasta las masas de agua superficial para los cultivos de tomate, berenjena, cucurbitáceas y lechuga al aire
+libre, y de 5 m para el cultivo de patata hasta las masas de agua superficial.
+Mitigación de riesgos en la manipulación:
+Seguridad del aplicador
+Aire libre:
+En patata, cucurbitáceas de piel comestible y de piel no comestible, lechuga y similares, berenjena y tomate mediante
+pulverización con tractor, durante la mezcla/carga, aplicación, limpieza y mantenimiento del equipo, se deberán utilizar
+guantes de protección química como mínima medida de protección individual.
+Invernadero:
+En cucurbitáceas de piel comestible, tomate y berenjena mediante pulverización manual, durante la mezcla/carga se
+deberán utilizar guantes de protección química y durante la aplicación, limpieza y mantenimiento del equipo se
+deberán utilizar guantes y ropa de protección química (tipo 6 de acuerdo a norma UNE-EN13034:2005 + A1: 2009)
+En lechuga y similares mediante pulverización manual, durante la mezcla/carga, aplicación, limpieza y mantenimiento
+del equipo, se deberán utilizar guantes de protección química
+Durante la aplicación con tractor con cabina cerrada y dispositivo de filtrado de aire, se podrá prescindir del equipo de
+protección, siempre que se mantengan las ventanas cerradas.
+Evítese el contacto con el follaje húmedo durante el tratamiento.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 2, Toxicidad aguda (oral). Categoría 4.
+Registro de Productos FitoSanitarios
+Nº Registro: 25.626
+Nombre comercial: ENERVIN DUO
+Símbolos y pictogramas: --
+Frases de riesgo: H302, H411, EUH 208, EUH 401
+Consejos de prudencia: P261, P262, P273, P391, P501
+Otras indicaciones reglamentarias: Contiene 1,2-BENZISOTIAZOL-E(2H)-ONA (CAS 2634-33-5). Puede provocar una
+reacción alárgica.
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.
+El preparado no se usará en combinación con otros productos.

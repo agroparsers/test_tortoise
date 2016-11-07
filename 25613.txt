@@ -1,0 +1,83 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.613
+Nombre comercial: FOSFOL
+Titular:
+ADAMA AGRICULTURE ESPAÑA S.A.
+C/ Méndez Álvaro nº 20, 5ª Planta
+28045
+MADRID
+Fabricante:
+ADAMA MAKHTESHIM LTD.
+P.O. Box 60
+84100001 Beer Sheva
+ISRAEL
+Fecha de inscripción: 07/07/2016
+Fecha de caducidad: 31/07/2018
+Tipo de envase:
+Bolsas/sacos de polipropileno con laminado de aluminio de 1, 5, 10 y 20 kg.
+Composición: FOLPET 25% + FOSETIL-AL 50% [WG] P/P
+Tipo de preparado: GRANULADO DISPERSABLE EN AGUA [WG]
+Tipo de función: Fungicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Vid de vinificación MILDIU 4 Kg/ha 28
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Tratamiento fungicida al aire libre contra Plasmopara vitícola (Mildiu) en vid de vinificación (cultivo alto
+y bajo). Aplicación mediante pulverización foliar al aire libre, con tractor (vid de cultivo alto y bajo), y
+mediante pulverización manual (vid de cultivo alto), con un máximo de 4 aplicación por campaña,
+con un intervalo de 10-12 días entre aplicaciones, durante el periodo comprendido entre comienzo
+del hinchado de las yemas y las tres hojas desplegadas. Aplicar con un volumen de caldo de
+200-1.000 L/ha.
+En la etiqueta se darán las instrucciones oportunas para una correcta utilización del producto y se
+indicarán los posibles riesgos de su utilización por fitotoxicidad en vides jóvenes cuando se aplique a
+temperaturas elevadas. Asimismo se informará sobre la posibilidad de que se produzcan
+resistencias y se propondrá una estrategia de gestión y manejo de las mismas.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Spe3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 20 m con cubierta
+vegetal hasta las masas de agua superficial. 
+Mitigación de riesgos en la manipulación:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.613
+Nombre comercial: FOSFOL
+Seguridad del aplicador:
+En los cultivos autorizados (vid cultivo alto y bajo), mediante pulverización normal con tractor, durante la mezcla/carga
+se deberán utilizar guantes de protección química, mascarilla tipo FFP2SL o P2, y durante la aplicación, limpieza y
+mantenimiento del equipo se deberán utilizar guantes y ropa de protección química (tipo 3 ó 4 de acuerdo a norma
+UNE-EN14605: 2005 + A1: 2009) y calzado adecuado.
+En vid (cultivo alto), mediante pulverización manual, durante la mezcla/carga se deberán utilizar guantes de protección
+química, y durante la aplicación, limpieza y mantenimiento del equipo se deberán utilizar guantes y ropa de protección
+química (tipo 3 ó 4 de acuerdo a norma UNE-EN14605: 2005 + A1: 2009) y calzado adecuado.
+Durante la aplicación con tractor con cabina cerrada y dispositivo de filtrado de aire, se podrá prescindir del equipo de
+protección, siempre que se mantengan las ventanas cerradas. 
+Seguridad del trabajador:
+En los cultivos autorizados se deberán utilizar guantes de protección química. 
+Reentrada: 7 días para tareas superiores a las 2 horas. 
+No tratar con este producto en aquellas labores que impliquen actividades mecánicas que puedan derivar en un
+deterioro de los guantes de protección química en el trabajador durante la reentrada de éste a la finca.
+No entrar al cultivo hasta que el producto esté seco.
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+Uso profesional.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Carcinogenicidad. Categoría 2., Acuático agudo 1
+Símbolos y pictogramas: --
+Frases de riesgo: H351, H400, EUH 401
+Consejos de prudencia: P261, P273, P280, P391, P501, P201+P202
+Otras indicaciones reglamentarias: El talco no debe contener fibras de asbesto en su composición.
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.

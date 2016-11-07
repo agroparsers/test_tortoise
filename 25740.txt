@@ -1,0 +1,90 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.740
+Nombre comercial: RUBRIC
+Titular:
+CHEMINOVA AGRO, S.A.
+Pº Castellana, 257. 5º.
+28046
+MADRID
+Fabricante:
+CHEMINOVA A/S
+Thyboronvej 78 P.O. Box 9
+DK-7620 Lemvig
+DINAMARCA
+Fecha de inscripción: 29/10/2014
+Fecha de caducidad: 30/04/2019
+Tipo de envase:
+Botellas de plástico (HDPE) de 0,25, 0,5 y 1 l.
+Garrafa de plástico (HDPE) de 5 l.
+Composición: EPOXICONAZOL 12,5% ((ESP)) [SC] P/V
+Tipo de preparado: SUSPENSION CONCENTRADA [SC]
+Tipo de función: Fungicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Avena OIDIO 0,75-1 l/ha 35
+(2) Avena ROYAS 0,75-1 l/ha 35
+(3) Cebada HELMINTOSPORIUM 0,75-1 l/ha 35
+(4) Cebada OIDIO 0,75-1 l/ha 35
+(5) Cebada RINCOSPORIUM 0,75-1 l/ha 35
+(6) Cebada ROYAS 0,75-1 l/ha 35
+(7) Cebada SEPTORIA 0,75-1 l/ha 35
+(8) Centeno RINCOSPORIUM 0,75-1 l/ha 35
+(9) Centeno ROYAS 0,75-1 l/ha 35
+(10) Remolacha azucarera CERCOSPORA 0,75-1 l/ha 28
+(11) Remolacha azucarera OIDIO 0,75-1 l/ha 28
+(12) Remolacha azucarera ROYA 0,75-1 l/ha 28
+(13) Trigo OIDIO 0,75-1 l/ha 35
+(14) Trigo ROYAS 0,75-1 l/ha 35
+(15) Trigo SEPTORIA 0,75-1 l/ha 35
+(16) Triticale ROYAS 0,75-1 l/ha 35
+(17) Triticale SEPTORIA 0,75-1 l/ha 35
+Registro de Productos FitoSanitarios
+Nº Registro: 25.740
+Nombre comercial: RUBRIC
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar en pulverización normal hasta 2 tratamientos por campaña separados 21 días con un
+volumen de caldo de 200-400 l/Ha. y aplicación. El tratamiento se efectuará mediante tractor con
+barra hidraúlica, a la aparición de los primeros síntomas.
+En la etiqueta se incluirán las instrucciones necesarias para la correcta aplicación del producto. Se
+informará de la probabilidad de aparición de resistencias y se propondrán las estrategias de
+prevención y manejo aportados por el solicitante. Asimismo se incluirán las advertencias necesarias
+para que el agricultor pueda cerciorarse de los riesgos de su utilización por fitotoxicidad en especies
+sensibles de los cultivos siguientes.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 20 m. hasta las
+masas de agua superficial.
+Mitigación de riesgos en la manipulación:
+El aplicador debeá guantes durante la mezcla/carga, aplicación y al manipular el equipo de aplicación o superficies
+contaminadas.
+Durante la limpieza del equipo se utilizará la misma protección que durante la aplicación.
+En cultivo de regadío se utilizarán guantes y ropa de protección química adecuados y botas (de caucho o poliméricas)
+en caso de tener que colocar, retirar o mover los tubos de riego tras el tratamiento.
+No entrar al cultivo hasta que el producto esté seco.
+SPo 2: Lávese toda la ropa de protección después de usarla. 
+SPo 4: El recipiente debe abrirse al aire libre y en tiempo seco.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Toxicidad aguda (oral, cutánea, por inhalación). Categoría
+4., Tóxicos para la reproducción. Categoría 1 B., Tóxicos para la reproducción.
+Categoría 2., Peligro, Acuático agudo 1
+Símbolos y pictogramas: --
+Frases de riesgo: H332, H351, H361, H400, H410, H412, EUH 401
+Consejos de prudencia: P201, P202, P261, P273, P280, P391, P304+P340, P501
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene 1,2-benzisotiazol-3 (2H)-ona nº CAS
+2634-33-5". Puede provocar una reacción alérgica.  
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

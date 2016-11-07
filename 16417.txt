@@ -1,0 +1,129 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 16.417
+Nombre comercial: MAVRIK-10
+Titular:
+ADAMA AGRICULTURE ESPAÑA S.A.
+C/ Méndez Álvaro nº 20, 5ª Planta
+28045
+MADRID
+Fabricante:
+SIPCAM INAGRA, S.A.
+c/ Prof. Beltrán Báguena, 5 - Edificio Nuevo Centro
+46009
+VALENCIA
+Fecha de inscripción: 03/05/1984
+Fecha de caducidad: 30/11/2016
+Tipo de envase:
+Envases de plástico "coex" de 0,01, 0,015, 0,25, 1, 2, 3, 5  y 10 l. Envase de plancha de hierro con resina interior de 25
+l.
+Bidón de hierro de 200 l.
+Composición: TAU-FLUVALINATO 10% [EW] P/V
+Tipo de preparado: EMULSION DE ACEITE EN AGUA [EW]
+Tipo de función: Acaricida, Insecticida
+Ámbitos de utilización: Cultivos, Parques y jardines, Jardinería Exterior Doméstica, Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Alcachofa MOSCA BLANCA 0,025-0,05 % 14
+(2) Alcachofa ORUGAS 0,025-0,05 % 14
+(3) Alcachofa PULGONES 0,025-0,05 % 14
+(4) Alcachofa TRIPS 0,025-0,05 % 14
+(5) Algodonero ARAÑA ROJA 0,025-0,05 % 7
+(6) Algodonero GUSANO ROSADO 0,075-0,1 % 7
+(7) Algodonero HELIOTIS 0,075-0,1 % 7
+(8) Algodonero PULGONES 0,025-0,05 % 7
+(9) Algodonero TRIPS 0,025-0,05 % 7
+(10) Almendro BARRENILLOS 0,025-0,05 % 7
+(11) Almendro MOSQUITO VERDE 0,025-0,05 % 7
+(12) Almendro TIGRE 0,025-0,05 % 7
+(13) Ciruelo PULGONES 0,025-0,05 % 21
+(14) Ciruelo TRIPS 0,025-0,05 % 21
+(15) Cítricos CAPARRETA 0,025-0,05 % 28
+(16) Cítricos PRAYS 0,075-0,1 % 28
+(17) Cítricos PULGONES 0,025-0,05 % 28
+Registro de Productos FitoSanitarios
+Nº Registro: 16.417
+Nombre comercial: MAVRIK-10
+(18) Frutales de hueso PULGONES 0,025-0,05 % NP
+(19) Frutales de pepita PSILA 0,025-0,05 % 75
+(20) Frutales de pepita PULGONES 0,025-0,05 % 75
+(21) Judías verdes MOSCA BLANCA 0,025-0,05 % 14
+(22) Judías verdes ORUGAS 0,025-0,05 % 14
+(23) Judías verdes PULGONES 0,025-0,05 % 14
+(24) Judías verdes TRIPS 0,025-0,05 % 14
+(25) Ornamentales herbáceas ARAÑA ROJA 0,025-0,125 % NP
+(26) Ornamentales herbáceas HELIOTIS 0,075-0,1 % NP
+(27) Ornamentales herbáceas PULGONES 0,025-0,05 % NP
+(28) Ornamentales herbáceas TRIPS 0,025-0,05 % NP
+(29) Ornamentales leñosas ARAÑA ROJA 0,025-0,125 % NP
+(30) Ornamentales leñosas HELIOTIS 0,075-0,1 % NP
+(31) Ornamentales leñosas PULGONES 0,025-0,05 % NP
+(32) Ornamentales leñosas TRIPS 0,025-0,05 % NP
+(33) Patata MOSCA BLANCA 0,025-0,05 % 14
+(34) Patata ORUGAS 0,025-0,05 % 14
+(35) Patata PULGONES 0,025-0,05 % 14
+(36) Tomate MOSCA BLANCA 0,025-0,05 % 7
+(37) Tomate ORUGAS 0,025-0,05 % 7
+(38) Tomate PULGONES 0,025-0,05 % 7
+(39) Tomate TRIPS 0,025-0,05 % 7
+(40) Trigo GARRAPATILLO 0,025-0,05 % 14
+(41) Alfalfa APION 240-480 cc/ha 14
+(42) Alfalfa PULGONES 240-480 cc/ha 14
+(43) Alfalfa SITONA 240-480 cc/ha 14
+(44) Melocotonero MOSQUITO VERDE 50-70 cc/Hl NP
+(45) Melocotonero TRIPS 100-150 cc/Hl NP
+(46) Nectarino MOSQUITO VERDE 50-70 cc/Hl NP
+(47) Nectarino TRIPS 100-150 cc/Hl NP
+(48) Patata TRIPS 0,025-0,05 % 14
+P.S.: Plazo de seguridad (días)
+Usos protegidos hasta fecha: (41) , (42) , (43) , (44) , (45) , (46) , (47) , (48) 
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar en pulverización normal.
+No aplicar en invernaderos o recintos cerrados.
+Registro de Productos FitoSanitarios
+Nº Registro: 16.417
+Nombre comercial: MAVRIK-10
+Específicos: (1), (2), (3), (4), (10), (11), (12), (13), (14), (15), (17), (19), (20), (21), (22), (23), (24), (33), (34), (35),
+(36), (37), (38), (39) Acción complementaria contra ácaros tetraníquidos.
+(16) Acción complementaria contra ácaros tetraníquidos. Aplicar con un volumen de caldo máximo
+de 1000 l/Ha.
+(18) Acción complementaria contra ácaros tetraníquidos. Tratar sólo hasta la floración.
+(44), (46) Aplicar sólo hasta la floración.
+(45), (47) Aplicar sólo hasta la floración con un máximo de 1,44 l/Ha.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Mamíferos: A
+Aves: A
+Peces: C Muy peligroso para peces
+Evitar la contaminación de aguas.
+Mitigación de riesgos en la manipulación:
+Se deberán utilizar gafas y guantes debido a su efecto irritante en la piel, micosa y ojos.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales. 
+Para usuarios no profesionales, exclusivamente los tipos de envases autorizados para jardinería exterior doméstica. 
+Para jardinería exterior doméstica la capacidad del envase no excederá los 500 ml.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Es obligatorio enjuagar enérgicamente tres veces, o mediante dispositivo de presión, cada envase de producto que se
+vacíe al preparar la dilución y verter las aguas al depósito del pulverizador.
+Indicar en la etiqueta la obligación de entregar los envases vacíos a un gestor autorizado de residuos clasificados y
+peligrosos así como las opciones alternativas que el titular está obligado a ofrecer, conforme a lo establecido en el
+R.D. 1416/2001, de entregarlos directamente al sistema integrado de gestión al que esté adherido o al propio, de
+depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
+a) Los envases de uso profesional entregarlos en alguno de los puntos de recogida indicados por el distribuidor que
+haya suministrado el producto. 
+b) Los envases autorizados para jardinería exterior doméstica elimínense esta sustancia y su recipiente en un punto
+de recogida pública de residuos especiales o peligrosos.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Nocivo, Peligroso para el medio ambiente
+Símbolos y pictogramas: --
+Frases de riesgo: R51/53, R65, R66
+Consejos de prudencia: S2, S13, S45, S36/37, S62, S23
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene nafta disolvente del petróleo, nº CAS:
+64742-94-5". 
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.  
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

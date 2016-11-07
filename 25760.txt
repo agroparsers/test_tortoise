@@ -1,0 +1,655 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.760
+Nombre comercial: METEOR
+Titular:
+DIACHEM S.P.A.
+Vía Tonale, 15
+Albano Sant'Alessandro
+24121
+BERGAMO
+ITALIA
+Fabricante:
+DIACHEM S.P.A.
+Vía Tonale, 15
+24121 Albano Sant'Alessandro
+BERGAMO
+ITALIA
+Fecha de inscripción: 23/11/2015
+Fecha de caducidad: 31/10/2017
+Tipo de envase:
+Viales de 10 ml; Botellas de 50, 100, 250 y 500 ml. Botellas de 1 l y garrafas de 2 y 3 l (cualquier ancho de boca).
+Garrafas de 5 l (boca 45 o 63 mm).
+Composición: DELTAMETRIN 1,57% [SC] P/V
+Tipo de preparado: SUSPENSION CONCENTRADA [SC]
+Tipo de función: Insecticida
+Ámbitos de utilización: Cultivos, Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Ajos CHAETOCNEMA 0,06-0,07 % 3
+(2) Ajos CHINCHES 0,08-0,09 % 3
+(3) Ajos COCCIDOS 0,08-0,09 % 3
+(4) Ajos DEPRESSARIA SP. 0,08-0,09 % 3
+(5) Ajos ESCARABAJO 0,08-0,09 % 3
+(6) Ajos ESCARABAJO DE LA PATATA 0,06-0,07 % 3
+(7) Ajos HOPLOCAMPA 0,06-0,07 % 3
+(8) Ajos MARIPOSA DE LA COL 0,06-0,07 % 3
+(9) Ajos MOSCA BLANCA 0,08-0,09 % 3
+(10) Ajos MOSCAS 0,08-0,09 % 3
+(11) Ajos ORTOPTEROS 0,08-0,09 % 3
+(12) Ajos ORUGAS 0,08-0,09 % 3
+(13) Ajos POLILLAS 0,06-0,07 % 3
+(14) Ajos PULGONES 0,08-0,09 % 3
+(15) Ajos TRIPS 0,06-0,07 % 3
+(16) Alamo BARRENADOR DE LA MADERA 0,09 % NA
+(17) Alamo CHRIPTORRINCHUS MENDICU 0,15-0,2 % NA
+Registro de Productos FitoSanitarios
+Nº Registro: 25.760
+Nombre comercial: METEOR
+(18) Alamo ESCARABAJOS DEFOLIADORES 0,06-0,09 % NA
+(19) Alamo GYPSONOMA ACERIANA 0,09 % NA
+(20) Albaricoquero ANARSIA 0,09 % 3
+(21) Albaricoquero CACOECIA 0,06-0,09 % 3
+(22) Albaricoquero CAPUA 0,06-0,09 % 3
+(23) Albaricoquero CERATITIS 0,07-0,09 % 3
+(24) Albaricoquero CYDIA 0,09 % 3
+(25) Albaricoquero CYDIA POMONELLA 0,06 % 3
+(26) Albaricoquero GORGOJO DEL MANZANO 0,06-0,09 % 3
+(27) Albaricoquero GUSANOS 0,06-0,09 % 3
+(28) Albaricoquero HOPLOCAMPA 0,06-0,09 % 3
+(29) Albaricoquero MINADORES 0,06-0,09 % 3
+(30) Albaricoquero PIOJO DE SAN JOSE 0,09 % 3
+(31) Albaricoquero PULGONES 0,07-0,09 % 3
+(32) Albaricoquero PYSILA DEL PERAL 0,09 % 3
+(33) Albaricoquero TRIPS 0,07-0,09 % 3
+(34) Alcachofa CHAETOCNEMA 0,06-0,07 % 3
+(35) Alcachofa CHINCHES 0,08-0,09 % 3
+(36) Alcachofa COCCIDOS 0,08-0,09 % 3
+(37) Alcachofa DEPRESSARIA SP. 0,08-0,09 % 3
+(38) Alcachofa ESCARABAJO 0,08-0,09 % 3
+(39) Alcachofa ESCARABAJO DE LA PATATA 0,06-0,07 % 3
+(40) Alcachofa HOPLOCAMPA 0,06-0,07 % 3
+(41) Alcachofa MARIPOSA DE LA COL 0,06-0,07 % 3
+(42) Alcachofa MOSCA BLANCA 0,08-0,09 % 3
+(43) Alcachofa MOSCAS 0,08-0,09 % 3
+(44) Alcachofa ORTOPTEROS 0,08-0,09 % 3
+(45) Alcachofa ORUGAS 0,08-0,09 % 3
+(46) Alcachofa POLILLAS 0,06-0,07 % 3
+(47) Alcachofa PULGONES 0,08-0,09 % 3
+(48) Alcachofa TRIPS 0,06-0,07 % 3
+(49) Alfalfa CUCA 0,6-0,8 l/ha 15
+(50) Alfalfa ORUGAS 0,6-0,8 l/ha 15
+(51) Alfalfa PULGONES 0,6-0,8 l/ha 15
+(52) Alfalfa SALTAMONTES 0,6-0,8 l/ha 15
+(53) Algodonero GUSANO ROSADO 0,6 l/ha 15
+(54) Algodonero HELIOTIS 0,6 l/ha 15
+(55) Algodonero PULGONES 0,6 l/ha 15
+(56) Algodonero TRIPS 0,6 l/ha 15
+(57) Almendro ANARSIA 0,09 % 3
+Registro de Productos FitoSanitarios
+Nº Registro: 25.760
+Nombre comercial: METEOR
+(58) Almendro CACOECIA 0,06-0,09 % 3
+(59) Almendro CAPUA 0,06-0,09 % 3
+(60) Almendro CERATITIS 0,07-0,09 % 3
+(61) Almendro CYDIA 0,09 % 3
+(62) Almendro CYDIA POMONELLA 0,06 % 3
+(63) Almendro GORGOJO DEL MANZANO 0,06-0,09 % 3
+(64) Almendro GUSANOS 0,06-0,09 % 3
+(65) Almendro HOPLOCAMPA 0,06-0,09 % 3
+(66) Almendro MINADORES 0,06-0,09 % 3
+(67) Almendro PIOJO DE SAN JOSE 0,09 % 3
+(68) Almendro PULGONES 0,07-0,09 % 3
+(69) Almendro PYSILA DEL PERAL 0,09 % 3
+(70) Almendro TRIPS 0,07-0,09 % 3
+(71) Apio CHAETOCNEMA 0,06-0,07 % 7
+(72) Apio CHINCHES 0,08-0,09 % 7
+(73) Apio COCCIDOS 0,08-0,09 % 7
+(74) Apio DEPRESSARIA SP. 0,08-0,09 % 7
+(75) Apio ESCARABAJO 0,08-0,09 % 7
+(76) Apio ESCARABAJO DE LA PATATA 0,06-0,07 % 7
+(77) Apio HOPLOCAMPA 0,06-0,07 % 7
+(78) Apio MARIPOSA DE LA COL 0,06-0,07 % 7
+(79) Apio MOSCA BLANCA 0,08-0,09 % 7
+(80) Apio MOSCAS 0,08-0,09 % 7
+(81) Apio ORTOPTEROS 0,08-0,09 % 7
+(82) Apio ORUGAS 0,08-0,09 % 7
+(83) Apio POLILLAS 0,06-0,07 % 7
+(84) Apio PULGONES 0,08-0,09 % 7
+(85) Apio TRIPS 0,06-0,07 % 7
+(86) Berenjena CHAETOCNEMA 0,06-0,07 % 3
+(87) Berenjena CHINCHES 0,08-0,09 % 3
+(88) Berenjena COCCIDOS 0,08-0,09 % 3
+(89) Berenjena DEPRESSARIA SP. 0,08-0,09 % 3
+(90) Berenjena ESCARABAJO 0,08-0,09 % 3
+(91) Berenjena ESCARABAJO DE LA PATATA 0,06-0,07 % 3
+(92) Berenjena HOPLOCAMPA 0,06-0,07 % 3
+(93) Berenjena MARIPOSA DE LA COL 0,06-0,07 % 3
+(94) Berenjena MOSCA BLANCA 0,08-0,09 % 3
+(95) Berenjena MOSCAS 0,08-0,09 % 3
+(96) Berenjena ORTOPTEROS 0,08-0,09 % 3
+(97) Berenjena ORUGAS 0,08-0,09 % 3
+Registro de Productos FitoSanitarios
+Nº Registro: 25.760
+Nombre comercial: METEOR
+(98) Berenjena POLILLAS 0,06-0,07 % 3
+(99) Berenjena PULGONES 0,08-0,09 % 3
+(100) Berenjena TRIPS 0,06-0,07 % 3
+(101) Calabacín CHAETOCNEMA 0,06-0,07 % 3
+(102) Calabacín CHINCHES 0,08-0,09 % 3
+(103) Calabacín COCCIDOS 0,08-0,09 % 3
+(104) Calabacín DEPRESSARIA SP. 0,08-0,09 % 3
+(105) Calabacín ESCARABAJO 0,08-0,09 % 3
+(106) Calabacín ESCARABAJO DE LA PATATA 0,06-0,07 % 3
+(107) Calabacín HOPLOCAMPA 0,06-0,07 % 3
+(108) Calabacín MARIPOSA DE LA COL 0,06-0,07 % 3
+(109) Calabacín MOSCA BLANCA 0,08-0,09 % 3
+(110) Calabacín MOSCAS 0,08-0,09 % 3
+(111) Calabacín ORTOPTEROS 0,08-0,09 % 3
+(112) Calabacín ORUGAS 0,08-0,09 % 3
+(113) Calabacín POLILLAS 0,06-0,07 % 3
+(114) Calabacín PULGONES 0,08-0,09 % 3
+(115) Calabacín TRIPS 0,06-0,07 % 3
+(116) Calabaza CHAETOCNEMA 0,06-0,07 % 3
+(117) Calabaza CHINCHES 0,08-0,09 % 3
+(118) Calabaza COCCIDOS 0,08-0,09 % 3
+(119) Calabaza DEPRESSARIA SP. 0,08-0,09 % 3
+(120) Calabaza ESCARABAJO 0,08-0,09 % 3
+(121) Calabaza ESCARABAJO DE LA PATATA 0,06-0,07 % 3
+(122) Calabaza HOPLOCAMPA 0,06-0,07 % 3
+(123) Calabaza MARIPOSA DE LA COL 0,06-0,07 % 3
+(124) Calabaza MOSCA BLANCA 0,08-0,09 % 3
+(125) Calabaza MOSCAS 0,08-0,09 % 3
+(126) Calabaza ORTOPTEROS 0,08-0,09 % 3
+(127) Calabaza ORUGAS 0,08-0,09 % 3
+(128) Calabaza POLILLAS 0,06-0,07 % 3
+(129) Calabaza PULGONES 0,08-0,09 % 3
+(130) Calabaza TRIPS 0,06-0,07 % 3
+(131) Cebada GUSANOS DEL SUELO 0,6-0,8 l/ha 3
+(132) Cebada ORUGAS 0,6-0,8 l/ha 3
+(133) Cebada POLILLAS 0,6-0,8 l/ha 3
+(134) Cebada PULGONES 0,6-0,8 l/ha 3
+(135) Cebada TRIPS 0,6-0,8 l/ha 3
+(136) Cebolla CHAETOCNEMA 0,06-0,07 % 7
+(137) Cebolla CHINCHES 0,08-0,09 % 7
+Registro de Productos FitoSanitarios
+Nº Registro: 25.760
+Nombre comercial: METEOR
+(138) Cebolla COCCIDOS 0,08-0,09 % 7
+(139) Cebolla DEPRESSARIA SP. 0,08-0,09 % 7
+(140) Cebolla ESCARABAJO 0,08-0,09 % 7
+(141) Cebolla ESCARABAJO DE LA PATATA 0,06-0,07 % 7
+(142) Cebolla HOPLOCAMPA 0,06-0,07 % 7
+(143) Cebolla MARIPOSA DE LA COL 0,06-0,07 % 7
+(144) Cebolla MOSCA BLANCA 0,08-0,09 % 7
+(145) Cebolla MOSCAS 0,08-0,09 % 7
+(146) Cebolla ORTOPTEROS 0,08-0,09 % 7
+(147) Cebolla ORUGAS 0,08-0,09 % 7
+(148) Cebolla POLILLAS 0,06-0,07 % 7
+(149) Cebolla PULGONES 0,08-0,09 % 7
+(150) Cebolla TRIPS 0,06-0,07 % 7
+(151) Cerezo ANARSIA 0,09 % 3
+(152) Cerezo CACOECIA 0,06-0,09 % 3
+(153) Cerezo CAPUA 0,06-0,09 % 3
+(154) Cerezo CERATITIS 0,07-0,09 % 3
+(155) Cerezo CYDIA 0,09 % 3
+(156) Cerezo CYDIA POMONELLA 0,06 % 3
+(157) Cerezo GORGOJO DEL MANZANO 0,06-0,09 % 3
+(158) Cerezo GUSANOS 0,06-0,09 % 3
+(159) Cerezo HOPLOCAMPA 0,06-0,09 % 3
+(160) Cerezo MINADORES 0,06-0,09 % 3
+(161) Cerezo PIOJO DE SAN JOSE 0,09 % 3
+(162) Cerezo PULGONES 0,07-0,09 % 3
+(163) Cerezo PYSILA DEL PERAL 0,09 % 3
+(164) Cerezo TRIPS 0,07-0,09 % 3
+(165) Ciruelo ANARSIA 0,09 % 3
+(166) Ciruelo CACOECIA 0,06-0,09 % 3
+(167) Ciruelo CAPUA 0,06-0,09 % 3
+(168) Ciruelo CERATITIS 0,07-0,09 % 3
+(169) Ciruelo CYDIA 0,09 % 3
+(170) Ciruelo CYDIA POMONELLA 0,06 % 3
+(171) Ciruelo GORGOJO DEL MANZANO 0,06-0,09 % 3
+(172) Ciruelo GUSANOS 0,06-0,09 % 3
+(173) Ciruelo HOPLOCAMPA 0,06-0,09 % 3
+(174) Ciruelo MINADORES 0,06-0,09 % 3
+(175) Ciruelo PIOJO DE SAN JOSE 0,09 % 3
+(176) Ciruelo PULGONES 0,07-0,09 % 3
+(177) Ciruelo PYSILA DEL PERAL 0,09 % 3
+Registro de Productos FitoSanitarios
+Nº Registro: 25.760
+Nombre comercial: METEOR
+(178) Ciruelo TRIPS 0,07-0,09 % 3
+(179) Cítricos CERATITIS 0,07-0,09 % 3
+(180) Cítricos MOSCA BLANCA 0,07-0,09 % 3
+(181) Cítricos PIOJOS 0,07-0,09 % 3
+(182) Cítricos PULGONES 0,07-0,09 % 3
+(183) Coles CHAETOCNEMA 0,06-0,07 % 3
+(184) Coles CHINCHES 0,08-0,09 % 3
+(185) Coles COCCIDOS 0,08-0,09 % 3
+(186) Coles DEPRESSARIA SP. 0,08-0,09 % 3
+(187) Coles ESCARABAJO 0,08-0,09 % 3
+(188) Coles ESCARABAJO DE LA PATATA 0,06-0,07 % 3
+(189) Coles HOPLOCAMPA 0,06-0,07 % 3
+(190) Coles MARIPOSA DE LA COL 0,06-0,07 % 3
+(191) Coles MOSCA BLANCA 0,08-0,09 % 3
+(192) Coles MOSCAS 0,08-0,09 % 3
+(193) Coles ORTOPTEROS 0,08-0,09 % 3
+(194) Coles ORUGAS 0,08-0,09 % 3
+(195) Coles POLILLAS 0,06-0,07 % 3
+(196) Coles PULGONES 0,08-0,09 % 3
+(197) Coles TRIPS 0,06-0,07 % 3
+(198) Colza CHINCHES 0,6-0,8 l/ha 30
+(199) Colza GUSANOS DEL SUELO 0,6-0,8 l/ha 30
+(200) Colza POLILLAS 0,6-0,8 l/ha 30
+(201) Colza PULGONES 0,6-0,8 l/ha 30
+(202) Colza TRIPS 0,6-0,8 l/ha 30
+(203) Espárrago CHAETOCNEMA 0,06-0,07 % 3
+(204) Espárrago CHINCHES 0,08-0,09 % 3
+(205) Espárrago COCCIDOS 0,08-0,09 % 3
+(206) Espárrago DEPRESSARIA SP. 0,08-0,09 % 3
+(207) Espárrago ESCARABAJO 0,08-0,09 % 3
+(208) Espárrago ESCARABAJO DE LA PATATA 0,06-0,07 % 3
+(209) Espárrago HOPLOCAMPA 0,06-0,07 % 3
+(210) Espárrago MARIPOSA DE LA COL 0,06-0,07 % 3
+(211) Espárrago MOSCA BLANCA 0,08-0,09 % 3
+(212) Espárrago MOSCAS 0,08-0,09 % 3
+(213) Espárrago ORTOPTEROS 0,08-0,09 % 3
+(214) Espárrago ORUGAS 0,08-0,09 % 3
+(215) Espárrago POLILLAS 0,06-0,07 % 3
+(216) Espárrago PULGONES 0,08-0,09 % 3
+(217) Espárrago TRIPS 0,06-0,07 % 3
+Registro de Productos FitoSanitarios
+Nº Registro: 25.760
+Nombre comercial: METEOR
+(218) Espinaca CHAETOCNEMA 0,06-0,07 % 3
+(219) Espinaca CHINCHES 0,08-0,09 % 3
+(220) Espinaca COCCIDOS 0,08-0,09 % 3
+(221) Espinaca DEPRESSARIA SP. 0,08-0,09 % 3
+(222) Espinaca ESCARABAJO 0,08-0,09 % 3
+(223) Espinaca ESCARABAJO DE LA PATATA 0,06-0,07 % 3
+(224) Espinaca HOPLOCAMPA 0,06-0,07 % 3
+(225) Espinaca MARIPOSA DE LA COL 0,06-0,07 % 3
+(226) Espinaca MOSCA BLANCA 0,08-0,09 % 3
+(227) Espinaca MOSCAS 0,08-0,09 % 3
+(228) Espinaca ORTOPTEROS 0,08-0,09 % 3
+(229) Espinaca ORUGAS 0,08-0,09 % 3
+(230) Espinaca POLILLAS 0,06-0,07 % 3
+(231) Espinaca PULGONES 0,08-0,09 % 3
+(232) Espinaca TRIPS 0,06-0,07 % 3
+(233) Florales GUSANOS GRISES 0,08-0,09 % NA
+(234) Florales HELIOTIS 0,08-0,09 % NA
+(235) Florales MOSCA BLANCA 0,08-0,09 % NA
+(236) Florales ORUGAS 0,08-0,09 % NA
+(237) Florales PULGONES 0,08-0,09 % NA
+(238) Florales TRIPS 0,08-0,09 % NA
+(239) Fresal CHAETOCNEMA 0,06-0,07 % 3
+(240) Fresal CHINCHES 0,08-0,09 % 3
+(241) Fresal COCCIDOS 0,08-0,09 % 3
+(242) Fresal DEPRESSARIA SP. 0,08-0,09 % 3
+(243) Fresal ESCARABAJO 0,08-0,09 % 3
+(244) Fresal ESCARABAJO DE LA PATATA 0,06-0,07 % 3
+(245) Fresal HOPLOCAMPA 0,06-0,07 % 3
+(246) Fresal MARIPOSA DE LA COL 0,06-0,07 % 3
+(247) Fresal MOSCA BLANCA 0,08-0,09 % 3
+(248) Fresal MOSCAS 0,08-0,09 % 3
+(249) Fresal ORTOPTEROS 0,08-0,09 % 3
+(250) Fresal ORUGAS 0,08-0,09 % 3
+(251) Fresal POLILLAS 0,06-0,07 % 3
+(252) Fresal PULGONES 0,08-0,09 % 3
+(253) Fresal TRIPS 0,06-0,07 % 3
+(254) Guisantes CHAETOCNEMA 0,06-0,07 % 3
+(255) Guisantes CHINCHES 0,08-0,09 % 3
+(256) Guisantes COCCIDOS 0,08-0,09 % 3
+(257) Guisantes DEPRESSARIA SP. 0,08-0,09 % 3
+Registro de Productos FitoSanitarios
+Nº Registro: 25.760
+Nombre comercial: METEOR
+(258) Guisantes ESCARABAJO 0,08-0,09 % 3
+(259) Guisantes ESCARABAJO DE LA PATATA 0,06-0,07 % 3
+(260) Guisantes HOPLOCAMPA 0,06-0,07 % 3
+(261) Guisantes MARIPOSA DE LA COL 0,06-0,07 % 3
+(262) Guisantes MOSCA BLANCA 0,08-0,09 % 3
+(263) Guisantes MOSCAS 0,08-0,09 % 3
+(264) Guisantes ORTOPTEROS 0,08-0,09 % 3
+(265) Guisantes ORUGAS 0,08-0,09 % 3
+(266) Guisantes POLILLAS 0,06-0,07 % 3
+(267) Guisantes PULGONES 0,08-0,09 % 3
+(268) Guisantes TRIPS 0,06-0,07 % 3
+(269) Habas CHAETOCNEMA 0,06-0,07 % 3
+(270) Habas CHINCHES 0,08-0,09 % 3
+(271) Habas COCCIDOS 0,08-0,09 % 3
+(272) Habas DEPRESSARIA SP. 0,08-0,09 % 3
+(273) Habas ESCARABAJO 0,08-0,09 % 3
+(274) Habas ESCARABAJO DE LA PATATA 0,06-0,07 % 3
+(275) Habas HOPLOCAMPA 0,06-0,07 % 3
+(276) Habas MARIPOSA DE LA COL 0,06-0,07 % 3
+(277) Habas MOSCA BLANCA 0,08-0,09 % 3
+(278) Habas MOSCAS 0,08-0,09 % 3
+(279) Habas ORTOPTEROS 0,08-0,09 % 3
+(280) Habas ORUGAS 0,08-0,09 % 3
+(281) Habas POLILLAS 0,06-0,07 % 3
+(282) Habas PULGONES 0,08-0,09 % 3
+(283) Habas TRIPS 0,06-0,07 % 3
+(284) Judías CHAETOCNEMA 0,06-0,07 % 3
+(285) Judías CHINCHES 0,08-0,09 % 3
+(286) Judías COCCIDOS 0,08-0,09 % 3
+(287) Judías DEPRESSARIA SP. 0,08-0,09 % 3
+(288) Judías ESCARABAJO 0,08-0,09 % 3
+(289) Judías ESCARABAJO DE LA PATATA 0,06-0,07 % 3
+(290) Judías HOPLOCAMPA 0,06-0,07 % 3
+(291) Judías MARIPOSA DE LA COL 0,06-0,07 % 3
+(292) Judías MOSCA BLANCA 0,08-0,09 % 3
+(293) Judías MOSCAS 0,08-0,09 % 3
+(294) Judías ORTOPTEROS 0,08-0,09 % 3
+(295) Judías ORUGAS 0,08-0,09 % 3
+(296) Judías POLILLAS 0,06-0,07 % 3
+(297) Judías PULGONES 0,08-0,09 % 3
+Registro de Productos FitoSanitarios
+Nº Registro: 25.760
+Nombre comercial: METEOR
+(298) Judías TRIPS 0,06-0,07 % 3
+(299) Lechugas y similares CHAETOCNEMA 0,06-0,07 % 3
+(300) Lechugas y similares CHINCHES 0,08-0,09 % 3
+(301) Lechugas y similares COCCIDOS 0,08-0,09 % 3
+(302) Lechugas y similares DEPRESSARIA SP. 0,08-0,09 % 3
+(303) Lechugas y similares ESCARABAJO 0,08-0,09 % 3
+(304) Lechugas y similares ESCARABAJO DE LA PATATA 0,06-0,07 % 3
+(305) Lechugas y similares HOPLOCAMPA 0,06-0,07 % 3
+(306) Lechugas y similares MARIPOSA DE LA COL 0,06-0,07 % 3
+(307) Lechugas y similares MOSCA BLANCA 0,08-0,09 % 3
+(308) Lechugas y similares MOSCAS 0,08-0,09 % 3
+(309) Lechugas y similares ORTOPTEROS 0,08-0,09 % 3
+(310) Lechugas y similares ORUGAS 0,08-0,09 % 3
+(311) Lechugas y similares POLILLAS 0,06-0,07 % 3
+(312) Lechugas y similares PULGONES 0,08-0,09 % 3
+(313) Lechugas y similares TRIPS 0,06-0,07 % 3
+(314) Maíz GUSANOS DEL SUELO 0,6-0,8 l/ha 3
+(315) Maíz ORUGAS 0,6-0,8 l/ha 3
+(316) Maíz POLILLAS 0,6-0,8 l/ha 3
+(317) Maíz PULGONES 0,6-0,8 l/ha 3
+(318) Maíz TRIPS 0,6-0,8 l/ha 3
+(319) Manzano ANARSIA 0,09 % 3
+(320) Manzano CACOECIA 0,06-0,09 % 3
+(321) Manzano CAPUA 0,06-0,09 % 3
+(322) Manzano CERATITIS 0,07-0,09 % 3
+(323) Manzano CYDIA 0,09 % 3
+(324) Manzano CYDIA POMONELLA 0,06 % 3
+(325) Manzano GORGOJO DEL MANZANO 0,06-0,09 % 3
+(326) Manzano GUSANOS 0,06-0,09 % 3
+(327) Manzano HOPLOCAMPA 0,06-0,09 % 3
+(328) Manzano MINADORES 0,06-0,09 % 3
+(329) Manzano PIOJO DE SAN JOSE 0,09 % 3
+(330) Manzano PSILA DEL PERAL 0,09 % 3
+(331) Manzano PULGONES 0,07-0,09 % 3
+(332) Manzano TRIPS 0,07-0,09 % 3
+(333) Melocotonero ANARSIA 0,09 % 3
+(334) Melocotonero CACOECIA 0,06-0,09 % 3
+(335) Melocotonero CAPUA 0,06-0,09 % 3
+(336) Melocotonero CERATITIS 0,07-0,09 % 3
+(337) Melocotonero CYDIA 0,09 % 3
+Registro de Productos FitoSanitarios
+Nº Registro: 25.760
+Nombre comercial: METEOR
+(338) Melocotonero CYDIA POMONELLA 0,06 % 3
+(339) Melocotonero GORGOJO DEL MANZANO 0,06-0,09 % 3
+(340) Melocotonero GUSANOS 0,06-0,09 % 3
+(341) Melocotonero HOPLOCAMPA 0,06-0,09 % 3
+(342) Melocotonero MINADORES 0,06-0,09 % 3
+(343) Melocotonero PIOJO DE SAN JOSE 0,09 % 3
+(344) Melocotonero PSILA DEL PERAL 0,09 % 3
+(345) Melocotonero PULGONES 0,07-0,09 % 3
+(346) Melocotonero TRIPS 0,07-0,09 % 3
+(347) Melón CHAETOCNEMA 0,06-0,07 % 3
+(348) Melón CHINCHES 0,08-0,09 % 3
+(349) Melón COCCIDOS 0,08-0,09 % 3
+(350) Melón DEPRESSARIA SP. 0,08-0,09 % 3
+(351) Melón ESCARABAJO 0,08-0,09 % 3
+(352) Melón ESCARABAJO DE LA PATATA 0,06-0,07 % 3
+(353) Melón HOPLOCAMPA 0,06-0,07 % 3
+(354) Melón MARIPOSA DE LA COL 0,06-0,07 % 3
+(355) Melón MOSCA BLANCA 0,08-0,09 % 3
+(356) Melón MOSCAS 0,08-0,09 % 3
+(357) Melón ORTOPTEROS 0,08-0,09 % 3
+(358) Melón ORUGAS 0,08-0,09 % 3
+(359) Melón POLILLAS 0,06-0,07 % 3
+(360) Melón PULGONES 0,08-0,09 % 3
+(361) Melón TRIPS 0,06-0,07 % 3
+(362) Olivo MOSCA DEL OLIVO 0,08-0,09 % 3
+(363) Olivo PRAYS 0,08-0,09 % 3
+(364) Olivo SAISSETIA 0,08-0,09 % 3
+(365) Olivo TRIPS 0,08-0,09 % 3
+(366) Ornamentales herbáceas GUSANOS GRISES 0,08-0,09 % NA
+(367) Ornamentales herbáceas HELIOTIS 0,08-0,09 % NA
+(368) Ornamentales herbáceas MOSCA BLANCA 0,08-0,09 % NA
+(369) Ornamentales herbáceas ORUGAS 0,08-0,09 % NA
+(370) Ornamentales herbáceas PULGONES 0,08-0,09 % NA
+(371) Ornamentales herbáceas TRIPS 0,08-0,09 % NA
+(372) Ornamentales leñosas GUSANOS GRISES 0,08-0,09 % NA
+(373) Ornamentales leñosas HELIOTIS 0,08-0,09 % NA
+(374) Ornamentales leñosas MOSCA BLANCA 0,08-0,09 % NA
+(375) Ornamentales leñosas ORUGAS 0,08-0,09 % NA
+(376) Ornamentales leñosas PULGONES 0,08-0,09 % NA
+(377) Ornamentales leñosas TRIPS 0,08-0,09 % NA
+Registro de Productos FitoSanitarios
+Nº Registro: 25.760
+Nombre comercial: METEOR
+(378) Patata CHAETOCNEMA 0,06-0,07 % 7
+(379) Patata CHINCHES 0,08-0,09 % 7
+(380) Patata COCCIDOS 0,08-0,09 % 7
+(381) Patata DEPRESSARIA SP. 0,08-0,09 % 7
+(382) Patata ESCARABAJO 0,08-0,09 % 7
+(383) Patata ESCARABAJO DE LA PATATA 0,06-0,07 % 7
+(384) Patata HOPLOCAMPA 0,06-0,07 % 7
+(385) Patata MARIPOSA DE LA COL 0,06-0,07 % 7
+(386) Patata MOSCA BLANCA 0,08-0,09 % 7
+(387) Patata MOSCAS 0,08-0,09 % 7
+(388) Patata ORTOPTEROS 0,08-0,09 % 7
+(389) Patata ORUGAS 0,08-0,09 % 7
+(390) Patata POLILLA 0,06-0,07 % 7
+(391) Patata PULGONES 0,08-0,09 % 7
+(392) Patata TRIPS 0,06-0,07 % 7
+(393) Pepino CHAETOCNEMA 0,06-0,07 % 3
+(394) Pepino CHINCHES 0,08-0,09 % 3
+(395) Pepino COCCIDOS 0,08-0,09 % 3
+(396) Pepino DEPRESSARIA SP. 0,08-0,09 % 3
+(397) Pepino ESCARABAJO 0,08-0,09 % 3
+(398) Pepino ESCARABAJO DE LA PATATA 0,06-0,07 % 3
+(399) Pepino HOPLOCAMPA 0,06-0,07 % 3
+(400) Pepino MARIPOSA DE LA COL 0,06-0,07 % 3
+(401) Pepino MOSCA BLANCA 0,08-0,09 % 3
+(402) Pepino MOSCAS 0,08-0,09 % 3
+(403) Pepino ORTOPTEROS 0,08-0,09 % 3
+(404) Pepino ORUGAS 0,08-0,09 % 3
+(405) Pepino POLILLAS 0,06-0,07 % 3
+(406) Pepino PULGONES 0,08-0,09 % 3
+(407) Pepino TRIPS 0,06-0,07 % 3
+(408) Peral ANARSIA 0,09 % 3
+(409) Peral CACOECIA 0,06-0,09 % 3
+(410) Peral CAPUA 0,06-0,09 % 3
+(411) Peral CERATITIS 0,07-0,09 % 3
+(412) Peral CYDIA 0,09 % 3
+(413) Peral CYDIA POMONELLA 0,06 % 3
+(414) Peral GORGOJO DEL MANZANO 0,06-0,09 % 3
+(415) Peral GUSANOS 0,06-0,09 % 3
+(416) Peral HOPLOCAMPA 0,06-0,09 % 3
+(417) Peral MINADORES 0,06-0,09 % 3
+Registro de Productos FitoSanitarios
+Nº Registro: 25.760
+Nombre comercial: METEOR
+(418) Peral PIOJO DE SAN JOSE 0,09 % 3
+(419) Peral PSILA DEL PERAL 0,09 % 3
+(420) Peral PULGONES 0,07-0,09 % 3
+(421) Peral TRIPS 0,07-0,09 % 3
+(422) Pimiento CHAETOCNEMA 0,06-0,07 % 3
+(423) Pimiento CHINCHES 0,08-0,09 % 3
+(424) Pimiento COCCIDOS 0,08-0,09 % 3
+(425) Pimiento DEPRESSARIA SP. 0,08-0,09 % 3
+(426) Pimiento ESCARABAJO 0,08-0,09 % 3
+(427) Pimiento ESCARABAJO DE LA PATATA 0,06-0,07 % 3
+(428) Pimiento HOPLOCAMPA 0,06-0,07 % 3
+(429) Pimiento MARIPOSA DE LA COL 0,06-0,07 % 3
+(430) Pimiento MOSCA BLANCA 0,08-0,09 % 3
+(431) Pimiento MOSCAS 0,08-0,09 % 3
+(432) Pimiento ORTOPTEROS 0,08-0,09 % 3
+(433) Pimiento ORUGAS 0,08-0,09 % 3
+(434) Pimiento POLILLAS 0,06-0,07 % 3
+(435) Pimiento PULGONES 0,08-0,09 % 3
+(436) Pimiento TRIPS 0,06-0,07 % 3
+(437) Puerro CHAETOCNEMA 0,06-0,07 % 7
+(438) Puerro CHINCHES 0,08-0,09 % 7
+(439) Puerro COCCIDOS 0,08-0,09 % 7
+(440) Puerro DEPRESSARIA SP. 0,08-0,09 % 7
+(441) Puerro ESCARABAJO 0,08-0,09 % 7
+(442) Puerro ESCARABAJO DE LA PATATA 0,06-0,07 % 7
+(443) Puerro HOPLOCAMPA 0,06-0,07 % 7
+(444) Puerro MARIPOSA DE LA COL 0,06-0,07 % 7
+(445) Puerro MOSCA BLANCA 0,08-0,09 % 7
+(446) Puerro MOSCAS 0,08-0,09 % 7
+(447) Puerro ORTOPTEROS 0,08-0,09 % 7
+(448) Puerro ORUGAS 0,08-0,09 % 7
+(449) Puerro POLILLAS 0,06-0,07 % 7
+(450) Puerro PULGONES 0,08-0,09 % 7
+(451) Puerro TRIPS 0,06-0,07 % 7
+(452) Remolacha CLEONUS 0,6-0,8 l/ha 3
+(453) Remolacha LIXUS 0,6-0,8 l/ha 3
+(454) Remolacha ORUGAS 0,6-0,8 l/ha 3
+(455) Remolacha PULGONES 0,6-0,8 l/ha 3
+(456) Remolacha PULGUILLA 0,6-0,8 l/ha 3
+(457) Soja CHINCHES 0,6-0,8 l/ha 15
+Registro de Productos FitoSanitarios
+Nº Registro: 25.760
+Nombre comercial: METEOR
+(458) Soja GUSANOS DEL SUELO 0,6-0,8 l/ha 15
+(459) Soja POLILLAS 0,6-0,8 l/ha 15
+(460) Soja PULGONES 0,6-0,8 l/ha 15
+(461) Soja TRIPS 0,6-0,8 l/ha 15
+(462) Tabaco EPITRIX 0,6-0,8 l/ha 3
+(463) Tabaco POLILLAS 0,6-0,8 l/ha 3
+(464) Tabaco PULGONES 0,6-0,8 l/ha 3
+(465) Tabaco TRIPS 0,6-0,8 l/ha 3
+(466) Tomate CHAETOCNEMA 0,06-0,07 % 3
+(467) Tomate CHINCHES 0,08-0,09 % 3
+(468) Tomate COCCIDOS 0,08-0,09 % 3
+(469) Tomate DEPRESSARIA SP. 0,08-0,09 % 3
+(470) Tomate ESCARABAJO 0,08-0,09 % 3
+(471) Tomate ESCARABAJO DE LA PATATA 0,06-0,07 % 3
+(472) Tomate HOPLOCAMPA 0,06-0,07 % 3
+(473) Tomate MARIPOSA DE LA COL 0,06-0,07 % 3
+(474) Tomate MOSCA BLANCA 0,08-0,09 % 3
+(475) Tomate MOSCAS 0,08-0,09 % 3
+(476) Tomate ORTOPTEROS 0,08-0,09 % 3
+(477) Tomate ORUGAS 0,08-0,09 % 3
+(478) Tomate POLILLAS 0,06-0,07 % 3
+(479) Tomate PULGONES 0,08-0,09 % 3
+(480) Tomate TRIPS 0,06-0,07 % 3
+(481) Trigo GUSANOS DEL SUELO 0,6-0,8 l/ha 3
+(482) Trigo ORUGAS 0,6-0,8 l/ha 3
+(483) Trigo POLILLAS 0,6-0,8 l/ha 3
+(484) Trigo PULGONES 0,6-0,8 l/ha 3
+(485) Trigo TRIPS 0,6-0,8 l/ha 3
+(486) Vid GUSANOS 0,07-0,09 % 3
+(487) Vid MOSQUITO VERDE 0,07-0,09 % 3
+(488) Vid ORUGAS 0,07-0,09 % 3
+(489) Vid POLILLA DE LA VID 0,07-0,09 % 3
+(490) Vid PULGONES 0,07-0,09 % 3
+(491) Vid SCAPHOIDEUS 0,07-0,09 % 3
+(492) Zanahoria CHAETOCNEMA 0,06-0,07 % 3
+(493) Zanahoria CHINCHES 0,08-0,09 % 3
+(494) Zanahoria COCCIDOS 0,08-0,09 % 3
+(495) Zanahoria DEPRESSARIA SP. 0,08-0,09 % 3
+(496) Zanahoria ESCARABAJO 0,08-0,09 % 3
+(497) Zanahoria ESCARABAJO DE LA PATATA 0,06-0,07 % 3
+Registro de Productos FitoSanitarios
+Nº Registro: 25.760
+Nombre comercial: METEOR
+(498) Zanahoria HOPLOCAMPA 0,06-0,07 % 3
+(499) Zanahoria MARIPOSA DE LA COL 0,06-0,07 % 3
+(500) Zanahoria MOSCA BLANCA 0,08-0,09 % 3
+(501) Zanahoria MOSCAS 0,08-0,09 % 3
+(502) Zanahoria ORTOPTEROS 0,08-0,09 % 3
+(503) Zanahoria ORUGAS 0,08-0,09 % 3
+(504) Zanahoria POLILLAS 0,06-0,07 % 3
+(505) Zanahoria PULGONES 0,08-0,09 % 3
+(506) Zanahoria TRIPS 0,06-0,07 % 3
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales :
+Específicos: (1), (34), (71), (86), (101), (116), (136), (183), (203), (218), (254), (269), (284), (299), (347), (378),
+(393), (422), (437), (492) Pulguilla.
+(16), (19) En viveros.
+(17) En campo, aplicaciones localizadas al tronco. En viveros, dosis: 0,15%.
+(18) En campo
+(29), (66), (160), (174), (328), (342), (417) Contra Leucoptera y Phyllonocricter
+(30), (67), (161), (175), (329), (343), (418) Contra las larvas en tratamientos de verano.
+(233), (234), (235), (236), (237), (238), (366), (367), (368), (369), (370), (371), (372), (373), (374),
+(375), (376), (377) Campo, invernadero y viveros.
+(244), (245), (246), (251), (252), (253), (471), (472), (473), (478), (479), (480) Al aire libre y en
+invernadero.
+(247), (474) Al aire libre e invernadero.
+(363) Generación antófaga.
+(486), (488) Contra Lobesia, Noctua, Taladros, Ostrinia, etc.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de
+- 20m o 15 m más boquillas de reducción de deriva del 30% o 10m más boquillas de reducción de deriva del 50% o 5m
+más boquillas de reducción de deriva del 90% para frutales de pepita en aplicación temprana
+- 20m o 10m más boquillas de reducción de deriva del 50% para frutales de hueso en aplicación temprana, cítricos,
+kiwi, frutos secos y olivo
+- 10m o 5m más boquillas de reducción de deriva del 90% para viña en aplicación temprana
+- 20m o 15 más boquillas de reducción de deriva del 30% o 5m más boquillas de reducción de deriva del 90% para
+viñas en aplicación tardía
+- 10m o 5m más boquillas de reducción de deriva del 30% para algodón
+- 10m o 5m más boquillas de reducción de deriva del 30% para el resto de cultivos indicados en la tabla.
+Hasta las masas de agua superficial.
+SPe8: Peligroso para las abejas. Para proteger las abejas y otros insectos polinizadores, no aplicar durante la
+floración de los cultivos.
+Mitigación de riesgos en la manipulación:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.760
+Nombre comercial: METEOR
+Seguridad del aplicador:
+Aire libre:
+En todos los usos autorizados al aire libre MENOS trigo, cebada, maíz, soja, colza, algodón, alfalfa y remolacha, en
+pulverización manual de bajo y ultra bajo volumen, durante la mezcla/carga se deberán utilizar guantes de protección
+química y durante la aplicación, limpieza y mantenimiento de equipo se deberán utilizar guantes y ropa de protección
+química (tipo 3 ó 4 de acuerdo a norma UNE-EN14605:2005 + A1:2009) 
+En todos los usos autorizados al aire libre, en pulverización manual, pulverización normal con tractor, o en
+pulverización con tractor de bajo y ultra bajo volumen, y en álamo pintado al tronco, durante la mezcla/carga,
+aplicación, mantenimiento y limpieza del equipo se deberán utilizar guantes de protección química. 
+Durante la aplicación con tractor con cabina cerrada y dispositivo de filtrado de aire, se podrá prescindir del equipo de
+protección, siempre que se mantengan las ventanas cerradas.
+En invernadero:
+En pepino, berenjena, tomate, calabacín, calabaza, ornamentales y viveros, en pulverización manual, durante la
+mezcla/carga se deberán utilizar guantes de protección química y durante la aplicación, limpieza y mantenimiento de
+equipo se deberán utilizar guantes y ropa de protección química (tipo 6 de acuerdo a norma UNE-EN13034:2005 +
+A1:2009).
+En fresa y flores, en pulverización manual, durante la mezcla/carga, aplicación, limpieza y mantenimiento, se deberán
+utilizar guantes de protección química.
+Evítese el contacto con el follaje húmedo durante el tratamiento.
+Seguridad del trabajador:
+En vid se deberán utilizar guantes de protección química para tareas de 8 horas. 
+En caso de tener que colocar, retirar o mover los tubos de riego en las 48 horas posteriores al tratamiento fitosanitario,
+se utilizaran botas (de caucho o poliméricas), ropa y guantes de protección adecuados. 
+No tratar con este producto en caso de que se prevea la realización  de labores mecánicas que puedan deteriorar los
+guantes de protección química.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: "Entregar los envases vacíos o residuos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno."
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Acuático agudo 1
+Símbolos y pictogramas: 0
+Frases de riesgo: H410, EUH 210, EUH 401
+Consejos de prudencia: P261, P262, P273, P391, P501
+Otras indicaciones reglamentarias: SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.

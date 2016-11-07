@@ -1,0 +1,82 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.692
+Nombre comercial: SPRUZIT
+Titular:
+W. NEUDORFF GMBH KG
+An der Muhle, 3
+Emmertal
+D-31860
+ALEMANIA
+Fabricante:
+W. NEUDORFF GMBH KG
+An der Muhle, 3
+D-31860 Emmertal
+ALEMANIA
+Fecha de inscripción: 09/01/2014
+Fecha de caducidad: 31/08/2019
+Tipo de envase:
+Botellas de plástico de 0,25, 0,5 y 1 l.
+Garrafas de polietileno de 5 y 10 l.
+En jardinería exterior doméstica sólo las botellas de 0,25 y 0,5 l.
+Composición: ACEITE DE COLZA 82,53% + PIRETRINAS 0,459% [EC] P/V
+Tipo de preparado: CONCENTRADO EMULSIONABLE [EC]
+Tipo de función: Coadyuvante, Insecticida
+Ámbitos de utilización: Cultivos, Jardinería Exterior Doméstica
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Ornamentales herbáceas ACAROS 10 l/ha NP
+(2) Ornamentales herbáceas CICADELIDOS 10 l/ha NP
+(3) Ornamentales herbáceas MOSCA BLANCA 15 l/ha NP
+(4) Ornamentales herbáceas ORUGAS 10 l/ha NP
+(5) Ornamentales herbáceas PULGONES 10 l/ha NP
+(6) Ornamentales leñosas ACAROS 10 l/ha NP
+(7) Ornamentales leñosas CICADELIDOS 10 l/ha NP
+(8) Ornamentales leñosas MOSCA BLANCA 15 l/ha NP
+(9) Ornamentales leñosas ORUGAS 10 l/ha NP
+(10) Ornamentales leñosas PULGONES 10 l/ha NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar en pulverización normal al aire libre y en invernadero
+Registro de Productos FitoSanitarios
+Nº Registro: 25.692
+Nombre comercial: SPRUZIT
+Específicos: (1), (2), (4), (5), (6), (7), (9), (10) Efectuar un máximo de 4 aplicaciones a intervalos mínimos de 7
+días con un volúmen de caldo de 1.000 l/Ha.. En jardinería exterior doméstica: mezclar 10 ml. de
+producto por litro de agua, y aplicar un volumen de caldo de 1 l. por 10 m2.
+(3), (8) Efectuar un máximo de 2 aplicaciones a intervalos mínimos de 7 días con un volúmen de
+caldo de 1.000 l/Ha.. En jardinería exterior doméstica: mezclar 15 ml. de producto por litro de agua,
+y aplicar un volumen de caldo de 1 l. por 10 m2.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m. hasta las masas
+de agua superficial.
+Mitigación de riesgos en la manipulación:
+Para uso profesional y uso en invernadero, el aplicador deberá utilizar guantes de protección durante la mezcla/carga y
+aplicación , además durante la aplicación y limpieza del equipo se utilizará ropa contra salpicaduras de productos
+líquidos según UNE-EN 13034:2005+A1:2009.
+No entrar al cultivo hasta que el producto esté seco.
+En invernadero cuando el cultivo supere el metro de altura, la anchura libre entre líneas debeá ser como mínimo de 1,2
+m.
+En caso de ser necesario realizar un mayor nº de aplicaciones a las indicadas, éstas deberán realizarse con
+productos de distinta familia química. 
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales. Autorizado para uso doméstico y jardineria exterior
+doméstica.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1
+Símbolos y pictogramas: --
+Frases de riesgo: H410, EUH 401
+Consejos de prudencia: P102, P261, P262, P273, P405, P501
+Otras indicaciones reglamentarias: SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

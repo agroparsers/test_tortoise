@@ -1,0 +1,180 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.833
+Nombre comercial: DUPONT LANNATE 20SL
+Titular:
+DU PONT IBERICA, S.L.
+Avda. Diagonal, 571 - 3ª Planta
+08029
+BARCELONA
+Fabricante:
+DU PONT DE NEMOURS FRANCE S.A.S.
+23/25 Rue Delariviére Lefoullon, Defense 9
+92800 Puteaux
+PARIS
+FRANCIA
+Fecha de inscripción: 24/05/2016
+Fecha de caducidad: 31/08/2019
+Tipo de envase:
+Envases de 1 y 5 litros.
+Composición: METOMILO 20% ( ESPI) [SL] P/V
+Tipo de preparado: CONCENTRADO SOLUBLE [SL]
+Tipo de función: Insecticida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Algodonero APHIS GOSSYPII 1,25 l/ha 14
+(2) Algodonero HELICOVERPA ARMÍGERA 1,25 l/ha 14
+(3) Berenjena APHIS GOSSYPII 1,25 l/ha 7
+(4) Berenjena BEMISIA TABACI 1,25 l/ha 7
+(5) Berenjena HELICOVERPA ARMÍGERA 1,25 l/ha 7
+(6) Berenjena MYZUS PERSICAE 1,25 l/ha 7
+(7) Berenjena OSTRINIA NUBILALIS 1,25 l/ha 7
+(8) Berenjena SPODOPTERA 1,25 l/ha 7
+(9) Berenjena TRIALEURODES VAPORARIUM 1,25 l/ha 7
+(10) Berenjena TUTA ABSOLUTA 1,25 l/ha 7
+(11) Calabacín APHIS GOSSYPII 1,25 l/ha 7
+(12) Calabacín BEMISIA TABACI 1,25 l/ha 7
+(13) Calabacín HELICOVERPA ARMÍGERA 1,25 l/ha 7
+(14) Calabacín SPODOPTERA 1,25 l/ha 7
+(15) Calabacín TUTA ABSOLUTA 1,25 l/ha 7
+(16) Calabaza APHIS GOSSYPII 1,25 l/ha 14
+(17) Calabaza BEMISIA TABACI 1,25 l/ha 14
+(18) Calabaza HELICOVERPA ARMÍGERA 1,25 l/ha 14
+Registro de Productos FitoSanitarios
+Nº Registro: 25.833
+Nombre comercial: DUPONT LANNATE 20SL
+(19) Calabaza SPODOPTERA 1,25 l/ha 14
+(20) Calabaza TUTA ABSOLUTA 1,25 l/ha 14
+(21) Espinaca HELICOVERPA ARMÍGERA 1,25 l/ha 21
+(22) Espinaca MAMESTRA BRASSICAE 1,25 l/ha 21
+(23) Espinaca MYZUS PERSICAE 1,25 l/ha 21
+(24) Espinaca NASONOVIA RIBISNIGRI 1,25 l/ha 21
+(25) Espinaca SPODOPTERA SPP. 1,25 l/ha 21
+(26) Guisantes APHIS GOSSYPII 1,25 l/ha 10
+(27) Guisantes HELICOVERPA ARMÍGERA 1,25 l/ha 10
+(28) Guisantes SPODOPTERA SPP. 1,25 l/ha 10
+(29) Judías verdes APHIS FABAE 1,25 l/ha 10
+(30) Judías verdes HELICOVERPA ARMÍGERA 1,25 l/ha 10
+(31) Judías verdes SPODOPTERA SPP. 1,25 l/ha 10
+(32) Lechuga HELICOVERPA ARMÍGERA 1,25 l/ha 21
+(33) Lechuga MAMESTRA BRASSICAE 1,25 l/ha 21
+(34) Lechuga MYZUS PERSICAE 1,25 l/ha 21
+(35) Lechuga NASONOVIA RIBISNIGRI 1,25 l/ha 21
+(36) Lechuga SPODOPTERA SPP. 1,25 l/ha 21
+(37) Melón APHIS GOSSYPII 1,25 l/ha 14
+(38) Melón BEMISIA TABACI 1,25 l/ha 14
+(39) Melón HELICOVERPA ARMÍGERA 1,25 l/ha 14
+(40) Melón SPODOPTERA 1,25 l/ha 14
+(41) Melón TUTA ABSOLUTA 1,25 l/ha 14
+(42) Pepino APHIS GOSSYPII 1,25 l/ha 7
+(43) Pepino BEMISIA TABACI 1,25 l/ha 7
+(44) Pepino HELICOVERPA ARMÍGERA 1,25 l/ha 7
+(45) Pepino SPODOPTERA 1,25 l/ha 7
+(46) Pepino TUTA ABSOLUTA 1,25 l/ha 7
+(47) Pimiento APHIS GOSSYPII 1,25 l/ha 21
+(48) Pimiento BEMISIA TABACI 1,25 l/ha 21
+(49) Pimiento HELICOVERPA ARMÍGERA 1,25 l/ha 21
+(50) Pimiento MYZUS PERSICAE 1,25 l/ha 21
+(51) Pimiento OSTRINIA NUBILALIS 1,25 l/ha 21
+(52) Pimiento SPODOPTERA 1,25 l/ha 21
+(53) Pimiento TRIALEURODES VAPORARIUM 1,25 l/ha 21
+(54) Pimiento TUTA ABSOLUTA 1,25 l/ha 21
+(55) Sandía BEMISIA TABACI 1,25 l/ha 14
+(56) Sandía HELICOVERPA ARMÍGERA 1,25 l/ha 14
+(57) Sandía SPODOPTERA 1,25 l/ha 14
+(58) Sandía TUTA ABSOLUTA 1,25 l/ha 14
+Registro de Productos FitoSanitarios
+Nº Registro: 25.833
+Nombre comercial: DUPONT LANNATE 20SL
+(59) Tabaco FRANKLINIELLA OCCIDENTALIS 1,25 l/ha 21
+(60) Tabaco HELICOVERPA ARMÍGERA 1,25 l/ha 21
+(61) Tabaco MYZUS NICOTIANAE 1,25 l/ha 21
+(62) Tabaco MYZUS PERSICAE 1,25 l/ha 21
+(63) Tabaco T.TABACO 1,25 l/ha 21
+(64) Tomate APHIS GOSSYPII 1,25 l/ha 7
+(65) Tomate BEMISIA TABACI 1,25 l/ha 7
+(66) Tomate HELICOVERPA ARMÍGERA 1,25 l/ha 7
+(67) Tomate MYZUS PERSICAE 1,25 l/ha 7
+(68) Tomate OSTRINIA NUBILALIS 1,25 l/ha 7
+(69) Tomate SPODOPTERA 1,25 l/ha 7
+(70) Tomate TRIALEURODES VAPORARIUM 1,25 l/ha 7
+(71) Tomate TUTA ABSOLUTA 1,25 l/ha 7
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Tratamiento insecticida de ingestión y contacto al aire libre.
+Método de aplicación: Pulverización normal con tractor.
+Máximo 2 aplicaciones por año con un intervalo mínimo entre tratamientos de 14 días.
+Específicos: (1), (2) Volumen de caldo: 200-600 l/ha. Aplicar en BBCH 51-79 (desde primer botón floral visible
+hasta que el 90% de las cápsulas alcanzan el tamaño final ).
+(3), (4), (5), (6), (7), (8), (9), (10), (47), (48), (49), (50), (51), (52), (53), (54), (64), (65), (66), (67), (68),
+(69), (70), (71) Volumen de caldo: 500-1000 l/ha. Aplicar en BBCH 20-89 (a partir de las 10 hojas
+desarrolladas hasta la madurez completa).
+(11), (12), (13), (14), (15), (16), (17), (18), (19), (20), (37), (38), (39), (40), (41), (42), (43), (44), (45),
+(46), (55), (56), (57), (58) Volumen de caldo: 500-1000 l/ha. Aplicar a partir del BBCH 20 (10 hojas
+desarrolladas).
+(21), (22), (23), (24), (25), (32), (33), (34), (35), (36) Volumen de caldo: 500-1000 l/ha. Aplicar en
+BBCH 20-41 (desde 9 ó más hojas verdaderas desplegadas hasta que la cabeza comienza a
+formarse: las 2 hojas más jóvenes no se desarrollan ).
+(26), (27), (28) Volumen de caldo: 500-600 l/ha. Aplicar en BBCH 51-79 (desde primeros botones
+florales visibles fuera de las hojas hasta que las vainas alcanzan el tamaño típico).
+(29), (30), (31) Volumen de caldo: 500-600 l/ha. Aplicar en BBCH 51-79 (desde primeros botones
+florales visibles fuera de las hojas hasta vainas: las judías son facilmente visibles individualmente ).
+(59), (60), (61), (62), (63) Volumen de caldo: 300-600 l/ha. Aplicar en BBCH 20-39 (desde10 hojas
+desarrolladas hasta que el 90% de las bayas de la fructificación de primer grado han alcanzado su
+tamaño final).
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe3: Para proteger a los organismos acuáticos, respétese sin tratar una banda de seguridad de 20m con cubierta
+vegetal hasta las masas de agua superficial.
+SPe6: Para proteger las aves y los mamíferos silvestres, recójase todo derrame accidental.
+SPe8: Peligroso para las abejas. Para proteger las abejas y otros insectos polinizadores, no aplicar durante la
+floración de los cultivos. No utilizar donde haya abejas en pecoreo activo. Retírense las colmenas en invernaderos
+durante el tratamiento y reintroducirlas pasados tres días. No aplicar cuando las malas hierbas estén en floración.
+Elimínense las malas hierbas antes de su floración. No aplicar antes de tres días en pre-floración en campo.
+Mitigación de riesgos en la manipulación:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.833
+Nombre comercial: DUPONT LANNATE 20SL
+Seguridad del aplicador:
+En todos los cultivos autorizados mediante pulverización normal con tractor, durante la mezcla/carga se deberán
+utilizar guantes de protección química y mascarilla FFP2SL o P2.
+Durante la aplicación, limpieza y mantenimiento del equipo se deberán usar guantes y ropa de protección química (tipo
+3 o 4 de acuerdo a norma UNE-EN14605: 2005 + A1: 2009), calzado adecuado, capucha y pantalla facial.
+Durante la aplicación con tractor con cabina cerrada y dispositivo de filtrado de aire, se podrá prescindir del equipo de
+protección, siempre que se mantengan las ventanas cerradas.
+Seguridad del trabajador:
+Evítese el contacto con el follaje húmedo durante el tratamiento. 
+En algodón se deberán utilizar guantes de protección química y para el resto de cultivos autorizados se deberá utilizar
+guantes de protección química sólo si las tareas van a durar más de dos horas de reentrada.
+No tratar con este producto en caso de que se prevea la realización de labores mecánicas que puedan deteriorar los
+guantes de protección química.
+En caso de ser necesaria una reentrada dentro de las 48 horas posteriores a la aplicación, será necesario el uso de
+guantes y  ropa de protección química. En el caso del algodón es necesario dentro de las 24 horas posteriores a la
+aplicación. 
+SPo 2: Lávese toda la ropa de protección después de usarla. 
+SPo 4: El recipiente debe abrirse al aire libre y en tiempo seco.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno. Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el
+agua de lavado al depósito (del pulverizador).
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Líquidos inflamables. Categoría 3., Lesión ocular grave.
+Categoría 1., Peligro, Toxicidad aguda (inhalación). Categoría 4., Acuático agudo 1,
+Toxicidad aguda (oral). Categoría 3
+Símbolos y pictogramas: --
+Frases de riesgo: H226, H301, H318, H332, H410, EUH 401
+Consejos de prudencia: P210, P261, P273, P280, P391, P304+P340, P305+P351+P338, P501, P403+P235+P233
+Otras indicaciones reglamentarias: El preparado no se usará en combinación  con otros productos químicos.
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.

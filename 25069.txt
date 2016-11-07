@@ -1,0 +1,94 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.069
+Nombre comercial: EQUATION PRO DP
+Titular:
+DU PONT IBERICA, S.L.
+Avda. Diagonal, 571 - 3ª Planta
+08029
+BARCELONA
+Fabricante:
+DU PONT INTERNATIONAL OPERATIONS SARL
+2, chemin du Pavillon
+CH-1218 Geneva
+Geneva
+SUIZA
+Fecha de inscripción: 19/10/2009
+Fecha de caducidad: 31/08/2019
+Tipo de envase:
+Bolsas hidrosolubles de 0,4, 1 y 2 kg. Bolsas de aluminio de 8, 10, 100, 200, 250, 500, 1500 y 3000 g. Botes de
+polietileno de 250, 400, 500, 750, 1000, 1250, 2000 y 3000 g.
+Composición: CIMOXANILO 30% ( ESPII) + FAMOXADONA 22,5% ((ESP II)) [WG] P/P
+Tipo de preparado: GRANULADO DISPERSABLE EN AGUA [WG]
+Tipo de función: Fungicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Berenjena ALTERNARIA 0,04 % 3
+(2) Berenjena MILDIU 0,04 % 3
+(3) Melón MILDIU 0,05 % 3
+(4) Patata ALTERNARIA 0,04 % 14
+(5) Patata MILDIU 0,04 % 14
+(6) Tomate ALTERNARIA 0,04 % 3
+(7) Tomate MILDIU 0,04 % 3
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales :
+Específicos: (1), (2), (6), (7) Al aire libre. Pulverización normal con tractor. Dosis máxima: 0,4 kg/ha. Volumen de
+caldo: 500-1.250 l/ha. Una única aplicación por campaña.
+(3) Aire libre e invernadero. Aplicar a la dosis máxima de 0,5 kg/ha. Una aplicación/campaña.
+Pulverización normal con  tractor (aire libre), pulv. manual con mochila, lanza ó pistola (invernadero);
+únicamente lanza ó pistola cuando el cultivo < 1m. Volumen de caldo: 500-1.000 l/ha.
+(4), (5) Al aire libre. Pulverización normal con tractor. Dosis máxima: 0,4 kg/ha. Volumen de caldo:
+300-1000 l/ha. Máximo dos aplicaciones por campaña e intervalo entre aplicaciones de 7-10 días.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.069
+Nombre comercial: EQUATION PRO DP
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 10 m hasta las masas
+de agua superficial.
+Mitigación de riesgos en la manipulación:
+Seguridad en el operador:
+Al aire libre, en mezcla-carga, se usará ropa de trabajo y guantes de protección química como mínima medida de
+protección individual en patata, tomate, berenjena y melón; mientras tanto, en aplicación se usará ropa de trabajo.
+En invernadero (melón), se usará en mezcla-carga ropa de trabajo, guantes de protección química y mascarilla tipo
+FP1 (según norma UNE-EN-149:2001+A1:2010), P1 ó similar (según norma UNE-EN-143:2001, UNE-EN
+143/AC:2002). Mientras tanto, en aplicación será necesario el uso de ropa de protección química tipo 4 (según norma
+UNE-EN14605:2005+A1:2009), guantes de protección química, capucha y visera.
+En la limpieza y mantenimiento del equipo se aplicarán las mismas medidas de protección que en aplicación, además
+de guantes de protección química.
+Seguridad en el trabajador:
+Se utilizará ropa de trabajo en patata. En tomate, berenjena y melón al aire libre, se usará ropa de trabajo y guantes
+de protección química para todas las tareas excepto las de inspección y riego. En melón en invernadero, será
+necesario el uso de ropa de trabajo y guantes de protección química para todas las tareas excepto las de inspección y
+riego.
+Evítese el contacto con el follaje húmedo durante el tratamiento.
+No tratar con este producto en caso de que se prevea la realización de labores mecánicas que puedan deteriorar los
+guantes de protección química.
+Se entiende como ropa de trabajo: manga larga, pantalón largo y calzado adecuado.
+SPo 2: Lávese toda la ropa de protección después de usarla. 
+SPo 5: Ventilar los invernaderos tratados hasta que se haya secado la pulverización antes de volver a entrar.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Tóxicos para la reproducción. Categoría 2., Toxicidad
+aguda (oral). Categoría 4., Acuático agudo 1, Toxicidad específica en determinados
+órganos (exposiciones repetidas), categoría 2
+Símbolos y pictogramas: --
+Frases de riesgo: H302, H361, H373, H410, EUH 401
+Consejos de prudencia: P261, P272, P273, P280, P391, P501, P201+P202, P301+P330
+Otras indicaciones reglamentarias: Contiene cimoxanilo. Puede provocar una reacción alérgica.
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.

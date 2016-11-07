@@ -1,0 +1,82 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 13.299
+Nombre comercial: ETHREL 48
+Titular:
+BAYER CROPSCIENCE, S.L.
+C/ Charles Robert Darwin, 13. Parque Tecnológico
+PATERNA
+46980
+VALENCIA
+Fabricante:
+BAYER CROPSCIENCE, S.L.
+C/ Charles Robert Darwin, 13. Parque Tecnológico
+46980 PATERNA
+VALENCIA
+Fecha de inscripción: 05/04/1978
+Fecha de caducidad: 31/07/2017
+Tipo de envase:
+Botellas de plástico (HDPE) de 1 l. (boca 63 mm)
+Garrafa de plástico (HDPE) de 5 l. (boca 63 mm)
+Envases de 250 cc.
+Composición: ETEFON 48% [SL] P/V
+Tipo de preparado: CONCENTRADO SOLUBLE [SL]
+Tipo de función: Fitorregulador
+Ámbitos de utilización: Cultivos, Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Algodonero ADELANTAR APERTURA CAPSULAS 2,5-3 l/ha 7
+(2) Algodonero FACILITAR APERTURA CAPSULAS 2,5-3 l/ha 7
+(3) Manzano ADELANTAR MADURACIÓN 0,0625-0,075 % 14
+(4) Manzano UNIFORMAR MADURACION 0,0625-0,075 % 14
+(5) Olivo ADELANTAR MADURACIÓN 0,075-0,1 % 11
+(6) Olivo FAVORECER ABSCISION DEL 0,075-0,1 % 11
+PEDUNCULO
+(7) Olivo UNIFORMAR MADURACION 0,075-0,1 % 11
+(8) Vid de mesa ADELANTAR MADURACIÓN 0,094 % 21
+(9) Vid de mesa UNIFORMAR MADURACION 0,094 % 21
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar en pulverización normal.
+Registro de Productos FitoSanitarios
+Nº Registro: 13.299
+Nombre comercial: ETHREL 48
+Específicos: (1), (2) Aplicar cuando el 80-90% de las cápsulas estén maduras, en aplicación única, con un
+volumen de caldo de 300-500 l/Ha.
+(3), (4) Aplicar de 15 a 20 días antes del inicio de la cosecha, en aplicación única, con un volumen
+de caldo de 1.000 l/Ha.
+(5), (6), (7) Aplicar 11 días antes del inicio de la cosecha, en aplicación única, con un volumen de
+caldo de 800 a 1.000 l/Ha. a la dosis indicada en aceituna de almazara y 0,1-014 % en aceitunas de
+mesa. Se recomienda la adición de fosfato monoámonico al 1,5% al caldo de pulverización, para
+evitar una defoliación excesiva y realizar los tratamientos bajo supervisión de los servicios oficiales.
+(8), (9) En variedades de coloración roja; Efectuar una única aplicación.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m. hasta las masas
+de agua superficial.
+Mitigación de riesgos en la manipulación:
+El aplicador deberá utilizar guantes de protección química en la mezcla/carga, aplicación,  manejo y limpieza del
+equipo y en uva de mesa para labores de reentrada de más de 2 horas, además en la aplicación en algodonero, uva de
+mesa, olivo y si el traqctor carece de cabina cerrada, se deberá utilizar ropa de protección tipo 3 o 4 y calzado
+adecuado.
+No entrar al cultivo hasta que el producto esté seco.
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Lesión ocular grave. Categoría 1., Tóxicos específicos en determinados órganos tras una
+exposición única. Categoría 3., Peligro, Acuático crónico 2
+Símbolos y pictogramas: --
+Frases de riesgo: H318, H335, H411, EUH 401
+Consejos de prudencia: P261, P271, P273, P280, P391, P304+P340, P305+P351+P338, P501
+Otras indicaciones reglamentarias: SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

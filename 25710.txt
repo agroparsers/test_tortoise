@@ -1,0 +1,76 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.710
+Nombre comercial: K-OBIOL EC 25
+Titular:
+BAYER CROPSCIENCE, S.L.
+C/ Charles Robert Darwin, 13. Parque Tecnológico
+PATERNA
+46980
+VALENCIA
+Fabricante:
+BAYER S.A.S. (LYON)
+16, rue Jean-Marie Leclair
+F-69266 LYON
+LYON CEDEX 09
+FRANCIA
+Fecha de inscripción: 02/02/2015
+Fecha de caducidad: 31/10/2017
+Tipo de envase:
+Botellas de polietileno (f-HDPE) de 0,25, 0,5 y 1 l.
+Garrafas de polietileno (f-HDPE) de 3, 5 y 10 l.
+Bidones de polietileno (f-HDPE) de 20, 25, 50, 200, 640 y 1.000 l.
+Composición: DELTAMETRIN 2,5% (POS) [EC] P/V
+Tipo de preparado: CONCENTRADO EMULSIONABLE [EC]
+Tipo de función: Insecticida
+Ámbitos de utilización: Productos Recolectados, Almacenes
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Almacenes GORGOJOS 40-60 cc/100 m2 NP
+(2) Almacenes INSECTOS DE ALMACEN 40-60 cc/100 m2 NP
+(3) Almacenes POLILLAS 40-60 cc/100 m2 NP
+(4) Granos de cereales GORGOJOS 20 cc/Tm NP
+(5) Granos de cereales INSECTOS DE ALMACEN 20 cc/Tm NP
+(6) Granos de cereales POLILLAS 20 cc/Tm NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales :
+Específicos: (1), (2), (3) Aplicar sobre las paredes delos almacenes de cereales en el momento de la limpieza de
+los locales, antes de un nuevo periodo de almacenaje..
+(4), (5), (6) Aplicar directamente sobre los cereales a proteger en el momento del almacenaje  o
+durante el manejo.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos en la manipulación:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.710
+Nombre comercial: K-OBIOL EC 25
+Se deberán utilizar guantes de protección química durante la mezcla/carga, aplicación, manipulación del grano tratado
+y limpieza del equipo e instalaciones tratadas. Durante la aplicación manual y limpieza de instalaciones en almacenes
+vacíos y cualquier tipo de manipulación del grano se utilizará ropa de protección química tipo 3 o 4, según
+UNE-EN14605:2005+A1:2009. Durantela supervisión de la aplicación y la carga del grano se utilizará mascarilla
+FFA2P3 o FFA2B2P3, debiendo observar un plazo de reentrada de 24 horas tras una ventilación adecuada. SPo 2:
+Lávese toda la ropa de protección después de usarla. 
+SPo 5: Ventilar los almacenes tratados hasta que se haya secado la pulverización antes de volver a entrar.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Líquidos inflamables. Categoría 3., Toxicidad aguda (oral,
+cutánea, por inhalación). Categoría 4., Lesión ocular grave. Categoría 1., Tóxicos
+específicos en determinados órganos tras una exposición única. Categoría 3., Peligro
+por aspiración. Categoría 1., Peligro, Acuático agudo 1
+Símbolos y pictogramas: 0
+Frases de riesgo: H226, H302, H304, H318, H332, H335, H336, H410, EUH 066, EUH 401
+Consejos de prudencia: P210, P235, P261, P280, P301+P330+P331, P304+P340, P305+P351+P338, P370+P378,
+P403+P233
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene nafta disolvente del petróleo, nº CAS:
+64742-95-6".  SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON
+SU ENVASE. (No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+Contiene butóxido de piperonilo.

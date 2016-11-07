@@ -1,0 +1,79 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 18.909
+Nombre comercial: GALAXIA
+Titular:
+INDUSTRIAS AFRASA, S.A.
+c/ Ciudad de Sevilla, 53 - Polg. Ind. Fuente Jarro
+PATERNA
+46988
+VALENCIA
+Fabricante:
+INDUSTRIAS AFRASA, S.A.
+c/ Ciudad de Sevilla, 53 - Polg. Ind. Fuente Jarro
+46988 PATERNA
+VALENCIA
+Fecha de inscripción: 27/05/1992
+Fecha de caducidad: 30/06/2017
+Tipo de envase:
+Botellas de 1 l de PE.
+Garrafas de 5 y 20 l de PE (boca de Ø54,4mm).
+Frascos de COEX, de entre 100 cc y 4 L (ambos inclusive), con cualquier anchura de boca.
+Garrafas de COEX de entre 5 y 20 L, de diámetro de boca >= 45 mm
+Contenedores de >20 L en condiciones de trasvase cerrado mediante la utilización de bomba automática.
+Composición: GLIFOSATO 18% (SAL ISOPROPILAMINA (ESP)) + MCPA 18% (SAL ISOPROPILAMINA) [SL]
+P/V
+Tipo de preparado: CONCENTRADO SOLUBLE [SL]
+Tipo de función: Herbicida
+Ámbitos de utilización: Areas no cultivadas, Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Cítricos MALAS HIERBAS 3-6 l/ha 15
+(2) Frutales de pepita MALAS HIERBAS 3-6 l/ha 15
+(3) Márgenes de cultivos MALAS HIERBAS 3-6 l/ha 15
+(4) Olivo MALAS HIERBAS 3-6 l/ha 15
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Controla malas hierbas en postemergencia.
+Aplicar en pulverización a baja presión con tractor o manualmente, utilizando las dosis más altas
+para las malas hierbas vivaces.
+Específicos: (1), (2) Efectuar 2 aplicaciones con al menos 90 días entre ellas (primavera-verano), en un volumen
+de caldo entre 200-400 l/Ha. Utilizar en árboles de porte no rastrero (más de 3-4 años).
+(3) Efectuar 2 aplicaciones como máximo con al menos 60 días entre ellas, en un volumen de caldo
+entre 300-500 l/Ha. 
+(4) Efectuar 2 aplicaciones (primavera-otoño) con al menos 180 días entre ellas, en un volumen de
+caldo entre 200-400 l/Ha. Utilizar en árboles de porte no rastrero (de más de 3-4 años). No aplicar si
+hay aceituna caída.
+Registro de Productos FitoSanitarios
+Nº Registro: 18.909
+Nombre comercial: GALAXIA
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de  de 5 m para olivos y
+cítricos y de 10 m para frutales hasta las masas de agua superficial. 
+SPe 3: Para proteger las plantas no objetivo, respétese sin tratar una banda de seguridad de 5 m hasta la zona no
+cultivada, o bien, utilizar boquillas de reducción de la deriva del 90%. 
+Mitigación de riesgos en la manipulación:
+El aplicador deberá utilizar guantes de protección química para la mezcla/carga, y guantes de protección química, ropa
+de protección química de tipo 3 o 4 y calzado adecuado durante la aplicación, manejo y limpieza del equipo, siempre y
+cuando el tractor carezca de cabina cerrada y dispositivo de filtrado de aire.  
+ No entrar al cultivo hasta que el producto esté seco.
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Irritación ocular. Categoría 2., Acuático crónico 2, Acuático agudo 1
+Símbolos y pictogramas: --
+Frases de riesgo: H319, H400, H410, H411, EUH 401
+Consejos de prudencia: P101, P264, P280, P305+P351+P338, P309+P311
+Otras indicaciones reglamentarias: SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

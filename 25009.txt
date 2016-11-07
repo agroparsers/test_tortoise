@@ -1,0 +1,75 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.009
+Nombre comercial: FOLIO GOLD
+Titular:
+SYNGENTA ESPAÑA S.A.
+C/ Ribera del Loira, 8-10 - 3º Planta
+28042
+MADRID
+Fabricante:
+SYNGENTA SUPPLY AG
+Schwarzwaldallee, 215 WRO 1004.6.07 PO Box
+CH-4002 Basel
+SUIZA
+Fecha de inscripción: 05/09/2012
+Fecha de caducidad: 30/06/2017
+Tipo de envase:
+Garrafa de plástico de 5 l. (boca 63 mm.)
+Composición: CLORTALONIL 50% ( ) + METALAXIL-M 3,63% ( ) [SC] P/V (ESP.)
+Tipo de preparado: SUSPENSION CONCENTRADA [SC]
+Tipo de función: Fungicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Cebolla MILDIU 0,2 % 14
+(2) Patata MILDIU 2 l/ha 14
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar en pulverización normal mediante aplicaciones manuales y con tractor, con un volúmen de
+caldo de 450-800 l/Ha., efectuando una única aplicación por período vegetativo.
+En la etiqueta se darán instrucciones para el correcto uso del producto, así como las advertencias
+necesarias para que el agricultor pueda cerciorarse de los riesgos de su utilización.
+Específicos: (1) Tratar con un máximo de 1,6 l/ha.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 10 m. con cubierta
+vegetal hasta las masas de agua superficial.
+Mitigación de riesgos en la manipulación:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.009
+Nombre comercial: FOLIO GOLD
+El aplicador deberá utilizar guantes de protección química adecuados durante la mezcla/carga, aplicación y limpieza
+del equipo, así como protección respiratoria de tipo FFP3 y ropa de protección química de tipo 3 o 4 (hermética a
+producos líquidos) durante la aplicación manual del producto. Se debe utilizar pantalla facial que proteja frente a
+salpicaduras durante la mezcla/carga.
+Por motivos de seguridad, no realizar más de 1 aplicación por campaña. En caso de ser necesario un mayor número
+de aplicaciones, éstas deberán realizarse con productos de distinta familia química. No realizar actividades que
+impliquen un contacto prolongado con el cultivo tratado (+ de 2 horas), hasta al menos 3 días después de la aplicación
+en cebolla y 14 días en patata.
+No entrar al cultivo hasta que el producto esté seco. 
+SPo 2: Lávese toda la ropa de protección después de usarla. 
+SPo 4: El recipiente debe abrirse al aire libre y en tiempo seco. 
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Es obligatorio enjuagar enérgicamente tres veces, o mediante dispositivo de presión, cada envase de producto que se
+vacíe al preparar la dilución y verter las aguas al depósito del pulverizador.
+Indicar en la etiqueta la obligación de entregar los envases vacíos a un gestor autorizado de residuos clasificados y
+peligrosos así como las opciones alternativas que el titular está obligado a ofrecer, conforme a lo establecido en el
+R.D. 1416/2001, de entregarlos directamente al sistema integrado de gestión al que esté adherido o al propio, de
+depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Nocivo, Carcinogénico cat. 3, Peligroso para el medio ambiente
+Símbolos y pictogramas: --
+Frases de riesgo: R20, R37/38, R40, R41, R43, R50/53
+Consejos de prudencia: S2, S13, S36/37/39, S26, S38, S23
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene 1,2-benzisotiazol-3-(2H)-ona nº CAS:
+2634-33-5".
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.  
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

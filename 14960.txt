@@ -1,0 +1,59 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 14.960
+Nombre comercial: IP-50
+Titular:
+BAYER CROPSCIENCE, S.L.
+C/ Charles Robert Darwin, 13. Parque Tecnológico
+PATERNA
+46980
+VALENCIA
+Fabricante:
+BAYER S.A.S. (LYON)
+16, rue Jean-Marie Leclair
+F-69266 LYON
+LYON CEDEX 09
+FRANCIA
+Fecha de inscripción: 06/07/1978
+Fecha de caducidad: 30/06/2003
+Fecha límite de venta: 30/06/2003
+Tipo de envase:
+Composición: ISOPROTURON 50% [WP] P/P
+Tipo de preparado: POLVO MOJABLE [WP]
+Tipo de función: Herbicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Cebada MALAS HIERBAS ANUALES 3-3,5 Kg/ha NP
+(2) Trigo MALAS HIERBAS ANUALES 3-3,5 Kg/ha NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Controla malas hierbas en pre o postemergencia precoz.
+Aplicar en pulverización a baja presión utilizando la dosis baja en terrenos ligeros y la alta en
+pesados diluyendo en 400 o más litros de agua.
+El tratamiento deberá efectuarse en invierno o a la salida del invierno, cuando el cultivo tenga de 1 a
+4 hojas, según la climatología de la zona.
+Indicar en la etiqueta la falta de acción contra algunas malas hierbas de hoja ancha comunes
+(Gallium, Sonchus, Lamium, Solanum, Raphanus, Verónica) e igualmente las variedades en que ha
+sido ensayado.
+Recomendar al usuario que consulte con el servicio técnico antes de utilizar el producto sobre otras
+variedades, especialmente sobre variedades de trigos duros y cebada de 2 carreras.
+Asimismo se incluirán las indicaciones relativas a los riesgos derivados de la utilización del
+producto.
+Específicos: (1), (2) Aplicar en postemergencia del cultivo.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Mamíferos: A
+Aves: A
+Registro de Productos FitoSanitarios
+Nº Registro: 14.960
+Nombre comercial: IP-50
+Peces: A
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Nocivo, Carcinogénico cat. 3
+Símbolos y pictogramas: Xn
+Frases de riesgo: R22, R40
+Consejos de prudencia: S2, S13, S45, S36, S24

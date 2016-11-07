@@ -1,0 +1,81 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 22.635
+Nombre comercial: KERB 80 EDF
+Titular:
+DOW AGROSCIENCES IBERICA, S.A.
+C/ Ribera del Loira 4-6, Edificio Iris, 4ª Planta
+28042
+MADRID
+Fabricante:
+ROHM AND HAAS UK LIMITED
+Lennig House, 2. Mason's Avenue
+CR9 3NB Croydon
+SURREY
+REINO UNIDO
+Fecha de inscripción: 31/07/2002
+Fecha de caducidad: 31/01/2017
+Tipo de envase:
+Cajas de cartón conteniendo bolsas de papel impermeabilizado interiormente de 1, 5 y 10 kg.
+Bote de plástico HDPE de 3 Kg.
+Composición: PROPIZAMIDA 80% [WG] P/P
+Tipo de preparado: GRANULADO DISPERSABLE EN AGUA [WG]
+Tipo de función: Herbicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Alfalfa MALAS HIERBAS ANUALES 1 Kg/ha 30
+(2) Colza MALAS HIERBAS ANUALES 1 Kg/ha 150
+(3) Endibia MALAS HIERBAS ANUALES 1-1,875 Kg/ha 30
+(4) Escarola MALAS HIERBAS ANUALES 1-1,875 Kg/ha 30
+(5) Lechuga MALAS HIERBAS ANUALES 1-1,875 Kg/ha 30
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Controla malas hierbas en preemergencia o postemergencia temprana.
+Aplicar en pulverización con tractor.
+Es conveniente que el terreno esté suficientemente húmedo al efectuar la aplicación y en caso de no
+producirse precipitaciones durante los días siguientes se debe dar un riego inmediatamente.
+No debe aplicarse este producto en suelos con elevado contenido en materia orgánica ni en épocas
+cálidas, resultando más adecuado en otoño-invierno.
+En la etiqueta se indicarán las dosis y condiciones de aplicación requeridas para cada caso y se
+advertirá de los riesgos que presenta el tratamiento para los cultivos siguientes (cereales, maíz,
+sorgo, y remolacha), indicando los plazos de espera que deben observarse por la persistencia del
+producto en el suelo.
+Específicos: (1) Aplicar durante la parada invernal.
+(2) Aplicar en postemergencia en cultivo de invierno.
+(3), (4), (5) Aplicar en pre o postemergencia del cultivo.
+Registro de Productos FitoSanitarios
+Nº Registro: 22.635
+Nombre comercial: KERB 80 EDF
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m. hasta las masas
+de agua superficial.
+Mitigación de riesgos en la manipulación:
+El aplicador debe utilizar mascarilla FFP2 durante la mecla/carga y guantes de protección química durante la mezcla
+carga y aplicación del producto, así como ropa de protección  adecuada para el tronco y las piernas.
+El retorno a la faena en las áreas o cultivos tratados no debe realizarse durante las primeras 24 horas tras la
+aplicación. En cualquier caso se deberá usar ropa y guantes de protección adecuados al menos durante las 48 horas
+siguientes a la aplicación. 
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Indicar en la etiqueta la obligación de entregar los envases vacíos o residuos de envases, conforme a lo establecido
+en el R.D. 1416/2001, de 14 de diciembre, sobre envases de productos fitosanitarios: bien en los puntos de recogida
+establecidos por los sistemas colectivos de responsabilidad ampliada o directamente en el punto de venta donde se
+hubiera adquirido si dichos envases se han puesto en el mercado a través de un sistema de depósito, devolución y
+retorno. Posteriormente los residuos de envases se gestionarán por gestores autorizados de residuos conforme a lo
+que establece el citado Real Decreto.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Nocivo, Carcinogénico cat. 3, Peligroso para el medio ambiente
+Símbolos y pictogramas: --
+Frases de riesgo: R40, R50/53
+Consejos de prudencia: S2, S13, S45, S22, S36/37, S25
+Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.  
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

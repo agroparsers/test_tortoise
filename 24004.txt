@@ -1,0 +1,79 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 24.004
+Nombre comercial: LEGACY PLUS N
+Titular:
+ADAMA AGRICULTURE ESPAÑA S.A.
+C/ Méndez Álvaro nº 20, 5ª Planta
+28045
+MADRID
+Fabricante:
+ADAMA AGRICULTURE ESPAÑA S.A.
+C/ Méndez Álvaro nº 20, 5ª Planta
+28045
+MADRID
+Fecha de inscripción: 22/12/2005
+Fecha de caducidad: 31/12/2018
+Tipo de envase:
+Garrafas de polietileno HDPE de 5, 10 y 20 l. (boca 63 mm.)
+Bidón polietileno de 200 l (utilizando una bomba automática que vierta directamente al tanque de aplicación)
+Composición: CLORTOLURON 40% ( ) + DIFLUFENICAN 2,5% ( ) [SC] P/V (ESP.)
+Tipo de preparado: SUSPENSION CONCENTRADA [SC]
+Tipo de función: Herbicida
+Ámbitos de utilización: Cultivos, Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Cebada ciclo largo MALAS HIERBAS ANUALES 1,75-2,5 l/ha NP
+(2) Olivo MALAS HIERBAS ANUALES 3-4,5 l/ha 21
+(3) Trigo blando MALAS HIERBAS ANUALES 1,75-2,5 l/ha NP
+(4) Trigo duro MALAS HIERBAS ANUALES 2 l/ha NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Controla malas hierbas en preemergencia o postemergencia precoz. 
+No aplicar en los meses de marzo a agosto
+Aplicar mediante tractor con barra hidraúlica a baja presión, diluyendo la dosis en 200-400 l. de agua
+efectuando una sola aplicación por campaña.
+En la etiqueta se darán las instrucciones oportunas para el correcto uso del producto, así como las
+advertencias necesarias para que el agricultor pueda cerciorarse de los riesgos de su utilización por
+fitotoxicidad en variedades sensibles del propio cultivo, en los cultivos adyacentes o en los
+siguientes en la alternativa.
+Específicos: (1), (3), (4) Aplicar en preemergencia o postemergencia del cultivo a partir del estado de 3 hojas
+desarrolladas.
+(2) No aplicar con aceituna caída.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Registro de Productos FitoSanitarios
+Nº Registro: 24.004
+Nombre comercial: LEGACY PLUS N
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 20 m. con cubierta
+vegetal hasta las masas de agua superficial.
+Spe7: No aplicar en los meses de marzo a agosto, corespondientes al periodo de reproducción de las aves
+Mitigación de riesgos en la manipulación:
+El aplicador deberá utilizar guantes de protección durante todo el proceso del tratamiento (mezcla/carga, aplicación,
+manipulación del equipo o superficies contaminadas y limpieza del equipo). 
+SPo 2: Lávese toda la ropa de protección después de usarla.
+No entrar al cultivo hasta que el producto esté seco.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Nocivo, Carcinogénico cat. 3, Peligroso para el medio ambiente, Tóxico para la
+reproducción cat. 3
+Símbolos y pictogramas: N,Xn
+Frases de riesgo: R40, R63, R50/53
+Consejos de prudencia: S2, S13, S45, S36/37, S23
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene 1,2-benzisotiazol-3-(2H)-ona nº CAS
+2634-33-5". Puede provocar una reacción alérgica.
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.  
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

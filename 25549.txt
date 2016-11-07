@@ -1,0 +1,71 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.549
+Nombre comercial: DEDALO
+Titular:
+CHEMINOVA AGRO, S.A.
+Pº Castellana, 257. 5º.
+28046
+MADRID
+Fabricante:
+CHEMINOVA AGRO, S.A.
+Pº Castellana, 257. 5º.
+28046
+MADRID
+Fecha de inscripción: 02/02/2015
+Fecha de caducidad: 31/12/2021
+Tipo de envase:
+Caja de cartón/bolsa de plástico de 1 Kg.
+Bolsa (poliéster+Al+polietileno) de 20 g. en cajas de 5 bolsas.
+Composición: KRESOXIM-METIL 50% [WG] P/P (ESP.)
+Tipo de preparado: GRANULADO DISPERSABLE EN AGUA [WG]
+Tipo de función: Fungicida
+Ámbitos de utilización: Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Manzano MOTEADO 15-20 g/Hl 35
+(2) Manzano OIDIO 15-20 g/Hl 35
+(3) Peral MOTEADO 15-20 g/Hl 35
+(4) Vid OIDIO 15-20 g/Hl 35
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar mediante tractor atomizador o manualmente en pulverización foliar, debiendo alternar cada 2
+aplicaciones con otros fungicidas no susceptibles de resistencias cruzadas.
+En la etiqueta se incluirán las instrucciones necesarias para la aplicación correcta, asimismo se
+informará de la probabilidad de aparición de resistencias por el uso de productos que contienen
+estrobilurinas (productos Qol) y se propondrán las estrategias y manejo de las mismas.
+Específicos: (1), (2), (3) Efectuar 4 aplicaciones desde el estadío de botón de rosa, a intervalos de 15 días y
+500-1.000 l de caldo por Ha.
+(4) Efectuar 3 aplicaciones desde que los brotes han alcanzado los 10 cm., a intervalos de 15 días y
+400-1.000 l de caldo por Ha.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m. en vid y 10 m.
+con cubierta vegetal en frutales de pepita, hasta las masas de agua superficial. 
+SPe 2: Para proteger las aguas subterráneas, no aplicar en suelos muy permeables.
+Mitigación de riesgos en la manipulación:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.549
+Nombre comercial: DEDALO
+El aplicador deberá utilizar guantes de protección en la mezcla/carga y el manipular el equipo de aplicación o
+superficies contaminadas.
+No entrar al cultivo hasta que el producto esté seco. 
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Carcinogénico cat. 2, Atención, Acuático crónico 1, Acuático agudo 1
+Símbolos y pictogramas: --
+Frases de riesgo: H351, H410, EUH 401
+Consejos de prudencia: P201, P202, P273, P280, P391, P501
+Otras indicaciones reglamentarias: SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

@@ -1,0 +1,96 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.351
+Nombre comercial: VOLARE
+Titular:
+BAYER CROPSCIENCE, S.L.
+C/ Charles Robert Darwin, 13. Parque Tecnológico
+PATERNA
+46980
+VALENCIA
+Fabricante:
+BAYER S.A.S. (LYON)
+16, rue Jean-Marie Leclair
+F-69266 LYON
+LYON CEDEX 09
+FRANCIA
+Fecha de inscripción: 25/09/2012
+Fecha de caducidad: 31/05/2020
+Tipo de envase:
+Botella de plástico de 1 l.
+Garrafa de plástico de 5 l. (boca 63 mm.)
+Envases de 10 l.
+Composición: FLUOPICOLIDA 6,25% + PROPAMOCARB 52,5% (CLORHIDRATO) [SC] P/V
+Tipo de preparado: SUSPENSION CONCENTRADA [SC]
+Tipo de función: Fungicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Brécol MILDIU 1,6 l/ha 14
+(2) Calabacín MILDIU 0,14-0,16 % 1
+(3) Espinaca MILDIU 1,6 l/ha 14
+(4) Lechugas y similares MILDIU 1,4-1,6 l/ha 14
+(5) Melón MILDIU 0,14-0,16 % 3
+(6) Patata MILDIU 1,2-1,6 l/ha 7
+(7) Pepino MILDIU 0,14-0,16 % 1
+(8) Repollo MILDIU 1,6 l/ha 14
+(9) Sandía MILDIU 0,14-0,16 % 3
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar en pulverización normal, al aire libre mediante aplicaciones manuales y con tractor y barra y
+en invernadero, mediante equipos de aplicación automáticos, tractor con cañón desde el exterior y
+aplicación amnual con lanza o pistola sólo cuando el cultivo no supere el metro de altura.
+En la etiqueta se darán las indicaciones para su correcto uso y las advertencias sobre posibles
+riesgos que puedan derivarse de su utilización.
+Registro de Productos FitoSanitarios
+Nº Registro: 25.351
+Nombre comercial: VOLARE
+Específicos: (1), (8) Sólo al aire libre. Efectuar un máximo de 3 aplicaciones por campaña con un intervalo de 7
+días y un volumen de caldo de 500-1.000 l..
+(2), (7) Sólo en invernadero. Efectuar un máximo de 2 aplicaciones por campaña, con un intervalo
+entre aplicaciones de 7 días.
+(3) Sólo al aire libre. Efectuar un máximo de 2 aplicaciones por campaña con un intervalo de 7-10
+días y un volumen de caldo de 500-1.000 l..
+(4) Sólo al aire libre. Efectuar un máximo de 2 aplicaciones por campaña con un intervalo de 7 días
+y un volumen de caldo de 500-1.000 l..
+(5), (9) Aire libre e invernadero. Efectuar un máximo de 2 aplicaciones por campaña, con un intervalo
+entre aplicaciones de 7 días y un volumen de caldo al aire libre de 400-1200 l/Ha..
+(6) Tratar sólo antes del 15 de julio. Efectuar un máximo de 4 aplicaciones por campaña con un
+intervalo de 7 días y un volumen de caldo de 500-1.000 l..
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 10 m hasta las masas
+de agua superficial.
+Mitigación de riesgos en la manipulación:
+En las aplicaciones al aire libre, el aplicador debe utilizar guantes durante la mezcla/carga del equipo y en las
+aplicaciones manuales con mochila el aplicador deberá utilizar guantes también durante la aplicación.
+No realizar actividades que impliquen un contacto prolongado con el cultivo tratado (más de 2 horas), hasta al menos
+12 días después de la aplicación en repollo y 7 días en lechuga.
+En invernadero el aplicador deberá utilizar guantes durante la mezcla/carga y además durante la aplicación ropa de
+protección adecuada tipo 4 (hermética a productos líquidos), y en la aplicación con equipos automáticos se utilizarán
+guantes durante la mezcla/carga.
+No realizar actividades que impliquen un contacto proplongado con el cultivo (más de 2 horas), hasta pasados 3 días
+después de la aplicación en melón, y 1 día en calabacín y pepino.
+No entrar al cultivo hasta que el producto esté seco. 
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Irritante, Peligroso para el medio ambiente
+Símbolos y pictogramas: N,Xi
+Frases de riesgo: R43, R51/53
+Consejos de prudencia: S2, S13, S45, S37, S24, S23
+Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.  
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

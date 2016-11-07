@@ -1,0 +1,84 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.483
+Nombre comercial: CERIDOR 500
+Titular:
+NUFARM ESPAÑA, S.A.
+Balmes, 200 - 1º-4ª
+08006
+BARCELONA
+Fabricante:
+NUFARM B.V.
+Rivium Quadrant 75,7e verdieping
+2909 LC Capelle aan den IJssel
+THE NETHERLANDS
+Fecha de inscripción: 26/01/2015
+Fecha de caducidad: 31/10/2017
+Tipo de envase:
+Botellas HDPE de 1 litro, garrafas HDPE de 5, 10 y 20 l. Boca de Ø 63 mm.
+Composición: MCPA 50% (SAL DIMETILAMINA) [SL] P/V
+Tipo de preparado: CONCENTRADO SOLUBLE [SL]
+Tipo de función: Herbicida
+Ámbitos de utilización:
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Arroz DICOTILEDONEAS 1 l/ha NP
+(2) Cereales DICOTILEDONEAS 1,6-2 l/ha 15
+(3) Cítricos DICOTILEDONEAS 2,4 l/ha NP
+(4) Frutales de hoja caduca DICOTILEDONEAS 2,4 l/ha NP
+(5) Maíz DICOTILEDONEAS 1,6 l/ha 15
+(6) Olivo DICOTILEDONEAS 2,4 l/ha NP
+(7) Praderas DICOTILEDONEAS 2,4-3,2 l/ha 15
+(8) Prados de Gramíneas DICOTILEDONEAS 2,4-3,2 l/ha 15
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Controla malas hierbas en postemergencia.
+Aplicar en pulverización a baja presión mediante tractor con un volumen de caldo de 400-600 l/Ha.
+en una sola aplicación por campaña.
+En la etiqueta además de la normativa oficial para el uso de herbicidas hormonales se darán las
+indicaciones para el correcto uso del producto así como las advertencias necesarias para que el
+agricultor pueda cerciorarse de los riesgos de su utilización por fitotoxicidad en variedades sensibles
+del propio cultivo, particularmente las de trigo duro y cebada de 2 carreras, en los cultivos
+adyacentes o en los siguientes en la alternativa.
+Registro de Productos FitoSanitarios
+Nº Registro: 25.483
+Nombre comercial: CERIDOR 500
+Específicos: (1) Tratar entre el comienzo del ahijado y el final del encañado.
+(2) Aplicar desde el final del ahijado hasta el comienzo del encañado.
+(5) Aplicar cuando el cultivo tenga 4 hojas.
+(6) No aplicar con aceituna caída.
+(7), (8) Tratar sólo en primavera.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m hasta las masas de agua
+superficial.
+Para proteger las plantas no objetivo, respétese sin tratar una banda de seguridad de 5 m hasta la zona no cultivada.
+Mitigación de riesgos en la manipulación:
+El aplicador deberá para la mezcla/carga y aplicación, utilizar guantes de protección química, gafas de protección
+química y mascarilla o pantalla facial. Además en aplicación se utilizarán ropa de protección química tipo 3 o 4 y
+calzado adecuado. Durante la aplicación con tractor con cabina cerrada y dispositivo de filtrado de aire, se podrá
+prescindir del equipo de protección, siempre que se mantengan las ventanas cerradas
+En la limpieza y mantenimiento del equipo se aplicarán las mismas medidas de protección que en aplicación.
+No entrar al cultivo hasta que el producto esté seco.
+Uso reservado a agricultores y aplicadores profesionales.
+SPo2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuagar enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador). 
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: 
+"Entregar los envases vacíos o residuos de envases bien en los puntos de recogida establecidos por los sistemas
+colectivos de responsabilidad ampliada (SIG) o directamente en el punto de venta donde se hubiera adquirido si
+dichos envases se han puesto en el mercado a través de un sistema de depósito, devolución y retorno.".
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Toxicidad aguda (oral, cutánea, por inhalación). Categoría
+4., Lesión ocular grave. Categoría 1., Irritación cutánea. Categoría 2., Peligro, Acuático
+agudo 1
+Símbolos y pictogramas: --
+Frases de riesgo: H302, H315, H318, H410, EUH 401
+Consejos de prudencia: P261, P273, P280, P391, P302+P352, P305+P351+P338, P501
+Otras indicaciones reglamentarias: SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

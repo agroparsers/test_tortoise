@@ -1,0 +1,89 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.881
+Nombre comercial: GLOBARYLL 100
+Titular:
+GLOBACHEM NV
+Brustem Industriepark, Lichtenberglaan 2019
+SINT-TRUIDEN
+B-3800
+BELGICA
+Fabricante:
+GLOBACHEM NV
+Brustem Industriepark, Lichtenberglaan 2019
+B-3800 SINT-TRUIDEN
+BELGICA
+Fecha de inscripción: 06/10/2016
+Fecha de caducidad: 31/05/2022
+Tipo de envase:
+Envases de HDPE de 1 L.
+Composición: 6-BENZILADENINA 10% [SL] P/V
+Tipo de preparado: CONCENTRADO SOLUBLE [SL]
+Tipo de función: Fitorregulador
+Ámbitos de utilización: Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Manzano ACLAREO FRUTOS 0,1 l/Hl NP
+(2) Manzano AUMENTAR TAMAÑO FRUTO 0,1 l/Hl NP
+(3) Peral ACLAREO FRUTOS 0,135 l/Hl NP
+(4) Peral AUMENTAR TAMAÑO FRUTO 0,135 l/Hl NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Fitorregulador en manzano y peral para aclareo y aumento de tamaño del fruto. (aire libre)
+Utilizar en ausencia de viento.
+Aplicar con temperaturas de al menos 18º C el día de la aplicación y también los días siguientes. 
+Específicos: (1), (2) Dosis máxima: 1,1 L pf/ha, volumen de 1100 L/ha. Una sola aplicación por campaña
+mediante pulverización normal con tractor y durante BBCH 71-72 (diámetro medio de los frutos de la
+parte vieja de 10 a 13 mm)
+(3), (4) Dosis máxima: 1,1 L pf/ha, volumen de 815 L/ha. Una sola aplicación por campaña mediante
+pulverización normal con tractor y durante BBCH 71-72 (diámetro medio de los frutos de la parte
+vieja de 10 a 13 mm)
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5m hasta las masas
+de agua superficial.
+Mitigación de riesgos en la manipulación:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.881
+Nombre comercial: GLOBARYLL 100
+Seguridad del aplicador:
+En manzano y peral, mediante pulverización normal con tractor durante la mezcla/carga se deberá utilizar guantes de
+protección química y ropa de trabajo, y durante la aplicación, limpieza y mantenimiento del equipo se deberá utilizar
+ropa de protección química tipo 3 o 4 (de acuerdo a norma UNE-EN 14605:2005+A1:2009), calzado adecuado y
+guantes de protección química. 
+Además de las medidas propuestas se recomienda usar gafas de protección (UNE-EN 166:2002)
+Las mujeres embarazadas deberán evitar la exposición al producto. 
+Durante la aplicación con tractor con cabina cerrada y dispositivo de filtrado de aire, se podrá prescindir del equipo de
+protección, excepto de la ropa de trabajo, siempre que se mantengan las ventanas cerradas.
+Se entiende como ropa de trabajo: manga larga, pantalón largo y calzado adecuado. 
+Seguridad del trabajador:
+El periodo de reentrada será de 7 días para todas las tareas excepto las de inspección y riego. 
+No entrar al cultivo hasta que el producto esté seco.
+No tratar con este producto en caso de que se prevea la realización de labores mecánicas que puedan deteriorar los
+guantes de protección química.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Lesión ocular grave. Categoría 1., Peligro, Acuático crónico 3, Toxicidad para la
+reproducción (desarrollo), categoría 2
+Símbolos y pictogramas: GHS05,GHS08
+Frases de riesgo: H318, H412, EUH 401, H361d
+Consejos de prudencia: P261, P273, P280, P305+P351+P338, P501, P201+P202
+Otras indicaciones reglamentarias: Otros componentes además del ingrediente activo técnico: Alcohol graso etoxilado
+(CAS 9043-30-5) e
+Hidróxido potásico  (CAS 1310-58-3).
+El preparado no se usará en combinación con otros productos.
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.

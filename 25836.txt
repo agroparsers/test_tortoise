@@ -1,0 +1,82 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.836
+Nombre comercial: OBLIX MT
+Titular:
+UPL IBERIA S.A.
+Avda. Josep Tarradellas 20-30. Pl. 4 - Desp. 7-8
+08029
+BARCELONA
+Fabricante:
+UPL EUROPE LTD. (UK)
+The Centre, Birchwood Park
+WA3 6YN Warrington
+CHESHIRE
+REINO UNIDO
+Fecha de inscripción: 31/08/2016
+Fecha de caducidad: 31/08/2019
+Tipo de envase:
+Envases HDPE de 1 a 10 L. 
+Composición: ETOFUMESATO 15% ( ESP) + METAMITRONA 35% ( ) [SC] P/V
+Tipo de preparado: SUSPENSION CONCENTRADA [SC]
+Tipo de función: Herbicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Remolacha azucarera DICOTILEDONEAS 2 l/ha NP
+(2) Remolacha forrajera DICOTILEDONEAS 2 l/ha NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales :
+Específicos: (1), (2) Volumen de caldo en pre-emergencia de 200 l/ha y en post-emergencia de 80-200 l/ha. En
+pulverización normal con tractor, una aplicación al año en pre-emergencia, y si es en
+post-emergencia un máximo de 3 aplicaciones al año con un intervalo de 5 días entre aplicaciones.
+En post-emergencia tratar antes de que las hojas se toquen entre líneas.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe1: Para proteger las aguas subterráneas, no aplicar este producto ni ningún otro que contenga ETOFUMESATO a
+dosis superiores a 1 kg etofumesato/ha en un periodo de 3 años
+SPe3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m hasta las masas
+de agua superficial. 
+Mitigación de riesgos en la manipulación:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.836
+Nombre comercial: OBLIX MT
+Seguridad del aplicador:
+En remolacha forrajera y azucarera mediante pulverización normal con tractor, durante la mezcla/carga se deberán
+utilizar guantes de protección química y durante la aplicación, limpieza y mantenimiento del equipo se deberán utilizar
+guantes y ropa de protección química, calzado adecuado y mascarilla tipo A1P2.
+Durante la aplicación con tractor con cabina cerrada y dispositivo de filtrado de aire, se podrá prescindir del equipo de
+protección, siempre que se mantengan las ventanas cerradas. 
+ 
+Seguridad del trabajador:
+Para todos los usos autorizados se deberá llevar guantes de protección química. 
+No entrar al cultivo hasta que el producto esté seco. 
+En caso de tener que colocar, retirar o mover los tubos de riego en las 48 horas posteriores al tratamiento fitosanitario,
+se utilizaran botas (de caucho o poliméricas), ropa y guantes de protección química adecuados. 
+No tratar con este producto en caso de que se prevea la realización de labores mecánicas que puedan deteriorar los
+guantes de protección química. 
+ SPo 2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 3, Toxicidad aguda (oral). Categoría 4., Acuático agudo 1
+Símbolos y pictogramas: GHS07,GHS09
+Frases de riesgo: H302, H410, EUH 208, EUH 401
+Consejos de prudencia: P261, P273, P280, P391, P501
+Otras indicaciones reglamentarias: Contiene 1,2-benzisotiazol-3(2H)-ona (CAS 2634-33-5). Puede provocar una
+reacción alérgica.
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.

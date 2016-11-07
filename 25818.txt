@@ -1,0 +1,77 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.818
+Nombre comercial: ZAMMO
+Titular:
+CHEMINOVA AGRO, S.A.
+Pº Castellana, 257. 5º.
+28046
+MADRID
+Fabricante:
+CHEMINOVA A/S
+Thyboronvej 78 P.O. Box 9
+DK-7620 Lemvig
+DINAMARCA
+Fecha de inscripción: 12/05/2016
+Fecha de caducidad: 31/01/2017
+Tipo de envase:
+Envases HDPE/PA de 0,25 l, 0,5 l, 1 l, 3 l, 5 l, 10 l y 20 l.
+Composición: PROPIZAMIDA 40% ( ESPI) [SC] P/V
+Tipo de preparado: SUSPENSION CONCENTRADA [SC]
+Tipo de función: Herbicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Colza DICOTILEDONEAS 1-1,75 l/ha NA
+(2) Colza GRAMINEAS 1-1,75 l/ha NA
+(3) Lechugas y similares DICOTILEDONEAS 1,75-3,75 l/ha 30
+(4) Lechugas y similares GRAMINEAS 1,75-3,75 l/ha 30
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Sólo para aire libre
+Específicos: (1), (2) Una única aplicación por campaña, en post-emergencia desde el estadío de 2-3 hojas
+verdaderas, con un volumen de caldo de 200-500 l/ha.
+(3), (4) Una única aplicación por campaña, en pre-siembra o pre-trasplante antes de la emergencia
+de las malas hierbas. También se puede aplicar hasta 15 días después de la siembra o en
+trasplante (con cultivo hasta 4-6 hojas). Volumen de caldo de 300-600 l/ha.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 metros hasta las
+masas de agua superficial.
+Mitigación de riesgos en la manipulación:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.818
+Nombre comercial: ZAMMO
+Aplicador:
+Para la mezcla/ carga deben utilizarse guantes de protección química. Para la aplicación, limpieza y mantenimiento
+del equipo, deben utilizarse guantes de protección química, ropa de protección química (equipo tipo 3 o 4 de acuerdo a
+norma UNE-EN14605:2005+A1:2009) y calzado adecuado.
+Durante la aplicación con tractor con cabina cerrada y dispositivo de filtrado de aire, se podrá prescindir del equipo de
+protección, siempre que se mantengan las ventanas cerradas.
+No entrar en el cultivo hasta que el producto esté seco.
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Carcinogénico cat. 2, Atención, Acuático crónico 1
+Símbolos y pictogramas: --
+Frases de riesgo: H351, H410, EUH 208, EUH 401
+Consejos de prudencia: P273, P280, P391, P501, P201+P202
+Uso Restringido: Uso profesional
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene 1,2-benzisotiazol-3 (2H) ona (nº CAS
+2634-33-5)".
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.
+El preparado no se usará en combinación con otros productos.

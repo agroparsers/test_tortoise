@@ -1,0 +1,150 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.774
+Nombre comercial: MAGEOS
+Titular:
+BASF ESPAÑOLA, S.L.
+Can Rabia, 3-5
+08017
+BARCELONA
+Fabricante:
+BASF AGRO B.V., ARNHEM (NL)-ZÜRICH BRANCH
+Im Tiergarten 7
+8055
+Zürich
+SUIZA
+Fecha de inscripción: 22/06/2015
+Fecha de caducidad: 31/07/2017
+Tipo de envase:
+Botes de plástico de 0,2 y 1 Kg.
+Composición: ALFA CIPERMETRIN 15% [WG] P/P
+Tipo de preparado: GRANULADO DISPERSABLE EN AGUA [WG]
+Tipo de función: Insecticida
+Ámbitos de utilización: Cultivos, Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Avena CEFUS 0,1 Kg/ha 42
+(2) Avena NEFASIA 0,07 Kg/ha 42
+(3) Avena PULGONES 0,07-0,1 Kg/ha 42
+(4) Berenjena ESCARABAJO 0,08 Kg/ha 3
+(5) Canónigos ORUGAS 0,07 Kg/ha 7
+(6) Cebada CEFUS 0,1 Kg/ha 42
+(7) Cebada NEFASIA 0,07 Kg/ha 42
+(8) Cebada PULGONES 0,07-0,1 Kg/ha 42
+(9) Centeno CEFUS 0,1 Kg/ha 35
+(10) Centeno NEFASIA 0,07 Kg/ha 35
+(11) Centeno PULGONES 0,07-0,1 Kg/ha 35
+(12) Coles BARRENADOR 0,07 Kg/ha 14
+(13) Coles GORGOJOS 0,05 Kg/ha 14
+(14) Coles ORUGA DE LA COL 0,07 Kg/ha 14
+(15) Coles POLILLAS 0,07 Kg/ha 14
+(16) Coles PULGUILLAS 0,05 Kg/ha 14
+(17) Colza GORGOJOS 0,05 Kg/ha 21
+(18) Colza MELIGUETES 0,05 Kg/ha 21
+Registro de Productos FitoSanitarios
+Nº Registro: 25.774
+Nombre comercial: MAGEOS
+(19) Diente de león GUSANOS GRISES 0,07 Kg/ha 7
+(20) Diente de león ORUGAS 0,07 Kg/ha 7
+(21) Escarola GUSANOS GRISES 0,07 Kg/ha 7
+(22) Escarola ORUGAS 0,07 Kg/ha 7
+(23) Espárrago PULGONES 0,1 Kg/ha NP
+(24) Fresal CICADELIDOS 0,07 Kg/ha 3
+(25) Fresal GUSANOS GRISES 0,07 Kg/ha 3
+(26) Gramíneas PULGONES 0,07 Kg/ha NP
+(27) Guisantes ORUGAS 0,08 Kg/ha 14
+(28) Guisantes PULGONES 0,08 Kg/ha 14
+(29) Guisantes SITONA 0,08 Kg/ha 14
+(30) Guisantes TRIPS 0,08 Kg/ha 14
+(31) Hortícolas COLEOPTEROS 0,08 Kg/ha NP
+(32) Hortícolas ORUGAS 0,08 Kg/ha NP
+(33) Hortícolas PULGONES 0,08 Kg/ha NP
+(34) Hortícolas TRIPS 0,33 Kg/ha NP
+(35) Lechuga GUSANOS GRISES 0,07 Kg/ha 7
+(36) Lechuga ORUGAS 0,07 Kg/ha 7
+(37) Leguminosas forrajeras CHINCHES 0,1 Kg/ha NP
+(38) Leguminosas forrajeras ORUGAS 0,08 Kg/ha NP
+(39) Leguminosas forrajeras PULGONES 0,08 Kg/ha NP
+(40) Leguminosas forrajeras SITONA 0,08 Kg/ha NP
+(41) Lino TRIPS 0,07 Kg/ha 21
+(42) Melón ORUGAS 0,07 Kg/ha 7
+(43) Patata ESCARABAJO 0,08 Kg/ha 21
+(44) Pepino ORUGAS 0,07 Kg/ha 3
+(45) Remolacha LIXUS 0,08 Kg/ha NP
+(46) Remolacha MOSCA 0,07 Kg/ha 21
+(47) Remolacha de mesa ORUGAS 0,07 Kg/ha 21
+(48) Remolacha de mesa PULGUILLA 0,05 Kg/ha 21
+(49) Tomate CICADELIDOS 0,07 Kg/ha 3
+(50) Tomate GUSANOS GRISES 0,07 Kg/ha 3
+(51) Trigo CEFUS 0,1 Kg/ha 35
+(52) Trigo NEFASIA 0,07 Kg/ha 35
+(53) Trigo PULGONES 0,07-0,1 Kg/ha 35
+(54) Triticale CEFUS 0,1 Kg/ha 35
+(55) Triticale NEFASIA 0,07 Kg/ha 35
+(56) Triticale PULGONES 0,07-0,1 Kg/ha 35
+(57) Vid ALTICA 0,05 Kg/ha 14
+(58) Vid MOSQUITO VERDE 0,07 Kg/ha 14
+Registro de Productos FitoSanitarios
+Nº Registro: 25.774
+Nombre comercial: MAGEOS
+(59) Vid PIRAL 0,07 Kg/ha 14
+(60) Vid POLILLAS 0,1 Kg/ha 14
+P.S.: Plazo de seguridad (días)
+Excepciones: (12), (13), (14), (15), (16) Excepto colinabo.
+(31) Para aplicaciones en plántulas utilizar una dosis de 0,05 kg/ha.
+Condicionamientos fitoterapeúticos:
+Generales : En tratamientos al aire librea aplicar en pulverización normal con tractor con un volumen de caldo de
+150-200 l/Ha.
+Realizar como máximo 2 aplicaciones anuales excepto en melón para control de ostrinia y en vid
+para piral y altica que solo se podrá realizar 1 aplicación anual.
+Para tratamientos en invernadero, aplicar en pulverización normal manual en un volumen de caldo
+entre 200-1.000 l/ha.
+En la etiqueta se darán las instrucciones necesarias para el correcto uso del producto, así como las
+condiciones que deben observarse en los tratamientos de las diferentes plagas.
+Específicos: (4), (5), (19), (20), (21), (22), (23), (24), (25), (35), (36), (42), (44), (49), (50) Aire libre e invernadero.
+(26), (31), (32), (33), (34), (37), (38), (39), (40), (45) Únicamente en cultivos destinados a la
+producción de simiente.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 10 m en remolacha,
+colza, lino, patata, cereales, guisantes, espárrago, berenjena, tomate, melón (en tratamiento de 2 aplicaciones), fresa,
+coles, lechuga, canónigo, escarola, diente de león y gramíneas para simiente; 20 m. en melón (1 aplicación anual) y
+leguminosas forrajeras para simiente; 30 m para hortalizas para simiente, 20 con boquillas de reducción de deriva del
+50% o 10 m con boquillas de reducción de deriva del 75%; y 25 m para vid, hasta las masas de agua superficial. 
+SPe 8: Peligroso para las abejas. Para proteger las abejas y otros insectos polinizadores, no aplicar durante la
+floración de los cultivos. No utilizar donde haya abejas en pecoreo activo. 
+Mitigación de riesgos en la manipulación:
+El aplicador deberá utilizar guantes de protección química para la mezcla/carga, aplicación ( si el tractor carece de
+cabina cerrada), limpieza, mantenimiento del equipo y en la reentrada en vid. Además durante la aplicación y limpieza
+del equipo ropa de protección tipo 4 en melón, berenjena y tomate ropa tipo 6.
+No entrar al cultivo hasta que el producto esté seco. 
+En caso de tener que manejar los tubos de riego en las 48 horas siguientes al tratamiento se utilizarán botas (de
+caucho o poliméricas) guantes y ropa de protección química adecuados. 
+SPo 2: Lávese toda la ropa de protección después de usarla. 
+SPo 5: Ventilar los invernaderos tratados hasta que se haya secado la pulverización antes de volver a entrar.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Toxicidad aguda (oral, cutánea, por inhalación). Categoría
+4., Tóxicos específicos en determinados órganos tras una exposición única. Categoría
+3., Tóxicos específicos en determinados órganos tras exposiciones repetidas. Categoría
+2., Acuático agudo 1
+Registro de Productos FitoSanitarios
+Nº Registro: 25.774
+Nombre comercial: MAGEOS
+Símbolos y pictogramas: --
+Frases de riesgo: H302, H335, H373, H410, EUH 401
+Consejos de prudencia: P260, P273, P280, P391, P304+P340, P501
+Otras indicaciones reglamentarias: SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.

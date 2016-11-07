@@ -1,0 +1,65 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.752
+Nombre comercial: ALSYSTIN SC
+Titular:
+BAYER CROPSCIENCE, S.L.
+C/ Charles Robert Darwin, 13. Parque Tecnológico
+PATERNA
+46980
+VALENCIA
+Fabricante:
+BAYER CROPSCIENCE AG(MONHEIM)
+Alfred Nobel Strasse, 50
+D-40789 Monheim am Rhein
+ALEMANIA
+Fecha de inscripción: 30/06/2015
+Fecha de caducidad: 31/03/2021
+Tipo de envase:
+Botellas de plástico de 0,5 y 1 l.
+Composición: TRIFLUMURON 48% [SC] P/V
+Tipo de preparado: SUSPENSION CONCENTRADA [SC]
+Tipo de función: Insecticida
+Ámbitos de utilización: Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Frutales de hueso ORUGAS 0,25-0,375 l/ha 14
+(2) Frutales de pepita ORUGAS 0,25-0,375 l/ha 28
+(3) Frutales de pepita PSILIDOS 0,25-0,375 l/ha 28
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar en pulverización normal. efectuando hasta 2 aplicaciones por campaña.
+Específicos: (1) Melocotonero, nectarino y ciruelo.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 30 m con cubierta
+vegetal hasta las masas de agua superficial, usando además boquillas de reducción de deriva del 30%.
+SPe8: Para proteger las abejas, elimínense las malas hierbas antes de su floración. 
+Mitigación de riesgos en la manipulación:
+El aplicador deberá utilizar guantes de protección química durante todas las fases del tratamiento.
+No entrar al cultivo hasta que el producto esté seco.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Registro de Productos FitoSanitarios
+Nº Registro: 25.752
+Nombre comercial: ALSYSTIN SC
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Acuático agudo 1
+Símbolos y pictogramas: --
+Frases de riesgo: H410, EUH 210, EUH 401
+Consejos de prudencia: P261, P262, P273, P391, P501
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene 1,2-benzisotiazol-3-(2H)-ona, nº CAS
+2634-33-5 y mezcla de 5-cloro-2-metil-4-isotiazolin-3-ona y
+2-metil-4-isotiazolin-3-ona (3:1) nº CAS: 55965-84-9". Puede provocar una reacción
+alérgica.  
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

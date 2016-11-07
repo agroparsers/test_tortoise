@@ -1,0 +1,80 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 21.205
+Nombre comercial: SURCO
+Titular:
+ADAMA AGRICULTURE ESPAÑA S.A.
+C/ Méndez Álvaro nº 20, 5ª Planta
+28045
+MADRID
+Fabricante:
+EXCLUSIVAS SARABIA, S.A.
+Cami de l'Albi - ptda. Rec Nou s/n. Aptdo. Correos, 9
+25110 Alpicat
+LLEIDA
+Fecha de inscripción: 05/02/1997
+Fecha de caducidad: 31/10/2017
+Tipo de envase:
+Botella de polietileno de 1 l (boca 45 mm).
+Garrafas de polietileno de 5 l (boca 45 o 63 mm), 10 y 25 l (boca 63 mm).
+Composición: CLORTOLURON 50% ((ESP I)) [SC] P/V
+Tipo de preparado: SUSPENSION CONCENTRADA [SC]
+Tipo de función: Herbicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Cebada MALAS HIERBAS ANUALES 3-3,6 l/ha NP
+(2) Trigo MALAS HIERBAS ANUALES 3-3,6 l/ha NP
+(3) Triticale MALAS HIERBAS ANUALES 3-3,6 l/ha NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Controla malas hierbas anuales en preemergencia y postemergencia.
+Aplicar en preemergencia del cultivo inmediatamente después de la siembra, o postemergencia
+hasta el estado de 2-4 hojas, mediante pulverización normal con tractor, utilizando una dosis
+máxima de 3,6 l/ha, en un volumen de caldo entre 200-500 l/ha. Las dosis más altas se deben
+reservar para combatir la avena loca en suelos ricos en materia orgánica y textura arcillosa.
+En la etiqueta se darán las instrucciones oportunas para la correcta utilización del producto, así
+como las advertencias necesarias para que el agricultor pueda cerciorarse de los riesgos de su
+utilización por fitotoxicidad en variedades sensibles del propio cultivo, en los cultivos adyacentes, en
+los siguientes en la alternativa o en las condiciones concurrentes tales como bajas temperaturas,
+estados de depresión del cultivo, tipo de suelo, etc.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m en trigo de
+primavera, y 20 m en el resto de los cultivos, hasta las masas de agua superficial.
+SPe 3: Para proteger las plantas no objetivo, respétese sin tratar una banda de seguridad de 10 m, o bien una banda
+de seguridad de 5 m empleando boquillas de reducción de deriva del 50%, o sin banda de seguridad si se emplean
+boquillas de reducción de deriva del 90% hasta la zona no cultivada.
+Registro de Productos FitoSanitarios
+Nº Registro: 21.205
+Nombre comercial: SURCO
+Mitigación de riesgos en la manipulación:
+El aplicador deberá utilizar, durante la mezcla/carga, aplicación, limpieza y manejo del equipo, guantes de protección
+química, ropa de protección química tipo 3 o 4, y calzado adecuado, siempre y cuando el tractor carezca de cabina
+cerrada y dispositivo de filtrado de aire.
+No entrar al cultivo hasta que el producto esté seco.
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Carcinogenicidad. Categoría 2., Tóxicos para la
+reproducción. Categoría 2., Acuático agudo 1
+Símbolos y pictogramas: --
+Frases de riesgo: H351, H361, H410, EUH 401
+Consejos de prudencia: P101, P201, P202, P281, P309+P311
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene 1,2-benzisotiazol-3 (2H) ona (nº CAS
+2634-33-5)", puede provocar una reacción alérgica.
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.  
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

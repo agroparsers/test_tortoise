@@ -1,0 +1,92 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 23.919
+Nombre comercial: SMARTFRESH
+Titular:
+AGROFRESH HOLDING FRANCE S.A.S.
+23-25, Avenue Mac-Mahon
+Paris
+75017
+FRANCIA
+Fabricante:
+ROHM AND HAAS COMPANY
+100 Independence Mall West
+19106 Philadelphia
+PENNSYLVANIA
+ESTADOS UNIDOS
+Fecha de inscripción: 07/06/2007
+Fecha de caducidad: 31/10/2017
+Tipo de envase:
+Generadores de vapor de plástico con una capacidad de 13,2 l. y bolsas de aluminio conteniendo bolsas hidrosolubles
+de 4,9 - 6,8 - 9,4 - 12,9 - 17,8 - 24,6 - 34 - 46,9 - 64,7 - 89,3 y 123,2 g.
+Composición: 1-METILCICLOPROPENO 3,3% [VP] P/P
+Tipo de preparado: DIFUSOR DE VAPORES [VP]
+Tipo de función: Fitorregulador
+Ámbitos de utilización: Productos Recolectados
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Ciruelas MANTENIMIENTO FIRMEZA DE FRUTOS (ver nota) NP
+(2) Manzanas ESCALDADO (ver nota) NP
+(3) Manzanas MANTENIMIENTO ACIDEZ DE FRUTOS (ver nota) NP
+(4) Manzanas MANTENIMIENTO FIRMEZA DE FRUTOS (ver nota) NP
+(5) Persimon MANTENIMIENTO FIRMEZA DE FRUTOS (ver nota) NP
+(6) Tomates MANTENIMIENTO FIRMEZA DE FRUTOS (ver nota) NP
+(7) Tomates MANTENIMIENTO FRESCURA DE FRUTOS (ver nota) NP
+(8) Tomates RETRASAR DESARROLLO COLOR ROJO (ver nota) NP
+(9) Peras ESCALDADO (ver nota) NP
+(10) Peras MANTENIMIENTO FIRMEZA DE FRUTOS (ver nota) NP
+P.S.: Plazo de seguridad (días)
+Usos protegidos hasta fecha: (9) , (10) 
+Condicionamientos fitoterapeúticos:
+Registro de Productos FitoSanitarios
+Nº Registro: 23.919
+Nombre comercial: SMARTFRESH
+Generales : Se utilizará una dosis de 42 mg/m3, excepto en peras que será de 21,5 mg/m3., empleando el
+generador adecuado a la capacidad de la cámara.
+El producto se aplicará sólo en cámaras estancas provistas de mecanismo de cierre hermético por
+medio de un generador de vapor específico para el producto. El operador colocará este generador en
+el suelo de la cámara, añadirá agua, presionará un botón activando el sistema de agitación e
+introducirá la bolsa hidrosoluble de PVA adecuada para el tamaño de la cámara, abandonando el
+recinto antes de comenzar  la liberación de 1-MCP (5 minutos). La cámara de tratamiento se sellará
+rápidamente durante al menos 24 horas (12 horas en el caso del tomate), señalizando e impidiendo
+su apertura mediante algún dispositivo adecuado.
+En la etiqueta se darán las instrucciones oportunas para la correcta aplicación del producto
+(duracción del tratamiento, temperatura de la cámara etc.) y la adecuada ventilación posterior de la
+cámara, así como las advertencias necesarias sobre los riesgos de su utilización por fitotoxicidad en
+variedades sensibles de los frutos tratados.
+Específicos: (1), (9), (10) Efectuar el tratamiento como máximo 7 días después de la recolección.
+(2), (3), (4) Efectuar el tratamiento como máximo 7 días después de la recolección. En la variedad
+"Golden" es necesario realizar un descenso progresivo de la temperatura para evitar una
+sensibilización al producto, debiendo realizarse el tratamiento de acuerdo a la siguiente pauta
+específica para esta variedad: Temperatura de 6,5ºC durante el llenado de la cámara (7 días como
+máximo) - aplicación de SmartFresh - Descenso progresivo de la temperatura hasta alcanzar
+0,5-1ºC, a razón de 1,5ºC por semana - Puesta en atmósfera controlada, si se requiere al final del
+enfriamiento.
+(5) Efectuar el tratamiento dentro de los 5 días siguientes a la recolección o bien al final del período
+de almacenamiento si la temperatura de almacenamiento ha sido de 1º C, pero siempre antes de
+desastringencia y entre 1º y 15º C.
+(6), (7), (8) Efectuar el tratamiento como máximo 1 día después de recolectar tomates rojos.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos en la manipulación:
+La zona tratada se señalizará con la frase: Area de cámaras tratadas con atmósfera de 1-metilciclopropeno.
+La manipulación de la fruta tras el tratamiento del producto se efectuará mediante guantes de protección adecuada. 
+SPo 5: Ventilar la zonas tratadas durante un tiempo superior a 15 minutos, antes de volver a entrar.
+Restricciones por clases de usuarios:
+Uso reservado a centrales hortofrutícolas y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+El sistema contiene el ingrediente activo. No intentar abrir el sistema o reutilizarlo. El agua que queda en el sistema
+después de utilizarlo no representa ningún peligro y puede ser vertida a la red de alcantarillado. Después de la
+recuperación del sistema utilizado, el interior de la unidad se aclara con agua y se seca. El sistema vacío será
+recogido por un representante de Rohm and Haas para ser reciclado.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Irritante
+Símbolos y pictogramas: Xi
+Frases de riesgo: R38
+Consejos de prudencia: S2, S13, S45, S37, S24/25, S23
+Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

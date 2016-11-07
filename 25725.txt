@@ -1,0 +1,74 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.725
+Nombre comercial: SABRE
+Titular:
+NUFARM ESPAÑA, S.A.
+Balmes, 200 - 1º-4ª
+08006
+BARCELONA
+Fabricante:
+NUFARM ESPAÑA, S.A.
+Balmes, 200 - 1º-4ª
+08006
+BARCELONA
+Fecha de inscripción: 26/08/2015
+Fecha de caducidad: 31/12/2018
+Tipo de envase:
+Botellas de plástico de 100, 250, 500, 750 ml y 1 l.
+Garrafas de plástico de 5, 10, 20 y 25 l.
+Composición: DIFLUFENICAN 1,5% + GLIFOSATO 12% (SAL AMÓNICA) + MCPA 6% (SAL AMÓNICA) [SC]
+P/V
+Tipo de preparado: SUSPENSION CONCENTRADA [SC]
+Tipo de función: Herbicida
+Ámbitos de utilización: Áreas industriales
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Recintos industriales MALAS HIERBAS 12 l/ha NP
+(2) Vías férreas MALAS HIERBAS 12 l/ha NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Controla malas hierbas en postemergencia.
+Aplicar en pulverización normal con un volumen de caldo de 500 l/H.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m hasta las masas
+de agua superficial. 
+SPe 1: Para proteger la aguas subterráneas, no aplicar este producto ni ninguno que contenga MCPA fuera del periodo
+comprendido entre 1 de marzo y 30 de septiembre.
+SPe 3: Para proteger las plantas no objetivo, respétese sin tratar una banda de seguridad de 5 m hasta la zona
+cultivada adyacente.
+SPe 4: Para proteger los organismos acuáticos, no aplicar sobre superficies impermeables como el asfalto, el
+cemento, los adoquines, ni en otras situaciones con elevado riesgo de escorrentía.
+Mitigación de riesgos en la manipulación:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.725
+Nombre comercial: SABRE
+El aplicador deberá utilizar guantes de protección química durante la mezcla/carga, aplicación, manejo y limpieza del
+equipo, además durante la aplicación manual o con tractor (si carece de cabina cerrada) durante la aplicación y
+limpieza del equipo se utilizará ropa de protección tipo 3 o 4 y calzado adecuado.
+Las tareas de reentrada no podrán superar las 2 horas de duración.
+Los envases de 25 l se deberá emplear en condiciones de trasvase cerrado.
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+Uso reservado a aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Irritación ocular. Categoría 2., Sensibilizantes cutáneos.
+Categoría 1., Acuático agudo 1
+Símbolos y pictogramas: --
+Frases de riesgo: H317, H319, H410, EUH 401
+Consejos de prudencia: P261, P273, P280, P391, P302+P352, P305+P351+P338, P501
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene mezcla de
+5-cloro-2-metil-2H-isotiazol-3-ona y 2-metil-2H-isotiazol-3-ona (3:1) nº CAS:
+55965-84-9".  
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

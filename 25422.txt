@@ -1,0 +1,81 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.422
+Nombre comercial: VERITA
+Titular:
+BAYER CROPSCIENCE, S.L.
+C/ Charles Robert Darwin, 13. Parque Tecnológico
+PATERNA
+46980
+VALENCIA
+Fabricante:
+BAYER S.A.S. (LYON)
+16, rue Jean-Marie Leclair
+F-69266 LYON
+LYON CEDEX 09
+FRANCIA
+Fecha de inscripción: 11/11/2014
+Fecha de caducidad: 30/04/2018
+Tipo de envase:
+Estuche de cartón de 1 Kg.
+Caja de cartón con bolsa interior de 5 Kg.
+Composición: FENAMIDONA 4,44% + FOSETIL-AL 66,7% [WG] P/P
+Tipo de preparado: GRANULADO DISPERSABLE EN AGUA [WG]
+Tipo de función: Fungicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Calabacín MILDIU 2,25 Kg/ha 3
+(2) Lechugas y similares MILDIU 2,25 Kg/ha 14
+(3) Melón MILDIU 2,25 Kg/ha 3
+(4) Pepino MILDIU 225 g/Hl 3
+(5) Sandía MILDIU 2,25 Kg/ha 3
+(6) Tomate MILDIU 225 g/Hl 3
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar en pulverización normal, con tractor al aire libre y manualmente (pisrola o lanza) en
+invernadero.
+En la etiqueta se darán las instrucciones oportunas para el correcto uso del producto, así como las
+advertencias necesarias para que el agricultor pueda cerciorarse de los riesgos de su utilización. 
+SPa 1: Para evitar la aparición de resistencias, no aplicar con este producto ni con ningún otro que
+contenga fenamidona u otra estrobilurina (Qol) mas de 3 aplicaciones por campaña y año. Si fuera
+necesario continuar las aplicaciones se realizarán con fungicidas de distinto modo de acción.
+Registro de Productos FitoSanitarios
+Nº Registro: 25.422
+Nombre comercial: VERITA
+Específicos: (1) Efectuar hasta 3 aplicaciones a intervalos de 7-10 días, con un volumen de caldo de 300-1.000
+l/ha. 
+(2) Sólo al aire libre. Efectuar hasta 3 aplicaciones, a intervalos de 7-10 días, con un volumen de
+caldo de 300-800 l/ha. 
+(3), (5) Efectuar hasta 2 aplicaciones con un intervalo mínimo de 10 días, con un volumen de caldo
+de 300-1.000 l/ha. 
+(4), (6) Efectuar hasta 3 aplicaciones a intervalos de 7-10 días, con un volumen de caldo de
+300-1.000 l/ha. al aire libre y 500-1.500 en invernadero.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 20 m. hasta las
+masas de agua superficial.
+Mitigación de riesgos en la manipulación:
+El aplicador deberá utilizar guantes de protección química para la mezcla/carga, aplicación (si el tractor carece de
+cabina cerrada), manejo y limpieza del equipo. En la aplicación a tomate y pepino de invernadero se utilizará ropa de
+protección tipo 6, contra salpicaduras de productos líquidos.
+No entrar al cultivo hasta el producto esté seco.
+Evítese el contacto con el follaje húmedo. 
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Acuático crónico 2
+Símbolos y pictogramas: --
+Frases de riesgo: H411, EUH 401
+Consejos de prudencia: P261, P262, P273, P391, P501
+Otras indicaciones reglamentarias: SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

@@ -1,0 +1,76 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.821
+Nombre comercial: CREW
+Titular:
+NUFARM ESPAÑA, S.A.
+Balmes, 200 - 1º-4ª
+08006
+BARCELONA
+Fabricante:
+NUFARM ESPAÑA, S.A.
+Balmes, 200 - 1º-4ª
+08006
+BARCELONA
+Fecha de inscripción: 02/11/2015
+Fecha de caducidad: 31/12/2018
+Tipo de envase:
+Botellas y garrafas de HDPE/PA de 1l. (Ø boca 50 mm), 5 l. (Ø boca 54,5 y 63 mm) y 10l. (Ø boca 54,5 y 63 mm),
+Botellas y garrafas de COEX: HDPE/PA de 0,5l. (Ø boca 42 mm).
+Composición: NICOSULFURON 4% (ESPII) [OD] P/V
+Tipo de preparado: DISPERSION OLEOSA [OD]
+Tipo de función: Herbicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Maíz de grano MALAS HIERBAS 1 l/ha NP
+(2) Maíz forrajero MALAS HIERBAS 1 l/ha NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : El producto se aplica mediante pulverización normal con tractor a baja presión dirigida al suelo en
+cultivos de maíz (en estado fenológico de entre 2 y 8 hojas verdaderas) utilizando una barra
+pulverizadora con boquillas hidráulicas con una presión inferior a 2,5 atmósferas (40 psi). No se
+utilizarán equipos de mano. 
+El número máximo de aplicaciones es de 1 aplicación por año.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe3: Para proteger los organismo acuáticos, respétese sin tratar una banda de seguridad de 6m hasta las masas de
+agua superficial.
+Mitigación de riesgos en la manipulación:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.821
+Nombre comercial: CREW
+Seguridad del aplicador:
+En los usos autorizados, en pulverización normal con tractor, durante la mezcla/carga, aplicación, limpieza y manejo
+del equipo se deberán utilizar guantes de protección química como mínima medida de protección individual.
+Se debe llevar ropa de protección química (tipo 3 o 4  de acuerdo a la norma UNE-EN14605: 2005 + A1: 2009) durante
+la mezcla/carga.
+Seguridad del trabajador:
+No entrar al cultivo hasta que el producto este seco. 
+SPo 2: Lávese toda la ropa de protección después de usarla.
+SPo 4: El recipiente debe abrirse al aire libre y en tiempo seco.
+Restricciones por clases de usuarios:
+Uso profesional. 
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Irritación cutánea. Categoría 2., Sensibilizantes cutáneos.
+Categoría 1., Toxicidad aguda (inhalación). Categoría 4., Acuático agudo 1
+Símbolos y pictogramas: --
+Frases de riesgo: H315, H317, H332, H410, EUH 401
+Consejos de prudencia: P261, P271, P273, P280, P391, P302+P352, P304+P340, P501
+Otras indicaciones reglamentarias: En la etiqueta se indicará que contiene Trisiloxano polieter modificado (CAS
+134180-76-0).
+El preparado no se usará en combinación con otros productos.
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.

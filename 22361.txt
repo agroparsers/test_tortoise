@@ -1,0 +1,83 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 22.361
+Nombre comercial: CELEST XL
+Titular:
+SYNGENTA ESPAÑA S.A.
+C/ Ribera del Loira, 8-10 - 3º Planta
+28042
+MADRID
+Fabricante:
+SYNGENTA CROP PROTECTION AG
+Schwarzwaldallee 215 P.O. Box
+CH-4002
+BASILEA
+SUIZA
+Fecha de inscripción: 11/11/2003
+Fecha de caducidad: 30/06/2017
+Tipo de envase:
+Envases de 1 L (boca 45 mm), 5 L, 20 L y 200 L de HDPE (boca 63 mm).
+Recipiente intermedio rígido a granel  de 1000 L.
+Composición: FLUDIOXONIL 2,5% + METALAXIL-M 1% [FS] P/V
+Tipo de preparado: SUSPENSION CONCENTRADA PARA TRATAMIENTO DE SEMILLAS
+[FS]
+Tipo de función: Fungicida
+Ámbitos de utilización: Simientes
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Simiente de maíz FUSARIUM 100 cc/Qm NP
+(2) Simiente de maíz PITIUM 100 cc/Qm NP
+(3) Simiente de sorgo FUSARIUM 100 cc/Qm NP
+(4) Simiente de sorgo PITIUM 100 cc/Qm NP
+P.S.: Plazo de seguridad (días)
+Usos protegidos hasta fecha: (3) , (4) 
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar homogéneamente sobre la semilla con la maquinaria adecuada, en tratamiento único. 
+Puede utilizarse directamente o diluido en 700-1000 ml. de agua por cada 100 Kg. de semilla.
+Los envases o sacos de semilla tratada deberán llevar impreso o rotulado el siguiente aviso: "Semilla
+tratada con Fludioxonil y Metalaxil-M, inhabilitada para el consumo, destinada exclusivamente para
+la siembra. No reutilizar el envase".
+Específicos: (1), (2) Dosis sin diluir de 12,5 ml por cada 50.000 semillas.
+(3), (4) Dosis sin diluir de 10,5 ml por cada 300.000 semillas.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m hasta las masas
+de agua superficial.
+Mitigación de riesgos en la manipulación:
+Registro de Productos FitoSanitarios
+Nº Registro: 22.361
+Nombre comercial: CELEST XL
+Aplicador:
+En semillas de sorgo y maíz, con tratamiento en flujo continuo o con cámaras de tratamiento cerradas, durante la
+calibración, mezcla/carga, ensacado y limpieza del equipo, se deberán utilizar guantes de protección química y ropa
+de trabajo (manga larga y pantalón largo). 
+Para las simientes de maíz se requiere la utilización de tractor con cabina cerrada en el momento de la siembra.
+Trabajador:
+Las protecciones para el trabajador serán las mismas que para el operador.
+SPo 2: Lávese toda la ropa de protección después de usarla. 
+SPo 5: Ventilar la zonas tratadas durante un tiempo especificado antes de volver a entrar.
+Los envases de capacidad superiores a 20 litros se deberán emplear en condiciones de trasvase cerrado mediante
+bomba automática que vierta directamente el producto desde el bidón hasta el sistema de aplicación.
+Restricciones por clases de usuarios:
+Uso reservado a aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Sensibilizantes cutáneos. Categoría 1., Acuático crónico 2
+Símbolos y pictogramas: --
+Frases de riesgo: H317, H411, EUH 401
+Consejos de prudencia: P261, P273, P280, P391, P302+P352, P501
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene 1,2-benzisotiazol-3-(2H)-ona (CAS
+2634-33-5)".
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.

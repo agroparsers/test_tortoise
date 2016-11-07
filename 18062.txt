@@ -1,0 +1,65 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 18.062
+Nombre comercial: SUMIGREEN-T
+Titular:
+KENOGARD, S.A.
+c/ Diputación, 279 - 5º
+08007
+BARCELONA
+Fabricante:
+KENOGARD, S.A.
+c/ Diputación, 279 - 5º
+08007
+BARCELONA
+Fecha de inscripción: 03/09/1991
+Fecha de caducidad: 30/09/2011
+Tipo de envase:
+Composición: METIL TOLCLOFOS 20% + TIRAM 30% [WP] P/P
+Tipo de preparado: POLVO MOJABLE [WP]
+Tipo de función: Fungicida
+Ámbitos de utilización: Cultivos, Parques y jardines
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Lechuga FUSARIUM 50-100 Kg/ha 90
+(2) Lechuga RIZOCTONIA 50-100 Kg/ha 90
+(3) Ornamentales herbáceas CORTICIUM 50-100 Kg/ha 90
+(4) Ornamentales herbáceas ESCLEROTINIA 50-100 Kg/ha 90
+(5) Ornamentales herbáceas FUSARIUM 50-100 Kg/ha 90
+(6) Ornamentales herbáceas RIZOCTONIA 50-100 Kg/ha 90
+(7) Ornamentales leñosas CORTICIUM 50-100 Kg/ha 90
+(8) Ornamentales leñosas ESCLEROTINIA 50-100 Kg/ha 90
+(9) Ornamentales leñosas FUSARIUM 50-100 Kg/ha 90
+(10) Ornamentales leñosas RIZOCTONIA 50-100 Kg/ha 90
+(11) Patata FUSARIUM 50-100 Kg/ha 90
+(12) Patata RIZOCTONIA 50-100 Kg/ha 90
+(13) Pimiento FUSARIUM 50-100 Kg/ha 90
+(14) Pimiento RIZOCTONIA 50-100 Kg/ha 90
+(15) Remolacha FUSARIUM 50-100 Kg/ha 90
+(16) Remolacha RIZOCTONIA 50-100 Kg/ha 90
+(17) Tomate FUSARIUM 50-100 Kg/ha 90
+(18) Tomate RIZOCTONIA 50-100 Kg/ha 90
+Registro de Productos FitoSanitarios
+Nº Registro: 18.062
+Nombre comercial: SUMIGREEN-T
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar en pulverización normal al suelo con suficiente cantidad de caldo para que el recubrimiento
+del suelo sea uniforme.
+En caso de aplicación localizada reducir la dosis proporcionalmente a la anchura del surco.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Mamíferos: B Mediana peligrosidad para mamíferos
+Aves: B Mediana peligrosidad para aves
+Peces: C Muy peligroso para peces
+Abejas: Relativamente poco peligroso para abejas
+Evitar la contaminación de aguas.
+Para protección de las abejas, tratar en las horas en que no estén presentes (atardecer y amanecer).
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Irritante
+Símbolos y pictogramas: Xi
+Frases de riesgo: R36/37, R43
+Consejos de prudencia: S2, S13, S45, S36/37

@@ -1,0 +1,96 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 22.563
+Nombre comercial: SYSTHANE FORTE
+Titular:
+DOW AGROSCIENCES IBERICA, S.A.
+C/ Ribera del Loira 4-6, Edificio Iris, 4ª Planta
+28042
+MADRID
+Fabricante:
+DOW AGROSCIENCES ITALIA S.R.L. (MILAN)
+Via Patroclo, 21 - Cap 20151
+MILAN
+ITALIA
+Fecha de inscripción: 31/07/2002
+Fecha de caducidad: 30/11/2016
+Tipo de envase:
+Botellas de plástico PET de 100, 250, 500 y 1000 ml.
+Composición: MICLOBUTANIL 24% [EC] P/V
+Tipo de preparado: CONCENTRADO EMULSIONABLE [EC]
+Tipo de función: Fungicida
+Ámbitos de utilización: Cultivos, Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Albaricoquero OIDIO 0,02-0,03 % 7
+(2) Alcachofa OIDIO 0,02-0,04 % 3
+(3) Arándano OIDIO 0,02-0,04 % 7
+(4) Borraja MANCHA BLANCA 0,02-0,04 % 15
+(5) Borraja OIDIO 0,02-0,04 % 15
+(6) Cerezo OIDIO 0,02-0,04 % 7
+(7) Ciruelo OIDIO 0,02-0,03 % 7
+(8) Cucurbitáceas de piel comestible OIDIO 0,02-0,04 % 1
+(9) Cucurbitáceas de piel no comestible OIDIO 0,02-0,04 % 7
+(10) Espárrago ROYA 0,02-0,04 % NP
+(11) Fresales OIDIO 0,02-0,03 % 3
+(12) Frutales de pepita MOTEADO 0,02-0,025 % 28
+(13) Frutales de pepita OIDIO 0,02-0,025 % 28
+(14) Grosellero OIDIO 0,02-0,025 % 7
+(15) Lúpulo OIDIO 0,02-0,04 % 15
+(16) Melocotonero OIDIO 0,02-0,03 % 7
+(17) Nectarino OIDIO 0,02-0,03 % 7
+(18) Ornamentales herbáceas OIDIO 0,02-0,04 % NP
+Registro de Productos FitoSanitarios
+Nº Registro: 22.563
+Nombre comercial: SYSTHANE FORTE
+(19) Ornamentales herbáceas ROYA 0,02-0,04 % NP
+(20) Ornamentales leñosas OIDIO 0,02-0,04 % NP
+(21) Ornamentales leñosas ROYA 0,02-0,04 % NP
+(22) Pimiento OIDIOPSIS 0,02-0,04 % 3
+(23) Remolacha azucarera OIDIO 0,25 l/ha 28
+(24) Rosal ANTRACNOSIS 0,02-0,04 % NP
+(25) Tomate OIDIOPSIS 0,02-0,04 % 3
+(26) Vid BLACK-ROT 0,02-0,04 % 15
+(27) Vid OIDIO 0,02-0,04 % 15
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar en pulverización normal.
+Específicos: (1), (7), (11), (16), (17) Efectuar como máximo 5 aplicaciones por campaña.
+(10) Aplicar en el periodo comprendido entre después de la última cosecha y antes del corte del
+follaje, con un máximo de 5 aplicaciones por campaña
+(12), (13) Efectuar como máximo 4 aplicaciones por campaña.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Mamíferos: A
+Aves: A
+Peces: A
+Abejas: Compatible con abejas
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Este envase está clasificado según la Ley 11/1997 por lo que el usuario final es responsable de entregarlos en alguno
+de los puntos de recogida indicados por el distribuidor que haya suministrado el producto. 
+Es obligatorio enjuagar enérgicamente tres veces, o mediante dispositivo de presión, cada envase de producto que se
+vacíe al preparar la dilución y verter las aguas al depósito del pulverizador.
+ Indicar en la etiqueta la obligación de entregar los envases vacíos a un gestor autorizado de residuos clasificados y
+peligrosos así como las opciones alternativas que el titular está obligado a ofrecer, conforme a lo establecido en el
+R.D. 1416/2001, de entregarlos directamente al sistema integrado de gestión al que esté adherido o al propio, de
+depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Nocivo, Peligroso para el medio ambiente, Tóxico para la reproducción cat. 3
+Símbolos y pictogramas: --
+Frases de riesgo: R20, R36/38, R10, R63, R51/53, R65
+Consejos de prudencia: S2, S13, S45, S36/37, S25, S38, S43, S62, S23
+Registro de Productos FitoSanitarios
+Nº Registro: 22.563
+Nombre comercial: SYSTHANE FORTE
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene nafta disolvente del petróleo, nº CAS
+64742-95-6 ; ciclohexanona; 1,2,4-trimetilbenceno; xileno y
+propil/isopropilbenceno". 
+La frase: 'A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO', en caracteres que resalten del
+texto. 
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

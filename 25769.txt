@@ -1,0 +1,87 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.769
+Nombre comercial: TOUAREG
+Titular:
+ADAMA AGRICULTURE ESPAÑA S.A.
+C/ Méndez Álvaro nº 20, 5ª Planta
+28045
+MADRID
+Fabricante:
+ADAMA AGRICULTURE ESPAÑA S.A.
+C/ Méndez Álvaro nº 20, 5ª Planta
+28045
+MADRID
+Fecha de inscripción: 19/07/2016
+Fecha de caducidad: 31/01/2017
+Tipo de envase:
+Botellas de polietileno de 1 L.
+Composición: CLODINAFOP-PROPARGIL 24% ( ESPI) [EC] P/V
+Tipo de preparado: CONCENTRADO EMULSIONABLE [EC]
+Tipo de función: Herbicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Trigo blando ALOPECURUS MYOSUROIDES 0,17 l/ha NP
+(2) Trigo blando AVENA SPP 0,17 l/ha NP
+(3) Trigo blando LOLIUM SPP 0,25 l/ha NP
+(4) Trigo blando MILIUM VENALE 0,2 l/ha NP
+(5) Trigo blando PHALARIS 0,2 l/ha NP
+(6) Trigo duro ALOPECURUS MYOSUROIDES 0,17 l/ha NP
+(7) Trigo duro AVENA SPP 0,17 l/ha NP
+(8) Trigo duro LOLIUM SPP 0,25 l/ha NP
+(9) Trigo duro MILIUM VENALE 0,2 l/ha NP
+(10) Trigo duro PHALARIS 0,2 l/ha NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Tratamiento herbicida post-emergencia para trigo blando y duro contra gramíneas anuales.
+Modo de aplicación: Pulverización normal con tractor, aplicado en post-emergencia temprana,
+realizando una aplicación por campaña.
+Específicos: (1), (2), (3), (4), (5), (6), (7), (8), (9), (10) Volumen de caldo: 200-400 l/ha.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.769
+Nombre comercial: TOUAREG
+Spe3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m hasta las masas
+de agua superficial.
+Mitigación de riesgos en la manipulación:
+Seguridad del aplicador
+En trigo mediante pulverización normal con tractor, durante la mezcla/carga se deberá utilizar guantes de protección
+química y durante la aplicación, limpieza y mantenimiento del equipo se deberán utilizar guantes y ropa de protección
+química (tipo 3 o 4 de acuerdo a norma UNE-EN14605: 2005 + A1: 2009) y calzado adecuado. 
+Durante la aplicación con tractor con cabina cerrada y dispositivo de filtrado de aire, se podrá prescindir del equipo de
+protección, siempre que se mantengan las ventanas cerradas. 
+Seguridad del trabajador
+No  entrar al cultivo hasta que el producto esté seco.
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno. Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el
+agua de lavado al depósito (del pulverizador).
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Irritación ocular. Categoría 2., Sensibilizantes cutáneos.
+Categoría 1., Peligro por aspiración. Categoría 1., Peligro, Toxicidad aguda (oral e
+inhalatoria). Categoría 4., Acuático agudo 1, Toxicidad específica en determinados
+órganos (exposiciones repetidas), categoría 2
+Símbolos y pictogramas: --
+Frases de riesgo: H304, H317, H319, H373, H410, EUH 066, EUH 401, H302+H332
+Consejos de prudencia: P261, P273, P280, P391, P301+P330+P331, P302+P352, P304+P340, P305+P351+P338,
+P501
+Otras indicaciones reglamentarias: Otros componentes además del ingrediente activo técnico.
+-Nafta disolvente del petróleo (CAS 64742-94-5)
+El preparado no se usará en combinación con otros productos.
+La Nafta disolvente del petróleo con nº CAS 64742-94-5 debe tener un contenido
+en naftaleno menor de 1%.
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.

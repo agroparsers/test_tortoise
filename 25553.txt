@@ -1,0 +1,82 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.553
+Nombre comercial: CORUM
+Titular:
+BASF ESPAÑOLA, S.L.
+Can Rabia, 3-5
+08017
+BARCELONA
+Fabricante:
+BASF SE
+D-67056 LUDWIGSHAFEN
+RHEIN
+ALEMANIA
+Fecha de inscripción: 11/03/2014
+Fecha de caducidad: 30/06/2017
+Tipo de envase:
+Botella de plástico de 1 l.
+Garrafa de plástico de 5 l. (boca 54 mm).
+Composición: BENTAZONA 48% (SAL SÓDICA) + IMAZAMOX 2,24% [SL] P/V
+Tipo de preparado: CONCENTRADO SOLUBLE [SL]
+Tipo de función: Herbicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Alfalfa MALAS HIERBAS 1,25 l/ha NP
+(2) Guisantes MALAS HIERBAS 1,25 l/ha NP
+(3) Habas MALAS HIERBAS 1,25 l/ha NP
+(4) Judías MALAS HIERBAS 1,25 l/ha NP
+(5) Soja MALAS HIERBAS 1,875 l/ha NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Controla malas hierbas en postemergencia.
+Aplicar en pulverización normal en postemergencia del cultivo a partir de 3 hojas verdaderas
+mediante mochila o tractor en un tratamirento por campaña y un volumen de caldo de 100-400 l/ha.
+En la etiqueta se darán las indicaciones necesarias para el correcto uso del producto para que el
+agricultor pueda cerciorarse de los riesgos de su utilización por fitotoxicidad en el propio cultivo o en
+los adyacentes o los siguientes en la alternativa, se informará de las especies resistentes al
+formulado y la probabilidad de aparición de resistencias para las que se propondrán las estrategias
+de prevención y manejo más adecuados, asimismo deberán indicarse en la etiqueta para el caso de
+reemplazo del cultivo los plazos que deben observarse para la siembra del siguiente cultivo en la
+rotación.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.553
+Nombre comercial: CORUM
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de  5 m. en alfalfa y soja
+y 10 m. en judías, habas y guisantes hasta las masas de agua superficial. 
+SPe 3: Para proteger las plantas no objetivo, respétese sin tratar una banda de seguridad de 10 m. hasta la zona no
+cultivada.
+Mitigación de riesgos en la manipulación:
+El aplicador de deberá utilizar guantes de protección durante la mezcla/carga, aplicación, al manipular el equipo de
+aplicación o superficies contaminadas, además durante la aplicación con mochila en soja se utilizará ropa de
+protección tipo 6 contra salpicaduras de productos líquidos según UNE-EN 13034:2005+A1:2009 y en los demás
+cultivos ropa tipo 4 hermética a productos líquidos según UNE-EN 14605:2005+A1:2009.
+Durante la limpieza del equipo se usará la misma protección que durante la aplicación.
+No entrar al cultivo hasta que el producto esté seco. 
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Nocivo
+Símbolos y pictogramas: Xn
+Frases de riesgo: R22
+Consejos de prudencia: S2, S13, S45, S36/37, S23
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene bentazona". Puede provocar una
+reacción alérgica.
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.  
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

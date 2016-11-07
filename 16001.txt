@@ -1,0 +1,77 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 16.001
+Nombre comercial: LANNATE 20 L
+Titular:
+DU PONT IBERICA, S.L.
+Avda. Diagonal, 571 - 3ª Planta
+08029
+BARCELONA
+Fabricante:
+DU PONT DE NEMOURS FRANCIA S.A.S.
+23/25 Rue Delariviére Lefoullon, Defense 9
+92800 Puteaux
+PARIS
+FRANCIA
+Fecha de inscripción: 25/06/1981
+Fecha de caducidad: 31/07/2017
+Tipo de envase:
+Envases de 1, 5 y 10 l.
+Composición: METOMILO 20% [SL] P/V
+Tipo de preparado: CONCENTRADO SOLUBLE [SL]
+Tipo de función: Insecticida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Berenjena ORUGAS 1,25 l/ha 7
+(2) Berenjena PULGONES 1,25 l/ha 7
+(3) Lechuga GUSANOS GRISES 1,25 l/ha 21
+(4) Lechuga ORUGAS 1,25 l/ha 21
+(5) Lechuga PULGONES 1,25 l/ha 21
+(6) Pimiento GUSANOS GRISES 1,25 l/ha 14
+(7) Pimiento MOSCA BLANCA 1,25 l/ha 14
+(8) Pimiento PULGONES 1,25 l/ha 14
+(9) Tomate GUSANOS GRISES 1,25 l/ha 7
+(10) Tomate MOSCA BLANCA 1,25 l/ha 7
+(11) Tomate PULGONES 1,25 l/ha 7
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar en pulverización normal.
+Observar precauciones cuando se aplique el producto en ambientes cerrados con temperaturas
+elevadas (invernaderos).
+Específicos: (1), (2), (3), (4), (5), (9), (10), (11) Efectuar como máximo 2 aplicaciones por campaña.
+(6), (7), (8) Efectuar como máximo 2 aplicaciones por campaña. P.S.= 21 días invernadero.
+Registro de Productos FitoSanitarios
+Nº Registro: 16.001
+Nombre comercial: LANNATE 20 L
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Mamíferos: C Muy peligroso para mamíferos
+Aves: C Muy peligroso para aves
+Peces: B Mediana peligrosidad para peces
+Abejas: Peligrosidad controlable para abejas
+Para protección de las abejas, tapar las colmenas previamente al tratamiento y mantenerlas así durante 1 ó 2 horas
+más tarde.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Este envase está clasificado según la Ley 11/1997 por lo que el usuario final es responsable de entregarlos en alguno
+de los puntos de recogida indicados por el distribuidor que haya suministrado el producto. 
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Tóxico, Peligroso para el medio ambiente
+Símbolos y pictogramas: --
+Frases de riesgo: R25, R20, R10, R41, R51/53
+Consejos de prudencia: S13, S45, S1/2, S36/37/39, S16, S26
+Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto. 
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

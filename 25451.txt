@@ -1,0 +1,84 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.451
+Nombre comercial: DEVICE SC 15
+Titular:
+QUIMICA DE MUNGUIA, S.A.
+c/ Derio Bidea, 51.
+Munguia
+48100
+VIZCAYA
+Fabricante:
+CHEMTURA NETHERLANDS B.V.
+Ankerweg 18
+1041 AT
+AMSTERDAM
+HOLANDA
+Fecha de inscripción: 29/09/2015
+Fecha de caducidad: 31/12/2018
+Tipo de envase:
+Envases de 100, 200, 250, 300, 500 y 750 ml, y de 1, 5 y 10 litros.
+Composición: DIFLUBENZURON 15% [SC] P/V
+Tipo de preparado: SUSPENSION CONCENTRADA [SC]
+Tipo de función: Insecticida
+Ámbitos de utilización: Cultivos, Humedales
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Arroz MOSQUITOS 0,2 l/ha NP
+(2) Arroz QUIRONOMIDOS 0,4 l/ha NP
+(3) Charcas MOSQUITOS 0,2 l/ha NP
+(4) Terrenos pantanosos MOSQUITOS 0,2 l/ha NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Modo de aplicación: 
+Mediante pulverización con vehículos pick-up mediante barra pulverizadora acoplada al vehículo con
+boquillas hidráulicas. 
+Para el control de la larva de mosquito en arroz se realizarán un máximo de 3 aplicaciones por
+campaña en el periodo de primavera-verano hasta la salida de las panículas, repitiendo el tratamiento
+cada 3-4 semanas.
+Para el control de quironómidos aplicar en el momento inicial de la plantación.
+En charcas y terrenos pantanosos se consideran las mismas condiciones de uso que en el arroz y
+número-intervalo de aplicaciones.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe3: Para proteger los organismos acuáticos respétese sin tratar una banda de seguridad de 5m hasta las masas de
+agua superficial.
+SPe3: Para proteger los artrópodos no objetivo, respétese sin tratar una banda de seguridad de 10m hasta la zona no
+cultivada.
+SPe8: Para proteger las abejas y otros insectos polinizadores, no aplicar durante la floración de los cultivos.
+Registro de Productos FitoSanitarios
+Nº Registro: 25.451
+Nombre comercial: DEVICE SC 15
+Mitigación de riesgos en la manipulación:
+Seguridad del operador:
+Para todos los usos autorizados en pulverización con vehículos tipo pick-up mediante barra pulverizadora acoplada al
+vehículo con boquillas hidráulicas durante la mezcla/carga, aplicación, limpieza y mantenimiento del equipo se deberán
+utilizar guantes de protección química.
+Durante la aplicación con vehículo pick-up, se podrá prescindir del equipo de protección, siempre que se mantengan
+las ventanas cerradas.
+En los caminos y vías de acceso a la zona de carga y tratamiento, se instalarán señales específicas advirtiendo de la
+realización de tratamientos.
+No entrar al cultivo hasta que el producto esté seco.
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: 
+"Entregar los envases vacíos o residuos de envases bien en los puntos de recogida establecidos por los sistemas
+colectivos de responsabilidad ampliada (SIG) o directamente en el punto de venta donde se hubiera adquirido si
+dichos envases se han puesto en el mercado a través de un sistema de depósito, devolución y retorno.".
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Sensibilizantes cutáneos. Categoría 1., Acuático agudo 1
+Símbolos y pictogramas: --
+Frases de riesgo: H317, H410, EUH 401
+Consejos de prudencia: P261, P272, P273, P280, P363, P391, P302+P352, P501, P309+P311+P101
+Otras indicaciones reglamentarias: SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto. En la etiqueta se hará constar que "contiene 1,2-benzisotiazol-3 (2H) ona (nº
+CAS 2634-33-5)".

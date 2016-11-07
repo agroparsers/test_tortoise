@@ -1,0 +1,82 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.575
+Nombre comercial: KAOS-B
+Titular:
+SAPEC AGRO, S.A. (P)
+Avenida de Rio Tejo, Herdade das Praias
+2910-440
+SETUBAL
+PORTUGAL
+Fabricante:
+SAPEC AGRO, S.A. (P)
+Avenida de Rio Tejo, Herdade das Praias
+2910-440
+SETUBAL
+PORTUGAL
+Fecha de inscripción: 01/12/2011
+Fecha de caducidad: 30/06/2017
+Tipo de envase:
+Botella de polietileno de 1 l.
+Garrafa de polietileno de 5 l.
+Composición: BENTAZONA 48% (SAL SÓDICA) [SL] P/V (ESP.)
+Tipo de preparado: CONCENTRADO SOLUBLE [SL]
+Tipo de función: Herbicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Arroz CIPERACEAS 2 l/ha NP
+(2) Arroz DICOTILEDONEAS 2 l/ha NP
+(3) Maíz DICOTILEDONEAS 2 l/ha NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Controla malas hierbas de hoja ancha (dicotiledóneas) y ciperáceas.
+Aplicar en pulverización, con un volumen de caldo de 50-100 l/Ha en aplicaciones aéreas (avión
+dotado de cabina cerrada y navegador DGPS; el tratamiento se realizará sin señaleros) y 200-400
+l/Ha. en aplicaciones terrestres mediante tractor. Para disminuir el riego de deriva evitar presiones
+superiores a 2 Kg/cm2 y el uso de atomizadores.
+No aplicar el producto cuando las temperaturas sean inferiores a 19º C o superiores a 32º C
+En la etiqueta se darán las instrucciones oportunas para la correcta utilización del producto, así
+como las advertencias necesarias para que el agricultor pueda cerciorarse de los riesgos de su
+utilización por fitotoxicidad en variedades sensibles del propio cultivo, en los cultivos adyacentes o
+en los siguientes en la alternativa o en las condiciones concurrentes, como bajas temperaturas,
+estados de depresión del cultivo, tipo de suelo etc..
+Específicos: (1), (2) Aplicar en postemergencia del cultivo, desde 3-4 hojas hasta el encañado y con las malas
+hierbas en estado de 3-5 hojas.
+(3) Aplicar desde el estado de 5 - 6 hojas con las malas hierbas en estado de plántula.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.575
+Nombre comercial: KAOS-B
+SPe 3: Para proteger las plantas no objeto del tratamiento, respétese sin tratar una banda de seguridad de 5 m. de
+distancia hasta la zona no cultivada.
+Mitigación de riesgos en la manipulación:
+El operario deberá utilizar guantes de protección química adecuados durante la mezcla/carga, así como ropa de
+protección adecuada para el tronco y las piernas durante la aplicación terrestre y la limpieza del equipo. Además, el
+piloto debe utilizar durante la aplicación máscara o mascarilla de protección respiratoria.
+No entrar al cultivo hasta que el producto esté seco. No complementar la utilización del producto con escarda manual,
+en caso de ser necesaria en el cultivo del arroz, ésta no se realizará hasta al menos 30 días después de la aplicación
+accediendo a la zona inundada con botas de protección química extralargas de clase 2 (de caucho, poliméricas, etc) y
+guantes de protección química.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Nocivo
+Símbolos y pictogramas: Xn
+Frases de riesgo: R22, R43, R52/53
+Consejos de prudencia: S2, S13, S45, S36/37, S25, S23
+Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.  
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

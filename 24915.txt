@@ -1,0 +1,76 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 24.915
+Nombre comercial: CHAMAN
+Titular:
+CHEMINOVA AGRO, S.A.
+Pº Castellana, 257. 5º.
+28046
+MADRID
+Fabricante:
+CHEMINOVA AGRO, S.A.
+Pº Castellana, 257. 5º.
+28046
+MADRID
+Fecha de inscripción: 23/09/2008
+Fecha de caducidad: 31/12/2018
+Tipo de envase:
+Botellas de HDPE de 250, 500 y 1000 ml (boca 50 mm).
+Garrafa de HDPE de 5 l (boca 60 mm).
+Composición: NICOSULFURON 4% ((ESP)) [SC] P/V
+Tipo de preparado: SUSPENSION CONCENTRADA [SC]
+Tipo de función: Herbicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Maíz MALAS HIERBAS ANUALES 1-1,5 l/ha NP
+(2) Maíz SORGHUM 1-1,5 l/ha NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar en pulverización normal con tractor o manual.
+No sembrar colza como cultivo siguiente en la rotación.
+No aplicar en maíz dulce.
+Efecto complementario contra Cyperus sp.
+Específicos: (1), (2) Efectuar 1 aplicación por campaña, a una dosis comprendida entre 1 y 1,5 l/ha, o bien 2
+aplicaciones, la primera de 1 l/ha y la segunda de 0,5 l/ha, con un intervalo de 10-14 días, en el
+caso de que la nascencia de las malas hierbas se produzca de forma escalonada, o para controlar
+rebrotes.
+En todos los casos, aplicar a partir del estado de 3-4 hojas, hasta que el cultivo tenga 9 hojas
+desplegadas, y utilizar un volumen de caldo entre 200-400 l/ha.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 20 m con cubierta
+vegetal hasta las masas de agua superficial. 
+SPe 3: Para proteger las plantas no objetivo, respétese sin tratar una banda de seguridad de 5 m hasta la zona no
+cultivada.
+Mitigación de riesgos en la manipulación:
+Registro de Productos FitoSanitarios
+Nº Registro: 24.915
+Nombre comercial: CHAMAN
+El aplicador deberá utilizar guantes de protección química durante la mezcla/carga, aplicación, limpieza y manejo del
+equipo siempre y cuando el tractor carezca de cabina cerrada y dispositivo de filtrado de aire. 
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Almacenamiento:
+Se indicará en la etiqueta que el producto no deberá almacenarse a temperaturas superiores a 40º C
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno. 
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Sensibilizantes cutáneos. Categoría 1 B., Acuático agudo
+1
+Símbolos y pictogramas: --
+Frases de riesgo: H317, H410, EUH 401
+Consejos de prudencia: P261, P273, P280, P391, P302+P352, P501
+Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.  
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

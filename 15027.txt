@@ -1,0 +1,132 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 15.027
+Nombre comercial: AFROSAN MZ-8
+Titular:
+INDUSTRIAS AFRASA, S.A.
+c/ Ciudad de Sevilla, 53 - Polg. Ind. Fuente Jarro
+PATERNA
+46988
+VALENCIA
+Fabricante:
+CEREXAGRI, B.V.
+Rotterdam
+HOLANDA
+Fecha de inscripción: 25/04/1979
+Fecha de caducidad: 31/01/2018
+Tipo de envase:
+Bolsa de aluminio de 0,05 y 1 Kg.
+Sacos de papel multicapa de 5,10 y polipropileno de 25 Kg.
+Composición: MANCOZEB 80% (ESP) [WP] P/P
+Tipo de preparado: POLVO MOJABLE [WP]
+Tipo de función: Fungicida
+Ámbitos de utilización: Cultivos, Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Ajos MILDIU 0,2-0,3 % 28
+(2) Berenjena ALTERNARIA 0,2 % 3
+(3) Berenjena ANTRACNOSIS 0,2 % 3
+(4) Berenjena MILDIU 0,2 % 3
+(5) Berenjena SEPTORIA 0,2 % 3
+(6) Brécol ALTERNARIA 0,25 % 30
+(7) Brécol MILDIU 0,25 % 30
+(8) Cebolla MILDIU 0,2-0,3 % 28
+(9) Chalote MILDIU 0,2-0,3 % 28
+(10) Cucurbitáceas ANTRACNOSIS 0,2-0,3 % 3
+(11) Cucurbitáceas MILDIU 0,2-0,3 % 3
+(12) Escarola MILDIU 0,2 % 28
+(13) Espárrago ROYA 0,2 % NP
+(14) Guisantes verdes ANTRACNOSIS 0,2 % 28
+(15) Guisantes verdes MILDIU 0,2 % 28
+(16) Judías para grano ALTERNARIA 0,2 % 28
+(17) Judías para grano ANTRACNOSIS 0,2 % 28
+Registro de Productos FitoSanitarios
+Nº Registro: 15.027
+Nombre comercial: AFROSAN MZ-8
+(18) Judías para grano ROYA 0,2 % 28
+(19) Judías verdes ALTERNARIA 0,2-0,3 % 21
+(20) Judías verdes ANTRACNOSIS 0,2-0,3 % 21
+(21) Lechuga MILDIU 0,2 % 28
+(22) Ornamentales herbáceas MILDIU 0,2-0,3 % NP
+(23) Ornamentales herbáceas ROYA 0,2-0,3 % NP
+(24) Patata ALTERNARIA 0,2-0,3 % 7
+(25) Patata MILDIU 0,2-0,3 % 7
+(26) Puerro MILDIU 0,2-0,3 % 28
+(27) Rábano ALTERNARIA 0,2-0,3 % 30
+(28) Rábano MILDIU 0,2-0,3 % 30
+(29) Tomate ALTERNARIA 0,2 % 3
+(30) Tomate ANTRACNOSIS 0,2 % 3
+(31) Tomate MILDIU 0,2 % 3
+(32) Tomate SEPTORIA 0,2 % 3
+(33) Trigo ROYAS 2 Kg/ha 28
+(34) Trigo SEPTORIA 2 Kg/ha 28
+(35) Vid BLACK-ROT 0,2-0,3 % 28
+(36) Vid EXCORIOSIS 0,2-0,3 % 28
+(37) Vid MILDIU 0,2-0,3 % 28
+(38) Zanahoria ALTERNARIA 0,2-0,3 % 30
+(39) Zanahoria MILDIU 0,2-0,3 % 30
+P.S.: Plazo de seguridad (días)
+Excepciones: (35), (36), (37) Excepto espaldera y parrales de vid.
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar en pulverización normal sólo en cultivos al aire libre, mediante aplicaciones manuales y con
+tractor.
+Específicos: (1), (8), (9), (12), (21), (24), (25) Efectuar un máximo de 4 aplicaciones por campaña con un volumen
+de caldo de 300-1.000 l/Ha. y dosis máxima de 2 Kg/Ha de producto por aplicación.
+(2), (3), (4), (5), (6), (7), (10), (11), (26), (27), (28), (29), (30), (31), (32), (38), (39) Efectuar un máximo
+de 4 aplicaciones por campaña con un volumen de caldo de 500-1.000 l/Ha. y dosis máxima de 2
+Kg/Ha de producto por aplicación.
+(13) Tratar únicamente después de la cosecha. Efectuar un máximo de 4 aplicaciones por campaña
+con un volumen de caldo de 500-1.000 l/Ha. y dosis máxima de 2 Kg/Ha de producto por aplicación.
+(14), (15), (16), (17), (18) Efectuar una única aplicación por campaña con un volumen de caldo de
+300-1.000 l/Ha. y dosis máxima de 2 Kg/Ha de producto por aplicación.
+(19), (20) Efectuar un máximo de 2 aplicaciones por campaña con un volumen de caldo de
+300-1.000 l/Ha. y dosis máxima de 2 Kg/Ha de producto por aplicación.
+(22), (23) Efectuar un máximo de 3 aplicaciones por campaña y dosis máxima de 2 Kg/Ha de
+producto por aplicación.
+(33), (34) Efectuar un máximo de 2 aplicaciones por campaña.
+(35), (36), (37) Efectuar un máximo de 3 aplicaciones/año con un volumen de caldo de 500-1.000
+l/Ha. y una dosis máxima de 1,5 Kg/Ha. en uva de mesa y 2 kg/Ha. en vid de vinificación.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Registro de Productos FitoSanitarios
+Nº Registro: 15.027
+Nombre comercial: AFROSAN MZ-8
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 16 m. en vid hasta las
+masas de agua superficial o sin banda si se utilizan boquillas para la reducción de la deriva en un 90%. 
+Como medida de mitigación para proteger las aves insectivoras se establece un intervalo entre aplicaciones mínimo de
+10 días.
+Debido al riesgo en pequeños mamíferos herbívoros, en viña se restringe su uso a 3 aplicaciones una desde 3 hojas
+hasta la floración y las 2 restantes durante la misma.
+Mitigación de riesgos en la manipulación:
+El aplicador debe utilizar guantes de protección química adecuados y mascarilla autofiltrante FFP3 durante la
+mezcla/carga y guantes de protección química adecuados durante la aplicación y limpieza del equipo, así como ropa
+de protección adecuada (al menos tipo 6 para las aplicaciones con tractor y tipo 4 para las aplicaciones manuales)
+para el tronco y las piernas. Se recomienda la utilización de botas impermeables durante la aplicación manual del
+producto.
+No entrar al cultivo hasta que el producto esté seco. 
+Por motivos de seguridad, no realizar actividades que impliquen el contacto con el cultivo tratado, hasta al menos 2 y
+15 días después de la aplicación en vid y ornamentales, respectivamente (intervalo entre aplicaciones: 14 días).
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Nota: La evaluación del riesgo en el caso de aplicaciones a cereales, se ha llevado a cabo sin tener en cuenta la
+mezcla con productos con triazol o estrobilurina.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Indicar en la etiqueta la obligación de entregar los envases vacíos o residuos de envases, conforme a lo establecido
+en el R.D. 1416/2001, de 14 de diciembre, sobre envases de productos fitosanitarios: bien en los puntos de recogida
+establecidos por los sistemas colectivos de responsabilidad ampliada o directamente en el punto de venta donde se
+hubiera adquirido si dichos envases se han puesto en el mercado a través de un sistema de depósito, devolución y
+retorno. Posteriormente los residuos de envases se gestionarán por gestores autorizados de residuos conforme a lo
+que establece el citado Real Decreto.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Nocivo, Peligroso para el medio ambiente, Tóxico para la reproducción cat. 3
+Símbolos y pictogramas: --
+Frases de riesgo: R43, R50, R63
+Consejos de prudencia: S2, S13, S45, S36/37, S8, S23
+Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.  
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

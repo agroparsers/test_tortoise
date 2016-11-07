@@ -1,0 +1,83 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 23.141
+Nombre comercial: CRUISER 350 FS
+Titular:
+SYNGENTA ESPAÑA S.A.
+C/ Ribera del Loira, 8-10 - 3º Planta
+28042
+MADRID
+Fabricante:
+SYNGENTA CROP PROTECTION AG
+Schwarzwaldallee 215 P.O. Box
+CH-4002
+BASILEA
+SUIZA
+Fecha de inscripción: 10/03/2003
+Fecha de caducidad: 31/01/2017
+Tipo de envase:
+Botella de polietileno de 1 l.
+Garrafa de polietileno de 5 l.
+Botellas y garrafas de 20, 200 y 1000 l. 
+Composición: TIAMETOXAM 35% [FS] P/V
+Tipo de preparado: SUSPENSION CONCENTRADA PARA TRATAMIENTO DE SEMILLAS
+[FS]
+Tipo de función: Insecticida
+Ámbitos de utilización: Simientes
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Simiente de patatas ESCARABAJO 21,4 ml/100 kg NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar mediante impregnación de las semillas en máquina de flujo continuo con una papilla tipo
+pasta fluida, preparada mediante la adición de agua a la cantidad necesaria de producto de acuerdo
+a lo prescrito en el apartado de Seguridad.
+La simiente tratada con tiametoxam no se utilizará para siembra en suelos arenosos ni durante más
+de dos campañas consecutivas en la misma parcela.
+En la etiqueta del producto se indicará que los sacos o envases de las semillas tratadas deberán
+llevar rotulado o en una etiqueta el texto siguiente: "Semilla tratada con tiametoxam inhabilitada para
+el consumo, destinarla exclusivamente para siembra".
+En la etiqueta se darán las instrucciones oportunas para la correcta aplicación del producto y el
+manejo de la simiente tratada.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 6: Para proteger a las aves y a los mamíferos silvestres recójase todo derrame accidental de semillas.
+Por la alta peligrosidad para las abejas, no se establecerán colmenas próximas a los cultivos procedentes de semillas
+tratadas, de forma que en su actividad de pecoreo, las abejas no puedan alcanzar los mismos.
+Mitigación de riesgos en la manipulación:
+Registro de Productos FitoSanitarios
+Nº Registro: 23.141
+Nombre comercial: CRUISER 350 FS
+El operario debe utilizar guantes de protección química y ropa de protección adecuada para el tronco y las piernas. En
+la operación de limpieza de los equipos deberá llevar mascarilla de protección respiratoria con filtro P3 mascarilla
+autofiltrante FFP3 contra particulas.  SPo2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+La aplicación del producto en las simientes solo se realizará en instalaciones para el tratamiento profesional de
+simientes, dichas instalaciones deberán aplicar las mejores técnicas disponibles para garantizar que la liberación de
+polvo durante la aplicación, el almacenamiento y el transporte de la simiente pueda reducirse al mínimo.
+Se deberán utilizar sembradoras que garanticen un alto nivel de incorporación al suelo, así como una minimización de
+derrames y de emisión de polvo. 
+En el caso de la patata también se podrá realizar la aplicación en las sembradoras, que estarán construidas de tal
+manera que se garantice que el producto se deposita sobre la patata al caer en el surco y la prevención de la deriva en
+su entorno.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Indicar en la etiqueta la obligación de entregar los envases vacíos o residuos de envases, conforme a lo establecido
+en el R.D. 1416/2001, de 14 de diciembre, sobre envases de productos fitosanitarios: bien en los puntos de recogida
+establecidos por los sistemas colectivos de responsabilidad ampliada o directamente en el punto de venta donde se
+hubiera adquirido si dichos envases se han puesto en el mercado a través de un sistema de depósito, devolución y
+retorno. Posteriormente los residuos de envases se gestionarán por gestores autorizados de residuos conforme a lo
+que establece el citado Real Decreto.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : --
+Símbolos y pictogramas: --
+Frases de riesgo:
+Consejos de prudencia: S2, S13, S45, S24, S23
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que"contiene 1,2-benzisothiazol-3 (2H)-ona (CAS nº
+2634-33-5). Puede provocar una reacción alérgica". 
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.  
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

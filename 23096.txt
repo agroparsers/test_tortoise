@@ -1,0 +1,87 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 23.096
+Nombre comercial: CRUISER 70 WS
+Titular:
+SYNGENTA ESPAÑA S.A.
+C/ Ribera del Loira, 8-10 - 3º Planta
+28042
+MADRID
+Fabricante:
+NOVARTIS CROP PROTECTION, AG
+CH 4002 Basilea
+SUIZA
+Fecha de inscripción: 27/07/2010
+Fecha de caducidad: 31/01/2017
+Tipo de envase:
+Saco de plástico de 20 Kg.
+Tambores con bolsa interior de plástico de 25, 50 y 70 kg. 
+Composición: TIAMETOXAM 70% [WS] P/P
+Tipo de preparado: POLVO MOJABLE PARA TRATAMIENTO DE SEMILLAS [WS]
+Tipo de función: Insecticida
+Ámbitos de utilización: Simientes
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Simiente de lechugas PULGONES 85-115 g/u. NP
+siembra
+(2) Simiente de patatas ESCARABAJO 10,7 g/100 kg NP
+(3) Simiente de patatas PULGONES 10,7 g/100 kg NP
+(4) Simiente de remolacha GUSANOS DE ALAMBRE 85,7 g/u. siembra NP
+(5) Simiente de remolacha PULGONES 85,7 g/u. siembra NP
+(6) Simiente de remolacha PULGUILLA 85,7 g/u. siembra NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar mediante impregnación de las semillas en máquina de flujo continuo con una papilla tipo
+pasta fluida, preparada mediante la adición de agua a la cantidad necesaria de producto de acuerdo
+a lo prescrito en el apartado de Seguridad.
+La simiente tratada con tiametoxam no se utilizará para siembra en suelos arenosos ni durante más
+de dos campañas consecutivas en la misma parcela.
+En la etiqueta del producto se indicará que los sacos o envases de las semillas tratadas deberán
+llevar rotulado o en una etiqueta el texto siguiente: "Semilla tratada con tiametoxam inhabilitada para
+el consumo, destinarla exclusivamente para siembra".
+En la etiqueta se darán las instrucciones oportunas para la correcta aplicación del producto y el
+manejo de la simiente tratada.
+Específicos: (2), (3) El tratamiento deberá efectuarse sobre cinta transportadora y en el momento de la siembra
+mediante equipos adaptados a la sembradora. (máximo 142 g. de producto/Ha.)..
+Registro de Productos FitoSanitarios
+Nº Registro: 23.096
+Nombre comercial: CRUISER 70 WS
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 6: Para proteger a las aves y a los mamíferos silvestres, recójase todo derrame accidental de semillas.
+Por la alta peligrosidad para las abejas, no se establecerán colmenas próximas a los cultivos procedentes de semillas
+tratadas, de forma que en su actividad de pecoreo, las abejas no puedan alcanzar los mismos.
+ 
+Mitigación de riesgos en la manipulación:
+Protecciones: El operario debe utilizar guantes de protección química y ropa de protección adecuada para el tronco y
+las piernas. En la operación de limpieza de los equipos deberá llevar mascarilla de protección respiratoria con filtro P3
+o mascarilla autofiltrante FFP3 contra partículas. 
+La siembra manual de simientes de lechuga se realizará utilizando guantes de protección química adecuados. 
+SPo2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+El tratamiento sólo se realizará en instalaciones para el tratamiento profesional de simientes; dichas instalaciones
+deberán aplicar las mejores técnicas disponibles para garantizar que la liberación de polvo durante el tratamiento, el
+almacenamiento y transporte pueda reducirse al mínimo.
+Se deberán utilizar sembradoras que garanticen un alto nivel de incorporación al suelo, así como una minimización de
+derrames y de emisión de polvo.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Este envase está clasificado según la Ley 11/1997 por lo que el usuario final es responsable de entregarlos en alguno
+de los puntos de recogida indicados por el distribuidor que haya suministrado el producto.
+Indicar en la etiqueta la obligación de entregar los envases vacíos o residuos de envases, conforme a lo establecido
+en el R.D. 1416/2001, de 14 de diciembre, sobre envases de productos fitosanitarios: bien en los puntos de recogida
+establecidos por los sistemas colectivos de responsabilidad ampliada o directamente en el punto de venta donde se
+hubiera adquirido si dichos envases se han puesto en el mercado a través de un sistema de depósito, devolución y
+retorno. Posteriormente los residuos de envases se gestionarán por gestores autorizados de residuos conforme a lo
+que establece el citado Real Decreto.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Fácilmente inflamable, Peligroso para el medio ambiente
+Símbolos y pictogramas: --
+Frases de riesgo: R11, R50/53
+Consejos de prudencia: S2, S13, S45, S7, S24, S23
+Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten del
+texto. 
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

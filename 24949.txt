@@ -1,0 +1,82 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 24.949
+Nombre comercial: AIRONE
+Titular:
+ISAGRO S.P.A.
+Via Caldera ,21 CENTRO UFFICI SAN SIRO, FABBRICATO D - ala 3 -
+Milán
+20153
+MILAN
+ITALIA
+Fabricante:
+ISAGRO S.P.A.
+Via Caldera ,21 CENTRO UFFICI SAN SIRO, FABBRICATO D - ala 3 -
+20153 Milán
+MILAN
+ITALIA
+Fecha de inscripción: 01/06/2009
+Fecha de caducidad: 01/06/2019
+Tipo de envase:
+Frascos de polietileno de 1 l.
+Garrafas de polietileno de 5 y 10 l.
+Composición: HIDROXIDO CUPRICO 13,6% (EXPR. EN CU) + OXICLORURO DE COBRE 13,6% (EXPR. EN CU)
+[SC] P/V
+Tipo de preparado: SUSPENSION CONCENTRADA [SC]
+Tipo de función: Fungicida, Bactericida
+Ámbitos de utilización: Cultivos, Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Manzano MOTEADO 0,2-0,3 % NP
+(2) Olivo REPILO 0,2-0,3 % 15
+(3) Olivo TUBERCULOSIS 0,2-0,3 % 15
+(4) Peral MOTEADO 0,2-0,3 % NP
+(5) Tomate ALTERNARIA 0,2-0,3 % 10
+(6) Tomate ANTRACNOSIS 0,2-0,3 % 10
+(7) Tomate BACTERIOSIS 0,2-0,3 % 10
+(8) Tomate MILDIU 0,2-0,3 % 10
+(9) Vid BACTERIOSIS 0,2-0,3 % 15
+(10) Vid MILDIU 0,2-0,3 % 15
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar en pulverización normal.
+En la etiqueta se indicarán las precauciones a observar en algunas variedades de frutales, vid y otros
+cultivos en zonas frías y húmedas, para evitar la fitotoxicidad propia del cobre.
+Registro de Productos FitoSanitarios
+Nº Registro: 24.949
+Nombre comercial: AIRONE
+Específicos: (1), (4) Aplicar únicamente entre la recolección y la floración del siguiente período vegetativo
+realizando como máximo 3 tratamientos a intervalos de 14 días, sin sobrepasar los 7,5 Kg de cobre
+inorgánico/Ha/año.
+(5), (6), (7), (8) Efectuar 6 tratamientos por período vegetativo a intervalos de 7 días sin sobrepasar
+los 7,5 Kg de cobre inorgánico/Ha/año. En invernadero P.S.: 3 días.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Mamíferos: A
+Aves: A
+Peces: C Muy peligroso para peces
+Abejas: Compatible con abejas
+Evitar la contaminación de aguas.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Este envase está clasificado según la Ley 11/1997 por lo que el usuario final es responsable de entregarlos en alguno
+de los puntos de recogida indicados por el distribuidor que haya suministrado el producto.
+Es obligatorio enjuagar enérgicamente tres veces, o mediante dispositivo de presión, cada envase de producto que se
+vacíe al preparar la dilución y verter las aguas al depósito del pulverizador.
+Indicar en la etiqueta la obligación de entregar los envases vacíos a un gestor autorizado de residuos clasificados y
+peligrosos así como las opciones alternativas que el titular está obligado a ofrecer, conforme a lo establecido en el
+R.D. 1416/2001, de entregarlos directamente al sistema integrado de gestión al que esté adherido o al propio, de
+depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Nocivo, Peligroso para el medio ambiente
+Símbolos y pictogramas: --
+Frases de riesgo: R20, R50/53
+Consejos de prudencia: S2, S13, S45, S36/37, S38, S23
+Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.  
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

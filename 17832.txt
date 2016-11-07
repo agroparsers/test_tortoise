@@ -1,0 +1,90 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 17.832
+Nombre comercial: TRIGARD 75 WP
+Titular:
+SYNGENTA ESPAÑA S.A.
+C/ Ribera del Loira, 8-10 - 3º Planta
+28042
+MADRID
+Fabricante:
+SYNGENTA CROP PROTECTION AG
+Schwarzwaldallee 215 P.O. Box
+CH-4002
+BASILEA
+SUIZA
+Fecha de inscripción: 08/03/1988
+Fecha de caducidad: 30/04/2018
+Tipo de envase:
+Estuche de cartón con bolsa interior de polietileno de 100 y 200 g.
+Composición: CIROMAZINA 75% [WP] P/P
+Tipo de preparado: POLVO MOJABLE [WP]
+Tipo de función: Insecticida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Alcachofa LIRYOMIZA 0,02-0,04 % 7
+(2) Apio LIRYOMIZA 0,02-0,04 % 7
+(3) Calabacín LIRYOMIZA 0,02-0,04 % 3
+(4) Champiñón MOSQUITOS (ver nota) 15
+(5) Escarola LIRYOMIZA 0,02-0,04 % 7
+(6) Lechuga LIRYOMIZA 0,02-0,04 % 7
+(7) Melón LIRYOMIZA 0,02-0,04 % 3
+(8) Ornamentales herbáceas LIRYOMIZA 0,02-0,04 % NP
+(9) Ornamentales leñosas LIRYOMIZA 0,02-0,04 % NP
+(10) Patata LIRYOMIZA 120-240 g/ha 21
+(11) Pepinillo LIRYOMIZA 0,02-0,04 % 3
+(12) Pepino LIRYOMIZA 0,02-0,04 % 3
+(13) Sandía LIRYOMIZA 0,02-0,04 % 3
+(14) Tomate LIRYOMIZA 0,02-0,04 % 3
+(15) Acelga LIRYOMIZA 0,02-0,04 % 7
+(16) Berenjena LIRYOMIZA 0,02-0,04 % 3
+(17) Champiñón MOSQUITOS (ver nota) 15
+(18) Guisantes verdes LIRYOMIZA 0,02-0,04 % 3
+Registro de Productos FitoSanitarios
+Nº Registro: 17.832
+Nombre comercial: TRIGARD 75 WP
+(19) Judías verdes LIRYOMIZA 0,02-0,04 % 3
+(20) Pimiento LIRYOMIZA 0,02-0,04 % 3
+(21) Zanahoria LIRYOMIZA 0,02-0,04 % 14
+P.S.: Plazo de seguridad (días)
+Usos protegidos hasta fecha: (15) , (16) , (18) , (19) , (20) , (21) 
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar en pulverización normal a la dosis indicada o mediante el agua de riego a razón de 200-500
+gr/ha, repitiendo los tratamientos cada 7-14 días, sólo en cultivos de invernadero.
+Específicos: (1), (2), (3), (5), (6), (7), (8), (9), (11), (12), (13), (14), (18), (19), (20), (21) Efecto complementario
+contra araña roja.
+(4), (17) Para tratamiento de compost y de la capa de cobertura. Aplicar a dosis de 50-100 g.
+diluidos en unos 50 l. de caldo por 100 m2.
+(10) Aplicar unicamente en pulverización foliar. Efectuar el primer tratamiento al aparecer las
+primeras picaduras sobre las hojas, repetir cada 2-3 semanas si es necesario. Realizar como
+máximo tres tratamientos por campaña.
+(16) Tratar al observarse las primeras picaduras sobre las hojas. Efecto  complementario contra arña
+roja.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Mamíferos: A
+Aves: A
+Peces: A
+Abejas: Compatible con abejas
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Este envase está clasificado según la Ley 11/1997 por lo que el usuario final es responsable de entregarlos en alguno
+de los puntos de recogida indicados por el distribuidor que haya suministrado el producto. 
+Indicar en la etiqueta la obligación de entregar los envases vacíos a un gestor autorizado de residuos clasificados y
+peligrosos así como las opciones alternativas que el titular está obligado a ofrecer, conforme a lo establecido en el
+R.D. 1416/2001, de entregarlos directamente al sistema integrado de gestión al que esté adherido o al propio, de
+depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Irritante, Peligroso para el medio ambiente
+Símbolos y pictogramas: Xi
+Frases de riesgo: R36/38, R52/53
+Consejos de prudencia: S2, S13, S45, S22, S36/37, S24/25
+Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten del
+texto. 
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

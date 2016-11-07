@@ -1,0 +1,77 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.475
+Nombre comercial: LOVIT COMET
+Titular:
+BASF ESPAÑOLA, S.L.
+Can Rabia, 3-5
+08017
+BARCELONA
+Fabricante:
+BASF SE
+D-67056 LUDWIGSHAFEN
+RHEIN
+ALEMANIA
+Fecha de inscripción: 11/06/2014
+Fecha de caducidad: 30/04/2019
+Tipo de envase:
+Botellas de plástico de 0,15, 0,25, 0,5 y 1 l.
+Garrafas de plástico de 3, 5 y 10 l.
+Composición: EPOXICONAZOL 6,25% + PIRACLOSTROBIN 8,5% [SE] P/V
+Tipo de preparado: SUSPO-EMULSION [SE]
+Tipo de función: Fungicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Cebada HELMINTOSPORIUM 1,5-2 l/ha 35
+(2) Cebada OIDIO 1,5-2 l/ha 35
+(3) Cebada RINCOSPORIUM 1,5-2 l/ha 35
+(4) Cebada ROYAS 1,5-2 l/ha 35
+(5) Trigo HELMINTOSPORIUM 1,5-2 l/ha 35
+(6) Trigo OIDIO 1,5-2 l/ha 35
+(7) Trigo ROYAS 1,5-2 l/ha 35
+(8) Trigo SEPTORIA 1,5-2 l/ha 35
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar en pulverización mediante tractor dotado de barra hidraúlica y boquillas de baja deriva,
+efectuando hasta 2 aplicaciones anuales, con un volumen de caldo de 200-400 l/Ha. y un intervalo
+de 28 días. Si se realizan 2 aplicaciones no sobrepasar los 1,7 l/Ha. y aplicación.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 20 m.  hasta las
+masas de agua superficial.
+Mitigación de riesgos en la manipulación:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.475
+Nombre comercial: LOVIT COMET
+El aplicador deberá utilizar guantes de protección durante la mezcla/carga, aplicación y al manipular el equipo de
+aplicación o superficies contaminadas, además durante la aplicación se usará ropa tipo 6: contra salpicaduras de
+productos líquidos.
+Durante la limpieza del equipo se utilizará la misma protección que durante la aplicación.
+No entrar al cultivo hasta que el producto esté seco 
+SPo 2: Lávese toda la ropa de protección después de usarla. 
+SPo 4: El recipiente debe abrirse al aire libre y en tiempo seco.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Toxicidad aguda (oral, cutánea, por inhalación). Categoría
+4., Irritación cutánea. Categoría 2., Sensibilizantes cutáneos. Categoría 1 B.,
+Carcinogenicidad. Categoría 2., Tóxicos para la reproducción. Categoría 1 B., Tóxicos
+para la reproducción. Categoría 2., Peligro, Acuático agudo 1
+Símbolos y pictogramas: --
+Frases de riesgo: H302, H315, H317, H332, H351, H360, H410, EUH 401
+Consejos de prudencia: P201, P202, P261, P273, P280, P391, P302+P352, P304+P340, P305+P351+P338, P501
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene mezcla de
+1,2-benzisotiazol-3-(2H)-ona nº CAS: 2634-33-5 y 2-metil-2H-isotiazol-3-ona nº
+CAS: 2682-20-4".
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

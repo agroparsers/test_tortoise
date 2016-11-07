@@ -1,0 +1,105 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 23.748
+Nombre comercial: COLLIS
+Titular:
+BASF ESPAÑOLA, S.L.
+Can Rabia, 3-5
+08017
+BARCELONA
+Fabricante:
+BASF SE
+D-67056 LUDWIGSHAFEN
+RHEIN
+ALEMANIA
+Fecha de inscripción: 28/02/2008
+Fecha de caducidad: 31/12/2021
+Tipo de envase:
+Botella de COEX de 40 mm (boca 35 mm).
+Botella de HDPE de 150 ml, 250 ml, 500 ml y 1 L (boca 42 mm).
+Eco-botella de HDPE de 1 L (boca 54 mm).
+Garrafas HDPE de 3 L, 5 L, 10 L (boca 54 mm) y 50 L (boca 52 mm).
+Eco-garrafas de HDPE de 5 L y 10 L (boca 54 mm).
+Composición: BOSCALIDA 20% + KRESOXIM-METIL 10% [SC] P/V
+Tipo de preparado: SUSPENSION CONCENTRADA [SC]
+Tipo de función: Fungicida
+Ámbitos de utilización: Cultivos, Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Calabacín OIDIO 0,05 % 3
+(2) Melón OIDIO 0,05 % 3
+(3) Pepinillo OIDIO 0,05 % 3
+(4) Pepino OIDIO 0,05 % 3
+(5) Sandía OIDIO 0,05 % 3
+(6) Vid OIDIO 0,04 % 28
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Registro de Productos FitoSanitarios
+Nº Registro: 23.748
+Nombre comercial: COLLIS
+Generales : Pulverización normal, manual y con tractor al aire libre y, manual en invernadero, contra
+Sphaerotheca fuliginea y Erysiphe cichoracearum en cucurbitáceas y contra Uncinula necator en vid.
+En cucurbitáceas aplicar desde el primer brote lateral primario visible hasta madurez completa. En
+vid aplicar desde el hinchamiento de las inflorescencias hasta el comienzo de la maduración.  
+Para evitar la aparición de resistencias, no aplicar este producto ni ningún otro que contenga
+boscalida ni kresoxim-metil en más de 3 tratamientos consecutivos en la misma campaña. 
+En la etiqueta se indicara el riesgo de aparición de resistencias por el uso de productos que
+contienen estrobilurinas (productos Qol) y se propondrán las estrategias de prevención y manejo en
+la evaluación de fitoterapeutica.
+Específicos: (1), (3), (4) Realizar un máximo de 3 aplicaciones por campaña con un intervalo de 7 a 10 días, no
+sobrepasando la dosis máxima de 0,5 l/ha. Volumen de caldo aire libre: 200-1000 l/ha e invernadero:
+500-1000 l/ha.
+(2), (5) Realizar un máximo de 3 aplicaciones por campaña con un intervalo de 7 a 10 días, no
+sobrepasando la dosis máxima de 0,5 l/ha. Volumen de caldo: 500-1000 l/ha.
+(6) Aplicación al aire libre. Realizar un máximo de 3 aplicaciones por campaña con un intervalo de
+14 días, no sobrepasando la dosis máxima de 0,4 l/ha. Volumen de caldo: 200-1200 l/ha.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m hasta las masas
+de agua superficial.
+Mitigación de riesgos en la manipulación:
+Aplicador:
+Aire libre:
+Durante la mezcla/carga, aplicación, limpieza y mantenimiento del equipo se deberán utilizar guantes de protección
+química para todos los cultivos autorizados.
+Durante la aplicación con tractor con cabina cerrada y dispositivo de filtrado de aire, se podrá prescindir del equipo de
+protección, siempre que se mantengan las ventanas cerradas. 
+Invernadero: 
+En calabacín, pepino, pepinillo, melón, durante la mezcla/carga se deberán utilizar guantes de protección química, y
+durante la aplicación, limpieza y mantenimiento del equipo se deberán utilizar guantes y ropa de protección química
+tipo 6 (de acuerdo a norma UNE-EN:13034: 2005 + A1: 2009).
+En sandia, durante la mezcla/carga, aplicación, limpieza y mantenimiento del equipo se deberán utilizar guantes de
+protección química. 
+Trabajador.
+La reentrada se realizará a los 9 días en vid, en labores que se excedan más de dos horas.
+Evítese el contacto con el follaje húmedo.
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Los envases de capacidad superior a 20 litros se deberán emplear en condiciones de trasvase cerrado mediante
+bomba automática que vierta directamente el producto desde el bidón hasta el sistema de aplicación.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Registro de Productos FitoSanitarios
+Nº Registro: 23.748
+Nombre comercial: COLLIS
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Sensibilizantes cutáneos. Categoría 1., Carcinogenicidad.
+Categoría 2., Acuático agudo 1
+Símbolos y pictogramas: Xn,N
+Frases de riesgo: H317, H351, H410, EUH 401
+Consejos de prudencia: P261, P273, P280, P391, P302+P352, P501, P201+P202
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene 1,2-benzisotiazolín-3 (2H) ona (nº
+CAS 2634-33-5) y 2-metil-2H-isotiazol-3-ona (CAS 2682-20-4)".  
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.

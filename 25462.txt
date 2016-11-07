@@ -1,0 +1,80 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.462
+Nombre comercial: FLUROSTAR 200
+Titular:
+GLOBACHEM NV
+Brustem Industriepark, Lichtenberglaan 2019
+SINT-TRUIDEN
+B-3800
+BELGICA
+Fabricante:
+GLOBACHEM NV
+Brustem Industriepark, Lichtenberglaan 2019
+B-3800 SINT-TRUIDEN
+BELGICA
+Fecha de inscripción: 29/10/2014
+Fecha de caducidad: 31/12/2021
+Tipo de envase:
+Botellas de plástico (HDPE/PA, COEX EV/OH) de 0,5 y 1 l. (boca 42 mm). 
+Garrafa de plástico (HDPE/PA, COEX EV/OH) de 5 l. (boca 55 mm)
+Composición: FLUROXIPIR 20% (ESTER METILHEPTIL) [EC] P/V (ESP.)
+Tipo de preparado: CONCENTRADO EMULSIONABLE [EC]
+Tipo de función: Herbicida
+Ámbitos de utilización: Cultivos, Praderas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Cebada DICOTILEDONEAS 1 l/ha NP
+(2) Maíz DICOTILEDONEAS 1 l/ha NP
+(3) Prados de Gramíneas DICOTILEDONEAS 0,75 l/ha 15
+(4) Trigo DICOTILEDONEAS 1 l/ha NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Controla malas hierbas en postemergencia.
+Aplicar en pulverización normal en una única aplicación por período vegetativo, con un volumen de
+caldo de 150-400 l/Ha.
+En la etiqueta se darán las instrucciones oportunas para el correct uso aplicación del producto, así
+como las advertencias necesarias para que el agricultor pueda cerciorarse de los riesgos de su
+utilización por fitotoxicidad en variedades sensibles del propio cultivo o en los adyacentes o
+siguientes en la alternativa o en las condiciones concurrentes, como bajas temperaturas, estados de
+depresión del cultivo, lluvias etc. Asimismo se informará sobre la posibilidad de que se produzcan
+resistencias y se poprondrá una estrategia de gestión y manejo de las mismas.
+Registro de Productos FitoSanitarios
+Nº Registro: 25.462
+Nombre comercial: FLUROSTAR 200
+Específicos: (1) En cebada de primavera, dosis 0,75 l/Ha. Aplicar en primavera, desde el incio del ahijado hasta
+la hoja bandera.
+(2) Aplicar desde el estadío de 3-5 hojas hasta el final del encañado.
+(3) Aplicar en primavera, desde el estadío de 3-5 hojas de las gramíneas. Para el control de Rumex
+tratar cuando alcance el estadío de roseta.
+(4) En trigo de primavera, dosis 0,75 l/Ha. Aplicar en primavera, desde el incio del ahijado hasta la
+hoja bandera.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m. hasta las masas
+de agua superficial. 
+SPe 3: Para proteger las plantas no objetivo, respétese sin tratar una banda de seguridad de 5 m. hasta la zona no
+cultivada.
+Mitigación de riesgos en la manipulación:
+El aplicador deberá utilizar guantes de protección durante la mezcla/carga, aplicación, al manipular el equipo de
+aplicación o superficies contaminadas y limpieza del equipo.
+No entrar al cultivo hasta que el producto esté seco. 
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+Uso autorizado a aplicadores no profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Irritación cutánea. Categoría 2., Irritación ocular. Categoría 2., Tóxicos específicos en
+determinados órganos tras una exposición única. Categoría 3., Peligro por aspiración.
+Categoría 1., Peligro, Acuático crónico 3
+Símbolos y pictogramas: --
+Frases de riesgo: H304, H315, H319, H336, H412, EUH 401
+Consejos de prudencia: P261, P264, P273, P280, P331, P302+P352, P304+P340, P305+P351+P338, P501
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene nafta disolvente del petróleo, nº CAS:
+64742-94-5".

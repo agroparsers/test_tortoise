@@ -1,0 +1,235 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.787
+Nombre comercial: ITAKA
+Titular:
+CHEMINOVA AGRO, S.A.
+Pº Castellana, 257. 5º.
+28046
+MADRID
+Fabricante:
+CHEMINOVA AGRO, S.A.
+Pº Castellana, 257. 5º.
+28046
+MADRID
+Fecha de inscripción: 18/12/2015
+Fecha de caducidad: 31/10/2017
+Tipo de envase:
+Botellas de plástico COEX de 250 ml, 500 ml, 1 y 5 L.
+Composición: DELTAMETRIN 2,5% ((ESP II)) [EC] P/V
+Tipo de preparado: CONCENTRADO EMULSIONABLE [EC]
+Tipo de función: Insecticida
+Ámbitos de utilización: Cultivos, Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Ajos PULGONES 0,1 % 7
+(2) Ajos TRIPS 0,1 % 7
+(3) Alcachofa ORUGAS 0,03-0,05 % 3
+(4) Alcachofa PULGONES 0,03-0,05 % 3
+(5) Almendro CYDIA 0,03-0,05 % 30
+(6) Almendro PULGONES 0,03-0,05 % 30
+(7) Almendro ZEUZERA 0,03-0,05 % 30
+(8) Avellano CYDIA 0,03-0,05 % 30
+(9) Avellano PULGONES 0,03-0,05 % 30
+(10) Avellano ZEUZERA 0,03-0,05 % 30
+(11) Avena CHINCHES 0,03-0,05 % 30
+(12) Avena PULGONES 0,03-0,05 % 30
+(13) Berenjena CHINCHE VERDE 0,03-0,05 % 3
+(14) Berenjena ORUGAS 0,03-0,05 % 3
+(15) Berenjena PULGONES 0,03-0,05 % 3
+(16) Berenjena TRIPS 0,03-0,05 % 3
+(17) Calabacín ORUGAS 0,03-0,05 % 3
+(18) Calabacín PULGONES 0,03-0,05 % 3
+Registro de Productos FitoSanitarios
+Nº Registro: 25.787
+Nombre comercial: ITAKA
+(19) Calabaza ORUGAS 0,03-0,05 % 3
+(20) Calabaza PULGONES 0,03-0,05 % 3
+(21) Calabaza PULGONES 0,03-0,05 % 3
+(22) Calabaza PULGONES 0,03-0,05 % 3
+(23) Cebada CHINCHES 0,03-0,05 % 30
+(24) Cebada PULGONES 0,03-0,05 % 30
+(25) Cebolla PULGONES 0,1 % 7
+(26) Cebolla TRIPS 0,1 % 7
+(27) Centeno CHINCHES 0,03-0,05 % 30
+(28) Centeno PULGONES 0,03-0,05 % 30
+(29) Chalote PULGONES 0,1 % 7
+(30) Chalote TRIPS 0,1 % 7
+(31) Colza ORUGAS 0,03-0,05 % 45
+(32) Colza PULGONES 0,03-0,05 % 45
+(33) Espárrago ESCARABAJO 0,03-0,05 % NA
+(34) Espárrago PULGONES 0,03-0,05 % NA
+(35) Espinaca ORUGAS 0,03-0,05 % 3
+(36) Espinaca PULGONES 0,03-0,05 % 3
+(37) Fresal ORUGAS 0,03-0,05 % 3
+(38) Fresal PULGONES 0,03-0,05 % 3
+(39) Girasol ORUGAS 0,03-0,05 % 60
+(40) Girasol PULGONES 0,03-0,05 % 60
+(41) Hortalizas del género brassica CHINCHES 0,03-0,05 % 7
+(42) Hortalizas del género brassica ORUGAS 0,03-0,05 % 7
+(43) Hortalizas del género brassica PULGONES 0,03-0,05 % 7
+(44) Maíz GUSANOS GRISES 0,083 % 30
+(45) Maíz HELIOTIS 0,083 % 30
+(46) Maíz PULGONES 0,083 % 30
+(47) Maíz TALADRO 0,083 % 30
+(48) Maíz dulce ORUGAS 0,03-0,05 % 3
+(49) Maíz dulce PULGONES 0,03-0,05 % 3
+(50) Maíz dulce TALADRO 0,03-0,05 % 3
+(51) Manzano ANTONOMO 0,03-0,05 % 7
+(52) Manzano CARPOCAPSA 0,03-0,05 % 7
+(53) Manzano HOPLOCAMPA 0,03-0,05 % 7
+(54) Manzano PANDEMIS 0,03-0,05 % 7
+(55) Manzano PSILA 0,03-0,05 % 7
+(56) Manzano PULGONES 0,03-0,05 % 7
+(57) Manzano ZEUZERA 0,03-0,05 % 7
+(58) Melón ORUGAS 0,03-0,05 % 3
+Registro de Productos FitoSanitarios
+Nº Registro: 25.787
+Nombre comercial: ITAKA
+(59) Melón PULGONES 0,03-0,05 % 3
+(60) Nogal CYDIA 0,03-0,05 % 30
+(61) Nogal PULGONES 0,03-0,05 % 30
+(62) Nogal ZEUZERA 0,03-0,05 % 30
+(63) Olivo GLIFODES 0,03-0,05 % 7
+(64) Olivo MOSCA DEL OLIVO 0,03-0,05 % 7
+(65) Olivo PRAYS 0,03-0,05 % 7
+(66) Patata ESCARABAJO DE LA PATATA 0,03-0,05 % 7
+(67) Patata ORUGAS 0,03-0,05 % 7
+(68) Patata PULGONES 0,03-0,05 % 7
+(69) Pepinillo ORUGAS 0,03-0,05 % 3
+(70) Pepinillo PULGONES 0,03-0,05 % 3
+(71) Pepino ORUGAS 0,03-0,05 % 3
+(72) Pepino PULGONES 0,03-0,05 % 3
+(73) Peral ANTONOMO 0,03-0,05 % 7
+(74) Peral CARPOCAPSA 0,03-0,05 % 7
+(75) Peral HOPLOCAMPA 0,03-0,05 % 7
+(76) Peral PANDEMIS 0,03-0,05 % 7
+(77) Peral PSILA 0,03-0,05 % 7
+(78) Peral PULGONES 0,03-0,05 % 7
+(79) Peral ZEUZERA 0,03-0,05 % 7
+(80) Puerro ORUGAS 0,03-0,05 % 7
+(81) Puerro PULGONES 0,03-0,05 % 7
+(82) Rábano PLUSIA 0,1 % 7
+(83) Rábano PULGONES 0,1 % 7
+(84) Rábano PULGUILLA 0,1 % 7
+(85) Rábano SPODOPTERA 0,1 % 7
+(86) Sandía ORUGAS 0,03-0,05 % 3
+(87) Sandía PULGONES 0,03-0,05 % 3
+(88) Sorgo GUSANOS GRISES 0,083 % 30
+(89) Sorgo HELIOTIS 0,083 % 30
+(90) Sorgo PULGONES 0,083 % 30
+(91) Sorgo TALADROS 0,083 % 30
+(92) Tabaco ORUGAS 0,03-0,05 % 7
+(93) Tabaco PULGONES 0,03-0,05 % 7
+(94) Tomate CHINCHE VERDE 0,03-0,05 % 3
+(95) Tomate ORUGAS 0,03-0,05 % 3
+(96) Tomate PULGONES 0,03-0,05 % 3
+(97) Tomate TRIPS 0,03-0,05 % 3
+(98) Trigo CHINCHES 0,03-0,05 % 30
+Registro de Productos FitoSanitarios
+Nº Registro: 25.787
+Nombre comercial: ITAKA
+(99) Trigo PULGONES 0,03-0,05 % 30
+(100) Zanahoria PLUSIA 0,1 % 7
+(101) Zanahoria PULGONES 0,1 % 7
+(102) Zanahoria PULGUILLA 0,1 % 7
+(103) Zanahoria SPODOPTERA 0,1 % 7
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales :
+Específicos: (1), (2), (25), (26), (29), (30), (82), (83), (84), (85), (100), (101), (102), (103) Al aire libre. Pulverización
+normal con tractor. Dosis máxima: 0,5 l/ha. Volumen de caldo: 500 l/ha. De 1 a 3 aplicaciones por
+campaña, con un intervalo de 7-14 días.
+(3), (4), (5), (6), (7), (8), (9), (10), (51), (52), (53), (54), (55), (56), (57), (60), (61), (62), (63), (64), (65),
+(73), (74), (75), (76), (77), (78), (79) Al aire libre. Pulverización normal con tractor. Dosis máxima: 0,5
+l/ha. Volumen de caldo: 1000 l/ha. De 1 a 3 aplicaciones por campaña, con un intervalo de 7-14
+días.
+(11), (12), (23), (24), (27), (28), (98), (99) Al aire libre. Pulverización normal con tractor. Dosis
+máxima: 0,25 l/ha. Volumen de caldo: 250-500 l/ha. De 1 a 3 aplicaciones por campaña, con un
+intervalo de 7-14 días.
+(13), (14), (15), (16), (17), (18), (69), (70), (71), (72), (94), (95), (96), (97) Al aire libre: Pulverización
+normal con tractor. Dosis máxima: 0,5 l/ha. Volumen de caldo: 500-1000 l/ha. De 1 a 3 aplicaciones
+por campaña con un intervalo de 7-14 días. En invernadero: Pulverización manual. Dosis máxima:
+0,7 l/ha. Volumen de caldo: 500-1400 l/ha. De 1 a 4 aplicaciones por campaña con un intervalo de
+7-14 días.
+(19), (20), (21), (22), (37), (38), (58), (59), (80), (81), (86), (87), (92), (93) Al aire libre. Pulverización
+normal con tractor. Dosis máxima: 0,5 l/ha. Volumen de caldo: 500-1000 l/ha. De 1 a 3 aplicaciones
+por campaña, con un intervalo de 7-14 días.
+(31), (32) Al aire libre. Pulverización normal con tractor. Dosis máxima: 0,3 l/ha. Volumen de caldo:
+300-600 l/ha. De 1 a 3 aplicaciones por campaña, con un intervalo de 7-14 días.
+(33), (34) Al aire libre. Pulverización normal con tractor. Dosis máxima: 0,5 l/ha. Volumen de caldo:
+1000 l/ha. De 1 a 2 aplicaciones por campaña, con un intervalo de 7-14 días.
+(35), (36) Al aire libre. Pulverización normal con tractor. Dosis máxima: 0,5 l/ha. Volumen de caldo:
+500-1000 l/ha. De 1 a 2 aplicaciones por campaña, con un intervalo de 7-14 días.
+(39), (40) Al aire libre. Pulverización normal con tractor. Dosis máxima: 0,3 l/ha. Volumen de caldo:
+300-600 l/ha. Una única aplicación por campaña. 
+(41), (42), (43) Coles de hojas: Al aire libre. Pulverización normal con tractor. Dosis máxima: 0,5
+l/ha. Volumen de caldo: 500-1000 l/ha. De 1 a 2 aplicaciones por campaña, con un intervalo de 7-14
+días. Coles de inflorescencia: Al aire libre. Pulverización normal con tractor. Dosis máxima: 0,5 l/ha.
+Volumen de caldo: 400-1000 l/ha. De 1 a 2 aplicaciones por campaña, con un intervalo de 7-14 días.
+(44), (45), (46), (47), (88), (89), (90), (91) Al aire libre. Pulverización normal con tractor. Dosis
+máxima: 0,49 l/ha. Volumen de caldo: 600 l/ha. De 1 a 3 aplicaciones por campaña con un intervalo
+de 7-14 días.
+(48), (49), (50), (66), (67), (68) Al aire libre. Pulverización normal con tractor. Dosis máxima: 0,5 l/ha.
+Volumen de caldo: 600-1000 l/ha. De 1 a 3 aplicaciones por campaña con un intervalo de 7-14 días.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.787
+Nombre comercial: ITAKA
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 20 m con cubierta
+vegetal hasta las masas de agua superficial. Utilizar boquillas de reducción de deriva, clase 70%.
+SPe 3: Para proteger los artrópodos no objetivo, respétese sin tratar una banda de seguridad de 20 m hasta la zona no
+cultivada. Utilizar boquillas de reducción de deriva, clase 70%.
+SPe 3: Para proteger las plantas no objetivo, respétese sin tratar una banda de seguridad de 20 m hasta la zona no
+cultivada. Utilizar boquillas de reducción de deriva, clase 70%.
+SPe 8: Peligro para las abejas. Para proteger las abejas y otros insectos polinizadores, no aplicar durante la floración
+de los cultivos. No utilizar donde haya abejas en pecoreo activo. No aplicar cuando las malas hierbas estén en
+floración. Eliminar las malas hierbas antes de su floración. 
+Mitigación de riesgos en la manipulación:
+Seguridad del aplicador:
+Aire libre:
+En todos los usos autorizados, mediante pulverización normal con tractor, durante la mezcla/carga, aplicación,
+mantenimiento y limpieza del equipo se deberán utilizar guantes de protección química. 
+Durante la aplicación con tractor con cabina cerrada y dispositivo de filtrado de aire, se podrá prescindir del equipo de
+protección, siempre que se mantengan las ventanas cerradas.
+Invernadero:
+En todos los usos autorizados, mediante pulverización manual, durante la mezcla/carga se deberán utilizar guantes de
+protección química y durante la aplicación, limpieza y mantenimiento del equipo se deberán utilizar guantes y ropa de
+protección química tipo 4 (de acuerdo a norma UNE-EN 14605: 2005 + A1:2009).
+Seguridad del trabajador:
+Evítese el contacto con el follaje húmedo durante el tratamiento.
+SPo 2: Lávese toda la ropa de protección después de usarla.
+SPo 5: Ventilar los invernaderos tratados hasta que se haya secado la pulverización antes de volver a entrar.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Líquidos inflamables. Categoría 3., Irritación ocular.
+Categoría 2., Peligro por aspiración. Categoría 1., Peligro, Toxicidad aguda (oral).
+Categoría 4., Acuático agudo 1, Toxicidad específica en determinados órganos
+(exposición única), categoría 3
+Símbolos y pictogramas: 0
+Frases de riesgo: H226, H302, H304, H319, H336, H410, EUH 066, EUH 401
+Consejos de prudencia: P210, P261, P264, P273, P280, P391, P304+P340, P305+P351+P338, P370+P378, P501,
+P301+P331, P403+P233+P235
+Registro de Productos FitoSanitarios
+Nº Registro: 25.787
+Nombre comercial: ITAKA
+Otras indicaciones reglamentarias: Otros componentes además del ingrediente activo técnico: Nafta disolvente del
+petróleo (CAS 64742-94-5).
+La Nafta disolvente del petróleo  con nº CAS 64742-94-5 debe tener un contenido
+en naftaleno menor de 1%.
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.

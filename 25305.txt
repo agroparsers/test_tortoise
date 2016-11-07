@@ -1,0 +1,113 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.305
+Nombre comercial: TENOR
+Titular:
+BAYER CROPSCIENCE, S.L.
+C/ Charles Robert Darwin, 13. Parque Tecnológico
+PATERNA
+46980
+VALENCIA
+Fabricante:
+BAYER CROPSCIENCE, S.L.
+C/ Charles Robert Darwin, 13. Parque Tecnológico
+46980 PATERNA
+VALENCIA
+Fecha de inscripción: 31/08/2009
+Fecha de caducidad: 31/08/2019
+Tipo de envase:
+Botella/bidón de PHED de 1 l (ancho de boca: 50 mm), 1,2 l
+(ancho de boca: 50 mm), 3 l (ancho de boca: 63 mm) y 5 l (ancho
+de boca: 63 mm).
+Composición: TEBUCONAZOL 25% ((ESP III)) [EW] P/V
+Tipo de preparado: EMULSION DE ACEITE EN AGUA [EW]
+Tipo de función: Fungicida
+Ámbitos de utilización: Cultivos, Plantaciones Agrícolas, Productos Recolectados
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Cebada HELMINTOSPORIUM 1 l/ha 35
+(2) Cebada OIDIO 1 l/ha 35
+(3) Cebada ROYA 1 l/ha 35
+(4) Cebada SEPTORIA 1 l/ha 35
+(5) Cítricos PENICILIUM 0,4 % NP
+(6) Olivo REPILO 0,06 % NP
+(7) Trigo HELMINTOSPORIUM 1 l/ha 35
+(8) Trigo OIDIO 1 l/ha 35
+(9) Trigo ROYA 1 l/ha 35
+(10) Trigo SEPTORIA 1 l/ha 35
+(11) Vid de vinificación BOTRITIS 0,04-0,1 % 21
+(12) Vid de vinificación OIDIO 0,04-0,1 % 21
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.305
+Nombre comercial: TENOR
+Generales : Métodos de aplicación:
+- Pulverización normal con tractor en trigo, cebada, olivo y uva de vinificación.
+- Pulverización manual en olivo y uva de vinificación.
+- Pulverización centrífuga con tractor en olivo y uva de vinificación.
+- En cítricos, aplicar mediante ducha (sistema "drencher") en el momento de recpción previamente a
+la entrada en la cámara. Alternativamente se podrá aplicar mediante pulverización en túnel sobre la
+cinta transportadora antes del encerado o bien en mezcla con las ceras autorizadas.
+En la etiqueta se darán las instrucciones para la correcta aplicación del producto en los distintos
+casos,
+especificando las especies de roya contra las que es eficaz, e indicando la conveniencia de alternar
+los
+tratamientos con otros fungicidas de distinta naturaleza, con el fin de evitar la aparición de
+resistencia.
+Específicos: (1), (2), (3), (4), (7), (8), (9), (10) Número máximo de aplicaciones: 2, desde fin de ahijado hasta fin
+de floración. Intervalo mínimo entre aplicaciones: 14 días.
+(6) Dosis máxima: 0,6 l/ha. Un único tratamiento antes de la floración en primavera.
+(11), (12) Dosis máxima: 0,5 l/ha. Número máximo de aplicaciones: 3. Intervalo: 14-21 días.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de hasta las masas de
+agua
+superficial de:
+- 20 m con cubierta vegetal para cereales.
+- 10 m con cubierta vegetal para vid.
+- 15 m para olivos.
+Mitigación de riesgos en la manipulación:
+El aplicador:
+Se utilizarán guantes de protección química en mezcla-carga en todos los usos autorizados. En aplicación cuando la
+pulverización sea normal con tractor y manual, se utilizarán guantes de protección química, ropa de protección química
+(equipo tipo 3 ó 4 de acuerdo a norma UNE-EN14605:2005+A1:2009) y calzado adecuado en trigo, cebada, olivo y uva
+de vinificación. En aplicación cuando la pulverización sea centrífuga con tractor, se utilizarán guantes de protección
+química en olivo y uva de vinificación. 
+El trabajador:
+Se utilizarán guantes de protección química en cítricos post-cosecha, cuando la aplicación se realice mediante
+drencher. En uva de vinificación se usarán guantes de protección química, cuando la pulverización sea normal con
+tractor y manual, así como cuando sea pulverización centrífuga con tractor. Protección aplicable para tareas de más
+de 2h de duración y reentrada aplicable para tareas de más de 2h de duración.
+En la limpieza y mantenimiento del equipo se aplicarán las mismas medidas de protección que en aplicación.
+Durante la aplicación con tractor con cabina cerrada y dispositivo de filtrado de aire, se podrá prescindir del equipo de
+protección, siempre que se mantengan las ventanas cerradas.
+No entrar al cultivo hasta que el producto esté seco.
+No tratar con este producto en aquellas labores que impliquen actividades mecánicas que puedan derivar a un deterioro
+de los guantes de protección química en el trabajador durante la reentrada de este a la finca.
+SPo 2: Lávese toda la ropa de protección después de usarla.
+SPo 4: El recipiente debe abrirse al aire libre y en tiempo seco. 
+SPo 5: Ventilar los invernaderos tratados hasta que se haya secado la pulverización antes de volver a entrar.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Uso reservado a centrales hortofrutícolas.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Registro de Productos FitoSanitarios
+Nº Registro: 25.305
+Nombre comercial: TENOR
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Lesión ocular grave. Categoría 1., Peligro, Toxicidad
+aguda (oral e inhalatoria). Categoría 4., Toxicidad para la reproducción, categoría 2,
+Acuático agudo 1, Toxicidad específica en determinados órganos (exposición única),
+categoría 3
+Símbolos y pictogramas: --
+Frases de riesgo: H318, H335, H410, EUH 401, H302+H332, H361d
+Consejos de prudencia: P261, P273, P280, P391, P302+P352, P304+P340, P305+P351+P338, P403+P233, P501,
+P201+P202
+Otras indicaciones reglamentarias: ################

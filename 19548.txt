@@ -1,0 +1,81 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 19.548
+Nombre comercial: TOPIK 24 EC
+Titular:
+SYNGENTA ESPAÑA S.A.
+C/ Ribera del Loira, 8-10 - 3º Planta
+28042
+MADRID
+Fabricante:
+SYNGENTA CROP PROTECTION AG
+Schwarzwaldallee 215 P.O. Box
+CH-4002
+BASILEA
+SUIZA
+Fecha de inscripción: 24/10/1994
+Fecha de caducidad: 31/01/2017
+Tipo de envase:
+Botellas de plástico de tamaño inferior a 5 l (cualquier diámetro de boca) y entre 5 y 20 l (diámetro de boca >= 45 mm).
+Composición: CLODINAFOP-PROPARGIL 24% [EC] P/V
+Tipo de preparado: CONCENTRADO EMULSIONABLE [EC]
+Tipo de función: Herbicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Trigo ALOPECURUS 200-250 cc/ha NP
+(2) Trigo AVENA LOCA 170-200 cc/ha NP
+(3) Trigo PHALARIS 225-300 cc/ha NP
+(4) Trigo VALLICO 300-350 cc/ha NP
+(5) Triticale ALOPECURUS 200-250 cc/ha NP
+(6) Triticale AVENA LOCA 170-200 cc/ha NP
+(7) Triticale PHALARIS 225-300 cc/ha NP
+(8) Triticale VALLICO 300-350 cc/ha NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Controla malas hierbas en postemergencia.
+Aplicar con tractor en pulverización normal, en mezcla con un mojante no iónico o con aceite a
+l/Ha..
+No aplicar sobre cultivos de deficiente desarrollo, ni en cultivos diferentes al trigo o triticale.
+Es conveniente asesorarse por los Servicios Técnicos de la Empresa para dosificar correctamente
+de acuerdo con las malas hierbas a destruir y en el caso de mezclar con herbicidas de hoja ancha. 
+En la etiqueta se darán las indicaciones necesarias para la correcta utilización del producto.
+Específicos: (1), (2), (3), (4), (5), (6), (7), (8) Aplicar en postemergencia del cultivo, desde el estado de 3 hojas
+hasta el final del ahijamiento de las malas hierbas, según el grado de infestación, estado de
+desarrollo de las malas hierbas y las condiciones ambientales.
+Registro de Productos FitoSanitarios
+Nº Registro: 19.548
+Nombre comercial: TOPIK 24 EC
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m. hasta las masas
+de agua superficial.
+Para proteger las aguas subterráneas no aplicar en suelos arcillosos drenados artificialmente.
+Mitigación de riesgos en la manipulación:
+El aplicador deberá utilizar guantes de protección durante la mezcla, carga, aplicación y al manipular el equipo de
+aplicación o superficies contaminadas.
+No entrar al cultivo hasta que el producto esté seco. 
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Nocivo, Peligroso para el medio ambiente
+Símbolos y pictogramas: --
+Frases de riesgo: R43, R48/22, R51/53, R66
+Consejos de prudencia: S2, S13, S45, S36/37, S23
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene nafta disolvente del petróleo, nº CAS:
+64742-94-5".
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.  
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

@@ -1,0 +1,91 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 24.926
+Nombre comercial: SETIL 80
+Titular:
+HELM IBERICA, S.A.
+Ctra. Fuencarral, 24. Edif. Europa 1, Portal 2, Plta. 1-3 - Pol. Ind. Alcobendas
+ALCOBENDAS
+28108
+MADRID
+Fabricante:
+PORPORAS, S.A.
+c/ Informatica, 5
+43330 Riudoms
+TARRAGONA
+Fecha de inscripción: 09/12/2015
+Fecha de caducidad: 30/04/2018
+Tipo de envase:
+Bolsas/ sacos de papel (papel/ papel+ PE laminado) y papel-aluminio (papel/aluminio+ PE laminado) de 100, 250, 500
+gr, y 1; 1,5; 2,5; 10 y 25 kg
+Composición: FOSETIL-AL 80% ( ESPIII) [WG] P/P
+Tipo de preparado: GRANULADO DISPERSABLE EN AGUA [WG]
+Tipo de función: Fungicida
+Ámbitos de utilización: Cultivos, Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Calabacín MILDIU 0,25 % 3
+(2) Limonero GOMOSIS 0,25-0,3 % 15
+(3) Mandarino GOMOSIS 0,25-0,3 % 15
+(4) Naranjo GOMOSIS 0,25-0,3 % 15
+(5) Pepino MILDIU 0,25 % 3
+(6) Pomelo GOMOSIS 0,25-0,3 % 15
+(7) Vid MILDIU 0,25 % 28
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Método de aplicación al aire libre: Pulverización normal con tractor y manual en cítricos (naranjo,
+limonero, mandarino y pomelo), vid de vinificación y de mesa, calabacín y pepino. 
+Método de aplicación en invernadero: Pulverización manual en calabacín y pepino.
+Específicos: (1), (5) Al aire libre y en invernadero. Dosis máxima: 4 kg/ha. Volumen de caldo: 2000 l/ha. Máximo
+4 aplicaciones/campaña desde el trasplante y después a intervalos de 10-24 días.
+(2), (3), (4), (6) Dosis máx. 6 kg/ha. Volumen de caldo: 2000 l/ha. Máx 4 aplicaciones/campaña e
+intervalo entre aplicaciones de 21-35 días (2 aplicaciones en el crecimiento de primavera y 2
+aplicaciones en el crecimiento de otoño ó bien 2 aplicaciones en otoño-invierno).
+(7) Vid de vinificación y de mesa. Dosis máxima: 2,5 kg/ha. Volumen de caldo: 1000 l/ha.
+Pulverización foliar. Máximo de 6 aplicaciones/campaña, comenzando en el periodo de crecimiento
+de vegetación activa y con un intervalo entre aplicaciones de 10-14 días.
+Registro de Productos FitoSanitarios
+Nº Registro: 24.926
+Nombre comercial: SETIL 80
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5m hasta las masas
+de agua superficial en viña y cítricos.
+Mitigación de riesgos en la manipulación:
+Seguridad del aplicador:
+En los cultivos autorizados al aire libre (naranjo, limonero, mandarino, pomelo, vid, calabacín y pepino) tanto en
+pulverización normal con tractor como pulverización manual, durante la mezcla/carga, aplicación, limpieza y
+mantenimiento del equipo se deberán utilizar guantes de protección química como mínima medida de protección
+individual.
+En los cultivos autorizados en invernadero (calabacín y pepino), en pulverización manual, durante la mezcla/carga
+aplicación, limpieza y mantenimiento del equipo se deberán utilizar guantes de protección química y ropa de
+protección química (tipo 6 de acuerdo a norma UNE-EN13034: 2005 + A1: 2009) y calzado adecuado.
+Durante la aplicación con tractor con cabina cerrada y dispositivo de filtrado de aire, se podrá prescindir del equipo de
+protección, siempre que se mantengan las ventanas cerradas. 
+Seguridad del trabajador
+No entrar al cultivo hasta que el producto esté seco.
+SPo 2: Lávese toda la ropa de protección después de usarla.
+SPo 5: Ventilar las zonas ó los invernaderos tratados (hasta que se haya secado la pulverización) antes de volver a
+entrar. 
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : --
+Símbolos y pictogramas: --
+Frases de riesgo: EUH 401
+Consejos de prudencia: P261, P262
+Otras indicaciones reglamentarias: Contiene arcilla caolinítica. El contenido en sílica cristalina en la fracción respirable
+de este formulado debe ser inferior al 0,1%.
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.

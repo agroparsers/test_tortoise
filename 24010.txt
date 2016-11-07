@@ -1,0 +1,112 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 24.010
+Nombre comercial: OBERON
+Titular:
+BAYER CROPSCIENCE, S.L.
+C/ Charles Robert Darwin, 13. Parque Tecnológico
+PATERNA
+46980
+VALENCIA
+Fabricante:
+BAYER CROPSCIENCE AG(MONHEIM)
+Alfred Nobel Strasse, 50
+D-40789 Monheim am Rhein
+ALEMANIA
+Fecha de inscripción: 21/05/2009
+Fecha de caducidad: 31/03/2018
+Tipo de envase:
+Botella de plástico (HDPE) de 1 l. 
+Botellas de material co-extrusionado PE+PA de 560 ml de capacidad, conteniendo 500 ml de producto
+Composición: SPIROMESIFEN 24% [SC] P/V
+Tipo de preparado: SUSPENSION CONCENTRADA [SC]
+Tipo de función: Acaricida, Insecticida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Berenjena ARAÑA ROJA 0,04-0,06 % 3
+(2) Berenjena MOSCA BLANCA 0,04-0,06 % 3
+(3) Calabacín ARAÑA ROJA 0,04-0,06 % 3
+(4) Calabacín MOSCA BLANCA 0,04-0,06 % 3
+(5) Fresales ARAÑA ROJA 0,04-0,06 % 3
+(6) Judías verdes ARAÑA ROJA 0,04-0,06 % 3
+(7) Judías verdes MOSCA BLANCA 0,04-0,06 % 3
+(8) Melón ARAÑA ROJA 0,04-0,06 % 3
+(9) Melón MOSCA BLANCA 0,04-0,06 % 3
+(10) Ornamentales herbáceas ARAÑA ROJA 0,04-0,06 % NP
+(11) Ornamentales herbáceas MOSCA BLANCA 0,04-0,06 % NP
+(12) Ornamentales leñosas ARAÑA ROJA 0,04-0,06 % NP
+(13) Ornamentales leñosas MOSCA BLANCA 0,04-0,06 % NP
+(14) Pepino ARAÑA ROJA 0,04-0,06 % 3
+(15) Pepino MOSCA BLANCA 0,04-0,06 % 3
+(16) Pimiento ARAÑA BLANCA 0,04-0,06 % 3
+(17) Pimiento ARAÑA ROJA 0,04-0,06 % 3
+Registro de Productos FitoSanitarios
+Nº Registro: 24.010
+Nombre comercial: OBERON
+(18) Pimiento MOSCA BLANCA 0,04-0,06 % 3
+(19) Sandía ARAÑA ROJA 0,04-0,06 % 3
+(20) Sandía MOSCA BLANCA 0,04-0,06 % 3
+(21) Tomate ACARO DEL BRONCEADO 0,04-0,06 % 3
+(22) Tomate ARAÑA ROJA 0,04-0,06 % 3
+(23) Tomate MOSCA BLANCA 0,04-0,06 % 3
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales :
+Específicos: (1), (2), (14), (15), (16), (17), (18), (21), (22), (23) Realizar de 1-4 aplicaciones por campaña si se
+realizan mediante pulverización manual con lanza o pistola con intervalo entre las mismas de 12
+días. Realizar de 1-2 aplicaciones por campaña con intervalo 10-12 días si la/s aplicación/es se
+realiza/n mediante instalaciones de pulverización fijas automatizadas, pulverizadores
+hidroneumáticos tipo cañón atomizador con tractor, aplicado desde el exterior y carretilla de
+pulverización manual. Emplear volumen de caldo de 500-1.500 l/ha.
+(3), (4), (5), (8), (9), (19), (20) Para cualquier método de aplicación realizar de 1-4 aplicaciones por
+campaña con intervalo entre las mismas 10-12 días. Emplear volumen de caldo de 300-1.000 l/ha.
+(6), (7) Para cualquier método de aplicación realizar de 1-4 aplicaciones por campaña con intervalo
+entre las mismas 10-12 días. Emplear volumen de caldo de 500-1.500 l/ha.
+(10), (11), (12), (13) Realizar de 1-2 aplicaciones por campaña si se realizan mediante pulverización
+manual con lanza o pistola con intervalo entre las mismas de 10-12 días. Realizar 1 aplicación
+mediante instalaciones de pulverización fijas automatizadas, pulverizadores hidroneumáticos tipo
+cañón atomizador con tractor, aplicado desde el exterior y carretilla de pulverización manual.
+Emplear volumen de caldo de 300-1.000 l/ha.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos en la manipulación:
+En las aplicaciones con instalaciones de pulverización fijas automatizadas y con pulverizadores hidroneumáticos tipo
+cañón atomizador con tractor (aplicado desde el exterior), se señalizará el invernadero con la siguiente frase:
+"Invernadero en tratamiento fitosanitario. No entrar ni situarse en las inmediaciones mientras se está realizando el
+tratamiento y hasta que no se deposite totalmente la nube de pulverización".
+El aplicador debe utilizar guantes de protección química adecuados durante la mezcla/carga y aplicación, así como
+ropa de protección adecuada para el tronco y las piernas.
+El retorno a la faena tras la aplicación en las áreas o cultivos tratados, no debe realizarse durante las primeras 24
+horas y previamente se debe ventilar el invernadero. Durante las siguientes 24 horas se deberá usar ropa de protección
+y guantes de protección química adecuados.
+SPo2: Lávese toda la ropa de protección después de usarla.
+SPo5: Ventilar los invernaderos tratados hasta que se haya secado la pulverización antes de volver a entrar.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Este envase está clasificado según la Ley 11/1997 por lo que el usuario final es responsable de entregarlos en alguno
+de los puntos de recogida indicados por el distribuidor que haya suministrado el producto.
+Es obligatorio enjuagar enérgicamente tres veces, o mediante dispositivo de presión, cada envase de producto que se
+vacíe al preparar la dilución y verter las aguas al depósito del pulverizador.
+Indicar en la etiqueta la obligación de entregar los envases vacíos a un gestor autorizado de residuos clasificados y
+peligrosos así como las opciones alternativas que el titular está obligado a ofrecer, conforme a lo establecido en el
+R.D. 1416/2001, de entregarlos directamente al sistema integrado de gestión al que esté adherido o al propio, de
+depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
+Registro de Productos FitoSanitarios
+Nº Registro: 24.010
+Nombre comercial: OBERON
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Irritante, Peligroso para el medio ambiente
+Símbolos y pictogramas: 0
+Frases de riesgo: R43, R50/53
+Consejos de prudencia: S2, S13, S45, S36/37, S23
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene 5-clor-2-metil-3(2H)-isotiazolinona con
+2-metil-3(2H)-isotiazolona en proporción 3:1 nº CAS: 55965-84-9 y
+1,2-benzitosiazol-3(2H)-ona nº CAS: 2634-33-5".  
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.  
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

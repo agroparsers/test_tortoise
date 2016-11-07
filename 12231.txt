@@ -1,0 +1,208 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 12.231
+Nombre comercial: PELT 50 SC
+Titular:
+BAYER CROPSCIENCE, S.L.
+C/ Charles Robert Darwin, 13. Parque Tecnológico
+PATERNA
+46980
+VALENCIA
+Fabricante:
+NIPPON SODA CO. LTD.
+2-1 Ohtemachi 2-chome.
+100 Chiyoda-Ku
+TOKYO
+JAPON
+Fecha de inscripción: 15/07/1976
+Fecha de caducidad: 30/04/2017
+Tipo de envase:
+Botella de HDPE de 1 l (boca 42 mm).
+Garrafa de HDPE de 5 l (boca 50 mm).
+Composición: METIL TIOFANATO 50% ((ESP)) [SC] P/V
+Tipo de preparado: SUSPENSION CONCENTRADA [SC]
+Tipo de función: Fungicida
+Ámbitos de utilización: Cultivos, Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Albaricoquero CRIBADO 0,09-0,135 % 3
+(2) Albaricoquero MONILIA 0,09-0,135 % 3
+(3) Albaricoquero OIDIO 0,09-0,135 % 3
+(4) Avena FUSARIUM 0,09-0,135 % 42
+(5) Avena OIDIO 0,09-0,135 % 42
+(6) Berenjena BOTRITIS 0,09-0,135 % 3
+(7) Berenjena OIDIO 0,09-0,135 % 3
+(8) Berenjena VERTICILIUM 0,09-0,135 % 3
+(9) Calabaza ANTRACNOSIS 0,09-0,135 % 3
+(10) Calabaza BOTRITIS 0,09-0,135 % 3
+(11) Calabaza CLADOSPORIOSIS 0,09-0,135 % 3
+(12) Calabaza OIDIO 0,09-0,135 % 3
+(13) Cebada FUSARIUM 0,09-0,135 % 42
+(14) Cebada OIDIO 0,09-0,135 % 42
+(15) Centeno FUSARIUM 0,09-0,135 % 42
+(16) Centeno OIDIO 0,09-0,135 % 42
+(17) Ciruelo CRIBADO 0,09-0,135 % 14
+Registro de Productos FitoSanitarios
+Nº Registro: 12.231
+Nombre comercial: PELT 50 SC
+(18) Ciruelo MONILIA 0,09-0,135 % 14
+(19) Ciruelo OIDIO 0,09-0,135 % 14
+(20) Colza ESCLEROTINIA 0,09-0,135 % 49
+(21) Guisantes para grano ANTRACNOSIS 0,09-0,135 % 28
+(22) Guisantes para grano ROYA 0,09-0,135 % 28
+(23) Guisantes verdes ANTRACNOSIS 0,09-0,135 % 14
+(24) Guisantes verdes ROYA 0,09-0,135 % 14
+(25) Judías para grano ANTRACNOSIS 0,09-0,135 % 28
+(26) Judías para grano ROYA 0,09-0,135 % 28
+(27) Judías verdes ANTRACNOSIS 0,09-0,135 % 14
+(28) Judías verdes ROYA 0,09-0,135 % 14
+(29) Manzano GLOEOSPORIUM 0,09-0,135 % 3
+(30) Manzano MONILIA 0,09-0,135 % 3
+(31) Manzano MOTEADO 0,09-0,135 % 3
+(32) Manzano OIDIO 0,09-0,135 % 3
+(33) Melocotonero CRIBADO 0,09-0,135 % 3
+(34) Melocotonero MONILIA 0,09-0,135 % 3
+(35) Melocotonero OIDIO 0,09-0,135 % 3
+(36) Melón ANTRACNOSIS 0,09-0,135 % 3
+(37) Melón BOTRITIS 0,09-0,135 % 3
+(38) Melón CLADOSPORIOSIS 0,09-0,135 % 3
+(39) Melón FUSARIUM 0,09-0,135 % 3
+(40) Melón OIDIO 0,09-0,135 % 3
+(41) Nectarino CRIBADO 0,09-0,135 % 3
+(42) Nectarino MONILIA 0,09-0,135 % 3
+(43) Nectarino OIDIO 0,09-0,135 % 3
+(44) Ornamentales herbáceas BOTRITIS 0,09-0,135 % NP
+(45) Ornamentales herbáceas COLLETORICUM 0,09-0,135 % NP
+(46) Ornamentales herbáceas FUSARIUM 0,09-0,135 % NP
+(47) Ornamentales herbáceas OIDIO 0,09-0,135 % NP
+(48) Ornamentales herbáceas ROYA 0,09-0,135 % NP
+(49) Ornamentales herbáceas SEPTORIA 0,09-0,135 % NP
+(50) Ornamentales herbáceas VERTICILIUM 0,09-0,135 % NP
+(51) Ornamentales leñosas ANTRACNOSIS 0,09-0,135 % NP
+(52) Ornamentales leñosas BOTRITIS 0,09-0,135 % NP
+(53) Ornamentales leñosas FUSARIUM 0,09-0,135 % NP
+(54) Ornamentales leñosas OIDIO 0,09-0,135 % NP
+(55) Peral GLOEOSPORIUM 0,09-0,135 % 3
+(56) Peral MONILIA 0,09-0,135 % 3
+(57) Peral MOTEADO 0,09-0,135 % 3
+Registro de Productos FitoSanitarios
+Nº Registro: 12.231
+Nombre comercial: PELT 50 SC
+(58) Peral OIDIO 0,09-0,135 % 3
+(59) Sandía ANTRACNOSIS 0,09-0,135 % 3
+(60) Sandía BOTRITIS 0,09-0,135 % 3
+(61) Sandía CLADOSPORIOSIS 0,09-0,135 % 3
+(62) Sandía FUSARIUM 0,09-0,135 % 3
+(63) Sandía OIDIO 0,09-0,135 % 3
+(64) Tomate ANTRACNOSIS 0,09-0,135 % 3
+(65) Tomate BOTRITIS 0,09-0,135 % 3
+(66) Tomate FUSARIUM 0,09-0,135 % 3
+(67) Tomate OIDIO 0,09-0,135 % 3
+(68) Tomate SEPTORIA 0,09-0,135 % 3
+(69) Trigo FUSARIUM 0,09-0,135 % 42
+(70) Trigo OIDIO 0,09-0,135 % 42
+(71) Triticale FUSARIUM 0,09-0,135 % 42
+(72) Triticale OIDIO 0,09-0,135 % 42
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Al aire libre aplicar mediante pulverización normal manual o con tractor, salvo para colza y cereales
+en los que la aplicación es siempre con tractor.
+En invernadero aplicar mediante pulverización manual (sólo para cultivos bajos), pulverizadores
+hidroneumáticos desde el exterior o instalaciones de pulverización fijas automatizadas.
+Aplicación mediante riego por goteo también, tanto al aire libre como en invernadero, en tomate,
+berenjena, melón, sandía y calabaza, en cuyo caso el plazo de seguridad aumentará de 3 a 21 días.
+Específicos: (1), (2), (3), (29), (30), (31), (32), (33), (34), (35), (41), (42), (43), (55), (56), (57), (58) Realizar una
+aplicación por campaña no sobrepasando la dosis máxima de 1,125 l/ha.
+(4), (5), (13), (14), (15), (16), (69), (70), (71), (72) Realizar una aplicación por campaña no
+sobrepasando la dosis máxima de 1,2 l/ha.
+(6), (7), (8), (64), (65), (66), (67), (68) Al aire libre y en riego por goteo (también en invern.) 1
+aplicación no sobrepasando la dosis de 1,7 l/ha. En invernadero, máx. 3 aplicaciones (intervalo 7
+días) no sobrepasando la dosis de 0,54 l/ha para aplicaciones manuales y 1 l/ha para el resto.
+(9), (10), (11), (12), (36), (37), (38), (39), (40), (59), (60), (61), (62), (63) Una aplic. al aire libre no
+sobrepasando la dosis 1,35 l/ha. En invernadero, máx. 2 aplic. (interv. 14 días) no sobrepasando la
+dosis 0,54 l/ha para aplicaciones manuales y 1,35 l/ha para el resto. En riego por goteo no
+sobrepasar 1,7 l/ha.
+(17), (18), (19) Realizar una aplicación por campaña no sobrepasando la dosis máxima de 1,35 l/ha.
+(20) Realizar una aplicación por campaña no sobrepasando la dosis máxima de 1,25 l/ha.
+(21), (22), (23), (24), (25), (26), (27), (28) Realizar una aplicación por campaña no sobrepasando la
+dosis máxima de 1,5 l/ha.
+(44), (45), (46), (47), (48), (49), (50) Realizar una aplicación por campaña no sobrepasando la dosis
+máxima de 1,7 l/ha al aire libre. En invernadero, no sobrepasar la dosis de 0,54 l/ha para las
+aplicaciones manuales y  de 1,35 l/ha para instalaciones fijas ó pulverizadores hidroneumáticos.
+(51), (52), (53), (54) Realizar una aplicación por campaña no sobrepasando la dosis máxima de 1,7
+l/ha al aire libre (pulv. tractor y manual). En invernadero, no sobrepasar la dosis de 1,6 l/ha para
+aplicaciones manuales, en instalaciones fijas y pulverizadores hidroneumáticos.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 20 m con cubierta
+vegetal hasta las masas de agua superficial.
+Registro de Productos FitoSanitarios
+Nº Registro: 12.231
+Nombre comercial: PELT 50 SC
+Mitigación de riesgos en la manipulación:
+Aplicador:
+Durante la mezcla/carga, para todos los usos autorizados, se utilizarán guantes de protección química.
+Durante la aplicación al aire libre, mantenimiento y limpieza del equipo se utilizarán guantes de protección química,
+ropa de protección química tipo 3 ó 4 (de acuerdo a norma UNE-EN-14605:2005+A1:2009) y calzado adecuado en
+frutales de pepita, melocotonero, nectarino, albaricoquero, ciruelo, tomate, berenjena, melón, sandía, calabaza, judía
+verde y en grano, guisante verde y en grano y ornamentales herbáceas (aplicación con tractor y manual); colza, avena,
+cebada, centeno, trigo, triticale (aplicación con tractor); y ornamentales leñosas (aplicación manual). Además, para la
+aplicación con tractor en ornamentales leñosas se requerirá el uso adicional de capucha y pantalla facial.
+Durante la aplicación manual en invernadero, mantenimiento y limpieza del equipo se utilizarán guantes de protección
+química y ropa de protección química tipo 6 (de acuerdo a norma UNE-EN 13034: 2005 + A1:2009) en tomate,
+berenjena, melón, sandía, calabaza y ornamentales herbáceas. En caso de aplicación mediante pulverizadores
+hidroneumáticos desde el exterior en tomate, berenjena, melón, sandía, calabaza, ornamentales herbáceas y
+ornamentales leñosas, se requerirán guantes de protección química.
+El operador no manipulará la instalación del sistema de riego durante la aplicación. Se recomienda revisar la
+instalación del sistema de riego antes del comienzo de aplicación del producto.
+Durante la aplicación con tractor con cabina cerrada y dispositivo de filtrado de aire, se podrá prescindir del equipo de
+protección, siempre que se mantengan las ventanas cerradas.
+Trabajador:
+Al aire libre, aplicación normal con tractor y manual en frutales de pepita, melocotonero, nectarino, albaricoquero,
+ciruelo, tomate, berenjena, judias verdes y en grano, guisantes verdes y en grano, ornamentales herbáceas y
+ornamentales leñosas, se utilizarán guantes de protección química para las tareas de reentrada de más de 2 horas. En
+caso de invernadero, para las aplicaciones manuales, con pulverizadores hidroneumáticos desde el exterior e
+instalaciones fijas en tomate, berenjena, ornamentales herbáceas y ornamentales leñosas y aplicaciones con
+pulverizadores hidroneumáticos desde el exterior e instalaciones fijas en melón, sandía y calabaza, también será
+necesario el uso de guantes de protección química para las tareas de reentrada de más de 2 horas.
+Será necesario establecer un plazo de  reentrada mínimo (para tareas de más de 2 horas) de 10 días en ciruelo; 14
+días en melón, sandía y calabaza  y de 7 días en ornamentales leñosas (aplicaciones en invernadero).
+Evítese el contacto con el follaje húmedo.
+No tratar con este producto en aquellas labores que impliquen actividades mecánicas que puedan derivar a un deterioro
+de los guantes de protección química en el trabajador durante la reentrada de este a la finca.
+SPo 2: Lávese toda la ropa de protección después de usarla. 
+SPo 4: El recipiente debe abrirse al aire libre y en tiempo seco. 
+SPo 5: Ventilar los invernaderos tratados hasta que se haya secado la pulverización antes de volver a entrar.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Sensibilizantes cutáneos. Categoría 1., Mutagenicidad en
+células germinales. Categoría 2., Toxicidad aguda (oral e inhalatoria). Categoría 4.
+Símbolos y pictogramas: --
+Frases de riesgo: H317, H341, H410, EUH 401, H302+H332
+Consejos de prudencia: P261, P273, P280, P391, P302+P352, P304+P340, P501, P201+P202
+Registro de Productos FitoSanitarios
+Nº Registro: 12.231
+Nombre comercial: PELT 50 SC
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene mezcla de
+5-cloro-2-metil-2H-isotiazol-3-ona y 2-metil-2H-isotiazol-3-ona (3:1) (CAS
+55965-84-9)".
+Uso profesional en lugares no destinados al público en general.
+No autorizado para uso profesional en lugares destinados al público en general
+(plantas ornamentales y leñosas), en cumplimiento con el artículo 49.4 del Real
+Decreto 1311/2012, de 14 de septiembre, por el que se establece el marco de
+actuación para conseguir un uso sostenible de productos fitosanitarios.
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.

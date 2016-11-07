@@ -1,0 +1,72 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.753
+Nombre comercial: SONIDO
+Titular:
+BAYER CROPSCIENCE, S.L.
+C/ Charles Robert Darwin, 13. Parque Tecnológico
+PATERNA
+46980
+VALENCIA
+Fabricante:
+BAYER S.A.S. (LYON)
+16, rue Jean-Marie Leclair
+F-69266 LYON
+LYON CEDEX 09
+FRANCIA
+Fecha de inscripción: 03/03/2015
+Fecha de caducidad: 30/04/2017
+Tipo de envase:
+Envases de 200 y 1.000 l.
+Composición: TIACLOPRID 40% [FS] P/V
+Tipo de preparado: SUSPENSION CONCENTRADA PARA TRATAMIENTO DE SEMILLAS
+[FS]
+Tipo de función: Insecticida
+Ámbitos de utilización: Simientes
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Simiente de maíz GUSANOS DE ALAMBRE 125 ml/U. NP
+siembra
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Las instalaciones deberán aplicar las mejores técnicas disponibles para asegurarse de que pueda
+excluirse la formación de nubes de polvo durante la conservación, el transporte y la aplicación.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin sembrar con la simiente tratada una banda de
+seguridad de 5 m. hasta las masas de agua superficial. 
+SPe 5: Para proteger a las aves y los mamíferos silvestres, el producto debe incorporarse completamente al suelo,
+asegurarse de que se incorpora al suelo totalmente al final de los surcos.
+Mitigación de riesgos en la manipulación:
+El operario deberá utilizar guantes de protección química durante la mezcla/carga, aplicación, limpieza del equipo y
+manipulación de la semilla tratada así como ropa de protección tipo 4  y mascarilla de protección tipo 3 en la
+mezclacarga y tipo 2 en el manejo de la simiente 
+SPo 2: Lávese toda la ropa de protección después de usarla. 
+SPo 5: Ventilar la zonas tratadas hasta que se haya secado la pulverización, antes de volver a entrar.
+Restricciones por clases de usuarios:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.753
+Nombre comercial: SONIDO
+La aplicación sólo se realizará en instalaciones para el tratamiento profesional de semillas. Dichas instalaciones
+deberán aplicar las mejores técnicas disponibles para asegurarse de que pueda excluirse la formación de nubes de
+polvo durante la conservación, el transporte y la aplicación.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Toxicidad aguda (oral, cutánea, por inhalación). Categoría
+4., Carcinogenicidad. Categoría 2., Tóxicos para la reproducción. Categoría 2., Acuático
+agudo 1
+Símbolos y pictogramas: --
+Frases de riesgo: H302, H332, H351, H361, H410, EUH 401
+Consejos de prudencia: P201, P202, P261, P271, P273, P280, P391, P302+P352, P304+P340, P501
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene mezcla de
+5-cloro-2-metil-2H-isotiazol-3-ona y 2-metil-2H-isotiazol-3-ona (3:1) nº CAS:
+55965-84-9".  
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

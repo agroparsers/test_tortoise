@@ -1,0 +1,86 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 19.257
+Nombre comercial: HF-CALIBRA
+Titular:
+SIPCAM INAGRA, S.A.
+c/ Prof. Beltrán Báguena, 5 - Edificio Nuevo Centro
+46009
+VALENCIA
+Fabricante:
+SIPCAM INAGRA, S.A.
+c/ Prof. Beltrán Báguena, 5 - Edificio Nuevo Centro
+46009
+VALENCIA
+Fecha de inscripción: 11/06/1992
+Fecha de caducidad: 31/10/2017
+Tipo de envase:
+Botella de polietileno de alta densidad de 1 l. (boca 55,3 mm).
+Garrafa de polietileno de alta densidad de 5 l. (boca 55,3 mm).
+Composición: MCPA 2% (ESTER TIOETILICO) [SL] P/V
+Tipo de preparado: CONCENTRADO SOLUBLE [SL]
+Tipo de función: Herbicida
+Ámbitos de utilización: Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Albaricoquero ADELANTAR MADURACIÓN 0,1-0,15 % NP
+(2) Albaricoquero AUMENTAR TAMAÑO FRUTO 0,1-0,15 % NP
+(3) Ciruelo ADELANTAR MADURACIÓN 0,1-0,15 % NP
+(4) Ciruelo AUMENTAR TAMAÑO FRUTO 0,1-0,15 % NP
+(5) Mandarino AUMENTAR TAMAÑO FRUTO 0,05-0,125 % NP
+(6) Mandarino EVITAR CAIDA FRUTO 0,1-0,2 % 7
+(7) Manzano AUMENTAR TAMAÑO FRUTO 0,075-0,15 % NP
+(8) Melocotonero ADELANTAR MADURACIÓN 0,075-0,125 % NP
+(9) Melocotonero AUMENTAR TAMAÑO FRUTO 0,075-0,125 % NP
+(10) Naranjo AUMENTAR TAMAÑO FRUTO 0,05-0,125 % NP
+(11) Naranjo EVITAR CAIDA FRUTO 0,1-0,2 % 7
+(12) Nectarino ADELANTAR MADURACIÓN 0,075-0,125 % NP
+(13) Nectarino AUMENTAR TAMAÑO FRUTO 0,075-0,125 % NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Registro de Productos FitoSanitarios
+Nº Registro: 19.257
+Nombre comercial: HF-CALIBRA
+Generales : Aplicar en pulverización normal.
+El producto no debe ser usado masivamente en ningún caso sin tener conocimiento exacto de sus
+efectos, ni en aplicaciones distintas a las autorizadas. El formulado es un fitorregulador y como tal
+la utilización indebida en dosis, época y condiciones, así como en cultivos no recomendados puede
+producir efectos distintos a los deseables.
+En la etiqueta se darán las indicaciones oportunas para su correcto uso.
+Específicos: (1), (2), (8), (9), (12), (13) Aplicar después del aclareo hasta el endurecimiento del hueso.
+(3), (4) Aplicar después del aclareo cuando el fruto tenga de 10 mm. hasta el endurecimiento del
+hueso.
+(5) Aplicar desde la completa caída de pétalos hasta que la mandarina tenga 15-20 mm.
+(6), (11) Aplicar en variedades tempranas en el momento de cambio de color de los frutos y en
+variedades tardías además del tratamiento en envero, realizar un segundo tratamiento entre mes y
+medio y dos meses después del primero. 
+(7) Aplicar un mes antes de la recolección.
+(10) Aplicar desde la completa caída de pétalos hasta que la naranja tenga 25-30 mm.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m. hasta las masas
+de agua superficial.
+SPe 3: Para proteger las plantas no objetivo, respétese sin tratar una banda de seguridad de 10 m. hasta la zona no
+cultivada.
+Mitigación de riesgos en la manipulación:
+El aplicador deberá utilizar guantes de protección química durante todo el proceso del tratamiento.
+No entrar al cutlivo hasta que el producto esté seco. 
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Acuático crónico 2
+Símbolos y pictogramas: --
+Frases de riesgo: H411, EUH 401
+Consejos de prudencia: P101, P102, P261, P262, P309+P311
+Otras indicaciones reglamentarias: SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

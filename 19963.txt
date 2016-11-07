@@ -1,0 +1,82 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 19.963
+Nombre comercial: DEBUT
+Titular:
+DU PONT IBERICA, S.L.
+Avda. Diagonal, 571 - 3ª Planta
+08029
+BARCELONA
+Fabricante:
+DU PONT INTERNATIONAL OPERATIONS SARL
+2, chemin du Pavillon
+CH-1218 Geneva
+Geneva
+SUIZA
+Fecha de inscripción: 28/03/1995
+Fecha de caducidad: 31/12/2019
+Tipo de envase:
+Botes de polietileno (HDPE) 40-120 g, 150-250 g, 300-600 g y bolsas hidrosolubles 30-40 g
+Composición: METIL TRIFLUSULFURON 50% [WG] P/P
+Tipo de preparado: GRANULADO DISPERSABLE EN AGUA [WG]
+Tipo de función: Herbicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Remolacha azucarera DICOTILEDONEAS 30-60 g/ha NP
+(2) Remolacha de mesa DICOTILEDONEAS 30-60 g/ha NP
+(3) Remolacha forrajera DICOTILEDONEAS 30-60 g/ha NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Controla malas hierbas en postemergencia precoz.
+Realizar 2 aplicaciones de 60 g/ha en pulverización normal, variando la dosis según el estado de
+crecimiento y de las malas hierbas a controlar, utilizando la dosis más alta para el control de
+Poligonum, Salsola y cuando las adventicias tengan más de 2 hojas. Intervalo entre aplicaciones
+7-14 días. Dosis máxima de aplicación por ciclo de cultivo de 120 g/ha. Emplear un volumen de
+caldo de 100-500 l/ha.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 20 m con cubierta
+vegetal hasta las masas de agua superficial.  
+SPe 3: Para proteger las plantas no objetivo en el caso de aplicar el producto con surfactante X77, respétese sin tratar
+una banda de seguridad de 5 m hasta la zona no cultivada.
+Mitigación de riesgos en la manipulación:
+Registro de Productos FitoSanitarios
+Nº Registro: 19.963
+Nombre comercial: DEBUT
+Seguridad del aplicador:
+Para todos los cultivos durante la mezcla/carga se deberán utilizar guantes de protección química y ropa de trabajo
+(manga larga y pantalón largo) y calzado adecuado.
+Durante la aplicación se deberá emplear ropa de trabajo (manga larga y pantalón largo) y calzado adecuado.
+Seguridad del trabajador:
+Para todos los cultivos se deberá emplear ropa de trabajo (manga larga y pantalón largo) y calzado adecuado. 
+En la limpieza y mantenimiento del equipo se aplicarán las mismas medidas de protección que en aplicación, además
+de guantes de protección química.
+No entrar al cultivo hasta que el producto esté seco.
+En caso de tener que colocar, retirar o mover los tubos de riego en las 48 horas posteriores al tratamiento fitosanitario,
+se utilizarán botas (de caucho o poliméricas), ropa y guantes de protección química adecuados.
+SPo 2: Lávese toda la ropa de protección después de usarla. 
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Peligroso para el medio ambiente, Atención, Acuático crónico 1, Lesión ocular grave.
+Categoría 1., Carcinogenicidad. Categoría 2., Peligro, Acuático agudo 1
+Símbolos y pictogramas: --
+Frases de riesgo: H318, H351, H410, EUH 401
+Consejos de prudencia: P261, P273, P280, P391, P305+P351+P338, P501, P201+P202
+Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.  
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+El preparado no se usará en combinación con otros productos.
+El talco no debe contener fibras de asbesto en su composición.

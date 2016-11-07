@@ -1,0 +1,70 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 19.159
+Nombre comercial: DELFIN
+Titular:
+MITSUI AGRISCIENCE INTERNATIONAL S.A./N.V.
+Boulevard de la Woluwe, 60 - Woluwedal 60
+B-1200
+BRUSELAS
+BELGICA
+Fabricante:
+CERTIS USA
+9145 Guilford Road, Suite 175
+MD 21046 Columbia
+USA
+Fecha de inscripción: 15/11/1991
+Fecha de caducidad: 30/10/2017
+Tipo de envase:
+Composición: BACILLUS THURINGIENSIS KURSTAKI 32% (KURSTAKI 30.36, CEPA SA-11; 32 MILL. DE U.I./G)
+[WG] P/P
+Tipo de preparado: GRANULADO DISPERSABLE EN AGUA [WG]
+Tipo de función: Insecticida
+Ámbitos de utilización: Cultivos, Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Algodonero PLUSIA 0,05-0,075 %
+(2) Algodonero SPODOPTERA 0,05-0,075 %
+(3) Cítricos CACOECIA 0,05-0,075 %
+(4) Cítricos PRAYS 0,05-0,075 %
+(5) Fresales ORUGAS 0,05-0,075 %
+(6) Frutales de hoja caduca ARAÑUELO 0,05-0,075 %
+(7) Frutales de hoja caduca CARPOCAPSA 0,05-0,075 %
+(8) Frutales de hoja caduca LAGARTA 0,05-0,075 %
+(9) Frutales de hoja caduca ORUGAS DEFOLIADORAS 0,05-0,075 %
+(10) Frutales de hoja caduca ORUGUETA 0,05-0,075 %
+(11) Hortícolas ORUGAS 0,05-0,075 %
+(12) Hortícolas SPODOPTERA 0,05-0,075 %
+(13) Olivo PRAYS (GEN. ANTOFAGA) 0,05-0,075 %
+(14) Vid POLILLAS DEL RACIMO 0,05-0,075 %
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Registro de Productos FitoSanitarios
+Nº Registro: 19.159
+Nombre comercial: DELFIN
+Generales : Aplicar en pulverización, diluido en la conveniente cantidad de agua, según técnica de aplicación.
+No deberá mezclarse con otros productos no recomendados, ya que se podría alterar la viabilidad de
+las esporas.
+El momento más oportuno para su aplicación es el principio del desarrollo de las larvas.
+Específicos: (1), (2) En aplicación conjunta con otros insecticidas autorizados, expresamente para este fin y bajo
+asesoramiento técnico del titular.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Mamíferos: A
+Aves: A
+Peces: A
+Abejas: Peligrosidad controlable para abejas
+Para protección de las abejas, tapar las colmenas previamente al tratamiento y mantenerlas así durante 1 ó 2 horas
+más tarde.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Indicar en la etiqueta la obligación de entregar los envases vacíos a un gestor autorizado de residuos clasificados y
+peligrosos así como las opciones alternativas que el titular está obligado a ofrecer, conforme a lo establecido en el
+R.D. 1416/01, de entregarlos directamente al sistema integrado de gestión al que esté adherido o al propio, de
+depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : --
+Símbolos y pictogramas: --
+Frases de riesgo:
+Consejos de prudencia: S2, S13, S45

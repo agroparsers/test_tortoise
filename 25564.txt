@@ -1,0 +1,88 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.564
+Nombre comercial: FOLIO GOLD SC
+Titular:
+SYNGENTA ESPAÑA S.A.
+C/ Ribera del Loira, 8-10 - 3º Planta
+28042
+MADRID
+Fabricante:
+SYNGENTA CROP PROTECTION AG
+Schwarzwaldallee 215 P.O. Box
+CH-4002
+BASILEA
+SUIZA
+Fecha de inscripción: 14/11/2011
+Fecha de caducidad: 30/06/2017
+Tipo de envase:
+Botellas de plástico de 20, 25, 40, 50, 100, 200, 250, 400, 500, 750 ml., 1 y 1,25 l.
+Garrafas de plástico de 2, 2,5, 5, 10 y 20 l.
+Composición: CLORTALONIL 50% + METALAXIL-M 3,63% [SC] P/V
+Tipo de preparado: SUSPENSION CONCENTRADA [SC]
+Tipo de función: Fungicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Cebolla MILDIU 200-250 ml/Hl 14
+(2) Melón MILDIU 200-250 ml/Hl 14
+(3) Patata MILDIU 200-250 ml/Hl 14
+(4) Tomate MILDIU 200-250 ml/Hl 14
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar en pulverización foliar mojando uniformemente la parte aérea del cultivo.
+Los tratamiento deberán iniciarse al comienzo del período de crecimiento, de forma preventiva, antes
+del establecimiento de la enfermedad, para lo que se recomienda seguir las indicaciones de las
+Estaciones de Avisos.
+El intervalo máximo entre aplicaciones será de 14 días. En condiciones muy favorables al desarrollo
+del mildiu, reducir el intervalo a 10 días, especialmente en las fases de mayor crecimiento del
+cultivo. 
+En caso de necesitarse tratamiento adicionales, se emplearán otros fungicidas alternativos de
+diferente modo de acción. El intervalo entre la última aplicación del formulado y la del fungicida
+alternativo será el indicado en la etiqueta de este último y no deberá ser superior a 10 días.
+Registro de Productos FitoSanitarios
+Nº Registro: 25.564
+Nombre comercial: FOLIO GOLD SC
+Específicos: (1) Aplicar un máximo de 2 l/Ha. con un caldo de 600-800 l/Ha. y un máximo de 2 tratamientos por
+campaña.
+(2) Aplicar un máximo de 2,5 l/Ha. con un caldo de 800-1.000 l/Ha. y un máximo de 3 tratamientos
+por campaña.
+(3) Aplicar un máximo de 2,5 l/Ha. con un caldo de 800-1.000 l/Ha. y un máximo de 2 tratamientos
+por campaña.
+(4) Sólo en invernadero. Aplicar un máximo de 2,5 l/Ha. con un caldo de 800-1.000 l/Ha. y un
+máximo de 3 tratamientos por campaña. No aplicar en plantas jóvenes hasta pasadas 3 semanas
+después del transplante o 5 semanas después de la siembra.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m. hasta las masas
+de agua superficial.
+Mitigación de riesgos en la manipulación:
+El operario deberá utilizar durante la aplicación guantes de protección así como ropa de protección adecuada para el
+tronco y las piernas.
+Para preparar el caldo: llenar con agua el depósito del pulverizador hasta la mitad, agregar la dosis de producto y
+agitando continuamente terminar de llenar el depósito
+No entrar en la zona tratada hasta que se haya secado la pulverización en la superficie de la planta y entonces usar
+guantes ropa y botas de protección adecuada.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Es obligatorio enjuagar enérgicamente tres veces, o mediante dispositivo de presión, cada envase de producto que se
+vacíe al preparar la dilución y verter las aguas al depósito del pulverizador.
+Indicar en la etiqueta la obligación de entregar los envases vacíos a un gestor autorizado de residuos clasificados y
+peligrosos así como las opciones alternativas que el titular está obligado a ofrecer, conforme a lo establecido en el
+R.D. 1416/2001, de entregarlos directamente al sistema integrado de gestión al que esté adherido o al propio, de
+depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Nocivo, Carcinogénico cat. 3, Peligroso para el medio ambiente
+Símbolos y pictogramas: --
+Frases de riesgo: R20, R36/37/38, R40, R41, R43, R50/53
+Consejos de prudencia: S20/21, S13, S45, S1/2, S36/37/39, S26, S38, S23
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene 1,2-benzisotiazol-3-(2H)-ona nº CAS:
+2634-33-5".
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.  
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

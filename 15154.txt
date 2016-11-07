@@ -1,0 +1,186 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 15.154
+Nombre comercial: ENOVIT METIL
+Titular:
+SIPCAM INAGRA, S.A.
+c/ Prof. Beltrán Báguena, 5 - Edificio Nuevo Centro
+46009
+VALENCIA
+Fabricante:
+SIPCAM INAGRA, S.A.
+c/ Prof. Beltrán Báguena, 5 - Edificio Nuevo Centro
+46009
+VALENCIA
+Fecha de inscripción: 28/05/1979
+Fecha de caducidad: 31/10/2017
+Tipo de envase:
+Bolsas de complejo polietileno/celofán de 1 kg.
+Estuches de cartón con 5 o 10 bolsas de 1 kg.
+Sacos de papel clupack con bolsa interior de polietileno de 20 y 25 kg.
+Composición: METIL TIOFANATO 70% ((ESP)) [WP] P/P
+Tipo de preparado: POLVO MOJABLE [WP]
+Tipo de función: Fungicida
+Ámbitos de utilización: Cultivos, Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Albaricoquero CRIBADO 0,045-0,07 % 3
+(2) Albaricoquero MONILIA 0,045-0,07 % 3
+(3) Albaricoquero OIDIO 0,045-0,07 % 3
+(4) Almendro CRIBADO 0,045-0,07 % NP
+(5) Almendro MONILIA 0,045-0,07 % NP
+(6) Almendro OIDIO 0,045-0,07 % NP
+(7) Avellano MONILIA 0,045-0,07 % NP
+(8) Avellano OIDIO 0,045-0,07 % NP
+(9) Avena FUSARIUM 0,045-0,07 % 42
+(10) Avena OIDIO 0,045-0,07 % 42
+(11) Berenjena ANTRACNOSIS 0,057-0,085 % 21
+(12) Berenjena BOTRITIS 0,057-0,085 % 21
+(13) Berenjena FUSARIUM 0,057-0,085 % 21
+(14) Berenjena OIDIO 0,057-0,085 % 21
+(15) Berenjena SEPTORIA 0,057-0,085 % 21
+(16) Calabaza ANTRACNOSIS 0,057-0,085 % 21
+(17) Calabaza BOTRITIS 0,057-0,085 % 21
+Registro de Productos FitoSanitarios
+Nº Registro: 15.154
+Nombre comercial: ENOVIT METIL
+(18) Calabaza CLADOSPORIOSIS 0,057-0,085 % 21
+(19) Calabaza FUSARIUM 0,057-0,085 % 21
+(20) Calabaza OIDIO 0,057-0,085 % 21
+(21) Cebada FUSARIUM 0,045-0,07 % 42
+(22) Cebada OIDIO 0,045-0,07 % 42
+(23) Centeno FUSARIUM 0,045-0,07 % 42
+(24) Centeno OIDIO 0,045-0,07 % 42
+(25) Cerezo CRIBADO 0,045-0,07 % 14
+(26) Cerezo MONILIA 0,045-0,07 % 14
+(27) Cerezo OIDIO 0,045-0,07 % 14
+(28) Ciruelo CRIBADO 0,045-0,07 % 14
+(29) Ciruelo MONILIA 0,045-0,07 % 14
+(30) Ciruelo OIDIO 0,045-0,07 % 14
+(31) Leguminosas de grano ANTRACNOSIS 0,045-0,07 % 28
+(32) Leguminosas de grano ROYA 0,045-0,07 % 28
+(33) Leguminosas verdes ANTRACNOSIS 0,045-0,07 % 14
+(34) Leguminosas verdes ROYA 0,045-0,07 % 14
+(35) Manzano MONILIA 0,045-0,07 % 3
+(36) Manzano MOTEADO 0,045-0,07 % 3
+(37) Manzano OIDIO 0,045-0,07 % 3
+(38) Melocotonero CRIBADO 0,045-0,07 % 3
+(39) Melocotonero MONILIA 0,045-0,07 % 3
+(40) Melocotonero OIDIO 0,045-0,07 % 3
+(41) Melón ANTRACNOSIS 0,057-0,085 % 21
+(42) Melón BOTRITIS 0,057-0,085 % 21
+(43) Melón CLADOSPORIOSIS 0,057-0,085 % 21
+(44) Melón FUSARIUM 0,057-0,085 % 21
+(45) Melón OIDIO 0,057-0,085 % 21
+(46) Membrillero MONILIA 0,045-0,07 % 3
+(47) Membrillero MOTEADO 0,045-0,07 % 3
+(48) Membrillero OIDIO 0,045-0,07 % 3
+(49) Nectarino CRIBADO 0,045-0,07 % 3
+(50) Nectarino MONILIA 0,045-0,07 % 3
+(51) Nectarino OIDIO 0,045-0,07 % 3
+(52) Nogal CRIBADO 0,045-0,07 % NP
+(53) Nogal MONILIA 0,045-0,07 % NP
+(54) Nogal OIDIO 0,045-0,07 % NP
+(55) Ornamentales herbáceas BOTRITIS 0,045-0,07 % NP
+(56) Ornamentales herbáceas OIDIO 0,045-0,07 % NP
+(57) Ornamentales leñosas BOTRITIS 0,045-0,07 % NP
+Registro de Productos FitoSanitarios
+Nº Registro: 15.154
+Nombre comercial: ENOVIT METIL
+(58) Ornamentales leñosas OIDIO 0,045-0,07 % NP
+(59) Peral MONILIA 0,045-0,07 % 3
+(60) Peral MOTEADO 0,045-0,07 % 3
+(61) Peral OIDIO 0,045-0,07 % 3
+(62) Peral SEPTORIA 0,045-0,07 % 3
+(63) Pistacho MONILIA 0,045-0,07 % NP
+(64) Pistacho OIDIO 0,045-0,07 % NP
+(65) Sandía ANTRACNOSIS 0,057-0,085 % 21
+(66) Sandía BOTRITIS 0,057-0,085 % 21
+(67) Sandía CLADOSPORIOSIS 0,057-0,085 % 21
+(68) Sandía FUSARIUM 0,057-0,085 % 21
+(69) Sandía OIDIO 0,057-0,085 % 21
+(70) Tomate ANTRACNOSIS 0,057-0,085 % 21
+(71) Tomate BOTRITIS 0,057-0,085 % 21
+(72) Tomate FUSARIUM 0,057-0,085 % 21
+(73) Tomate OIDIO 0,057-0,085 % 21
+(74) Tomate SEPTORIA 0,057-0,085 % 21
+(75) Trigo FUSARIUM 0,045-0,07 % 42
+(76) Trigo OIDIO 0,045-0,07 % 42
+(77) Triticale FUSARIUM 0,045-0,07 % 42
+(78) Triticale OIDIO 0,045-0,07 % 42
+(79) Vid de vinificación BOTRITIS 0,045-0,07 % 35
+(80) Vid de vinificación OIDIO 0,045-0,07 % 35
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar en pulverización normal con tractor, o bien mediante lanza/pistola en cultivos leñosos al aire
+libre; en pulverización con tractor o manual para herbáceos al aire libre; y a través del riego por goteo
+o mediante sistemas automatizados de pulverización en el caso de aplicaciones en invernadero
+(invernadero solamente en solanáceas y cucurbitáceas).
+En la etiqueta se darán las instrucciones para la correcta utilización del producto y se advertirá de
+los eventuales riesgos que pudiera presentar.
+Registro de Productos FitoSanitarios
+Nº Registro: 15.154
+Nombre comercial: ENOVIT METIL
+Específicos: (1), (2), (3), (35), (36), (37), (38), (39), (40), (46), (47), (48), (49), (50), (51), (59), (60), (61), (62)
+Efectuar 1 aplicación por campaña hasta post-floración, con un volumen de caldo entre 1.000-1.500
+l/Ha. No superar un gasto de  0,85 kg/ha
+(4), (5), (6), (7), (8), (52), (53), (54), (63), (64) Efectuar 1 aplicación por campaña entre el final de la
+cosecha y antes de la floración, con un volumen de caldo entre 1.000-1.500 l/Ha.. No superar un
+gasto de 1 kg/Ha.
+(9), (10), (21), (22), (23), (24), (75), (76), (77), (78) Efectuar 1 aplicación por campaña entre el final
+del espigado y el estado de grano lechoso, en un volumen de caldo entre 300-850 l/Ha. No superar
+un gasto de  0,85 kg/ha
+(11), (12), (13), (14), (15), (70), (71), (72), (73), (74) 1 tratamiento/campaña con un vol. de caldo de
+500-1.500 l/Ha. con tractor o manualmente (PS: 3 días). 3 tratamientos/campaña máx. (1º- 1
+kg/Ha.; 2º- 2 kg/Ha.; 3º- 3 kg/Ha. separados 30-40 días) en riego por goteo (PS: 21 días).
+(16), (17), (18), (19), (20), (41), (42), (43), (44), (45), (65), (66), (67), (68), (69) 3 aplic./campaña: 1ª
+en goteo (hasta formación del fruto) y máx. 4 kg/Ha, 2ª y 3ª en pulverización (hasta final del ciclo),
+interv. de 14 días y vol. caldo 500-1.500 l/Ha-PS: 3 días-, o 3 en goteo cada 15-20 días-PS:21
+días(máx.1 kg/Ha en pulverización).
+(25), (26), (27), (28), (29), (30) Efectuar 1 aplicación por campaña hasta post-floración, con un
+volumen de caldo entre 1.000-1.500 l/Ha. No superar un gasto de  0,96 kg/ha
+(31), (32), (33), (34) Efectuar 1 única aplicación entre el final de la floración y el final de la formación
+de los frutos, en un volumen de caldo entre 300-1.250 l/Ha. sin superar un gasto de 1 kg/Ha.
+(55), (56), (57), (58) Efectuar 1 aplicación por campaña al comienzo de la floración con un volumen
+de caldo entre 500-1.000 l/Ha. 
+(79), (80) Efectuar 1 aplicación por campaña hasta el comienzo de la maduración, con un volumen
+de caldo entre 300-1.000 l/Ha. No superar un gasto de 1 kg/ha
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 20 m hasta las masas
+de agua superficial.
+Mitigación de riesgos en la manipulación:
+El aplicador deberá utilizar guantes de protección química y mascarilla FFP2SL o P2 durante la mezcla/carga, y
+guantes de protección química, ropa de protección química tipo 3 o 4 y calzado adecuado durante la aplicación,
+limpieza y manejo del equipo, siempre y cuando el tractor carezca de cabina cerrada y dispositivo de filtrado de aire.
+Plazo de reentrada para tareas de más de 2 horas: 3 días en frutales de pepita, melocotonero, nectarino,
+albaricoquero, melón y calabaza; 8 días en ciruelo; 35 días en vid.
+No entrar al cultivo hasta que el producto esté seco.
+En caso de aplicarse mediante riego por goteo, revisar la instalación del sistema de riego antes del comienzo de la
+aplicación del producto y no manipular la instalación durante la aplicación. 
+SPo 2: Lávese toda la ropa de protección después de usarla. 
+SPo 5: Ventilar los invernaderos tratados hasta que se haya secado la pulverización antes de volver a entrar.
+Restricciones por clases de usuarios:
+Uso profesional en lugares no destinados al público en general.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Toxicidad aguda (oral, cutánea, por inhalación). Categoría
+4., Sensibilizantes cutáneos. Categoría 1 A., Mutagenicidad en células germinales.
+Categoría 2.
+Registro de Productos FitoSanitarios
+Nº Registro: 15.154
+Nombre comercial: ENOVIT METIL
+Símbolos y pictogramas: --
+Frases de riesgo: H302, H317, H341, H410, EUH 401
+Consejos de prudencia: P201, P202, P273, P280, P330, P391, P302+P352, P501
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene alquil naftalen sulfonato sódico (nº
+CAS: 27213-90-7)
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

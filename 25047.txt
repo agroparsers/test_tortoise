@@ -1,0 +1,121 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.047
+Nombre comercial: PLENUM
+Titular:
+SYNGENTA ESPAÑA S.A.
+C/ Ribera del Loira, 8-10 - 3º Planta
+28042
+MADRID
+Fabricante:
+SYNGENTA ESPAÑA S.A.
+C/ Ribera del Loira, 8-10 - 3º Planta
+28042
+MADRID
+Fecha de inscripción: 04/03/2008
+Fecha de caducidad: 30/06/2017
+Tipo de envase:
+Caja de cartón de los siguientes materiales de fuera a adentro papel-PET-aluminio-polietileno de 200, 250, 500 g., 1 y 5
+Kg.
+Envases de HDPE de 250 g, 500 g, 1 kg y 5 kg.
+Composición: PIMETROZINA 50% ( ESP) [WG] P/P
+Tipo de preparado: GRANULADO DISPERSABLE EN AGUA [WG]
+Tipo de función: Insecticida
+Ámbitos de utilización: Cultivos, Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Arbustos ornamentales MOSCA BLANCA 0,05 % NP
+(2) Arbustos ornamentales PULGONES 0,04 % NP
+(3) Berenjena MOSCA BLANCA 0,05 % 3
+(4) Berenjena PULGONES 0,04 % 3
+(5) Calabacín MOSCA BLANCA 0,05 % 3
+(6) Calabacín PULGONES 0,04 % 3
+(7) Fresal PULGONES 400 g/ha 3
+(8) Lechugas y similares PULGONES 0,04 % 7
+(9) Limonero PULGONES 0,04 % 21
+(10) Mandarino PULGONES 0,04 % 21
+(11) Manzano PULGONES 0,04 % 14
+(12) Melocotonero PULGONES 0,04 % 14
+(13) Melón MOSCA BLANCA 0,05 % 3
+(14) Melón PULGONES 0,04 % 3
+(15) Naranjo PULGONES 0,04 % 21
+(16) Nectarino PULGONES 0,04 % 14
+(17) Ornamentales herbáceas MOSCA BLANCA 0,05 % NP
+Registro de Productos FitoSanitarios
+Nº Registro: 25.047
+Nombre comercial: PLENUM
+(18) Ornamentales herbáceas PULGONES 0,04 % NP
+(19) Patata PULGONES 0,04 % 7
+(20) Pepino MOSCA BLANCA 0,05 % 3
+(21) Pepino PULGONES 0,04 % 3
+(22) Peral PULGONES 0,04 % 14
+(23) Pimiento MOSCA BLANCA 0,05 % 3
+(24) Pimiento PULGONES 0,04 % 3
+(25) Sandía MOSCA BLANCA 0,05 % 3
+(26) Sandía PULGONES 0,04 % 3
+(27) Tabaco PULGONES 0,04 % 14
+(28) Tomate MOSCA BLANCA 0,05 % 3
+(29) Tomate PULGONES 0,04 % 3
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales :
+Específicos: (1), (3), (5), (13), (17), (20), (25) Aplicar al inicio de la infestación, efectuando un solo tratamiento por
+campaña.
+(2), (4), (6), (9), (10), (11), (12), (14), (15), (16), (18), (19), (21), (22), (24), (26), (27), (29) Aplicar al
+inicio de la infestación, efectuando un máximo de 2 tratamientos por campaña.
+(7) Sólo en invernadero. Aplicar al comienzo de la infestación. Si es necesario repetir el tratamiento
+7-10 días después, pero no realizar más de 3 tratamientos. Volumen de caldo: 1000 l/ha. Controla:
+Aphis gossypii, Chaetosiphon fragaefolii y Myzus persicae.
+(8) Aplicar una semana después del trasplante o bien antes del cierre del cogollo, efectuando un
+máximo de 2 tratamientos por campaña. PS en invernadero: 14 días.
+(23), (28) Aplicar al inicio de la infestación, efectuando un solo tratamiento por campaña. Además
+pueden realizarse tratamientos en invernadero con riego por goteo, con un máximo de 3
+aplicaciones separadas 7-10 días, a la dosis de 0,5 kg/ha.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m. para los cultivos
+de tomate, patata, hortícolas y ornamentales y de 7,5 m. para melocotonero, cítricos y tabaco, hasta las masas de
+agua superficiales.
+SPe8: Peligroso para las abejas. Para proteger las abejas y otros insectos polinizadores, no aplicar durante la
+floración de los cultivos. No utilizar donde haya abejas en pecoreo activo.
+Mitigación de riesgos en la manipulación:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.047
+Nombre comercial: PLENUM
+Aplicador:
+Durante la mezcla/carga y la aplicación deberán usarse guantes de protección química, ropa de protección química
+tipo 6 (norma UNE-EN13034: 2005+A1:2009) y calzado adecuado, excepto para los tratamientos mediante el riego por
+goteo en invernadero (tomate y pimiento). En estos casos, deberán usarse guantes de protección y pantalla facial
+como mínima medida de protección individual para la mezcla/carga, no siendo necesario ningún equipo de protección
+durante el tratamiento.
+En la limpieza y mantenimiento del equipo se aplicarán las mismas medidas de protección que en mezcla/carga y/o
+aplicación.
+No entrar al cultivo hasta que el producto esté seco.
+Evítese el contacto con el follaje húmedo durante el tratamiento.
+Trabajador:
+Durante la re-entrada en invernaderos de fresa después del tratamiento, deberán utilizarse guantes de protección
+química y ropa de protección química tipo 6 (norma UNE-EN13034: 2005+A1:2009).
+No tratar con este producto en aquellos cultivos que impliquen actividades mecánicas que puedan derivar en un
+deterioro de los guantes de protección química del trabajador, durante la re-entrada de éste al invernadero.
+SPo 2: Lávese toda la ropa de protección después de usarla.
+SPo 5: Ventilar los invernaderos tratados hasta que se haya secado la pulverización antes de volver a entrar.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Carcinogénico cat. 2, Atención, Acuático crónico 3
+Símbolos y pictogramas: 0
+Frases de riesgo: H351, H412, EUH 401
+Consejos de prudencia: P261, P273, P280, P501, P201+P202
+Otras indicaciones reglamentarias: SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.

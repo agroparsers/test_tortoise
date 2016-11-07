@@ -1,0 +1,95 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 19.611
+Nombre comercial: DUNE
+Titular:
+ADAMA AGRICULTURE ESPAÑA S.A.
+C/ Méndez Álvaro nº 20, 5ª Planta
+28045
+MADRID
+Fabricante:
+INDUSTRIAS AFRASA, S.A.
+c/ Ciudad de Sevilla, 53 - Polg. Ind. Fuente Jarro
+46988 PATERNA
+VALENCIA
+Fecha de inscripción: 30/03/1994
+Fecha de caducidad: 31/07/2017
+Tipo de envase:
+Botella de plástico de 1 l.
+Garrafa de plástico de 5 l.(boca 54,4 mm.)
+Composición: ETOFUMESATO 5% + FENMEDIFAM 9% [EC] P/V
+Tipo de preparado: CONCENTRADO EMULSIONABLE [EC]
+Tipo de función: Herbicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Remolacha azucarera DICOTILEDONEAS 1-1,25 l/ha NP
+(2) Remolacha forrajera DICOTILEDONEAS 1-1,25 l/ha NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Registro de Productos FitoSanitarios
+Nº Registro: 19.611
+Nombre comercial: DUNE
+Generales : Controla malas hierbas en postemergencia.
+Aplicar en pulverización a baja presión en postemergencia del cultivo, realizando 3 aplicaciones a
+intervalos de 8-15 días, según el estado de desarrollo de las malas hierbas, siguiendo un programa
+de tratamientos en función de la zona de cultivo y las malas hierbas presentes.
+1ª aplicación: cuando el cultivo tenga entre 2-4 hojas, con las malas hierbas en estados tempranos
+de desarrollo.
+2ª aplicación 8-15 días después de la primera; 3ª aplicación 8-15 días después de la 2ª:
+La eficacia del herbicida es sobre malas hierbas emergidas, sobre las que se pone en contacto el
+producto. Al no tener efecto residual, no puede tener eficacia sobre las que emerjan después del
+tratamiento.
+En la etiqueta se darán las indicaciones oportunas para el correcto uso del producto, así como las
+advertencias necesarias para que el agricultor pueda cerciorarse de los riesgos de su utilización por
+fitotoxicidad en variedades sensibles del propio cultivo, en los cultivos adyacentes o en los
+siguientes en la alternativa.
+Se advertirá de los posibles riesgos de fitotoxicidad en casos de tratamientos anteriores con
+herbicidas de preemergencia, con ciertos insecticidas sistémicos, en cultivos afectados por plagas,
+sequía o temperaturas elevadas, así como de la existencia de especies resistentes (Solanum, Vicia)
+y de otras sensibles sólo en estado de plántula (Polygonum, Salsola)
+El producto se puede mezclar con otros herbicidas antigramíneos autorizados en remolacha siempre
+que sea compatible con los mismos.
+Deberá tenerse en cuenta que las condiciones de inclusión de la sustancia activa etofumesato en el
+anexo I de la Directiva 91/414/CE se establece: que no podrá superarse la cantidad de 1 Kg.s.a./Ha.
+de etofumesato en 3 años, por lo que en la etiqueta se darán las indicaciones oportunas sobre la
+práctica agrícola adecuada de manera que se de cumplimiento a esta limitación.
+Específicos: (1), (2) Cuando la remolacha tenga al menos 2-4 hojas verdaderas y las malas hierbas se
+encuentren entre los estados de cotiledón y 4 hojas.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m. hasta las masas
+de agua superficial.
+SPe 3: Para proteger las plantas no objetivo, respétese sin tratar una banda de seguridad de 10 m. hasta la zona no
+cultivada.
+Mitigación de riesgos en la manipulación:
+El aplicador debe utilizar guantes de protección química adecuados durante la mezcla/carga y limpieza del equipo, así
+como ropa de protección adecuada para el tronco y las piernas. 
+No realizar actividades que impliquen el contacto con el área o el cultivo tratado hasta que el producto depositado esté
+seco y al menos 24 horas después de la aplicación.
+SPo 2: Lávese toda la ropa de protección después de usarla.  
+SPo 4: El recipiente debe abrirse al aire libre y en tiempo seco.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Es obligatorio enjuagar enérgicamente tres veces, o mediante dispositivo de presión, cada envase de producto que se
+vacíe al preparar la dilución y verter las aguas al depósito del pulverizador.
+Indicar en la etiqueta la obligación de entregar los envases vacíos a un gestor autorizado de residuos clasificados y
+peligrosos así como las opciones alternativas que el titular está obligado a ofrecer, conforme a lo establecido en el
+R.D. 1416/2001, de entregarlos directamente al sistema integrado de gestión al que esté adherido o al propio, de
+depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Irritante, Peligroso para el medio ambiente
+Símbolos y pictogramas: --
+Frases de riesgo: R38, R50/53
+Registro de Productos FitoSanitarios
+Nº Registro: 19.611
+Nombre comercial: DUNE
+Consejos de prudencia: S2, S13, S45, S24/25, S23
+Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten del
+texto.
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

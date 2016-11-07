@@ -1,0 +1,101 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 24.379
+Nombre comercial: OTRIA 25 EW
+Titular:
+ADAMA AGRICULTURE ESPAÑA S.A.
+C/ Méndez Álvaro nº 20, 5ª Planta
+28045
+MADRID
+Fabricante:
+ADAMA AGRICULTURE ESPAÑA S.A.
+C/ Méndez Álvaro nº 20, 5ª Planta
+28045
+MADRID
+Fecha de inscripción: 14/12/2006
+Fecha de caducidad: 31/08/2019
+Tipo de envase:
+Botella de polietileno de 1 l y 5 l.
+Garrafa de polietileno de 10 l.
+Botellas de plástico (COEX) de 20 ml y 500 ml. Garrafas de plástico (COEX) de 5 l. 
+Composición: TEBUCONAZOL 25% (ESPVI) [EW] P/V
+Tipo de preparado: EMULSION DE ACEITE EN AGUA [EW]
+Tipo de función: Fungicida
+Ámbitos de utilización: Cultivos, Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Avena HELMINTOSPORIUM 1 l/ha 28
+(2) Avena OIDIO 1 l/ha 28
+(3) Avena ROYA 1 l/ha 28
+(4) Avena SEPTORIA 1 l/ha 28
+(5) Cebada HELMINTOSPORIUM 1 l/ha 28
+(6) Cebada OIDIO 1 l/ha 28
+(7) Cebada ROYA 1 l/ha 28
+(8) Cebada SEPTORIA 1 l/ha 28
+(9) Centeno HELMINTOSPORIUM 1 l/ha 28
+(10) Centeno OIDIO 1 l/ha 28
+(11) Centeno ROYA 1 l/ha 28
+(12) Centeno SEPTORIA 1 l/ha 28
+(13) Olivo REPILO 0,42-0,46 l/ha NP
+(14) Trigo HELMINTOSPORIUM 1 l/ha 28
+(15) Trigo OIDIO 1 l/ha 28
+(16) Trigo ROYA 1 l/ha 28
+(17) Trigo SEPTORIA 1 l/ha 28
+Registro de Productos FitoSanitarios
+Nº Registro: 24.379
+Nombre comercial: OTRIA 25 EW
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Método de aplicación: Pulverización normal con tractor.
+Específicos: (1), (2), (3), (4), (5), (6), (7), (8), (9), (10), (11), (12), (14), (15), (16), (17) Volumen de caldo: 100-500
+l/ha. Máximo dos aplicaciones por campaña con un intervalo de 21 días. Aplicar en fin de la
+floración: todas las espiguillas han terminado la floración, pero todavía pueden permanecer algunas
+anteras deshidratadas. 
+(13) Dosis de 0,06%. Máximo una aplicación por campaña. Aplicar en primavera (tras la cosecha),
+cuando las yemas florales comienzan a hincharse y se separan de la base mediante un  pedúnculo.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Spe3: Para proteger a los organismos acuáticos, respétese sin tratar una banda de seguridad hasta las masas de
+agua superficial de:
+- 20 m con cubierta vegetal para cereales.
+- 15 m para olivos.
+Mitigación de riesgos en la manipulación:
+Seguridad del operador:
+En cereales (trigo, avena, cebada y centeno): Se usarán guantes de protección química y ropa de trabajo (manga larga
+y pantalón largo) y calzado adecuado en mezcla carga. En aplicacción, se usará ropa de trabajo (manga larga y
+pantalón largo) y calzado adecuado.
+En olivo: Se utilizarán  guantes de protección química en mezcla-carga como mínima medida de protección individual,
+así como ropa de trabajo (manga larga y pantalón largo) y calzado adecuado. En aplicación, se usará ropa de trabajo
+(manga larga y pantalón largo) y calzado adecuado.
+En la limpieza y mantenimiento del equipo se aplicarán las mismas medidas de protección que en aplicación, además
+de guantes de protección química.
+Seguridad del trabajador:
+En cereales (trigo, avena, cebada y centeno): Se usará ropa de trabajo (manga larga y pantalón largo) y calzado
+adecuado.
+En olivo: se usará ropa de trabajo (manga larga y pantalón largo) y calzado adecuado y guantes de protección química.
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno. Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el
+agua de lavado al depósito (del pulverizador).
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Irritación cutánea. Categoría 2., Irritación ocular. Categoría
+2., Toxicidad para la reproducción, categoría 2
+Símbolos y pictogramas: --
+Frases de riesgo: H315, H319, H410, EUH 401, H361d
+Consejos de prudencia: P261, P273, P280, P391, P302+P352, P305+P351+P338, P501, P201+P202
+Registro de Productos FitoSanitarios
+Nº Registro: 24.379
+Nombre comercial: OTRIA 25 EW
+Otras indicaciones reglamentarias: SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.

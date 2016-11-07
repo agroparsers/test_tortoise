@@ -1,0 +1,65 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.520
+Nombre comercial: MAGNET MED
+Titular:
+SUTERRA EUROPE BIOCONTROL, SL
+Plaza América 2, Planta 9
+46004
+VALENCIA
+Fabricante:
+SUTERRA LLC
+20950 NE Talus Place
+97701 Bend
+OREGON
+USA
+Fecha de inscripción: 12/02/2015
+Fecha de caducidad: 31/10/2017
+Tipo de envase:
+Bolsas de nylon y polietileno de 10, 20, 25, 50, 75, 100, 150 y 500 unidades
+Composición: DELTAMETRIN 0,03% [RB] P/P
+Tipo de preparado: CEBO LISTO PARA SU USO [RB]
+Tipo de función: Insecticida
+Ámbitos de utilización: Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Árboles y arbustos frutales CERATITIS 50-75 Uds/Ha. NP
+(2) Cítricos CERATITIS 50-75 Uds/Ha. NP
+(3) Frutales de hoja caduca CERATITIS 50-75 Uds/Ha. NP
+(4) Frutales subtropicales/tropicales CERATITIS 50-75 Uds/Ha. NP
+(5) Vid CERATITIS 50-75 Uds/Ha. NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales :
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m. hasta las masas
+de agua superficial.
+Mitigación de riesgos en la manipulación:
+El aplicador deberá utilizar guantes de protección química durante la mezcla/carga, aplicación y reentrada de los
+trabajadores. 
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.520
+Nombre comercial: MAGNET MED
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Lesión ocular grave. Categoría 1., Irritación cutánea.
+Categoría 2., Tóxicos específicos en determinados órganos tras una exposición única.
+Categoría 3., Peligro, Acuático agudo 1
+Símbolos y pictogramas: 0
+Frases de riesgo: H315, H318, H335, H410, EUH 401
+Consejos de prudencia: P261, P273, P280, P391, P302+P352, P305+P351+P338, P403+P233, P501
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene acetato amónico, hidrocloruro de
+trimetilamina y putrescina.
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

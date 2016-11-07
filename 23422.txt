@@ -1,0 +1,96 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 23.422
+Nombre comercial: CABRIO
+Titular:
+BASF ESPAÑOLA, S.L.
+Can Rabia, 3-5
+08017
+BARCELONA
+Fabricante:
+BASF SE
+D-67056 LUDWIGSHAFEN
+RHEIN
+ALEMANIA
+Fecha de inscripción: 01/09/2005
+Fecha de caducidad: 31/01/2017
+Tipo de envase:
+Botella de 0.15, 0.25, 0.5, 1 L.
+Garrafas de 3, 5 y 10 L (boca 54 mm).
+Composición: PIRACLOSTROBIN 25% [EC] P/V
+Tipo de preparado: CONCENTRADO EMULSIONABLE [EC]
+Tipo de función: Fungicida
+Ámbitos de utilización: Cultivos, Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Caqui MYCOSPHAERELLA NAWAE 0,4 Kg/ha 100
+(2) Cebada HELMINTOSPORIUM 1 l/ha 42
+(3) Cebada RINCOSPORIUM 1 l/ha 42
+(4) Naranjo ALTERNARIA 0,2-0,3 l/ha 7
+(5) Trigo OIDIO 1 l/ha 42
+(6) Trigo ROYA 1 l/ha 42
+(7) Trigo SEPTORIA 1 l/ha 42
+(8) Vid de vinificación MILDIU 0,03-0,04 % 35
+(9) Vid de vinificación OIDIO 0,03-0,04 % 35
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar de forma preventiva en pulverización normal, al inicio de la aparición de los síntomas, desde
+prefloración al final del ciclo, procurando un buen recubrimiento del cultivo. No aplicar el producto
+solo, se utilizará en mezcla con productos fungicidas autorizados, con diferente modo de acción.
+SPa 1.- A efectos de prevenir la aparición de resistencias, no efectuar con este producto ni con
+ningún otro que contenga piraclostrobin más de 2 aplicaciones en cereales y vid y 4 en cítricos por
+ciclo de cultivo.
+Registro de Productos FitoSanitarios
+Nº Registro: 23.422
+Nombre comercial: CABRIO
+Específicos: (1) Fungicida en caqui. Uso aire libre. Dosis p.f: 0,4 kg producto/ha. Pulverización foliar. Aplicación
+BBCH 10-69. Volumen caldo 1.000-2.000 L/ha. Nº Aplicaciones: 1-2. Intervalo entre aplicaciones: 15
+días. Plazo seguridad: 100 días.
+(2), (3), (5), (6), (7) Efectuar 2 aplicaciones con un intervalo de 21 días y un volumen de caldo de
+100-400 l/Ha.
+(4) Efectuar 4 aplicaciones con un intervalo de 14 días y un volumen de caldo de 1.000 l/Ha.
+(8), (9) Efectuar 2 aplicaciones con un intervalo de 12-24 días y un volumen de caldo de 1.000 l/Ha.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 10m. en caqui, 15 m.
+en cereales, 20 m. en cítricos y 40 m. en vid hasta las masas de agua superficial.
+Mitigación de riesgos en la manipulación:
+En cultivos de Trigo, Cebada, Naranja y Vid:
+Aplicación manual y mediante tractor. El aplicador deberá utilizar guantes de protección durante la mezcla/carga y
+aplicación, así como ropa de protección química tipo 3 o 4 y calzado adecuado en cultivos leñosos (si el tractor carece
+de cabina cerrada) durante la aplicación, limpieza y mantenimiento del equipo. 
+En cultivos de Caqui:
+Pulverización foliar (Tractor): El aplicador deberá utilizar durante la mezcla/carga y aplicación, guantes de protección
+química adecuados y ropa de trabajo adecuada y en Pulverización foliar (Manual), guantes de protección química
+adecuados y mono tipo 6, que protege frente a salpicaduras de productos líquidos conforme a la norma EN 13034:2005
++ A1:2009).
+En el caso de realizar 2 aplicaciones, respetar un intervalo entre las mismas de 15 días y un plazo de reentrada de 9
+días.
+Medidas adicionales de mitigación además de las incluidas en la tabla resumen:
+En la limpieza y mantenimiento del equipo se aplicarán las mismas medidas de protección que durante la aplicación.
+Evitar el contacto con el follaje húmedo durante la aplicación.
+Durante la aplicación mediante tractor únicamente se emplearán los guantes para manipular el equipo de aplicación o
+superficies contaminadas.
+No entrar en el cultivo tratado hasta que el producto esté seco.
+SPo : Lávese toda la ropa de protección después de usarla. 
+SPo 4: El recipiente debe abrirse al aire libre y en tiempo seco.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Toxicidad aguda (oral, cutánea, por inhalación). Categoría
+3., Toxicidad aguda (oral, cutánea, por inhalación). Categoría 4., Irritación cutánea.
+Categoría 2., Irritación ocular. Categoría 2., Tóxicos específicos en determinados
+órganos tras una exposición única. Categoría 3., Peligro por aspiración. Categoría 1.,
+Peligro, Acuático agudo 1
+Símbolos y pictogramas: --
+Frases de riesgo: H301, H304, H315, H319, H332, H335, H410, EUH 401
+Consejos de prudencia: P261, P273, P280, P391, P301+P330+P331, P302+P352, P304+P340, P305+P351+P338,
+P308+P313, P501
+Otras indicaciones reglamentarias: ################

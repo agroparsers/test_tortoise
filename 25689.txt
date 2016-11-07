@@ -1,0 +1,96 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.689
+Nombre comercial: SIGNUM WG
+Titular:
+BASF ESPAÑOLA, S.L.
+Can Rabia, 3-5
+08017
+BARCELONA
+Fabricante:
+BASF SE
+D-67056 LUDWIGSHAFEN
+RHEIN
+ALEMANIA
+Fecha de inscripción: 02/12/2013
+Fecha de caducidad: 31/07/2018
+Tipo de envase:
+Cajas de cartón con bolsa interior de plástico de 200, 300, 500, 700 g. 1 y 5 Kg.
+Frascos de HDPE de 200, 300, 500, 700 g. y 1 Kg
+Tambor de HDPE de 5 Kg.
+Composición: BOSCALIDA 26,7% + PIRACLOSTROBIN 6,7% [WG] P/P (ESP.)
+Tipo de preparado: GRANULADO DISPERSABLE EN AGUA [WG]
+Tipo de función: Fungicida
+Ámbitos de utilización: Cultivos, Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Espárrago ROYA 0,75-1 Kg/ha NP
+(2) Frutales de hueso MONILIA 0,6-0,75 Kg/ha 7
+(3) Frutales de hueso OIDIO 0,6-0,75 Kg/ha 7
+(4) Pimiento BOTRITIS 1 Kg/ha 3
+(5) Pimiento OIDIO 1 Kg/ha 3
+(6) Tomate BOTRITIS 1-1,5 Kg/ha 3
+(7) Tomate OIDIO 1-1,5 Kg/ha 3
+(8) Zanahoria ALTERNARIA 0,6-0,7 Kg/ha 14
+(9) Zanahoria OIDIO 0,6-0,7 Kg/ha 14
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar en pulverización mediante tractor o manualmente al aire libre y manualmente en invernadero
+Registro de Productos FitoSanitarios
+Nº Registro: 25.689
+Nombre comercial: SIGNUM WG
+Específicos: (1) Efectuar una única aplicación antes de que transcurran 120 días para la nueva cosecha, con un
+volumen de caldo de 1.000 l/Ha.
+(2), (3) Efectuar, bien una aplicación, utilizando el rango de dosis indicado o 2 aplicaciones usando
+la dosis más baja, con un volumen de caldo de 1.000 l/Ha. y aplicación. En caso de ser necesario
+un mayor nº de aplicaciones, éstas deberán realizarse con productos que no sean de la misma
+familia química.
+(4), (5) Aire libre e invernadero. Efectuar una única aplicación con un volumen de caldo de 1.000
+l/Ha.
+(6), (7) Aire libre e invernadero. Efectuar un máximo de 3 aplicaciones a intervalos de 10-14 días con
+un volumen de caldo de 1.000 Kg/Ha., en invernadero  utilizar la dosis baja.
+(8), (9) Efectuar 2 aplicaciones a intervalos de 10-14 días y un volumen de caldo de 500 l/Ha.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m hasta las masas
+de agua superficial.
+Mitigación de riesgos en la manipulación:
+El aplicador deberá utilizar guantes de protección durante la mezcla/carga, aplicación, para manipular el equipo de
+aplicación o superficies contaminadas, en el cultivo del tomate durante la reentrada. Además en tomate (cultivo< 1 m.),
+pimiento y frutales con tractor, durante la aplicación se utilizará ropa de protección tipo 6 (contra salpicaduras de
+productos líquidos según UNE-EN 13034:2005+A1:2009) y en frutales (aplicación manual) y tomate (cultivo > 1 m.) se
+utilizará ropa de protección tipo 4 (hermética a productos líquidos según UNE-EN 14605:2005+A1:2009). En tomate y
+pimiento de invernadero será necesario utilizar protección respiratoria (mascarilla para partículas tipo FFP2 según
+norma UNE-EN-149:2001+A1:2010 o bien mascarilla con filtro tipo P2 según normas UNE-EN 143:2001, UNE-EN
+143/AC: 2002, UNE-EN 143:2001/AC: 2005, UNE-EN 143:2001/A1:2006.
+El período mínimo de reentrada para realizar actividades que supongan un contacto prolongado (+ de 2 horas) con el
+cultivo tratado será de 3 días en espárrago y pimiento. 7 días en  frutales si se efectúan 2 tratamientos y 14 días en
+zanahoria.
+En aplicaciones en frutales con tractor, éste deberá ir equipado con cabina cerrada y estar dotado con boquillas de
+baja deriva, en caso contrario el aplicador deberá utilizar la ropa de protección indicada en frutales.
+Durante la limpieza del equipo se utilizarán los mismos equipos de protección que durante la aplicación del producto.
+No entrar al cultivo hasta que el producto esté seco.
+En invernadero, cuando el cultivo supere 1 m. de altura la distancia mínima entre líneas será de 1,2 m.  
+SPo 2: Lávese toda la ropa de protección después de usarla. 
+SPo 5: Ventilar los invernaderos tratados hasta que se haya secado la pulverización antes de volver a entrar.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Toxicidad aguda (oral, cutánea, por inhalación). Categoría
+4., Acuático agudo 1
+Símbolos y pictogramas: --
+Frases de riesgo: H302, H410, EUH 401
+Consejos de prudencia: P264, P270, P273, P330, P391, P501
+Registro de Productos FitoSanitarios
+Nº Registro: 25.689
+Nombre comercial: SIGNUM WG
+Otras indicaciones reglamentarias: SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

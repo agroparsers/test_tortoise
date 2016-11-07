@@ -1,0 +1,96 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 19.947
+Nombre comercial: GARLON-GS
+Titular:
+DOW AGROSCIENCES IBERICA, S.A.
+C/ Ribera del Loira 4-6, Edificio Iris, 4ª Planta
+28042
+MADRID
+Fabricante:
+DOW AGROSCIENCES LLC (USA)
+9330 Zionsville Rd.
+46268 Indianapolis
+INDIANA
+EEUU
+Fecha de inscripción: 01/03/1995
+Fecha de caducidad: 31/12/2021
+Tipo de envase:
+Botellas de plástico de 0,25, 0,5, 1 y 2 l. (tapón: 45 mm).
+Garrafas de plástico de 3 y 5 l. (tapón: 63 mm).
+Composición: FLUROXIPIR 3% (ESTER METILHEPTIL) + TRICLOPIR 9% (ESTER BUTOXIETÍLICO) [EC] P/V
+Tipo de preparado: CONCENTRADO EMULSIONABLE [EC]
+Tipo de función: Herbicida
+Ámbitos de utilización: Áreas industriales, Praderas, Redes viarias y de servicio, Terrenos Forestales, Suelos
+agrícolas, Pastizales
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Bordes de carreteras DICOTILEDONEAS 4 l/ha 15
+(2) Caminos DICOTILEDONEAS 4 l/ha 15
+(3) Cortafuegos DICOTILEDONEAS 4 l/ha 15
+(4) Pastizales DICOTILEDONEAS 4 l/ha 15
+(5) Prados de Gramíneas DICOTILEDONEAS 4 l/ha 15
+(6) Recintos industriales DICOTILEDONEAS 4 l/ha NP
+(7) Terrenos agrícolas incultos DICOTILEDONEAS 4 l/ha 15
+(8) Terrenos forestales DICOTILEDONEAS 4 l/ha 15
+(9) Vías férreas DICOTILEDONEAS 4 l/ha NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Registro de Productos FitoSanitarios
+Nº Registro: 19.947
+Nombre comercial: GARLON-GS
+Generales : Controla malas hierbas en postemergencia.
+Aplicar en pulverización normal, mediante medios mecánicos o manuales con un volumen de caldo
+de 200-600 l/Ha., en un único tratamiento anual.
+En caso de tratamientos localizados, se efectuarán a dosis del 1% sin superar los 2 l/Ha. y un
+volumen de caldo de 60-200 l/Ha.
+En la etiqueta se hará la indicación de evitar la deriva del producto a zonas de cultivo de hoja ancha
+y plantaciones de árboles frutales, cítricos, viña y otros cultivos arbóreos.
+En la etiqueta se darán las instrucciones oportunas para el correcto uso del producto, así como las
+advertencias necesarias para que el agricultor pueda cerciorarse de los riesgos de su utilización por
+fitotoxicidad en variedades sensibles del propio cultivo, en los cultivos adyacentes o en los
+siguientes en la alternativa o por las condiciones concurrentes, como bajas temperaturas, estados
+de depresión del cultivo, lluvias, etc. Asimismo se informará sobre la posibilidad de que se
+produzcan resistencias y se propondrá una estrategia de gestión y manejo de las mismas.
+Específicos: (4) En terrenos destinados a su regeneración.
+(5) Aplicar sólo en praderas de gramíneas ya que es fitotóxico en trébol.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m. hasta las masas
+de agua superficial. 
+Para proteger las aguas subterráneas, se limita su uso, no debiéndose aplicar del 1 de septiembre al 31 de diciembre. 
+SPe 3: Para proteger las plantas no objetivo, respétese sin tratar una banda de seguridad de 5 m. hasta la zona no
+cultivada.
+Mitigación de riesgos en la manipulación:
+El aplicador deberá utilizar guantes de protección durante la mezcla/carga, aplicación y al manipular el equipo de
+aplicación o superficies contaminadas, durante la mezcla carga, aplicación y limpieza del equipo deberá utilizar ropa
+de protección tipo 6, contra salpicaduras de productos líquidos según UNE-EN 13034:2005+A1:2009, al tratar con
+tractor si está desprovisto de cabina cerrada y boquillas de baja deriva y ropa de protección tipo 4, hermética a
+productos líquidos según UNE-EN 14605:2005+A1:2009, cuando la aplicación es manual.
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Nocivo, Peligroso para el medio ambiente
+Símbolos y pictogramas: --
+Frases de riesgo: R38, R43, R51/53, R65
+Consejos de prudencia: S2, S13, S36/37, S25, S62, S23
+Registro de Productos FitoSanitarios
+Nº Registro: 19.947
+Nombre comercial: GARLON-GS
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene nafta disolvente del petróleo, nº CAS:
+64742-94-5 y  nafta disolvente del petróleo, nº CAS: 64742-47-8".  
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.  
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

@@ -1,0 +1,76 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 16.786
+Nombre comercial: K-OBIOL ULV6
+Titular:
+BAYER CROPSCIENCE, S.L.
+C/ Charles Robert Darwin, 13. Parque Tecnológico
+PATERNA
+46980
+VALENCIA
+Fabricante:
+BAYER S.A.S. (LYON)
+16, rue Jean-Marie Leclair
+F-69266 LYON
+LYON CEDEX 09
+FRANCIA
+Fecha de inscripción: 05/06/1987
+Fecha de caducidad: 31/10/2017
+Tipo de envase:
+Envases de polietileno de alta densidad de 25, 200 y 1000 litros.
+Composición: DELTAMETRIN 0,6% ( ) [UL] P/V
+Tipo de preparado: LIQUIDO PARA APLICACION POR ULV [UL]
+Tipo de función: Insecticida
+Ámbitos de utilización: Productos Recolectados
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Granos de cereales INSECTOS DE ALMACEN 42-84 cc/Tm NP
+(2) Granos de leguminosas INSECTOS DE ALMACEN 42-84 cc/Tm NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : El tratamiento se efectúa mediante dosificadores especiales, acoplados sobre la cinta
+transportadora a la entrada del almacén o depósito.
+En la etiqueta se darán las advertencias sobre los riesgos que puede entrañar el producto.
+Específicos: (1) Se incluye también el uso para granos de arroz descascarillado y pulido. Para este uso debe
+tenerse especial cuidado con el fin de garantizar una distribución del producto homogénea y precisa.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos en la manipulación:
+Registro de Productos FitoSanitarios
+Nº Registro: 16.786
+Nombre comercial: K-OBIOL ULV6
+Aplicador:
+En mezcla / carga se deberán emplear guantes de protección química (como mínima medida de protección individual).
+Trabajador:
+Se deberá emplear una mascarilla tipo FFA2P2 durante la vigilancia/ supervisión de la carga del grano, así como
+guantes y ropa de protección química (tipo 3 o 4 de acuerdo a norma UNE-EN 14605: 2005+A1:2009), en caso de
+cualquier manipulación del grano tratado.
+No entrar en el almacén hasta que el producto esté seco. 
+No tratar con este producto en aquellas labores que impliquen actividades mecánicas que puedan derivar en un
+deterioro de los guantes de protección química en el trabajador durante la entrada de éste al almacén.
+Los envases de capacidad superior a 20 litros se deberán emplear en condiciones de trasvase cerrado mediante
+bomba automática que vierta directamente el producto desde el bidón hasta el sistema de aplicación.  
+SPo 2: Lávese toda la ropa de protección después de usarla.
+SPo 4: El recipiente debe abrirse al aire libre y en tiempo seco.
+SPo 5: Ventilar las zonas tratadas hasta que se haya secado la pulverización antes de volver a entrar.
+ 
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Es obligatorio enjuagar enérgicamente tres veces, o mediante dispositivo de presión, cada envase de producto que se
+vacíe al preparar la dilución y verter las aguas al depósito del pulverizador.
+ Indicar en la etiqueta la obligación de entregar los envases vacíos a un gestor autorizado de residuos clasificados y
+peligrosos así como las opciones alternativas que el titular está obligado a ofrecer, conforme a lo establecido en el
+R.D. 1416/01, de entregarlos directamente al sistema integrado de gestión al que esté adherido o al propio, de
+depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Toxicidad aguda. Categoría 4., Acuático agudo 1
+Símbolos y pictogramas: 0
+Frases de riesgo: H332, H410, EUH 401
+Consejos de prudencia: P261, P273, P391, P304+P340, P501
+Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten del
+texto. 
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

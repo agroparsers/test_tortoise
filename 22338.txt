@@ -1,0 +1,137 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 22.338
+Nombre comercial: FLINT
+Titular:
+BAYER CROPSCIENCE, S.L.
+C/ Charles Robert Darwin, 13. Parque Tecnológico
+PATERNA
+46980
+VALENCIA
+Fabricante:
+BAYER CROPSCIENCE AG(MONHEIM)
+Alfred Nobel Strasse, 50
+D-40789 Monheim am Rhein
+ALEMANIA
+Fecha de inscripción: 18/06/2002
+Fecha de caducidad: 31/07/2017
+Tipo de envase:
+Caja de cartón de 1 kg con bolsa interior de papel, aluminio y polietileno.
+Envase de polietileno de 300 g.
+Bolsas hidrosolubles de 15 g.
+Envases de 3 g. a 5 Kg.
+Bolsas de aluminio de 15 g.
+Estuche de cartón de 300 g que contiene 3 bobinas compuestas de PET, aluminio y polietileno de 100 g cada una.
+Composición: TRIFLOXISTROBIN 50% [WG] P/P
+Tipo de preparado: GRANULADO DISPERSABLE EN AGUA [WG]
+Tipo de función: Fungicida
+Ámbitos de utilización: Cultivos, Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Calabacín OIDIO 0,025 % 3
+(2) Manzano MOTEADO 0,0075-0,01 % 14
+(3) Manzano OIDIO 0,015 % 14
+(4) Melocotonero OIDIO 0,015 % 7
+(5) Melón OIDIO 0,25 Kg/ha 3
+(6) Nectarino OIDIO 0,015 % 7
+(7) Pepino OIDIO 0,025 % 3
+(8) Peral MOTEADO 0,0075-0,01 % 14
+(9) Peral OIDIO 0,015 % 14
+(10) Vid OIDIO 0,0125-0,015 % 30
+(11) Albaricoquero OIDIO 0,015 % 7
+(12) Céspedes ANTRACNOSIS 0,7 Kg/ha NP
+(13) Céspedes FUSARIUM 0,7 Kg/ha NP
+(14) Céspedes RIZOCTONIA 0,7 Kg/ha NP
+(15) Fresales OIDIO 0,025 % 1
+Registro de Productos FitoSanitarios
+Nº Registro: 22.338
+Nombre comercial: FLINT
+(16) Olivo ANTRACNOSIS 0,01 % 14
+(17) Olivo REPILO 0,01 % 14
+(18) Peral STEMFILIUM 0,015 % 14
+(19) Pimiento OIDIOPSIS 0,025 % 1
+(20) Tomate OIDIOPSIS 0,025 % 1
+P.S.: Plazo de seguridad (días)
+Usos protegidos hasta fecha: (11) , (12) , (13) , (14) , (15) , (16) , (17) , (18) , (19) , (20) 
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar en pulverización normal. Para el caso de los cultivos de tomate y pimiento en invernadero
+aplicar mediante pulverización foliar con lanza o pistola, instalaciones de pulverización fijas
+automatizadas, pulverizadores autopropulsados con barras verticales o pulverizadores
+hidroneumáticos tipo cañón atomizador con tractor, aplicado desde el exterior.
+ SPa 1: Para evitar la aparición de resistencias, no aplicar este producto ni ningún otro que contenga
+trifloxistrobin más de 3 veces por campaña en fresa, tomate, pimiento y peral, 4 veces en
+albaricoquero, manzano, melocotonero, melón, calabacín, pepino y vid, y 2 veces en céspedes y
+olivo.
+En caso de persistir las condiciones para el desarrollo de la enfermedad, deben aplicarse
+tratamientos con fungicidas autorizados con otro modo de acción. Utilizar los intervalos cortos en
+situaciones de riesgo alto de oidio.
+Específicos: (1), (7) Efectuar un máximo de 4 tratamientos por campaña espaciados al menos 7 días sin
+sobrepasar 375 g/Ha. por aplicación.
+(2), (3) Efectuar un máximo de 4 tratamientos por campaña espaciados al menos 10-14 días sin
+sobrepasar 150 g/Ha. por aplicación.
+(4), (6) Efectuar un máximo de 3 tratamientos por campaña a intervalos de 10-14 días, con un
+máximo de 225 g /Ha. por aplicación.
+(5) Efectuar un máximo de 4 tratamientos por campaña espaciados al menos 7 días sin sobrepasar
+250 g/Ha. por aplicación.
+(8), (9), (18) Efectuar un máximo de 3 tratamientos por campaña espaciados al menos 10-14 días
+sin sobrepasar 150 g/Ha. por aplicación.
+(10), (11) Efectuar un máximo de 4 tratamientos por campaña espaciados al menos 10-14 días sin
+sobrepasar 225 g/Ha. por aplicación.
+(12), (13), (14) Efectuar un máximo de 2 tratamientos por campaña con un intervalo de 14-21 días a
+una dosis maxima de 700 g/Ha..
+(15) Efectuar un máximo de 3 tratamientos por campaña espaciados al menos 7 días sin sobrepasar
+300 g/Ha. por aplicación.
+(16), (17) Efectuar hasta 2 tratamientos por campaña, como máximo uno en otoño, sin superar la
+dosis máxima de 120 g/Ha. por aplicación.
+(19) Efectuar un máximo de 3 tratamientos por campaña espaciados al menos 7 días sin sobrepasar
+200 g/Ha. por aplicación
+(20) Efectuar un máximo de 3 tratamientos por campaña espaciados al menos 7 días sin sobrepasar
+375 g/Ha. por aplicación
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 40 m. en cultivos
+leñosos, de 15 m. en viña y de 5 m. en cultivos herbáceos, fresa, y para los usos en invernadero de tomate y pimiento
+hasta las masas de agua superficial. 
+SPe 3: Para proteger los artrópodos no objeto del tratamiento, debe facilitarse la recuperación de las poblaciones,
+evitando la deriva a bordes y parcelas colindantes y/o dejando sin tratar zonas dentro del cultivo.
+Mitigación de riesgos en la manipulación:
+Registro de Productos FitoSanitarios
+Nº Registro: 22.338
+Nombre comercial: FLINT
+El aplicador debe utilizar guantes de protección química adecuados durante la mezcla/carga y aplicación, así como
+ropa de protección adecuada para el tronco y las piernas.
+En los cultivos autorizados para invernadero, en pulverización manual y en técnicas de aplicación de exposición
+reducida, durante la mezcla/carga, se deberán utilizar guantes de protección química como mínima medida de
+protección individual (salvo para el uso de bolsas hidrosolubles de 15g puesto que no existe operación de
+mezcla/carga en estos envases). Durante la aplicación mediante pulverización manual, limpieza y mantenimiento del
+equipo se deberán utilizar guantes de protección química y ropa de protección química tipo 6 (de acuerdo a norma
+UNE-EN13034:2005 + A1:2009). En pulverización con técnicas de aplicación de exposición reducida,  durante la
+aplicación, limpieza y mantenimiento del equipo se deberán utilizar guantes de protección química como mínima
+medida de protección individual.
+Evítese el contacto con el follaje húmedo durante el tratamiento.
+El retorno a la faena en las áreas, cultivos tratados e invernaderos, no debe realizarse durante las primeras 24 horas
+tras la aplicación, salvo que se trate de actividades que no impliquen el contacto con el cultivo, utilizando en este caso
+el equipo de protección personal requerido para la aplicación. Durante las 24 horas siguientes se deberá usar ropa de
+protección y guantes de protección química adecuados. 
+SPo 2: Lávese toda la ropa de protección después de usarla. 
+SPo 5: Ventilar la zonas tratadas durante un tiempo especificado antes de volver a entrar.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Sensibilizantes cutáneos. Categoría 1 B.
+Símbolos y pictogramas: --
+Frases de riesgo: H317, H410, EUH 401
+Consejos de prudencia: P261, P273, P280, P391, P302+P352, P501
+Otras indicaciones reglamentarias: SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.

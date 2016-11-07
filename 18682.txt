@@ -1,0 +1,109 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 18.682
+Nombre comercial: FORAY 48 B
+Titular:
+KENOGARD, S.A.
+c/ Diputación, 279 - 5º
+08007
+BARCELONA
+Fabricante:
+KENOGARD, S.A.
+c/ Diputación, 279 - 5º
+08007
+BARCELONA
+Fecha de inscripción: 01/06/1990
+Fecha de caducidad: 30/04/2019
+Tipo de envase:
+Bidón de plástico HDPE de 200 litros
+Contenedor de 1000 litros
+Bidón de plástico HDPE de 20 litros
+Composición: BACILLUS THURINGIENSIS KURSTAKI (CEPA ABTS-351) 13,9% (10.600 CLU/MG) [SC] P/V
+Tipo de preparado: SUSPENSION CONCENTRADA [SC]
+Ámbitos de utilización: Forestales
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Coníferas ORUGAS DEFOLIADORAS 2,5-4 l/ha na
+(2) Frondosas ORUGAS DEFOLIADORAS 2,5-4 l/ha na
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Métodos de aplicación: Aplicación terrestre con equipos de pulverización que produzcan gota fina
+(manual y tractor) ó aplicación aérea con aeronaves (el tratamiento ha de realizarse a ultra-bajo
+volumen (UBV)).
+Pueden realizarse de 1 a 5 aplicaciones por campaña con intervalo mínimo de 5 días, a partir del
+inicio de la emergencia de las larvas (estados larvarios L1- L4). Para larvas de Choristoneura spp.,
+geométridos y Malacosoma neustria, la dosis será de 2,5-3 l producto/ha, mientras que para larvas
+de Euproctis chrysorrhoea, Lymantria dispar, L.monacha, Thaumetopoea pityocampa,
+T.processionea, Dendrolemus pini, D.superans y Tortrix viridana, será de 3-4 l producto/ha. El
+volumen de caldo para tratamientos terrestres será de 10-500 l/ha, no requiriéndose dilución en
+tratamientos aéreos.
+No autorizado para uso en jardinería exterior doméstica ni para uso profesional en lugares
+destinados al público en general.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Registro de Productos FitoSanitarios
+Nº Registro: 18.682
+Nombre comercial: FORAY 48 B
+SPe 3: En aplicaciones terrestres, para proteger los organismos acuáticos, respétese sin tratar una banda de
+seguridad de 15 metros hasta las masas de agua superficial.
+SPe 3: En aplicaciones aéreas, para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad
+de 100 metros hasta las masas de agua superficial.
+Según el Real Decreto 1311/2012, de 14 de septiembre, por el que se establece el marco de actuación para conseguir
+un uso sostenible de los productos fitosanitarios (anexo VI, punto 6), "no se aplicarán productos fitosanitarios por
+medios aéreos sobre núcleos urbanos o masa de agua (ríos, lagunas o embalses), asentamientos avícolas ni cultivos
+ecológicos no objeto de tratamiento, dejando a su alrededor una franja de seguridad mínima de 100 metros en la cual
+no podrá realizarse ningún tratamiento por medios aéreos".
+Mitigación de riesgos en la manipulación:
+Aplicador:
+Para la mezcla /carga, limpieza y mantenimiento del equipo deberán utilizarse guantes de  protección química, ropa de
+protección tipo 6-B (contra agentes biológicos según norma UNE-EN 14126:2004), gafas o protectores oculares y
+protección respiratoria (mascarilla tipo FFP3 según norma UNE-EN-149:2001+A1:2010). Se utilizarán el mismo tipo de
+protección para la aplicación con tractor, a menos que se disponga de cabina cerrada y dispositivo de filtrado de aire, y
+se mantengan las ventanas cerradas. Para las aplicaciones aéreas se requiere el uso de aeronaves con cabina
+cerrada.
+Antes de realizar los tratamientos en aplicaciones aéreas se procederá a un correcto reglaje de los equipos Micronair.
+No se considera que el piloto realice las operaciones de mezcla/carga ni de manipulación del equipo de aplicación,
+limitándose  a la aeronave y al correcto funcionamiento de los sistemas GPS y DGPS obligatorios.
+No se considera la figura del "señalero" ya que queda reemplazado por los equipos obligatorios de posicionamiento y
+de corrección diferencial en tiempo real citados anteriormente.
+En los caminos y vías de acceso a la zona de carga y de tratamiento se instalarán señales específicas advirtiendo de
+la realización de tratamientos aéreos con productos fitosanitarios, y de las propiedades sensibilizantes del producto.
+Se mantendrán dichas señales al menos hasta la finalización del tratamiento.
+Se dejará una franja de seguridad mínima de 100 metros alrededor de la zona tratada. Asimismo, no se deberá aplicar
+el producto en ninguna zona adyacente a zonas residenciales. Se debe cumplir lo especificado en el RD 1311/2012.
+No entrar en la zona hasta que el producto esté seco.
+Trabajador:
+Para la re-entrada en la zona tratada deberán utilizarse guantes de  protección química, ropa de protección tipo 6-B
+(contra agentes biológicos según norma UNE-EN 14126:2004), gafas o protectores oculares y protección respiratoria
+(mascarilla tipo FFP3 según norma UNE-EN-149:2001+A1:2010).
+No tratar en caso de que se prevea la realización de labores mecánicas que puedan deteriorar los guantes de
+protección química.
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Los envases de capacidad superiores a 20 litros se deberán emplear en condiciones de trasvase cerrado mediante
+bomba automática que vierta directamente el producto desde el bidón hasta el sistema de aplicación. 
+Restricciones por clases de usuarios:
+Uso profesional en lugares no destinados al público en general
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : --
+Símbolos y pictogramas: --
+Frases de riesgo: EUH 210, EUH 401
+Consejos de prudencia: P261, P262, P280, P302+P352, P304+P340, P411
+Registro de Productos FitoSanitarios
+Nº Registro: 18.682
+Nombre comercial: FORAY 48 B
+Otras indicaciones reglamentarias: Contiene Bacillus thuringiensis subsp.kurstaki; es potencialmente sensibilizante
+por vía cutánea e inhalatoria.
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.

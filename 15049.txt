@@ -1,0 +1,85 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 15.049
+Nombre comercial: PREVICUR N
+Titular:
+BAYER CROPSCIENCE, S.L.
+C/ Charles Robert Darwin, 13. Parque Tecnológico
+PATERNA
+46980
+VALENCIA
+Fabricante:
+BAYER CROPSCIENCE AG(MONHEIM)
+Alfred Nobel Strasse, 50
+D-40789 Monheim am Rhein
+ALEMANIA
+Fecha de inscripción: 26/02/1981
+Fecha de caducidad: 31/07/2018
+Tipo de envase:
+Botellas de HDPE de 1l (boca 50 mm).
+Garrafa de HDPE  de 5 l (boca 63 mm).
+Composición: PROPAMOCARB 60,5% ((CLORHIDRATO) (ESP I)) [SL] P/V
+Tipo de preparado: CONCENTRADO SOLUBLE [SL]
+Tipo de función: Fungicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Calabacín MILDIU 0,2-0,3 % 4
+(2) Melón MILDIU 0,2-0,3 % 3
+(3) Pepino MILDIU 0,2-0,3 % 4
+(4) Sandía MILDIU 0,2-0,3 % 3
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales :
+Específicos: (1) En aire libre, aplicación foliar con tractor, 4 aplicaciones por campaña, dosis máx. de 3 l/ha. En
+invernadero, aplicación manual con lanza o pistola, 3 aplicaciones por campaña, dosis máx. de 0,6
+l/ha. Volumen de caldo: 300-1000 l/ha. Intervalo: 10 días.
+(2), (4) Pulverización foliar con tractor al aire libre, realizando un máximo de 3 aplicaciones por
+campaña e intervalo de 10 días, no sobrepasando la dosis máxima de 3 l/ha. Volumen de caldo:
+300-500 l/ha
+(3) Pulverización foliar con tractor al aire libre, realizando un máximo de 4 aplicaciones por campaña
+e intervalo de 10 días, no sobrepasando la dosis máxima por aplicación de 3 l/ha. Volumen de
+caldo: 500-1500 l/ha.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m hasta las masas
+de agua superficial.
+Registro de Productos FitoSanitarios
+Nº Registro: 15.049
+Nombre comercial: PREVICUR N
+Mitigación de riesgos en la manipulación:
+Seguridad del aplicador:
+Se deberán utilizar durante la mezcla/carga guantes de protección química para todos los cultivos. Durante la
+aplicación al aire libre, mantenimiento y limpieza del equipo se utilizarán guantes y ropa de protección química tipo 6
+(de acuerdo a norma UNE-EN 13034: 2005 + A1:2009) y calzado adecuado. Durante la aplicación en invernadero en
+calabacín, mantenimiento y limpieza del equipo se utilizarán guantes y ropa de protección química tipo 3 ó 4 (de
+acuerdo a norma UNE-EN 14605: 2005 + A1:2009).
+Durante la aplicación con tractor con cabina cerrada y dispositivo de filtrado de aire, se podrá prescindir del equipo de
+protección, siempre que se mantengan las ventanas cerradas.
+Seguridad del trabajador:
+Se deberán utilizar guantes de protección química para tareas de reentrada de más de 2 horas de duración.
+En el periodo de reentrada será de 2 días en pepino y calabacín al aire libre y de 1 día en calabacín en invernadero,
+para aquellas tareas de duración superior a 2 horas.
+No entrar al cultivo hasta que el producto este seco.
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Sensibilizantes cutáneos. Categoría 1 B.
+Símbolos y pictogramas: --
+Frases de riesgo: H317, EUH 401
+Consejos de prudencia: P261, P280, P302+P352, P309+P311+P101
+Otras indicaciones reglamentarias: SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.

@@ -1,0 +1,76 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.364
+Nombre comercial: NEMATHORIN 150 EC
+Titular:
+ISK BIOSCIENCES EUROPE N.V.
+Pegasus Park, De kleetlaan 12B, Box 9
+Diegem
+1831
+Bruselas
+Bélgica
+Fabricante:
+ISK BIOSCIENCES EUROPE N.V.
+Pegasus Park, De kleetlaan 12B, Box 9
+1831 Diegem
+Bruselas
+Bélgica
+Fecha de inscripción: 10/09/2012
+Fecha de caducidad: 31/10/2017
+Tipo de envase:
+Garrafas de resina Eval o FLPE de 5 l. (boca 45-63 mm.) y 20 l.(boca 45 mm)
+Composición: FOSTIAZATO 15% [EC] P/V
+Tipo de preparado: CONCENTRADO EMULSIONABLE [EC]
+Tipo de función: Nematicida
+Ámbitos de utilización: Cultivos, Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Berenjena NEMATODOS 10 l/ha 50
+(2) Tomate NEMATODOS 10 l/ha 50
+(3) Platanera NEMATODOS 15 l/ha NP
+P.S.: Plazo de seguridad (días)
+Usos protegidos hasta fecha: (3) 
+Condicionamientos fitoterapeúticos:
+Generales :
+Específicos: (1), (2) Sólo en cultivo de invernadero.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 20 m. VBS hasta las
+masas de agua superficial.
+Spe 7: No aplicar durante la temporada de cría de aves.
+Para proteger a las aves y a los mamíferos se propone utilizar NEMATHORIN 150 CE cuando el plátano se cultiva bajo
+una red protectora.
+Para proteger a los polinizadores, uso previsto debería restringirse a etapa de desrrollo del cultivo.
+Mitigación de riesgos en la manipulación:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.364
+Nombre comercial: NEMATHORIN 150 EC
+El aplicador deberá utilizar guantes de protección química adecuados durante la mezcla/carga y limpieza del equipo,
+así como ropa de protección adecuada para el tronco y las piernas.
+SPo 2: Lávese toda la ropa de protección después de usarla.
+SPo 5: Ventilar los invernaderos tratados hasta que se haya secado la pulverización antes de volver a entrar.
+En platanera el área de trabajo no debe superar 1 Ha.
+En la reentrada de los trabajadores en platanera deberán utilizar ropa de trabajo y botas adecuadas.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Toxicidad aguda (oral, cutánea, por inhalación). Categoría 4., Irritación cutánea.
+Categoría 2., Sensibilizantes cutáneos. Categoría 1., Peligro por aspiración. Categoría
+1., Peligro
+Símbolos y pictogramas: 0
+Frases de riesgo: H302, H304, H317, H319, H332, H411, EUH 066, EUH 401
+Consejos de prudencia: P101, P261, P271, P273, P280, P330, P331, P391, P302+P352, P304+P340,
+P305+P351+P338, P309+P311, P501
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene nafta disolvente del petróleo, nº CAS:
+64742-94-5, que contiene 1,2,4 trimetilbenceno".  
+P1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE. (No
+limpiar el equipo de aplicación del producto cerca de aguas superficiales/Evitese la
+contaminación a través de los sistemas de evacuación de aguas de las
+explotaciones o de los caminos).

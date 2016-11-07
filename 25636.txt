@@ -1,0 +1,86 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.636
+Nombre comercial: COMET 200
+Titular:
+BASF ESPAÑOLA, S.L.
+Can Rabia, 3-5
+08017
+BARCELONA
+Fabricante:
+BASF SE
+D-67056 LUDWIGSHAFEN
+RHEIN
+ALEMANIA
+Fecha de inscripción: 05/10/2012
+Fecha de caducidad: 06/10/2020
+Tipo de envase:
+Botella de plástico de 1 l.
+Garrafas de plástico de 3, 5 y 10 l (boca 45 mm.)
+Composición: PIRACLOSTROBIN 20% [EC] P/V
+Tipo de preparado: CONCENTRADO EMULSIONABLE [EC]
+Tipo de función: Fungicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Avena ROYA CORONADA 1,1 l/ha 35
+(2) Cebada HELMINTOSPORIUM 1,1 l/ha 35
+(3) Cebada RINCOSPORIUM 1,1 l/ha 35
+(4) Cebada ROYA PARDA 1,1 l/ha 35
+(5) Centeno RINCOSPORIUM 1,1 l/ha 35
+(6) Centeno ROYA PARDA 1,1 l/ha 35
+(7) Maíz HELMINTOSPORIUM 1 l/ha NP
+(8) Maíz ROYA 1 l/ha NP
+(9) Trigo ROYA AMARILLA 1,1 l/ha 35
+(10) Trigo ROYA PARDA 1,1 l/ha 35
+(11) Triticale ROYA AMARILLA 1,1 l/ha 35
+(12) Triticale ROYA PARDA 1,1 l/ha 35
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar en pulverización mediante tractor, con un volumen de caldo de 100-400 l/Ha.hhe.
+En la etiqueta se darán las instrucciones para la correcta utilización del producto.
+Registro de Productos FitoSanitarios
+Nº Registro: 25.636
+Nombre comercial: COMET 200
+Específicos: (1), (2), (3), (4), (5), (6), (9), (10), (11), (12) Efectuar un máximo de 2 aplicaciones por campaña.
+Tratar desde el encañado hasta el espigado.
+(7), (8) Efectuar una única aplicación desde el inicio del alrgamiento del tallo hasta mediado el
+periodo de floración. El producto tiene una acción fisiológica sobre la planta que puede redundar en
+un incremento de la producción del cultivo, incluso en ausencia de síntomas visibles de la
+enfermedad.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 10 m. en maíz y 20
+m. en trigo y triticale con cubierta vegetal hasta las masas de agua superficial. 
+SPe 3: Para proteger los artrópodos no objetivo, respétese sin tratar una banda de seguridad de 5 m. hasta la zona no
+cultivada.
+Mitigación de riesgos en la manipulación:
+El aplicador deberá utilizar guantes de protección química adecuados durante la mezcla/carga, aplicación (si el tractor
+carece de cabina cerrada), al manipular el equipo de aplicación o superficies contaminadas y limpieza del equipo, así
+como ropa de protección de tipo 4 (hermética a productos líquidos, según UNE-E14605:2005+A1:2009) y calzado
+adecuado.
+No entrar al cultivo hasta pasadas 48 horas de la aplicación.
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Toxicidad aguda (oral, cutánea, por inhalación). Categoría
+1., Toxicidad aguda (oral, cutánea, por inhalación). Categoría 4., Irritación cutánea.
+Categoría 2., Irritación ocular. Categoría 2., Sensibilizantes cutáneos. Categoría 1.,
+Peligro, Acuático agudo 1
+Símbolos y pictogramas: --
+Frases de riesgo: H302, H304, H315, H317, H319, H332, H410, EUH 401
+Consejos de prudencia: P261, P273, P280, P301, P330, P391, P302+P352, P304+P340, P305+P351+P338, P501
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene nafta disolvente del petróleo, nº CAS:
+64742-94-5".
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

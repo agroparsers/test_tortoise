@@ -1,0 +1,88 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.439
+Nombre comercial: LUNA PRIVILEGE
+Titular:
+BAYER CROPSCIENCE, S.L.
+C/ Charles Robert Darwin, 13. Parque Tecnológico
+PATERNA
+46980
+VALENCIA
+Fabricante:
+BAYER S.A.S. (LYON)
+16, rue Jean-Marie Leclair
+F-69266 LYON
+LYON CEDEX 09
+FRANCIA
+Fecha de inscripción: 30/09/2015
+Fecha de caducidad: 31/01/2024
+Tipo de envase:
+Botellas de HDEP de 100 ml, 250 ml, 500 ml, 1 l, 2 l, 5 l y 10 l.
+Composición: FLUOPIRAM 50% [SC] P/V
+Tipo de preparado: SUSPENSION CONCENTRADA [SC]
+Tipo de función: Fungicida
+Ámbitos de utilización: Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Albaricoquero MONILIA 0,03-0,05 % 14
+(2) Cerezo MONILIA 0,03-0,05 % 3
+(3) Melocotonero MONILIA 0,03-0,05 % 3
+(4) Nectarino MONILIA 0,03-0,05 % 3
+(5) Vid de mesa BOTRITIS 0,04-0,05 % 3
+(6) Vid de mesa OIDIO 0,015-0,02 % 3
+(7) Vid de vinificación BOTRITIS 0,04-0,05 % 14
+(8) Vid de vinificación OIDIO 0,015-0,02 % 14
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Pulverización normal al aire libre mediante tractor con una aplicación por campaña en todos los usos
+autorizados. 
+Específicos: (1), (2), (3), (4) No sobrepasar la dosis máxima de aplicación de 0,4 l de producto/ha, aplicando
+durante la fecha de floración, o bien, durante el periodo de maduración de los frutos.
+(5), (6), (7), (8) No sobrepasar la dosis máxima de aplicación de 0,2 l de producto/ha, aplicando a
+partir del cuajado, y hasta el periodo de maduración de las bayas.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.439
+Nombre comercial: LUNA PRIVILEGE
+SPe3: Para proteger a los organismos acuáticos, respétese sin tratar una banda de seguridad hasta las masas de
+agua superficial de:
+- 10m con cubierta vegetal para los usos en melocotonero, nectarino, albaricoquero y cerezo.
+- 5m con cubierta vegetal para el uso en vid.
+SPe3: Para proteger a las plantas no objetivo, para melocotonero, nectarino, albaricoquero, cerezo, respétese sin
+tratar una banda de seguridad de 5m hasta la zona no cultivada.
+Mitigación de riesgos en la manipulación:
+En todos los cultivos autorizados, en pulverización normal con tractor, durante la mezcla/carga se deberán utilizar
+guantes de protección química, y durante  la aplicación, mantenimiento y limpieza del equipo se deberán utilizar
+guantes, ropa de protección química (tipo 3 ó 4 de acuerdo a la norma UNE-EN14605:2005 + A1:2009), y calzado
+adecuado. 
+Durante la aplicación con tractor con cabina cerrada y dispositivo de filtrado de aire, se podrá prescindir del equipo de
+protección, siempre que se mantengan las ventanas cerradas. 
+En todos los cultivos autorizados se deberán utilizar ,durante la reentrada, guantes de protección química sólo en
+labores que se excedan más de dos horas.
+La reentrada se realizará a los 9 días en vid, y a los 4 días en los frutales de hueso, sólo en labores que se excedan
+más de dos horas.
+No tratar con este producto en caso de que se prevea la realización  de labores mecánicas que puedan deteriorar los
+guantes de protección química.
+No entrar al cultivo hasta que el producto este seco. 
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Acuático crónico 2
+Símbolos y pictogramas: --
+Frases de riesgo: H411, EUH 208, EUH 210, EUH 401
+Consejos de prudencia: P261, P262, P273, P391, P501
+Otras indicaciones reglamentarias: SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.

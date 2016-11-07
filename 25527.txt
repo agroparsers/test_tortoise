@@ -1,0 +1,83 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.527
+Nombre comercial: CORDIAL
+Titular:
+COMERCIAL QUIMICA MASSÓ, S.A.
+c/ Viladomat, 321 - 5º
+08029
+BARCELONA
+Fabricante:
+COMERCIAL QUIMICA MASSÓ, S.A.
+c/ Viladomat, 321 - 5º
+08029
+BARCELONA
+Fecha de inscripción: 17/04/2015
+Fecha de caducidad: 31/08/2019
+Tipo de envase:
+Botellas de plástico de 15, 25, 30, 50 (boca 25 mm), 100 y 120 ml.
+Botellas de plástico de 250, 500 ml y 1 l. (todas con boca 41,6 mm).
+Garrafa de 5 l.
+Composición: PIRETRINAS 1,9% [EC] P/V
+Tipo de preparado: CONCENTRADO EMULSIONABLE [EC]
+Tipo de función: Insecticida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Arbustos ornamentales MOSCA BLANCA 0,125-0,16 % NP
+(2) Arbustos ornamentales PULGONES 0,125-0,16 % NP
+(3) Arbustos ornamentales TRIPS 0,125-0,16 % NP
+(4) Ornamentales herbáceas MOSCA BLANCA 0,125-0,16 % NP
+(5) Ornamentales herbáceas PULGONES 0,125-0,16 % NP
+(6) Ornamentales herbáceas TRIPS 0,125-0,16 % NP
+(7) Pepino MOSCA BLANCA 0,16 % 1
+(8) Pepino PULGONES 0,16 % 1
+(9) Pepino TRIPS 0,16 % 1
+(10) Pimiento MOSCA BLANCA 0,16 % 1
+(11) Pimiento PULGONES 0,16 % 1
+(12) Pimiento TRIPS 0,16 % 1
+(13) Tomate MOSCA BLANCA 0,16 % 1
+(14) Tomate PULGONES 0,16 % 1
+(15) Tomate TRIPS 0,16 % 1
+P.S.: Plazo de seguridad (días)
+Registro de Productos FitoSanitarios
+Nº Registro: 25.527
+Nombre comercial: CORDIAL
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar solo en invernadero en pulverización normal manual, con un máximo de 3 aplicaciones
+separadas al menos 7 días sin superar la dosis 1,6 l . en ornamentales, 1,25 en pepino y pimiento y
+1,9 l. en tomate.
+Específicos: (1), (2), (3), (4), (5), (6) Aplicar con un volumen de caldo de 600-1.000 l/ha.
+(7), (8), (9), (10), (11), (12), (13), (14), (15) Aplicar con un volumen de caldo de 600-1.200 l/ha.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Debido al riesgo en artrópodos no-objetivo solo se aceptan los usos en invernadero. En estos usos debe excluirse la
+utilización de control biológico de plagas. 
+SPe 8: No utilizar donde haya abejas en pecoreo activo, la aplicación debe ser hecha únicamente por la mañana
+temprano o a última hora de la tarde.
+Para usos en invernadero donde se usen polinizadores, las colmenas deben ser retíradas o cubiertas. Retírense o
+cúbranse las colmenas durante el tratamiento y durante 24 horas después del mismo.
+Mitigación de riesgos en la manipulación:
+El aplicador deberá utilizar guantes de protección química en la mezcla/carga, aplicación, manejo y limpieza del
+equipo. Durante la aplicación y limpieza del equipo deberá utilizar ropa de protección tipo 6 
+No entrar al cultivo hasta que el producto esté seco 
+SPo 2: Lávese toda la ropa de protección después de usarla. 
+SPo 5: Ventilar los invernaderos tratados hasta que se haya secado la pulverización antes de volver a entrar.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales 
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Acuático crónico 1, Acuático agudo 1
+Símbolos y pictogramas: --
+Frases de riesgo: H410, EUH 401
+Consejos de prudencia: P102, P261, P262, P273, P391, P405, P501
+Otras indicaciones reglamentarias: SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

@@ -1,0 +1,86 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 16.252
+Nombre comercial: SPASOR PLUS
+Titular:
+MONSANTO AGRICULTURA ESPAÑA, S.L.
+Avda. de Burgos, 17 - 10º
+28036
+MADRID
+Fabricante:
+MONSANTO AGRICULTURA ESPAÑA, S.L.
+Avda. de Burgos, 17 - 10º
+28036
+MADRID
+Fecha de inscripción: 02/04/1982
+Fecha de caducidad: 31/12/2018
+Tipo de envase:
+Botella de polietileno de 1 l. (Sólo aplicaciones manuales)
+Garrafas de polietileno de alta densidad de 5 l. (boca 45-63 mm.), 10, 15 y 20 l. (boca 63 mm.)
+Bidones de plástico (HPDE) de 60, 120 y 200 l.
+Contenedores de plástico de 640 y 1.000 l.
+Composición: GLIFOSATO 36% (SAL POTÁSICA) [SL] P/V (ESP.)
+Tipo de preparado: CONCENTRADO SOLUBLE [SL]
+Tipo de función: Herbicida
+Ámbitos de utilización: Humedales, Redes viarias y de servicio, Areas no cultivadas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Bordes de carreteras MALAS HIERBAS 3-10 l/ha NP
+(2) Canales de riego MALAS HIERBAS 3-10 l/ha NP
+(3) Desagües y drenajes MALAS HIERBAS 3-10 l/ha NP
+(4) Recintos industriales MALAS HIERBAS 3-10 l/ha NP
+(5) Redes de servicios MALAS HIERBAS 3-10 l/ha NP
+(6) Solares MALAS HIERBAS 3-10 l/ha NP
+(7) Terrenos pantanosos MALAS HIERBAS 3-10 l/ha NP
+(8) Vías férreas MALAS HIERBAS 3-10 l/ha NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Controla malas hierbas en postemergencia.
+Aplicar en pulverización variando la dosis según especies de malas hierbas y estado de desarrollo
+de las mismas siendo el momento más oportuno después de la floración, de las malas hierbas y
+atendiendo a las normas de seguridad, con equipos motorizados y pulverización hidraúlica (100-400
+l/Ha. de caldo - dosis máxima 10 l/Ha.) y atomizadores de disco rotatorio (20-50 l/Ha. de caldo -
+dosis máxima 6 l/Ha.) y con equipos de aplicación manual, con pulverización hidraúlica la dosis
+máxima de 10 l/Ha. no se podrá diluir en un volumen de caldo inferior a 325 l. y con pulverización
+centrífuga la dosis máxima de 3 l/Ha. no se podrá diluir en un volumen de caldo inferior a 25 l.
+Registro de Productos FitoSanitarios
+Nº Registro: 16.252
+Nombre comercial: SPASOR PLUS
+Específicos: (2), (3) Sólo en márgenes o, previo corte del agua en el cauce, dejando un plazo de al menos 7 días
+antes de hacer circular el agua de nuevo.
+(7) Tratamientos localizados en las zonas no inundadas.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos respétese sin tratar una banda de seguridad de 5 m. hasta las masas
+de agua superficial.
+SPe 3: Para proteger las plantas terrestres no objetivo, respétese sin tratar una banda de seguridad de 10 m. hasta las
+zonas no cultivadas. Utilizando boquillas de clase 90%, no sería necesario banda de seguridad.
+Las aplicaciones en bordes y márgenes de los canales de riego y acequias serán localizadas. 
+Mitigación de riesgos en la manipulación:
+El operario deberá utilizar guantes de protección adecuados durante la mezcla/carga y ropa de protección tipo 3 o 4
+(hermética a productos líquidos) durante la aplicación hidraúlica con equipos motorizados y manuales. Además, en las
+aplicaciones manuales se deberá utilizar mascarilla con filtro P2 o mascarilla autofiltantre FFP2.
+No entrar a la zona tratada hasta que el producto esté seco.
+Por motivos de seguridad no complementar la utilización del producto con escarda manual.
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Es obligatorio enjuagar enérgicamente tres veces, o mediante dispositivo de presión, cada envase de producto que se
+vacíe al preparar la dilución y verter las aguas al depósito del pulverizador.
+Indicar en la etiqueta la obligación de entregar los envases vacíos a un gestor autorizado de residuos clasificados y
+peligrosos así como las opciones alternativas que el titular está obligado a ofrecer, conforme a lo establecido en el
+R.D. 1416/2001, de entregarlos directamente al sistema integrado de gestión al que esté adherido o al propio, de
+depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Peligroso para el medio ambiente
+Símbolos y pictogramas: --
+Frases de riesgo: R52/53
+Consejos de prudencia: S2, S13, S45, S36/37, S25, S23
+Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.  
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

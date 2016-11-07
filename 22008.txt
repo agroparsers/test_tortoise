@@ -1,0 +1,78 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 22.008
+Nombre comercial: DIVIDEND FORMULA M
+Titular:
+SYNGENTA ESPAÑA S.A.
+C/ Ribera del Loira, 8-10 - 3º Planta
+28042
+MADRID
+Fabricante:
+SYNGENTA CROP PROTECTION AG
+Schwarzwaldallee 215 P.O. Box
+CH-4002
+BASILEA
+SUIZA
+Fecha de inscripción: 28/07/1999
+Fecha de caducidad: 31/12/2018
+Tipo de envase:
+Envases de plástico de 1 l (boca de 45 mm), 5 l (boca de 63 mm), 20 l (boca DIN 60), 50 y 60 l (boca DIN 70), 200 l de
+HDPE (boca SK 70), IBC rígido de 1000 l (boca de 150 mm)
+Composición: DIFENOCONAZOL 3% [FS] P/V
+Tipo de preparado: SUSPENSION CONCENTRADA PARA TRATAMIENTO DE SEMILLAS
+[FS]
+Tipo de función: Fungicida
+Ámbitos de utilización: Simientes
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Simiente de cebada HELMINTOSPORIUM 100-200 ml/100 NP
+kg
+(2) Simiente de centeno CARIES 100-200 ml/100 NP
+kg
+(3) Simiente de cereales CARBÓN 100-200 ml/100 NP
+kg
+(4) Simiente de cereales PODREDUMBRE DE CUELLO Y RAIZ 100-200 ml/100 NP
+kg
+(5) Simiente de cereales SEPTORIA 100-200 ml/100 NP
+kg
+(6) Simiente de trigo CARIES 100-200 ml/100 NP
+kg
+(7) Simiente de triticale CARIES 100-200 ml/100 NP
+kg
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar con el equipo adecuado a fin de impregnar uniformemente toda la simiente.
+En la etiqueta que los envases de las semillas tratadas deberán llevar rotulado o en una etiqueta el
+texto: "Semilla tratada con difenoconazol, inhabilitada para el consumo. Destinarla exclusivamente
+para siembra".
+Registro de Productos FitoSanitarios
+Nº Registro: 22.008
+Nombre comercial: DIVIDEND FORMULA M
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Spe 3: Para proteger los organismos acuáticos, respétese sin sembrar con simiente tratada una banda de seguridad
+de 5 m. hasta las masas de agua superficial.
+Mitigación de riesgos en la manipulación:
+El aplicador deberá utilizar guantes de protección química y ropa de trabajo (manga larga y pantalón largo) durante la
+mezcla/carga, aplicación y manipulación de la simiente.
+SPo2: Lávese toda la ropa de protección después de usarla.
+SPo5: Ventilar las zonas de tratamiento hasta que se haya secado la pulverización antes de volver a entrar.
+Restricciones por clases de usuarios:
+Uso reservado a empresas y aplicadores profesionales que dispongan de maquinaria adecuada para el tratamiento de
+simientes.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: 
+"Entregar los envases vacíos o residuos de envases bien en los puntos de recogida establecidos por los sistemas
+colectivos de responsabilidad ampliada (SIG) o directamente en el punto de venta donde se hubiera adquirido si
+dichos envases se han puesto en el mercado a través de un sistema de depósito, devolución y retorno.".
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Sensibilizantes cutáneos. Categoría 1., Acuático agudo 1
+Símbolos y pictogramas: --
+Frases de riesgo: H317, H410, EUH 401
+Consejos de prudencia: P261, P273, P280, P391, P302+P352, P501
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene 1,2-benzisotiazol-3-(2H)-ona, nº CAS
+2634-33-5".  SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU
+ENVASE. (No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

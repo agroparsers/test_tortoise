@@ -1,0 +1,234 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.100
+Nombre comercial: DECIS
+Titular:
+BAYER CROPSCIENCE, S.L.
+C/ Charles Robert Darwin, 13. Parque Tecnológico
+PATERNA
+46980
+VALENCIA
+Fabricante:
+BAYER CROPSCIENCE, S.L.
+C/ Charles Robert Darwin, 13. Parque Tecnológico
+46980 PATERNA
+VALENCIA
+Fecha de inscripción: 03/09/2012
+Fecha de caducidad: 31/10/2017
+Tipo de envase:
+Botellas de plástico de 0,015, 0,25 (sólo en aplicaciones manuales) y 1 l. 
+Garrafa de plástico de 5, 10 y 20 l. (los 2 últimos con boca de 63 mm. y sólo para aplicaciones con tractor) 
+Bidón metálico de 25 l. (boca de 63 mm., sólo en aplicaciones con tractor)
+Composición: DELTAMETRIN 2,5% ((ESP I)) [EC] P/V
+Tipo de preparado: CONCENTRADO EMULSIONABLE [EC]
+Tipo de función: Insecticida
+Ámbitos de utilización: Cultivos, Forestales, Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Albaricoquero ORUGAS 0,03-0,05 % 3
+(2) Albaricoquero PULGONES 0,03-0,05 % 3
+(3) Alcachofa ORUGAS 0,03-0,05 % 3
+(4) Alcachofa PULGONES 0,03-0,05 % 3
+(5) Alfalfa CUCA 0,25 l/ha 14
+(6) Alfalfa GUSANO VERDE 0,25 l/ha 14
+(7) Alfalfa GUSANOS GRISES 0,25 l/ha 14
+(8) Alfalfa PULGONES 0,25 l/ha 14
+(9) Algodonero GUSANO ROSADO 0,03-0,05 % 30
+(10) Algodonero HELIOTIS 0,03-0,05 % 30
+(11) Algodonero PULGONES 0,03-0,05 % 30
+(12) Algodonero TRIPS 0,03-0,05 % 30
+(13) Almendro ORUGUETA 0,03-0,05 % 30
+(14) Almendro PULGONES 0,03-0,05 % 30
+(15) Arbustos ornamentales GUSANOS GRISES 0,03-0,05 % NP
+(16) Arbustos ornamentales MOSCA BLANCA 0,03-0,05 % NP
+(17) Arbustos ornamentales ORUGAS 0,03-0,05 % NP
+Registro de Productos FitoSanitarios
+Nº Registro: 25.100
+Nombre comercial: DECIS
+(18) Arbustos ornamentales PULGONES 0,03-0,05 % NP
+(19) Arbustos ornamentales TRIPS 0,03-0,05 % NP
+(20) Avellano PULGONES 0,03-0,05 % 30
+(21) Avellano ZEUZERA 0,03-0,05 % 30
+(22) Berenjena CHINCHE VERDE 0,03-0,05 % 3
+(23) Berenjena HELIOTIS 0,03-0,05 % 3
+(24) Berenjena ORUGAS 0,03-0,05 % 3
+(25) Berenjena PULGONES 0,03-0,05 % 3
+(26) Berenjena TRIPS 0,03-0,05 % 3
+(27) Cereales GARRAPATILLO 0,03-0,05 % 30
+(28) Cereales PULGONES 0,03-0,05 % 30
+(29) Cerezo ORUGAS 0,03-0,05 % 7
+(30) Cerezo PULGONES 0,03-0,05 % 7
+(31) Champiñón MOSCAS 0,03 % 3
+(32) Champiñón MOSQUITOS 0,03 % 3
+(33) Ciruelo ORUGAS 0,03-0,05 % 7
+(34) Ciruelo PULGONES 0,03-0,05 % 7
+(35) Cítricos POLILLAS 0,03-0,05 % 30
+(36) Cítricos PULGONES 0,03-0,05 % 30
+(37) Colza ORUGAS 0,03-0,05 % 30
+(38) Colza PULGONES 0,03-0,05 % 30
+(39) Cucurbitáceas ORUGAS 0,03-0,05 % 3
+(40) Cucurbitáceas PULGONES 0,03-0,05 % 3
+(41) Eriales ORTOPTEROS 0,03-0,05 % 3
+(42) Escarola ORUGAS 0,03-0,05 % 7
+(43) Escarola PULGONES 0,03-0,05 % 7
+(44) Espinaca y similar ORUGAS 0,03 % 7
+(45) Espinaca y similar PULGONES 0,03 % 7
+(46) Frutales de pepita ANTONOMO 0,03-0,05 % 7
+(47) Frutales de pepita HOPLOCAMPA 0,03-0,05 % 7
+(48) Frutales de pepita ORUGAS 0,03-0,05 % 7
+(49) Frutales de pepita PSILIDOS 0,03-0,05 % 7
+(50) Frutales de pepita PULGONES 0,03-0,05 % 7
+(51) Frutales de pepita ZEUZERA 0,03-0,05 % 7
+(52) Girasol ORUGAS 0,03-0,05 % 60
+(53) Girasol PULGONES 0,03-0,05 % 60
+(54) Hierbas aromáticas ORUGAS 0,03-0,05 % 7
+(55) Hierbas aromáticas PULGONES 0,03-0,05 % 7
+(56) Hortalizas de bulbo PULGONES 0,03-0,05 % 7
+(57) Hortalizas de bulbo TRIPS 0,03-0,05 % 7
+Registro de Productos FitoSanitarios
+Nº Registro: 25.100
+Nombre comercial: DECIS
+(58) Hortalizas del género brassica ORUGAS 0,03-0,05 % 7
+(59) Hortalizas del género brassica PULGONES 0,03-0,05 % 7
+(60) Lechuga ORUGAS 0,03-0,05 % 7
+(61) Lechuga PULGONES 0,03-0,05 % 7
+(62) Leguminosas de grano GORGOJOS 0,03-0,05 % 7
+(63) Leguminosas de grano ORUGAS 0,03-0,05 % 7
+(64) Leguminosas de grano PULGONES 0,03-0,05 % 7
+(65) Leguminosas verdes ORUGAS 0,03-0,05 % 7
+(66) Leguminosas verdes PULGONES 0,03-0,05 % 7
+(67) Maíz GUSANOS GRISES 0,03-0,05 % 30
+(68) Maíz HELIOTIS 0,03-0,05 % 30
+(69) Maíz PULGONES 0,03-0,05 % 30
+(70) Maíz TALADROS 0,03-0,05 % 30
+(71) Melocotonero ORUGAS 0,03-0,05 % 3
+(72) Melocotonero PULGONES 0,03-0,05 % 3
+(73) Melón GALERUCA 0,03-0,05 % 3
+(74) Melón VACANITA 0,03-0,05 % 3
+(75) Nogal CARPOCAPSA 0,03-0,05 % 30
+(76) Nogal PULGONES 0,03-0,05 % 30
+(77) Olivo GLIFODES 0,03-0,05 % 7
+(78) Olivo MOSCA 0,03-0,05 % 7
+(79) Olivo PULGONES 0,03-0,05 % 7
+(80) Ornamentales herbáceas GUSANOS GRISES 0,03-0,05 % NP
+(81) Ornamentales herbáceas HELIOTIS 0,03-0,05 % NP
+(82) Ornamentales herbáceas MOSCA BLANCA 0,03-0,05 % NP
+(83) Ornamentales herbáceas ORUGAS 0,03-0,05 % NP
+(84) Ornamentales herbáceas PULGONES 0,03-0,05 % NP
+(85) Ornamentales herbáceas TRIPS 0,03-0,05 % NP
+(86) Patata ESCARABAJO 0,03-0,05 % 7
+(87) Patata ORUGAS 0,03-0,05 % 7
+(88) Patata PULGONES 0,03-0,05 % 7
+(89) Pimiento CHINCHE VERDE 0,03-0,05 % 3
+(90) Pimiento HELIOTIS 0,03-0,05 % 3
+(91) Pimiento ORUGAS 0,03-0,05 % 3
+(92) Pimiento PULGONES 0,03-0,05 % 3
+(93) Pimiento TRIPS 0,03-0,05 % 3
+(94) Pino piñonero ESCOLITIDOS 0,1-0,2 % 30
+(95) Pino piñonero PISODES 0,1-0,2 % 30
+(96) Pino piñonero PROCESIONARIA 0,1-0,2 l/ha 30
+(97) Pinos ESCOLITIDOS 0,1-0,2 % 3
+Registro de Productos FitoSanitarios
+Nº Registro: 25.100
+Nombre comercial: DECIS
+(98) Pinos PISODES 0,1-0,2 % 3
+(99) Pinos PROCESIONARIA 0,1-0,2 l/ha 3
+(100) Plátanos de sombra CORITUCA 0,03-0,05 % NP
+(101) Puerro ORUGAS 0,03-0,05 % 7
+(102) Puerro PULGONES 0,03-0,05 % 7
+(103) Remolacha azucarera ORUGAS 0,03-0,05 % 30
+(104) Remolacha azucarera PULGONES 0,03-0,05 % 30
+(105) Remolacha azucarera PULGUILLA 0,03-0,05 % 30
+(106) Remolacha de mesa ORUGAS 0,03-0,05 % 30
+(107) Remolacha de mesa PULGONES 0,03-0,05 % 30
+(108) Remolacha de mesa PULGUILLA 0,03-0,05 % 30
+(109) Remolacha forrajera ORUGAS 0,03-0,05 % 30
+(110) Remolacha forrajera PULGONES 0,03-0,05 % 30
+(111) Remolacha forrajera PULGUILLA 0,03-0,05 % 30
+(112) Tabaco ORUGAS 0,03-0,05 % 7
+(113) Tabaco PULGONES 0,03-0,05 % 7
+(114) Tomate CHINCHE VERDE 0,03-0,05 % 3
+(115) Tomate HELIOTIS 0,03-0,05 % 3
+(116) Tomate ORUGAS 0,03-0,05 % 3
+(117) Tomate PULGONES 0,03-0,05 % 3
+(118) Tomate TRIPS 0,03-0,05 % 3
+(119) Vid PIRAL 0,03-0,05 % 7
+(120) Vid POLILLAS DEL RACIMO 0,03-0,05 % 7
+(121) Vid SCAPHOIDEUS TITANUS 0,03 % 7
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales :
+Registro de Productos FitoSanitarios
+Nº Registro: 25.100
+Nombre comercial: DECIS
+Específicos: (1), (2), (9), (10), (11), (12), (13), (14), (20), (21), (22), (23), (24), (25), (26), (29), (30), (33), (34), (37),
+(38), (46), (47), (48), (49), (50), (51), (52), (53), (54), (55), (56), (57), (67), (68), (69), (70), (71), (72),
+(75), (76), (77), (78), (79), (86), (87), (88), (89), (90), (91), (92), (93), (101), (102), (114), (115), (116),
+(117), (118), (119), (120), (121) Aplicar en pulverización foliar, efectuando hasta 3 aplicaciones con
+un intervalo mínimo de 14 días sin sobrepasar los 0,5 l/Ha. de producto por aplicación.
+(3), (4), (39), (40), (73), (74) Aplicar en pulverización foliar, efectuando hasta 3 aplicaciones con un
+intervalo mínimo de 7 días sin sobrepasar los 0,5 l/Ha. de producto por aplicación.
+(5), (6), (7), (8) Efectuar hasta 2 aplicaciones con un intervalo de 14 días preferiblemente entre el
+primer y el segundo corte.
+(15), (16), (17), (18), (19), (80), (81), (82), (83), (84), (85), (100), (112), (113) Aplicar un máximo de
+0,5 l/Ha. y aplicación.
+(27), (28) Aplicar en pulverización foliar, efectuando hasta 3 aplicaciones (la 1ª en otoño) y las 2
+siguientes en primavera, con un intervalo mínimo de 14 días sin sobrepasar los 0,5 l/Ha. de producto
+por aplicación.
+(31), (32) Aplicar mediante sistemas automáticos de riego o pulverización manual con mochila,
+efectuando hasta 2 aplicaciones con un intervalo de 14 días, con un máximo de 0,3 l/Ha.
+(35), (36), (103), (104), (105), (106), (107), (108), (109), (110), (111) Aplicar en pulverización foliar, en
+aplicación única sin sobrepasar los 0,5 l/Ha.
+(41) El tratamiento contra Ortópteros es aplicable igualmente en todos los cultivos en que está
+autorizado el uso de este preparado contra otras plagas, bajo iguales condiciones de dosis y plazo
+de seguridad.
+(42), (43), (60), (61) Aplicar en pulverización foliar, efectuando hasta 3 aplicaciones con un intervalo
+mínimo de 7 días con un máximo de 0,5 l/Ha. y aplicación. P.S. en invernadero 14 días.
+(44), (45) Aplicar en pulverización foliar, efectuando hasta 2 aplicaciones con un intervalo mínimo de
+14 días sin sobrepasar los 0,35 l/Ha. de producto por aplicación.
+(58), (59), (62), (63), (64), (65), (66) Aplicar en pulverización foliar, efectuando hasta 2 aplicaciones
+con un intervalo mínimo de 14 días sin sobrepasar los 0,5 l/Ha. de producto por aplicación.
+(94), (95) En árboles cebo.
+(96), (97), (98), (99) Tratamientos localizados.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m. en cultivos
+herbáceos, 20 en viñedo y 30 m. en frutales hasta las masas de agua superficial.
+Mitigación de riesgos en la manipulación:
+El aplicador deberá utilizar guantes de protección química adecuados durante la mezcla/carga, aplicación y limpieza
+del equipo. Máscara o mascarilla autofiltrante con filtro de tipo A y protección ocular compatible o máscara completa
+con filtro de tipo A durante la mezcla/carga del producto. Se utilizará ropa de protección adecuada para el tronco y las
+piernas, que será de protección química de tipo 6 (contra salpicaduras de productos líquidos) en cultivos que excedan
+1 m. de altura.
+Se debe utilizar pantalla facial que proteja frente a salpicaduras durante la mezcla/carga del producto.
+Además en invernadero la pulverización manual con lanza o pistola  cuando los cultivos sobrepasen el metro de altura,
+la anchura libre de la calle en el momento de máximo desarrollo del cultivo será superior a 1,20 m.
+No entrar al cultivo hasta que el producto esté seco.
+En invernadero se recomienda la renovación del aire tras el secado del producto antes de volver a entrar.
+SPo 2: Lávese toda la ropa de protección después de usarla. 
+SPo 4: El recipiente debe abrirse al aire libre y en tiempo seco.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Registro de Productos FitoSanitarios
+Nº Registro: 25.100
+Nombre comercial: DECIS
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Nocivo, Peligroso para el medio ambiente
+Símbolos y pictogramas: 0
+Frases de riesgo: R20/22, R37/38, R10, R41, R50/53, R65
+Consejos de prudencia: S2, S13, S45, S36/37/39, S24, S26, S38, S43, S62, S23
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene nafta disolvente del petróleo, nº CAS:
+64742-95-6".  La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y
+EL MEDIO AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que
+resalten el texto.  
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

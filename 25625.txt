@@ -1,0 +1,120 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.625
+Nombre comercial: CINDER
+Titular:
+ADAMA AGRICULTURE ESPAÑA S.A.
+C/ Méndez Álvaro nº 20, 5ª Planta
+28045
+MADRID
+Fabricante:
+ADAMA AGRICULTURE ESPAÑA S.A.
+C/ Méndez Álvaro nº 20, 5ª Planta
+28045
+MADRID
+Fecha de inscripción: 04/05/2016
+Fecha de caducidad: 31/07/2017
+Tipo de envase:
+Botellas de plástico de 30, 60, 100, 125, 250, 500 ml. y 1 l.
+Garrafas de plástico de 5, 10 y 20 l.
+Bidón de plástico de 200 l. (Utilizar en condiciones de trasvase cerrado mediante el uso de un sistema automático de
+bombeo)
+Composición: PENDIMETALINA 40% ( ) [CS] P/V
+Tipo de preparado: SUSPENSION DE CAPSULAS [CS]
+Tipo de función: Herbicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Ajos MALAS HIERBAS ANUALES 3-5 l/ha NP
+(2) Alcachofa MALAS HIERBAS ANUALES 2,5-4 l/ha NP
+(3) Algodonero MALAS HIERBAS ANUALES 3-5 l/ha NP
+(4) Apio MALAS HIERBAS ANUALES 2,5-4 l/ha NP
+(5) Brécol MALAS HIERBAS ANUALES 2,5-4 l/ha NP
+(6) Cebada MALAS HIERBAS ANUALES 3-5 l/ha NP
+(7) Cebolla de siembra directa MALAS HIERBAS ANUALES 2,5-4 l/ha NP
+(8) Cebolla de transplante MALAS HIERBAS ANUALES 2,5-4 l/ha NP
+(9) Cítricos MALAS HIERBAS ANUALES 3-5 l/ha NP
+(10) Coliflor MALAS HIERBAS ANUALES 2,5-4 l/ha NP
+(11) Fresales MALAS HIERBAS ANUALES 3-5 l/ha NP
+(12) Frutales de hueso MALAS HIERBAS ANUALES 3-5 l/ha NP
+(13) Frutales de pepita MALAS HIERBAS ANUALES 3-5 l/ha NP
+(14) Girasol MALAS HIERBAS ANUALES 3-5 l/ha NP
+(15) Guisantes MALAS HIERBAS ANUALES 3-5 l/ha NP
+(16) Judías para grano MALAS HIERBAS ANUALES 3-5 l/ha NP
+Registro de Productos FitoSanitarios
+Nº Registro: 25.625
+Nombre comercial: CINDER
+(17) Maíz MALAS HIERBAS ANUALES 3-5 l/ha NP
+(18) Patata MALAS HIERBAS ANUALES 3-5 l/ha NP
+(19) Pimiento MALAS HIERBAS ANUALES 3-5 l/ha NP
+(20) Repollo MALAS HIERBAS ANUALES 2,5-4 l/ha NP
+(21) Soja MALAS HIERBAS ANUALES 3-5 l/ha NP
+(22) Tabaco DESHIJADO Máx. 10 cc/l 21
+(23) Tabaco MALAS HIERBAS ANUALES 3-5 l/ha NP
+(24) Tomate MALAS HIERBAS ANUALES 2,5-4 l/ha NP
+(25) Trigo MALAS HIERBAS ANUALES 3-5 l/ha NP
+(26) Vid MALAS HIERBAS ANUALES 3-5 l/ha NP
+(27) Zanahoria MALAS HIERBAS ANUALES 3-5 l/ha NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Controla malas hierbas en preemergencia.
+Aplicar en pulverización a baja presión en tratamiento único por ciclo de cultivo.
+En la etiqueta se darán las instrucciones necesarias para la correcta aplicación del producto.
+Asimismo se informará de las especies no sensibles a esta formulación y de la probabilidad de
+aparición de resistencias y se propondrán las estrategias de prevención y manejo de resistencias.
+Específicos: (1), (7), (8), (17) Aplicar en pulverización normal dirigida al suelo, en pre-emergencia del cultivo o
+post-emergencia temprana (hasta 3 hojas), en una única aplicación por campaña a la dosis
+indicada.
+(2), (4), (5), (10), (19), (20), (21) Aplicar en pulverización normal dirigida al suelo, en pre-trasplante,
+en una única aplicación por campaña a la dosis indicada.
+(3), (15), (16) Aplicar en pulverización normal dirigida al suelo, en pre-emergencia o pre-siembra, en
+una única aplicación por campaña a la dosis indicada.
+(6), (14), (18), (25) Aplicar en pulverización normal dirigida al suelo, en pre-emergencia del cultivo, en
+una única aplicación por campaña a la dosis indicada.
+(9), (12), (13) Aplicar en pulverización normal dirigida al suelo, en post-emergencia (pre-floración),
+en una única aplicación por campaña a la dosis indicada.
+(11) Aplicar en pulverización normal dirigida al suelo, en pre-trasplante, o post-trasplante al final de
+la parada invernal, en una única aplicación por campaña a la dosis indicada.
+(22) Aplicar en pulverización normal dirigida al suelo,  al aparecer las primeras flores, en una única
+aplicación por campaña, con un gasto de 20 cc/planta, y sin superar nunca la dosis máxima de 10
+cc/l. 
+(23), (24) Aplicar en pulverización normal dirigida al suelo, en pre-trasplante, o post-trasplante del
+cultivo entre líneas del último aporcado,  en una única aplicación por campaña a la dosis indicada.
+(26) Aplicar en pulverización normal dirigida al suelo, al final del letargo,  en una única aplicación por
+campaña a la dosis indicada.
+(27) Aplicar en pulverización normal dirigida al suelo, en post-emergencia temprana (2-3 hojas),  en
+una única aplicación por campaña a la dosis indicada.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 10 m. con cubierta
+vegetal hasta las masas de agua superficial.
+Mitigación de riesgos en la manipulación:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.625
+Nombre comercial: CINDER
+El aplicador deberá utilizar guantes de protección química durante la mezcla/carga, aplicación, mantenimiento,
+limpieza del equipo y reentreda a los cultivos tratados, además en la aplicación, mantenimiento y limpieza del equipo
+se deberá utilizar ropa de protección química 3 o 4, calzado adecuado y mascarilla FF2SL o P2, al aplicar
+manualmente o si el  tractor carece de cabina cerrada.
+No entrar al cultivo hasta que el producto esté seco.
+SPo 2: Lávese toda la ropa de protección después de usarla. 
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Sensibilizantes cutáneos. Categoría 1., Acuático agudo 1
+Símbolos y pictogramas: --
+Frases de riesgo: H317, H410, EUH 401
+Consejos de prudencia: P261, P273, P280, P391, P302+P352, P501
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene 1,2-benzisotiazol-3-(2H)-ona nº CAS:
+2634-33-5 e isocianatos. Puede provocar una reacción alérgica.  
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

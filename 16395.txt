@@ -1,0 +1,165 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 16.395
+Nombre comercial: INACOP L
+Titular:
+SIPCAM INAGRA, S.A.
+c/ Prof. Beltrán Báguena, 5 - Edificio Nuevo Centro
+46009
+VALENCIA
+Fabricante:
+SIPCAM INAGRA, S.A.
+c/ Prof. Beltrán Báguena, 5 - Edificio Nuevo Centro
+46009
+VALENCIA
+Fecha de inscripción: 11/02/1983
+Fecha de caducidad: 30/10/2016
+Tipo de envase:
+Envases de polietileno alta densidad de 1, 5 y 20 l. y bidón de boca ancha de 200 l.
+Composición: OXICLORURO DE COBRE 38% (EXPR. EN CU) [SC] P/V
+Tipo de preparado: SUSPENSION CONCENTRADA [SC]
+Tipo de función: Fungicida
+Ámbitos de utilización: Cultivos, Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Ajos ALTERNARIA 0,2-0,3 % 3
+(2) Ajos ANTRACNOSIS 0,2-0,3 % 3
+(3) Ajos BACTERIOSIS 0,2-0,3 % 3
+(4) Ajos MILDIU 0,2-0,3 % 3
+(5) Berenjena ALTERNARIA 0,2-0,3 % 10
+(6) Berenjena ANTRACNOSIS 0,2-0,3 % 10
+(7) Berenjena BACTERIOSIS 0,2-0,3 % 10
+(8) Berenjena MILDIU 0,2-0,3 % 10
+(9) Brécol ALTERNARIA 0,2-0,3 % 15
+(10) Brécol ANTRACNOSIS 0,2-0,3 % 15
+(11) Brécol BACTERIOSIS 0,2-0,3 % 15
+(12) Brécol MILDIU 0,2-0,3 % 15
+(13) Cebolla ALTERNARIA 0,2-0,3 % 3
+(14) Cebolla ANTRACNOSIS 0,2-0,3 % 3
+(15) Cebolla BACTERIOSIS 0,2-0,3 % 3
+(16) Cebolla MILDIU 0,2-0,3 % 3
+(17) Chalote ALTERNARIA 0,2-0,3 % 3
+(18) Chalote ANTRACNOSIS 0,2-0,3 % 3
+Registro de Productos FitoSanitarios
+Nº Registro: 16.395
+Nombre comercial: INACOP L
+(19) Chalote BACTERIOSIS 0,2-0,3 % 3
+(20) Chalote MILDIU 0,2-0,3 % 3
+(21) Cítricos AGUADO 0,1 % 15
+(22) Cítricos BACTERIOSIS 0,1 % 15
+(23) Cítricos FOMOPSIS 0,1 % 15
+(24) Cítricos HONGOS ENDOFITOS 0,1 % 15
+(25) Coliflor ALTERNARIA 0,2-0,3 % 15
+(26) Coliflor ANTRACNOSIS 0,2-0,3 % 15
+(27) Coliflor BACTERIOSIS 0,2-0,3 % 15
+(28) Coliflor MILDIU 0,2-0,3 % 15
+(29) Cucurbitáceas de piel comestible ALTERNARIA 0,2-0,3 % 3
+(30) Cucurbitáceas de piel comestible ANTRACNOSIS 0,2-0,3 % 3
+(31) Cucurbitáceas de piel comestible BACTERIOSIS 0,2-0,3 % 3
+(32) Cucurbitáceas de piel comestible MILDIU 0,2-0,3 % 3
+(33) Cucurbitáceas de piel no comestible ALTERNARIA 0,2-0,3 % 7
+(34) Cucurbitáceas de piel no comestible ANTRACNOSIS 0,2-0,3 % 7
+(35) Cucurbitáceas de piel no comestible BACTERIOSIS 0,2-0,3 % 7
+(36) Cucurbitáceas de piel no comestible MILDIU 0,2-0,3 % 7
+(37) Frutales de hueso ABOLLADURA 0,2-0,5 % NP
+(38) Frutales de hueso BACTERIOSIS 0,2-0,5 % NP
+(39) Frutales de hueso CRIBADO 0,2-0,5 % NP
+(40) Frutales de hueso MONILIA 0,2-0,5 % NP
+(41) Frutales de hueso MOTEADO 0,2-0,5 % NP
+(42) Frutales de pepita BACTERIOSIS 0,2-0,5 % NP
+(43) Frutales de pepita MONILIA 0,2-0,5 % NP
+(44) Frutales de pepita MOTEADO 0,2-0,5 % NP
+(45) Frutales subtropicales/tropicales BACTERIOSIS 0,2-0,5 % 15
+(46) Frutales subtropicales/tropicales CRIBADO 0,2-0,5 % 15
+(47) Frutales subtropicales/tropicales MONILIA 0,2-0,5 % 15
+(48) Frutales subtropicales/tropicales MOTEADO 0,2-0,5 % 15
+(49) Garbanzo RABIA 0,2-0,3 % 15
+(50) Gladiolo ROYA 0,2-0,3 % NP
+(51) Guisantes verdes ALTERNARIA 0,2-0,3 % 3
+(52) Guisantes verdes ANTRACNOSIS 0,2-0,3 % 3
+(53) Guisantes verdes BACTERIOSIS 0,2-0,3 % 3
+(54) Guisantes verdes MILDIU 0,2-0,3 % 3
+(55) Habas verdes ALTERNARIA 0,2-0,3 % 3
+(56) Habas verdes ANTRACNOSIS 0,2-0,3 % 3
+(57) Habas verdes BACTERIOSIS 0,2-0,3 % 3
+(58) Habas verdes MILDIU 0,2-0,3 % 3
+Registro de Productos FitoSanitarios
+Nº Registro: 16.395
+Nombre comercial: INACOP L
+(59) Hortícolas de hoja ALTERNARIA 0,2-0,3 % 15
+(60) Hortícolas de hoja ANTRACNOSIS 0,2-0,3 % 15
+(61) Hortícolas de hoja BACTERIOSIS 0,2-0,3 % 15
+(62) Hortícolas de hoja MILDIU 0,2-0,3 % 15
+(63) Judías verdes ALTERNARIA 0,2-0,3 % 3
+(64) Judías verdes ANTRACNOSIS 0,2-0,3 % 3
+(65) Judías verdes BACTERIOSIS 0,2-0,3 % 3
+(66) Judías verdes MILDIU 0,2-0,3 % 3
+(67) Leguminosas de grano ALTERNARIA 0,2-0,3 % 15
+(68) Leguminosas de grano ANTRACNOSIS 0,2-0,3 % 15
+(69) Lúpulo MILDIU 0,2-0,3 % 15
+(70) Olivo REPILO 0,3-0,4 % 15
+(71) Olivo TUBERCULOSIS 0,3-0,4 % 15
+(72) Ornamentales herbáceas MILDIU 0,2-0,3 % NP
+(73) Ornamentales leñosas MILDIU 0,2-0,3 % NP
+(74) Patata ALTERNARIA 0,2-0,3 % 15
+(75) Patata MILDIU 0,2-0,3 % 15
+(76) Rosal ANTRACNOSIS 0,2-0,3 % NP
+(77) Tallos jóvenes ALTERNARIA 0,2-0,3 % 3
+(78) Tallos jóvenes ANTRACNOSIS 0,2-0,3 % 3
+(79) Tallos jóvenes BACTERIOSIS 0,2-0,3 % 3
+(80) Tallos jóvenes MILDIU 0,2-0,3 % 3
+(81) Tomate ALTERNARIA 0,2-0,3 % 10
+(82) Tomate ANTRACNOSIS 0,2-0,3 % 10
+(83) Tomate BACTERIOSIS 0,2-0,3 % 10
+(84) Tomate MILDIU 0,2-0,3 % 10
+(85) Vid BACTERIOSIS 0,3-0,4 % 15
+(86) Vid MILDIU 0,3-0,4 % 15
+P.S.: Plazo de seguridad (días)
+Excepciones: (77), (78), (79), (80) Excepto espárrago.
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar en pulverización normal.
+Observar precauciones por la fitotoxicidad propia del cobre, sobre todo en zonas frías y húmedas, en
+algunas variedades de frutales, vid y otros cultivos.
+Registro de Productos FitoSanitarios
+Nº Registro: 16.395
+Nombre comercial: INACOP L
+Específicos: (5), (6), (7), (8) P.S.: 3 días en cultivo de invernadero. Efectuar un máximo de 6 aplicaciones por
+campaña a intervalos de 7 días con un máximo de 7,5 Kg de cobre inorgánico/Ha. y un volumen de
+caldo no superior a 1000 l/Ha.
+(21) Pulverizar hasta una altura de 1,5 metros.
+(37), (38), (39), (40), (41), (42), (43), (44) Efectuar sólo tratamientos desde la cosecha hasta la
+floración, limitando la aplicación a 1300 l. de caldo/Ha. y un máximo de 3 aplicaciones por campaña
+(con un intervalo de tratamientos de 14 días) y un máximo de 7,5 Kg. de cobre inorgánico/Ha.por
+campaña.
+(81), (82), (83), (84) P.S.: 3 días en tomate de invernadero. Efectuar un máximo de 6 aplicaciones
+por campaña a intervalos de 7 días con un máximo de 7,5 Kg de cobre inorgánico/Ha. y un volumen
+de caldo no superior a 1000 l/Ha.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Mamíferos: A
+Aves: A
+Peces: B Mediana peligrosidad para peces
+Abejas: Peligrosidad controlable para abejas
+Para protección de las abejas, tapar las colmenas previamente al tratamiento y mantenerlas así durante 1 ó 2 horas
+más tarde.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Es obligatorio enjuagar enérgicamente tres veces, o mediante dispositivo de presión, cada envase de producto que se
+vacíe al preparar la dilución y verter las aguas al depósito del pulverizador.
+ Indicar en la etiqueta la obligación de entregar los envases vacíos a un gestor autorizado de residuos clasificados y
+peligrosos así como las opciones alternativas que el titular está obligado a ofrecer, conforme a lo establecido en el
+R.D. 1416/2001, de entregarlos directamente al sistema integrado de gestión al que esté adherido o al propio, de
+depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Nocivo, Peligroso para el medio ambiente
+Símbolos y pictogramas: --
+Frases de riesgo: R20, R22, R50/53
+Consejos de prudencia: S2, S13, S45, S36, S24/25, S23
+Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten del
+texto. 
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

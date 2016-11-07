@@ -1,0 +1,81 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 19.186
+Nombre comercial: TITUS
+Titular:
+DU PONT IBERICA, S.L.
+Avda. Diagonal, 571 - 3ª Planta
+08029
+BARCELONA
+Fabricante:
+DU PONT DE NEMOURS FRANCIA S.A.S.
+23/25 Rue Delariviére Lefoullon, Defense 9
+92800 Puteaux
+PARIS
+FRANCIA
+Fecha de inscripción: 05/02/1993
+Fecha de caducidad: 31/01/2017
+Tipo de envase:
+Bolsas hidrosolubles de 10, 15, 20, 25, 30 y 40 gramos.
+Botes de polietileno de alta densidad de 50, 60, 100 y 120 gramos.
+Composición: RIMSULFURON 25% [WG] P/P
+Tipo de preparado: GRANULADO DISPERSABLE EN AGUA [WG]
+Tipo de función: Herbicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Maíz MALAS HIERBAS 30-60 g/ha NP
+(2) Patata MALAS HIERBAS 30-60 g/ha NP
+(3) Tomate MALAS HIERBAS 30-60 g/ha NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Controla malas hierbas en post-emergencia.
+Aplicar en pulverización normal cuando la mayoría de las hierbas hayan emergido, estén en un
+estado inicial de crecimiento y el cultivo en buen estado sanitario para mejorar la eficacia del
+producto. Utilizar las dosis más altas en hierbas perennes y más desarrolladas. Con la adición de
+un mojante no iónico se mejora la absorción del producto por las hojas de las malas hierbas.
+En la etiqueta se darán las instrucciones oportunas para la correcta utilización del producto, así
+como las advertencias necesarias para que el agricultor pueda cerciorarse de los riesgos de
+fitotoxicidad en variedades sensibles de los cultivos, cultivos adyacentes o en los siguientes de la
+alternativa, así como la posible aparición de resistencias proponiendo una estrategia de gestión y
+manejo de las mismas.
+Registro de Productos FitoSanitarios
+Nº Registro: 19.186
+Nombre comercial: TITUS
+Específicos: (1) Efectuar un máximo de 2 aplicaciones/campaña, separadas 14-21 días, antes del desarrollo de
+la 8ª hoja, en un volumen de caldo entre 100-500 l/ha, sin superar un gasto total de 80 g/ha en la
+campaña. No regar hasta pasadas 72 horas del tratamiento.
+(2) Efectuar un máximo de 2 aplicaciones separadas 4-5 días en un volumen de caldo de 200-600
+l/ha, entre la emergencia del cultivo y hasta que tenga 25-30 cm de altura, sin superar un gasto de
+80 g/ha por campaña.
+(3) Efectuar máx. de 2 aplic. separadas 7-14 días en tomate de siembra directa a partir de 2-3 hojas,
+o en transplante cuando haya superado la crisis, hasta el desarrollo de la 8ª hoja en un vol. De caldo
+100-400 l/ha sin superar un gasto total de 110 g/ha.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 10 m hasta las masas
+de agua superficial.
+SPe 3: Para proteger las plantas no objetivo, respétese sin tratar una banda de seguridad de 5 m hasta la zona no
+cultivada.
+Mitigación de riesgos en la manipulación:
+El aplicador deberá utilizar guantes de protección química para la mezcla/carga, aplicación, limpieza y manejo del
+equipo, siempre y cuando el tractor carezca de cabina cerrada y dispositivo de filtrado de aire.
+No entrar al cultivo hasta que el producto esté seco.
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : --
+Símbolos y pictogramas: --
+Frases de riesgo: H410, EUH 210, EUH 401
+Consejos de prudencia: P101, P261, P262, P273, P391, P309+P311, P501
+Otras indicaciones reglamentarias: SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

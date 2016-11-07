@@ -1,0 +1,91 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.770
+Nombre comercial: TOUAREG EC
+Titular:
+ADAMA AGRICULTURE ESPAÑA S.A.
+C/ Méndez Álvaro nº 20, 5ª Planta
+28045
+MADRID
+Fabricante:
+ADAMA AGAN LTD.
+Northern Industrial Zone P.O. Box 262
+7752009 Ashdod
+ISRAEL
+Fecha de inscripción: 19/05/2016
+Fecha de caducidad: 31/01/2017
+Tipo de envase:
+Botellas de polietileno de 1 L, garrafas de polietileno de 5 y 10 L (boca de 45 mm) y garrafas/bidones de polietileno de
+20 L (boca de 45 mm).
+Composición: CLODINAFOP-PROPARGIL 24% ( ESP) [EC] P/V
+Tipo de preparado: CONCENTRADO EMULSIONABLE [EC]
+Tipo de función: Herbicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Trigo ALOPECURUS MYOSUROIDES 0,17-0,25 l/ha NP
+(2) Trigo AVENA SPP 0,17-0,25 l/ha NP
+(3) Trigo LOLIUM RIGIDUM 0,17-0,25 l/ha NP
+(4) Trigo PHALARIS 0,17-0,25 l/ha NP
+(5) Triticale ALOPECURUS MYOSUROIDES 0,17-0,25 l/ha NP
+(6) Triticale AVENA SPP 0,17-0,25 l/ha NP
+(7) Triticale LOLIUM RIGIDUM 0,17-0,25 l/ha NP
+(8) Triticale PHALARIS 0,17-0,25 l/ha NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Tratamiento herbicida selectivo de post-emergencia temprana en trigo y triticale contra malas
+hierbas anuales (Avena spp, Phalaris spp, Alopecurus myosuroides y Lolium rigidum).
+Método de aplicación: Pulverización normal con tractor. Se aplicará en post-emergencia del cultivo a
+partir de 3 hojas y de las malas hierbas gramíneas, desde las tres hojas y hasta el final del ahijado
+y, en el caso de la avena, desde las 3 hojas hasta el inicio del encañado (2º nudo).
+Los mejores resultados se obtendrán cuando las malas hierbas sensibles estén en crecimiento
+activo, en condiciones cálidas y con humedad en el suelo.
+Condiciones extremas (temperaturas muy altas o muy bajas, o sequía acusada) al aplicar el
+producto o en los días siguientes a la aplicación, pueden reducir el nivel de eficacia del producto.
+Registro de Productos FitoSanitarios
+Nº Registro: 25.770
+Nombre comercial: TOUAREG EC
+Específicos: (1), (2), (3), (4), (5), (6), (7), (8) Volumen de caldo: 100-400 l/ha. Una única aplicación por campaña.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Spe3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m hasta las masas
+de agua superficial.
+Mitigación de riesgos en la manipulación:
+Seguridad del aplicador:
+En trigo y triticale, mediante pulverización hidráulica con tractor, durante la mezcla/carga se deberá utilizar guantes de
+protección química y durante la aplicación, limpieza y mantenimiento del equipo se deberán utilizar guantes y ropa de
+protección química (tipo 3 o 4 de acuerdo a norma UNE-EN14605: 2005 + A1: 2009) y calzado adecuado. 
+Durante la aplicación con tractor con cabina cerrada y dispositivo de filtrado de aire, se podrá prescindir del equipo de
+protección, siempre que se mantengan las ventanas cerradas. 
+Seguridad del trabajador:
+No  entrar al cultivo hasta que el producto esté seco.
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno. Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el
+agua de lavado al depósito (del pulverizador).
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Irritación ocular. Categoría 2., Sensibilizantes cutáneos.
+Categoría 1., Peligro por aspiración. Categoría 1., Peligro, Toxicidad aguda (oral e
+inhalatoria). Categoría 4., Acuático agudo 1, Toxicidad específica en determinados
+órganos (exposiciones repetidas), categoría 2
+Símbolos y pictogramas: --
+Frases de riesgo: H304, H317, H319, H373, H410, EUH 066, EUH 401, H302+H332
+Consejos de prudencia: P261, P273, P280, P391, P301+P330+P331, P302+P352, P304+P340, P305+P351+P338,
+P501
+Otras indicaciones reglamentarias: Otros componentes además del ingrediente activo técnico: Nafta disolvente del
+petróleo (CAS 64742-94-5). La Nafta disolvente del petróleo con nº CAS
+64742-94-5 debe tener un contenido en naftaleno menor de 1%.
+El preparado no se usará en combinación con otros productos.
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.

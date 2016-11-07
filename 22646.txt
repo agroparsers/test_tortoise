@@ -1,0 +1,84 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 22.646
+Nombre comercial: COMMAND CS
+Titular:
+FMC CHEMICAL SPRL
+Boulevard de la Plaine 9/3
+B-1050
+BRUSELAS
+BELGICA
+Fabricante:
+FMC CORPORATION
+1735 Market St.
+PA19103 Philadelphia
+PENNSYLVANIA
+ESTADOS UNIDOS
+Fecha de inscripción: 25/02/2002
+Fecha de caducidad: 31/10/2018
+Tipo de envase:
+Botellas de HDPE de 1 l.
+Composición: CLOMAZONA 36% [CS] P/V
+Tipo de preparado: SUSPENSION DE CAPSULAS [CS]
+Tipo de función: Herbicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Adormidera MALAS HIERBAS ANUALES 0,3 l/ha NP
+(2) Arroz ECHINOCLOA 0,7 l/ha NP
+(3) Guisantes verdes MALAS HIERBAS ANUALES 0,25 l/ha NP
+(4) Judías verdes MALAS HIERBAS ANUALES 0,25 l/ha NP
+(5) Pimiento MALAS HIERBAS ANUALES 0,75-1 l/ha NP
+(6) Tabaco MALAS HIERBAS ANUALES 1 l/ha NP
+(7) Zanahoria MALAS HIERBAS ANUALES 0,25 l/ha NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Realizar una aplicación por campaña mediante pulverización normal. Aplicación únicamente en
+cultivos al aire libre.
+Específicos: (1) Aplicar en preemergencia del cultivo con un volumne de caldo de 300-500 l/ha.
+(2) Aplicar en postemergencia del cultivo (1-2 hojas) y en pre o postemergencia precoz (1-2 hojas)
+de la echinochloa con un volumen de caldo de 300 l/ha.
+(3) Aplicar en preeemergencia del cultivo con un volumen de caldo de 200-500 l/ha.
+(4) Aplicar en preemergencia del cultivo con un volumen de caldo de 200-500 l/ha.
+(5) Aplicar en siembra directa del cultivo pulverizando sobre una banda de 60 cm a una dosis de
+0,5-1 l/ha y en cultivo con trasplante la aplicación será localizada en surco a la dosis indicada.
+Volumen de caldo de 300 l/ha. 
+(6) Aplicar en post-transplante del cultivo con un volumen de caldo de 400 l/ha.
+(7) Aplicar en preemergencia del cultivo con un volumen de caldo de 300-500 l/ha.
+Registro de Productos FitoSanitarios
+Nº Registro: 22.646
+Nombre comercial: COMMAND CS
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m hasta las masas
+de agua superficial.
+Para proteger las plantas no objetivo, respétese sin tratar una banda de seguridad de 10 m en pimiento, tabaco y arroz
+ó 5 m con boquillas del 50 % de reducción de deriva o boquillas de 90 % de reducción de deriva, y 5 m en adormidera,
+o boquillas del 75 % de reducción de deriva hasta la zona no cultivada. 
+Mitigación de riesgos en la manipulación:
+El aplicador deberá utilizar guantes de protección química durante las operaciones de mezcla/carga, aplicación,
+limpieza y mantenimiento del equipo.
+El aplicador deberá utilizar ropa de protección química tipo 3 ó 4 y calzado adecuado durante la aplicación (si el tractor
+carece de cabina cerrada), limpieza y mantenimiento del equipo en arroz, tabaco y pimiento.
+Evítese el contacto con el follaje húmedo durante el tratamiento.
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1
+Símbolos y pictogramas: --
+Frases de riesgo: H410, EUH 401
+Consejos de prudencia: P261, P262, P273, P391, P501
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene isocianatos". Puede provocar una
+reacción alérgica.
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

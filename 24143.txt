@@ -1,0 +1,90 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 24.143
+Nombre comercial: VIVANDO
+Titular:
+BASF ESPAÑOLA, S.L.
+Can Rabia, 3-5
+08017
+BARCELONA
+Fabricante:
+BASF SE
+D-67056 LUDWIGSHAFEN
+RHEIN
+ALEMANIA
+Fecha de inscripción: 23/01/2009
+Fecha de caducidad: 31/01/2017
+Tipo de envase:
+Botellas de plástico de 0,15, 0,25, 0,5 y 1 l. (boca 50/42 mm.).
+Garrafas de plástico de 3, 5 y 10 l. (boca 63/54 mm.).
+Composición: METRAFENONA 50% [SC] P/V
+Tipo de preparado: SUSPENSION CONCENTRADA [SC]
+Tipo de función: Fungicida
+Ámbitos de utilización: Cultivos, Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Arbustos ornamentales OIDIO 0,025-0,075 % NP
+(2) Berenjena OIDIO 0,03 % 3
+(3) Cucurbitáceas OIDIO 0,02 % 3
+(4) Ornamentales herbáceas OIDIO 0,025-0,075 % NP
+(5) Pimiento OIDIO 0,03 % 3
+(6) Tomate OIDIO 0,03 % 3
+(7) Vid OIDIO 0,01-0,02 % 28
+(8) Viveros OIDIO 0,025-0,075 % NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar en pulverización normal, mediante tractor o manualmenta al aire libre y con lanza o pistola
+en invernadero, procurando un buen recubrimiento foliar del cultivo. 
+SPa 1: Para evitar la aparición de resistencias, no aplicar este producto ni ningún otro que contenga
+metrafenona más de 3 aplicaciones en vid y  2 aplicaciones en el resto de los cultivos por ciclo de
+cultivo con un intervalo mínimo entre aplicaciones de 14 días.
+Registro de Productos FitoSanitarios
+Nº Registro: 24.143
+Nombre comercial: VIVANDO
+Específicos: (1), (4) Tratar con un volumen de caldo de 500 -1.500 l/Ha..
+(2), (5) Tratar con un volumen de caldo de 200 -1.000 l/Ha..
+(3) Tratar con un volumen de caldo de 200-1.000 l/Ha. las de piel no comestible y las de piel
+comestible al aire libre y de 200-1.500 l/Ha. las cucurbitáceas de piel comestible en invernadero.
+(6) Tratar con un volumen de caldo de 200 -1.500 l/Ha..
+(7) Efectuar un máximo de 3 tratamientos por campaña sin superar los 0,2 l/Ha. y aplicación..
+(8) Tratar con un volumen de caldo de 500 l/Ha..
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m hasta las masas
+de agua superficial. 
+Mitigación de riesgos en la manipulación:
+El operario debe utilizar guantes de protección química adecuados  durante la mezcla/carga, aplicación y para
+manipular el equipo de aplicación o las superficies contaminadas, así como ropa de protección tipo 6 (contra
+salpicaduras de productos líquidos según UNE-EN 13034:2005+A1:2009).
+Durante la limpieza del equipo se utilizarán los mismos de protección que durante la aplicación.
+El retorno a la faena en las áreas o cultivos tratados, no debe realizarse durante las primeras 24 horas tras la
+aplicación, salvo que se trate de actividades que no impliquen el contacto con el cultivo, utilizando en este caso el
+equipo de protección personal requerido para la aplicación. Durante las 24 horas siguientes se deberá usar ropa de
+protección y guantes de protección química adecuados.
+En invernadero cuando el cultivo supere el metro de altura, la anchura libre entre líneas de cultivo será como mínimo de
+1.20 m.
+SPo 2: Lávese toda la ropa de protección después de usarla. 
+SPo 5: Ventilar los invernaderos tratados hasta que se haya secado la pulverización antes de volver a entrar.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Este envase está clasificado según la Ley 11/1997 por lo que el usuario final es responsable de entregarlos en alguno
+de los puntos de recogida indicados por el distribuidor que haya suministrado el producto.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Peligroso para el medio ambiente
+Símbolos y pictogramas: N
+Frases de riesgo: R51/53
+Consejos de prudencia: S2, S13, S45, S24, S23
+Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten del
+texto. 
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

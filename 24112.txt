@@ -1,0 +1,84 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 24.112
+Nombre comercial: BUNAZOL 250
+Titular:
+SHARDA EUROPE B.V.B.A.
+Jozef Mertensstraat, 142
+DILBEEK
+1702
+BELGICA
+Fabricante:
+PORPORAS, S.A.
+c/ Informatica, 5
+43330 Riudoms
+TARRAGONA
+Fecha de inscripción: 03/07/2006
+Fecha de caducidad: 31/08/2019
+Tipo de envase:
+Botellas de plástico de 50, 100, 250, 500, 700 mm, 1 y 2 l.
+Garrafas de plástico de 5, 10 y 20 l. (boca 63 mm)
+Composición: TEBUCONAZOL 25% [EW] P/V (ESP.)
+Tipo de preparado: EMULSION DE ACEITE EN AGUA [EW]
+Tipo de función: Fungicida
+Ámbitos de utilización: Cultivos, Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Cebada HELMINTOSPORIUM 1 l/ha 35
+(2) Cebada OIDIO 1 l/ha 35
+(3) Cebada ROYAS 1 l/ha 35
+(4) Trigo HELMINTOSPORIUM 1 l/ha 35
+(5) Trigo OIDIO 1 l/ha 35
+(6) Trigo ROYAS 1 l/ha 35
+(7) Trigo SEPTORIA 1 l/ha 35
+(8) Vid BOTRITIS 0,4 l/ha 21
+(9) Vid OIDIO 0,4 l/ha 21
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar en pulverización normal.
+En la etiqueta se darán las instrucciones oportunas para el correcto uso del producto, así como las
+advertencias necesarias para que el agricultor pueda cerciorarse de los riesgos de su utilización por
+fitotoxicidad en variedades sensibles del propio cultivo, en los cultivos adyacentes o en los
+siguientes en la alternativa o en las condiciones concurrentes. Asimismo se informará sobre la
+posibilidad de que se produzcan resistencias y se propondrá una estrategia de gestión y manejo de
+las mismas.
+Registro de Productos FitoSanitarios
+Nº Registro: 24.112
+Nombre comercial: BUNAZOL 250
+Específicos: (1), (2), (3), (4), (5), (6), (7) Efectuar un máximo de 2 aplicaciones por campaña con un intervalo de
+45-60 días y un volumen de caldo de 200-400 l/ha.
+(8), (9) Efectuar una aplicación por campaña con un volumen de caldo de 400-1000 l/ha. y una
+reentrada de 18 días.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad con cubierta vegetal de
+10 m. en cereales de primavera y vid y de 20 m. en cereales de invierno hasta las masas de agua superficial.
+Mitigación de riesgos en la manipulación:
+El aplicador deberá utilizar guantes y protección ocular (pantalla facial contra salpicaduras) durante la mezcla/carga,
+además durante la aplicación con tractor en cultivo alto y manual cultivo bajo se utilizará ropa de protección tipo 6
+(contra salpicaduras de productos líquidos y en manual cultivo alto ropa tipo 4 (hermética a productos líquidos).
+Durante la limpieza del equipo se utilizará la misma protección que durante la aplicación.
+No entrar al cultivo hasta que el producto esté seco.
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Lesión ocular grave. Categoría 1., Sensibilizantes
+cutáneos. Categoría 1 B., Tóxicos para la reproducción. Categoría 2., Peligro
+Símbolos y pictogramas: --
+Frases de riesgo: H317, H318, H361, H410, EUH 401
+Consejos de prudencia: P201, P202, P261, P273, P280, P391, P302+P352, P305+P351+P338, P501
+Otras indicaciones reglamentarias: En la etiqueta deberá indicarse que "contiene Dodecilbenceno sulfonato cálcico (nº
+CAS: 26240-06-2)" y "contiene N,N-dimetildecan-1-amida (nº CAS: 14433-76-2)"
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.  
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

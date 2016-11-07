@@ -1,0 +1,89 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 17.856
+Nombre comercial: STARANE-20
+Titular:
+DOW AGROSCIENCES IBERICA, S.A.
+C/ Ribera del Loira 4-6, Edificio Iris, 4ª Planta
+28042
+MADRID
+Fabricante:
+DOW AGROSCIENCES LTD. (UK)
+3, Milton Park 2nd floor
+OX14 4RN Abingdon
+OXON
+REINO UNIDO
+Fecha de inscripción: 27/12/1988
+Fecha de caducidad: 30/06/2017
+Tipo de envase:
+Botellas de plástico de 0,5 y 1 l.
+Garrafas de plástico de 2, 5 y 10 l.
+Botellas de plástico (PET o F-HDPE) con capacidad inferior a 5 l. con cualquier diámetro de boca.
+Botellas de plástico (PET o F-HDPE) con capacidad mayor o igual a 5 l. y menor o igual a 20 l. (boca mayor o igual a
+45 mm).
+Composición: FLUROXIPIR 20% ( ESPI) [EC] P/V
+Tipo de preparado: CONCENTRADO EMULSIONABLE [EC]
+Tipo de función: Herbicida
+Ámbitos de utilización: Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Cebada DICOTILEDONEAS 0,75-1 l/ha 15
+(2) Maíz DICOTILEDONEAS 0,75-1 l/ha 15
+(3) Prados de Gramíneas DICOTILEDONEAS 1,5-2 l/ha 15
+(4) Trigo DICOTILEDONEAS 0,75-1 l/ha 15
+(5) Adormidera DICOTILEDONEAS ANUALES 0,75-1 l/ha 60
+(6) Avellano DICOTILEDONEAS ANUALES 1,5 l/ha 15
+(7) Cítricos DICOTILEDONEAS ANUALES 1,5 l/ha 15
+(8) Frutales de pepita DICOTILEDONEAS ANUALES 1,5 l/ha 15
+(9) Olivo DICOTILEDONEAS ANUALES 1,5 l/ha 120
+P.S.: Plazo de seguridad (días)
+Usos protegidos hasta fecha: (5) , (6) , (7) , (8) , (9) 
+Condicionamientos fitoterapeúticos:
+Registro de Productos FitoSanitarios
+Nº Registro: 17.856
+Nombre comercial: STARANE-20
+Generales : Controla malas hierbas en postemergencia.
+Aplicar en pulverización normal.
+No aplicar a temperaturas menores de 6 grados C.
+No efectuar tratamientos en días de viento y tomar precauciones para evitar daños en cultivos
+colindantes.
+Específicos: (1), (4) Aplicar desde 3 hojas del cereal hasta el final del encañado.
+(2) Aplicar entre las 3-5 hojas del cultivo.
+(5) Aplicaciones manuales y con tractor, antes de la apertura de la cápsula en un único tratamiento
+por campaña, diluyendo la dosis en un caldo de 200-400 l. de agua.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 1: Para proteger la aguas subterráneas, no aplicar este producto ni ninguno que contenga fluroxipir más de una
+vez al año.
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m. en cultivos
+herbáceos y de 15 m. en cultivos leñosos hasta las masas de agua superficial.
+Mitigación de riesgos en la manipulación:
+Protecciones: El aplicador debe utilizar guantes de protección química adecuados durante la mezcla/carga, así como
+ropa
+de protección adecuada para el tronco y las piernas en la mezcla/carga y aplicación.
+No entrar en las áreas o cultivos tratados durante las primeras 24 horas tras la aplicación del producto. Durante las
+siguientes 24 horas se deberá usar ropa de protección y guantes de protección química adecuados.
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno. 
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Nocivo, Peligroso para el medio ambiente
+Símbolos y pictogramas: N,Xn
+Frases de riesgo: R36/37/38, R10, R43, R51/53, R65, R67
+Consejos de prudencia: S2, S13, S45, S37, S43, S62, S24/25, S23
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene nafta disolvente del petróleo (fracción
+aromática ligera) nº CAS: 64742-94-6 que a su vez contiene 1,2,4-trimetilbenceno".
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.  
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

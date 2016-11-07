@@ -1,0 +1,76 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.734
+Nombre comercial: M0213BF
+Titular:
+ADAMA AGRICULTURE ESPAÑA S.A.
+C/ Méndez Álvaro nº 20, 5ª Planta
+28045
+MADRID
+Fabricante:
+ADAMA DEUTSCHLAND GMBH
+Edmund-Rumpler-Str. 6
+51149 KÖLN
+COLONIA
+ALEMANIA
+Fecha de inscripción: 12/02/2015
+Fecha de caducidad: 30/09/2017
+Tipo de envase:
+Bobina multicapa de 250  y 500 g y bobina de polietileno de 1 Kg
+Composición: METRIBUZINA 70% ((ESP I)) [WG] P/P
+Tipo de preparado: GRANULADO DISPERSABLE EN AGUA [WG]
+Tipo de función: Herbicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Alfalfa MALAS HIERBAS 0,5-0,75 Kg/ha 60
+(2) Cebada MALAS HIERBAS 0,1 Kg/ha NP
+(3) Patata MALAS HIERBAS 0,25-0,33 Kg/ha NP
+(4) Soja MALAS HIERBAS 0,25-0,33 Kg/ha 60
+(5) Tomate MALAS HIERBAS 0,25-0,3 Kg/ha 30
+(6) Trigo MALAS HIERBAS 0,1 Kg/ha NP
+(7) Zanahoria MALAS HIERBAS 0,25-0,35 Kg/ha NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Controla malas hierbas en preemergencia o postemergencia temprana.
+Aplicar al suelo en pulverización a baja presión diluyendo la dosis en 400 o más litros de agua/ha.
+para cereales y 200-500 en el resto de cultivos, en aplicación única por periodo vegetativo.
+Específicos: (1) Aplicar la dosis baja en suelos ligeros.
+(2), (6), (7) Aplicar en postemergencia del cultivo.
+(3) Aplicar en preemergencia o postemergencia del cultivo.
+(4) Aplicar en presiembra o preemergencia del cultivo.
+(5) Aplicar en presiembra o pretrasplante del cultivo.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.734
+Nombre comercial: M0213BF
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 20 m. en patata y soja
+y 5 m. en trigo y cebada hasta las masas de agua superficial. 
+SPe 3: Para proteger las plantas no objetivo, úsense boquillas de reducción de deriva del 75% en patata, del 50% en
+soja o respétese sin tratar una banda de seguridad de 5 m. en estos cultivos, hasta la zona no cultivada.
+Mitigación de riesgos en la manipulación:
+El aplicador deberá utilizar guantes de protección quimica para la mezcla/carga, ropa tipo 3 o 4 y calzado adecuado
+durante la mezcla/carga, aplicación, mantenimiento y limpieza del equipo y para la reentrada en patata, además en
+patata y soja se deberá utilizar mascarilla A1P2, capucha y pantalla facial en la mezcla/carga y aplicación y en
+cereales ropa de protección tipo 3 o 4  y calzado adecuado durante la aplicación, mantenimiento y limpieza del equipo,
+siempre que el tractor carezca de cabina cerrada.
+No entrar al cultivo hasta que el producto esté seco. 
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Acuático agudo 1
+Símbolos y pictogramas: --
+Frases de riesgo: H410, EUH 401
+Consejos de prudencia: P261, P262, P273, P391, P501
+Otras indicaciones reglamentarias: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE. (No
+limpiar el equipo de aplicación del producto cerca de aguas superficiales/Evitese la
+contaminación a través de los sistemas de evacuación de aguas de las
+explotaciones o de los caminos).

@@ -1,0 +1,101 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.582
+Nombre comercial: BUMPER 25 EC
+Titular:
+ADAMA AGRICULTURE ESPAÑA S.A.
+C/ Méndez Álvaro nº 20, 5ª Planta
+28045
+MADRID
+Fabricante:
+ADAMA MAKHTESHIM LTD.
+P.O. Box 60
+84100001 Beer Sheva
+ISRAEL
+Fecha de inscripción: 29/09/2015
+Fecha de caducidad: 31/10/2017
+Tipo de envase:
+Botella de plástico de 1 L (boca de 42 mm + 0,2-2)
+Garrafa de plástico HDPE de 5 L (boca entre 45 y 63 mm)
+Composición: PROPICONAZOL 25% (ESP II) [EC] P/V
+Tipo de preparado: CONCENTRADO EMULSIONABLE [EC]
+Tipo de función: Fungicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Avena OIDIO 0,5 l/ha 40
+(2) Avena RINCOSPORIUM 0,5 l/ha 40
+(3) Avena ROYA 0,5 l/ha 40
+(4) Avena SEPTORIOSIS 0,5 l/ha 40
+(5) Cebada OIDIO 0,5 l/ha 40
+(6) Cebada RINCOSPORIUM 0,5 l/ha 40
+(7) Cebada ROYA 0,5 l/ha 40
+(8) Cebada SEPTORIOSIS 0,5 l/ha 40
+(9) Centeno OIDIO 0,5 l/ha 35
+(10) Centeno RINCOSPORIUM 0,5 l/ha 35
+(11) Centeno ROYA 0,5 l/ha 35
+(12) Centeno SEPTORIOSIS 0,5 l/ha 35
+(13) Rosal OIDIO 0,4 l/ha NP
+(14) Rosal ROYA 0,4 l/ha NP
+(15) Trigo OIDIO 0,5 l/ha 35
+(16) Trigo RINCOSPORIUM 0,5 l/ha 35
+(17) Trigo ROYA 0,5 l/ha 35
+Registro de Productos FitoSanitarios
+Nº Registro: 25.582
+Nombre comercial: BUMPER 25 EC
+(18) Trigo SEPTORIOSIS 0,5 l/ha 35
+(19) Vid BLACK-ROT 0,2 l/ha 14
+(20) Vid OIDIO 0,2 l/ha 14
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Tratamiento fungicida sistémico foliar con acción preventiva y curativa contra oidios, royas,
+rincosporiosis y septoriosis en cereales (trigo, cebada, avena y centeno), contra oidio y black-rot en
+vid  (aire libre) y contra oídio y roya en rosal (aire libre e invernadero).   
+Específicos: (1), (2), (3), (4), (5), (6), (7), (8), (9), (10), (11), (12), (15), (16), (17), (18) En pulverización normal con
+tractor al aparecer los primeros síntomas de la enfermedad, a partir del inicio del ahijamiento, con un
+máximo de 2 aplicaciones por campaña, con un intervalo de 10 a 21 días entre aplicaciones. Aplicar
+un volumen de 200-500 L 
+(13), (14) Aplicar cuando aparecen los primeros síntomas de la enfermedad. Máximo 6 aplicaciones
+separadas por un intervalo de entre 7 y 14 días.
+(19), (20) En pulverización normal con tractor o pulverización manual al aparecer los primeros
+síntomas de la enfermedad, con un máximo de 2 aplicaciones por campaña, con un intervalo de 10
+a 21 días entre aplicaciones. Aplicar 300-1000 L/ha.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 metros hasta las
+masas de agua superficial.
+Mitigación de riesgos en la manipulación:
+Seguridad del aplicador:
+En trigo, avena, centeno, cebada en pulverización normal con tractor, y en vid en pulverización normal con tractor y
+pulverización manual, durante la mezcla/carga, aplicación, limpieza, y mantenimiento del equipo se deberán utilizar
+guantes de protección química.
+Durante la aplicación con tractor con cabina cerrada y dispositivo de filtrado de aire, se podrá prescindir del equipo de
+protección, siempre que se mantengan las ventanas cerradas. 
+Seguridad del trabajador:
+No entrar al cultivo hasta que el producto este seco. 
+SPo 2: Lávese toda la ropa de protección después de usarla.
+SPo 5: Ventilar la zonas tratadas durante un tiempo especificado antes de volver a entrar.
+Restricciones por clases de usuarios:
+Uso profesional en lugares no destinados al público en general.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Sensibilizantes cutáneos. Categoría 1 A.
+Símbolos y pictogramas: --
+Frases de riesgo: H317, H410, EUH 401
+Consejos de prudencia: P261, P273, P280, P391, P302+P352, P501
+Registro de Productos FitoSanitarios
+Nº Registro: 25.582
+Nombre comercial: BUMPER 25 EC
+Otras indicaciones reglamentarias: SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.

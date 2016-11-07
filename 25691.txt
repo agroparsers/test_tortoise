@@ -1,0 +1,85 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.691
+Nombre comercial: CABRIO DUO EC
+Titular:
+BASF ESPAÑOLA, S.L.
+Can Rabia, 3-5
+08017
+BARCELONA
+Fabricante:
+BASF SE
+D-67056 LUDWIGSHAFEN
+RHEIN
+ALEMANIA
+Fecha de inscripción: 10/09/2013
+Fecha de caducidad: 30/09/2017
+Tipo de envase:
+Botellas de plástico de 50 y 100 ml, 0,25, 0,5, 1, 1,25 y 2,5 l.
+Garrafas de plástico de 5 y 10 l.
+Composición: DIMETOMORF 7,2% ( ) + PIRACLOSTROBIN 4% ( ESPI) [EC] P/V
+Tipo de preparado: CONCENTRADO EMULSIONABLE [EC]
+Tipo de función: Fungicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Ajos MILDIU 2-2,5 l/ha 7
+(2) Cebolla MILDIU 2-2,5 l/ha 7
+(3) Cucurbitáceas de piel comestible MILDIU 250 ml/Hl 1
+(4) Cucurbitáceas de piel comestible OIDIO 250 ml/Hl 1
+(5) Cucurbitáceas de piel no comestible MILDIU 2,5 l/ha 3
+(6) Lechuga MILDIU 2-2,5 l/ha 7
+(7) Patata MILDIU 2-2,5 l/ha 3
+(8) Tomate MILDIU 250 ml/Hl 3
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar en pulverización manual o mediante tractor al aire libre y mediante lanza o pistola de
+pulverización en invernadero, efectuando un máximo de 3 aplicaciones por campaña a intervalos de
+10 días.
+Para reducir el riesgo de aparición de resistencias se recomienda no efectuar más de dos
+aplicaciones consecutivas, alternando con fungicidas de diferente modo de acción.
+Aplicar como tratamiento preventivo.
+En la etiqueta se darán las indicaciones oportunas para la correcta utilización del producto.
+Específicos: (1), (2), (5), (6) Sólo al aire libre.
+(3), (4) Sólo en invernadero. Dosis máxima de 2,5 l/ha.
+(8) Aire libre e invernadero. Dosis máxima de 2,5 l/ha.
+Registro de Productos FitoSanitarios
+Nº Registro: 25.691
+Nombre comercial: CABRIO DUO EC
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos en la manipulación:
+El aplicador deberá utilizar guantes de protección química adecuados durante la mezcla/carga, aplicación y para
+manipular el equipo de aplicación o superficies contaminadas en las aplicaciones con tractor. Además durante las
+aplicaciones en invernadero y manuales al aire libre se deberá utilizar ropa de protección tipo 6 (contra salpicaduras de
+productos líquidos según UNE-EN 13034:2005+A1:2009). Durante la limpieza del equipo se utilizará la misma
+protección que durante la aplicación.
+En invernadero cuando el cultivo supere el metro de altura, la anchura libre entra las líneas del cultivo deberá ser como
+mínimo de 1,2 m.
+No entrar al cultivo hasta que el producto esté seco y en invernadero no realizar actividades que supongan el contacto
+prolongado (+ de 2 horas) con el cultivo tratado hasta pasado como mínimo 1 día. 
+SPo 2: Lávese toda la ropa de protección después de usarla. 
+SPo 5: Ventilar los invernaderos tratados hasta que se haya secado la pulverización antes de volver a entrar.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Toxicidad aguda (oral, cutánea, por inhalación). Categoría 4., Peligro por
+aspiración. Categoría 1., Peligro
+Símbolos y pictogramas: Xn
+Frases de riesgo: H302, H304, H315, H332, H410, EUH 401
+Consejos de prudencia: P102, P260, P262, P271, P273, P280, P391, P301+P330+P331, P501
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene nafta disolvente del petróleo, nº CAS:
+64742-94-5 y alcohol bencílico nº CAS: 100-51-6".  
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.  
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

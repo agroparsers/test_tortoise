@@ -1,0 +1,127 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.828
+Nombre comercial: IMIDAN 50WG
+Titular:
+GOWAN COMÉRCIO INTERNACIONAL E SERVIÇOS, LTD
+Rua Ivens nº 3-B,D. Mécia Building, 6th floor
+FUNCHAL
+9000-046
+MADEIRA
+PORTUGAL
+Fabricante:
+GOWAN COMÉRCIO INTERNACIONAL E SERVIÇOS, LTD
+Rua Ivens nº 3-B,D. Mécia Building, 6th floor
+9000-046 FUNCHAL
+MADEIRA
+PORTUGAL
+Fecha de inscripción: 04/05/2016
+Fecha de caducidad: 31/07/2018
+Tipo de envase:
+Bolsas/sacos laminados (papel/PE/aluminio/PE) de 1 y 5 kg.
+Composición: FOSMET 50% [WG] P/P
+Tipo de preparado: GRANULADO DISPERSABLE EN AGUA [WG]
+Tipo de función: Insecticida
+Ámbitos de utilización: Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Cerezo MOSCA DE LA CEREZA 0,15 % 14
+(2) Manzano CARPOCAPSA 0,15 % 49
+(3) Melocotonero ANARSIA 0,15 % 14
+(4) Melocotonero GRAFOLITA 0,15 % 14
+(5) Melocotonero MOSCA DE LA FRUTA 0,15 % 14
+(6) Membrillero CARPOCAPSA 0,15 % 49
+(7) Naranjo MOSCA DE LA FRUTA 0,1 % 28
+(8) Nashi CARPOCAPSA 0,15 % 49
+(9) Nectarino ANARSIA 0,15 % 14
+(10) Nectarino GRAFOLITA 0,15 % 14
+(11) Nectarino MOSCA DE LA FRUTA 0,15 % 14
+(12) Nogal CARPOCAPSA 0,1 % 7
+(13) Nogal MOSCA DE LA NUEZ 0,15 % 7
+(14) Olivo MOSCA DEL OLIVO 0,15 % 28
+(15) Olivo PRAYS 0,15 % 28
+(16) Peral CARPOCAPSA 0,15 % 49
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.828
+Nombre comercial: IMIDAN 50WG
+Generales : Tratamiento insecticida de ingestión y contacto al aire libre. 
+Métodos de aplicación: Pulverización normal con tractor y manual.
+Específicos: (1) Dosis máxima: 1,5 kg/ha. Volumen de caldo: 1000 l/ha. Una única aplicación por campaña.
+(2), (6), (8), (16) Dosis máxima: 1 kg/ha. Volumen de caldo: 1000 l/ha. Máximo dos aplicaciones por
+campaña y un intervalo de 20 días entre aplicaciones.
+(3), (4), (5), (9), (10), (11) Dosis máxima: 1,5 kg/ha. Volumen de caldo: 1000 l/ha. Máximo dos
+aplicaciones por campaña y un intervalo de 10 días entre aplicaciones.
+(7) Dosis máxima: 1 kg/ha. Volumen de caldo: 1000 l/ha. Una única aplicación por campaña.
+Cuando la dosis sea del 0,05 %, el volumen de caldo será de 2000 l/ha.
+(12), (13) Dosis máxima: 1 kg/ha. Volumen de caldo: 1000 l/ha. Máximo dos aplicaciones por
+campaña y un intervalo de 19 días entre aplicaciones.
+(14), (15) Dosis máxima: 1,5 kg/ha. Volumen de caldo: 1000 l/ha. Dos aplicaciones por campaña e
+intervalo entre aplicaciones de 11 días.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe3: Para proteger los organismos acuáticos, repétese sin tratar una banda de seguridad hasta las masas de agua
+superficial de: 
+- 40 m de los cuales 20 m serán con cubierta vegetal en manzano, peral, membrillero, nashi, nogal, melocotonero,
+nectarino, cítricos y olivo.
+- 100 m en cerezo.
+Spe3: Para proteger los artrópodos no objetivo, respétese sin tratar una banda de seguridad de 15 m hasta la zona no
+cultivada.
+SPe8: Peligrosos para las abejas. Para proteger las abejas y otros insectos polinizadores, no aplicar durante la
+floración de los cultivos. No utilizar donda haya abejas en pecoreo activo.
+Mitigación de riesgos en la manipulación:
+Seguridad del aplicador:
+En manzano, peral, membrillero, nashi, naranjo, nogal, melocotonero, nectarino olivo y cerezo, mediante pulverización
+con tractor, durante la mezcla/carga se deberán utilizar guantes de protección química, mascarilla FFP2SL (según
+norma UNE-EN-149:2001 + A1:2010) o P2 (según normas UNE-EN 143:2001, UNE-EN 143/AC:2002, UNE-EN
+143:2001/AC:2005, UNE-EN 143:2001/A1:2006) y durante la aplicación, mantenimiento y limpieza del equipo se
+deberán utilizar guantes y ropa de protección química (tipo 3 o 4 de acuerdo a norma UNE-EN14605: 2005 + A1:
+2009), además de calzado adecuado. 
+En manzano, naranjo, peral, membrillero, nashi y nogal, mediante pulverización manual, durante la mezcla/carga se
+deberán utilizar guantes de protección química, y durante la aplicación, mantenimiento y limpieza del equipo se
+deberán utilizar guantes y ropa de protección química (tipo 3 o 4 de acuerdo a norma UNE-EN14605: 2005 + A1:
+2009), además de calzado adecuado. 
+En melocotonero, nectarino, olivo y cerezo, mediante pulverización manual, durante la mezcla/carga se deberán utilizar
+guantes de protección química, y durante la aplicación, mantenimiento y limpieza del equipo se deberán utilizar
+guantes y ropa de protección química (tipo 3 o 4 de acuerdo a norma UNE-EN14605: 2005 + A1: 2009), calzado
+adecuado y mascarilla FFP2SL (según norma UNE-EN-149:2001 + A1:2010) o P2 (según normas UNE-EN 143:2001,
+UNE-EN 143/AC:2002, UNE-EN 143:2001/AC:2005, UNE-EN 143:2001/A1:2006). 
+Durante la aplicación con tractor con cabina cerrada y dispositivo de filtrado de aire, se podrá prescindir del equipo de
+protección, siempre que se mantengan las ventanas cerradas.
+Seguridad del trabajador:
+En tratamiento de todos los cultivos autorizados se deberá utilizar guantes de protección química para  tareas que
+superen las 2 horas. 
+En manzano, peral, membrillero, nashi y nogal, será necesario una reentrada de 7 días. En melocotonero, nectarino y
+cerezo, el plazo de reentrada será de 3 días. En olivo, el plazo de reentrada será de 28 días. En naranjo, no será
+necesario reentrada.
+No entrar al cultivo hasta que el producto este seco.
+No tratar con este producto en caso de que se prevea la realización de labores mecánicas que puedan deteriorar los
+guantes de protección química.
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.828
+Nombre comercial: IMIDAN 50WG
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Lesión ocular grave. Categoría 1., Peligro, Acuático agudo
+1, Toxicidad aguda (oral). Categoría 3
+Símbolos y pictogramas: --
+Frases de riesgo: H301, H318, H410, EUH 401
+Consejos de prudencia: P261, P264, P270, P273, P280, P391, P305+P351+P338, P501
+Otras indicaciones reglamentarias: Otros componentes además del ingrediente activo técnico: Mezcla de surfactantes
+no iónicos (CAS 61791-12-6).
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.

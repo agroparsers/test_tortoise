@@ -1,0 +1,127 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.186
+Nombre comercial: REVUS
+Titular:
+SYNGENTA ESPAÑA S.A.
+C/ Ribera del Loira, 8-10 - 3º Planta
+28042
+MADRID
+Fabricante:
+SYNGENTA CROP PROTECTION AG
+Schwarzwaldallee 215 P.O. Box
+CH-4002
+BASILEA
+SUIZA
+Fecha de inscripción: 18/02/2011
+Fecha de caducidad: 31/07/2023
+Tipo de envase:
+Botellas de 0.25 (sólo aplicaciones manuales), 1, 5 y 10 l (estos dos últimos con boca de 53 mm) y bidón de 20 l (boca
+de 47 mm). Los envases de 10 y 20 l, sólo en aplicaciones con tractor.
+Botellas de 500 ml de HPDE y HPDE fluorinatado. 
+Composición: MANDIPROPAMID 25% [SC] P/V
+Tipo de preparado: SUSPENSION CONCENTRADA [SC]
+Tipo de función: Fungicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Acelga MILDIU 0,4-0,6 l/ha 7
+(2) Achicoria MILDIU 0,4-0,6 l/ha 7
+(3) Calabacín MILDIU 0,4-0,6 l/ha 3
+(4) Canónigos MILDIU 0,4-0,6 l/ha 7
+(5) Escarola MILDIU 0,4-0,6 l/ha 7
+(6) Hierbas aromáticas MILDIU 0,4-0,6 l/ha 7
+(7) Hortícolas de hoja MILDIU 0,4-0,6 l/ha 7
+(8) Lechuga MILDIU 0,4-0,6 l/ha 7
+(9) Melón MILDIU 0,4-0,6 l/ha 3
+(10) Patata MILDIU 0,4-0,6 l/ha 3
+(11) Perejil MILDIU 0,4-0,6 l/ha 7
+(12) Rúcula MILDIU 0,4-0,6 l/ha 7
+(13) Tomate MILDIU 0,04-0,06 % 3
+(14) Vid MILDIU 0,6 l/ha 21
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.186
+Nombre comercial: REVUS
+Generales : Los tratamientos deberán realizarse al comienzo del periodo de crecimiento, de forma preventiva,
+antes del establecimiento de la enfermedad.
+Spa 1: Para evitar la aparición de resistencias, no efectuar con este producto ni con ningún otro que
+contenga mandipropamid más de 4 aplicaciones en patata, vid, melón, calabacín; 3 en tomate; 2 en
+lechuga, perejil y hierbas aromáticas frescas en campo y 1 en lechuga hortícolas de hojas similares,
+perejil y hierbas frescas en invernadero espaciados en general entre 7 y 10 días, debiendo
+alternarlos con fungicidas de diferente modo de acción.
+En la etiqueta se darán las instrucciones oportunas para el correcto uso del producto, así como las
+advertencias necesarias para que el agricultor pueda cerciorarse de los riesgos de su utilización en
+variedades sensibles del propio cultivo, en los cultivos adyacentes o en los siguientes en la
+alternativa.
+Método de aplicación: pulverización normal con tractor y manual en cultivos al aire libre. La
+pulverización será manual en cultivos en invernadero. 
+Específicos: (1), (2), (5) Sólo en invernadero. Durante el estado vegetativo BBCH 11-49 (1ª hoja verdadera
+desplegada hasta tamaño y forma de la cabeza típico), realizar una única aplicación por campaña.
+(3) Sólo al aire libre. Durante el estado vegetativo BBCH 9-81 (emergencia hasta 10% de los frutos
+tiene color típico de madurez), realizar un máximo de 4 aplicaciones por campaña, con un intervalo
+entre aplicaciones de 7-10 días.
+(4), (12) Sólo en invernadero. Durante el estado vegetativo BBCH 11-49 (1ª hoja verdadera
+desplegada hasta alcanzar la altura típica), realizar una única aplicación por campaña.
+(6), (11) Aire libre e invernadero. Durante el estado vegetativo BBCH 11-39 (1ª hoja verdadera
+desplegada hasta que el tallo principal alcanza la altura típica) realizar un máximo de 2 aplicaciones
+por campaña, con un intervalo entre aplicaciones de 7-10 días.
+(7) Sólo en invernadero. Incluye: ruqueta, mostaza china, hojas de espinaca, berros de tierra,
+mastuerzo y verdolaga. Durante el estado vegetativo BBCH 11-49 (1ª hoja verdadera desplegada
+hasta tamaño/forma de la cabeza típico), una aplicación por campaña.
+(8) Durante el estado vegetativo BBCH 11-49 (1ª hoja verdadera desplegada hasta tamaño y forma de
+la cabeza típico), al aire libre un máximo de 2 aplicaciones por campaña, con un intervalo entre
+aplicaciones de 7-10 días, y en invernadero una única aplicación
+(9) Durante el estado vegetativo BBCH 9-81 (emergencia hasta 10% de los frutos con color típico de
+madurez) al aire libre y BBCH 11-49 (1ª hoja verdadera desplegada hasta antes de floración) en
+invernadero. Máximo 4 aplicaciones/campaña, intervalo: 7-10 días.
+(10) Durante el estado vegetativo BBCH 31-91 (comienzo de la cobertura del cultivo hasta comienzo
+amarilleamiento de las hojas), realizar un máximo de 6 aplicaciones por campaña, con un intervalo
+entre aplicaciones de 7-10 días.
+(13) Dosis máxima: 0,6 l/ha. Aire libre e invernadero. Durante el estado vegetativo BBCH 9-81
+(emergencia hasta 10% de los frutos tiene color típico de madurez), realizar un máximo de 4
+aplicaciones por campaña, y un intervalo entre aplicaciones de 7-10 días.
+(14) En vaso, espaldera y parral. Durante el estado vegetativo BBCH 9-81 (apertura de las yemas:
+ápices foliares bien visibles, hasta comienzo de la maduración), realizar un máximo de 4
+aplicaciones por campaña, con un intervalo entre aplicaciones de 7-10 días
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Para los cultivos al aire libre:
+SPe 3: Para proteger a los organismos acuáticos, respétese sin tratar una banda de seguridad hasta las masas de 5m
+hasta las masas de agua superficial.
+Mitigación de riesgos en la manipulación:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.186
+Nombre comercial: REVUS
+Aplicador:
+En todos los cultivos autorizados, en pulverización normal con tractor y manual, durante la mezcla/carga, aplicación,
+mantenimiento y limpieza del equipo se deberán utilizar guantes de protección química.
+Durante la aplicación con tractor con cabina cerrada y dispositivo de filtrado de aire, se podrá prescindir del equipo de
+protección, siempre que se mantengan las ventanas cerradas. 
+Evítese el contacto con el follaje húmedo durante el tratamiento.
+Los envases de capacidad superior a 20 litros se deberán emplear en condiciones de trasvase cerrado mediante
+bomba automática que vierta directamente el producto desde el bidón hasta el sistema de aplicación.
+SPo 2: Lávese toda la ropa de protección después de usarla.
+SPo 5: Ventilar los invernaderos tratados hasta que se haya secado la pulverización antes de volver a entrar.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: 
+"Entregar los envases vacíos o residuos de envases bien en los puntos de recogida establecidos por los sistemas
+colectivos de responsabilidad ampliada (SIG) o directamente en el punto de venta donde se hubiera adquirido si
+dichos envases se han puesto en el mercado a través de un sistema de depósito, devolución y retorno".
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Acuático crónico 2
+Símbolos y pictogramas: N
+Frases de riesgo: H411, EUH 208, EUH 210, EUH 401
+Consejos de prudencia: P261, P262, P273, P280, P391, P501
+Otras indicaciones reglamentarias: SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.

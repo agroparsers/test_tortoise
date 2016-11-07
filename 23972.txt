@@ -1,0 +1,139 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 23.972
+Nombre comercial: ENVIDOR
+Titular:
+BAYER CROPSCIENCE, S.L.
+C/ Charles Robert Darwin, 13. Parque Tecnológico
+PATERNA
+46980
+VALENCIA
+Fabricante:
+BAYER CROPSCIENCE AG(MONHEIM)
+Alfred Nobel Strasse, 50
+D-40789 Monheim am Rhein
+ALEMANIA
+Fecha de inscripción: 01/09/2008
+Fecha de caducidad: 31/07/2020
+Tipo de envase:
+Botella de plástico de 1 l
+Garrafa de plástico de 5 l (boca: 54,7 mm)
+Botellas de 200 ml y rango de envases de 0,5-20 l (siempre y cuando la anchura de boca sea >=45 mm).
+Envases para volúmenes de 5 ml., 10 ml., 20 ml., 50 ml. 100 ml., 250 ml.
+Composición: SPIRODICLOFEN 24% ( ) [SC] P/V
+Tipo de preparado: SUSPENSION CONCENTRADA [SC]
+Tipo de función: Acaricida
+Ámbitos de utilización: Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Albaricoquero ACAROS 0,04 14
+(2) Cerezo ACAROS 0,04 14
+(3) Ciruelo ACAROS 0,04 14
+(4) Cítricos ACARO ROJO 0,02 14
+(5) Cítricos ARAÑA ROJA 0,02 14
+(6) Manzano ACAROS 0,04 14
+(7) Melocotonero ACAROS 0,04 14
+(8) Nectarino ACAROS 0,04 14
+(9) Peral ACAROS 0,04 14
+(10) Platanera ACAROS TETRANÍQUIDOS 0,02 14
+(11) Vid ACARIOSIS 0,04 14
+(12) Vid ACAROS TETRANÍQUIDOS 0,04 14
+(13) Vid ERIOFIDO 0,04 14
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Registro de Productos FitoSanitarios
+Nº Registro: 23.972
+Nombre comercial: ENVIDOR
+Generales : SPa1.- Para evitar la aparición de resistencias, no aplicar este producto ni ningún otro que contenga
+spiridiclofen más de una vez por periodo vegetativo.
+Pulverización manual (normal o centrífuga) o con tractor (hidráulica o centrífuga) en viña, manzano,
+peral, frutales de hueso y platanera. En cítricos, la pulverización será normal, con tractor o manual.
+Específicos: (1), (2), (3), (7), (8) Dosis máxima: 0,6 l/ha. Frente: eriófidos, ácaro rojo y araña roja común.
+Tratamiento erradicativo a la aparición de la plaga, desde la caída de los pétalos hasta maduración
+del fruto.
+(4), (5) Dosis máxima: 0,6 l/ha. La pulverización se realizará a la aparición de la plaga, desde la
+caída de los pétalos hasta la maduración del fruto.
+(6), (9) Dosis máx: 0,6 l/ha. Frente: ácaro rojo y blanco, eriófidos y araña roja común. Tratamiento
+preventivo a la caída de los pétalos, o bien un tratamiento erradicativo a la aparición de la plaga,
+desde la caída de los pétalos hasta la maduración del fruto.
+(10) Dosis 0,02% con un volumen de caldo entre 1.500-3.000 L/ha, máximo 1 aplicación.
+(11), (13) Dosis máxima: 0,2 l/ha. Incluido parral de vid. Frente a eriófidos. Aplicar al inicio de la
+brotación (5ª hoja desplegada). 
+(12) Dosis máxima: 0,4 l/ha. Incluido parral de vid. Aplicar a la aparición del ácaro rojo o araña roja
+común, desde la caída de los pétalos hasta la maduración de las uvas.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad hasta las masas de agua
+superficial de:
+- 30m o 20m con boquillas de reducción del 50% para manzano, peral, albaricoquero, melocotonero, nectarino, cerezo,
+ciruelo y platanera.
+- 15m o 10m con boquillas de reducción del 50% para cítricos
+- 10m o 5m con boquillas de reducción del 50% para vid
+SPe3: Para proteger los artrópodos no objetivo, respétese sin tratar una banda de seguridad hasta la zona no cultivada
+de:
+- 20m para manzano, peral, albaricoquero, melocotonero, nectarino, cerezo, ciruelo, platanera y cítricos
+- 10m para vid
+SPe 8: Para proteger las abejas y otros insectos polinizadores, no aplicar durante la floración de los cultivos. No
+aplicar cuando las malas hierbas estén en floración.
+Mitigación de riesgos en la manipulación:
+Registro de Productos FitoSanitarios
+Nº Registro: 23.972
+Nombre comercial: ENVIDOR
+Seguridad del aplicador:
+En todos los cultivos autorizados, durante la mezcla/carga, se deberán utilizar guantes de protección química. Durante
+la aplicación, mantenimiento y limpieza del equipo se deberán de utilizar en:
+- Cítricos: En pulverización manual y normal con tractor, guantes y ropa de protección química (equipo de tipo 3 ó 4 de
+acuerdo a norma UNE-EN14605:2005 + A1:2009) y calzado adecuado.
+- Vid (parrales y cultivo alto): En pulverización manual e hidráulica con tractor, guantes y ropa de protección química
+(equipo de tipo 3 ó 4 de acuerdo a norma UNE-EN14605:2005 + A1:2009) y calzado adecuado, mientras que en
+pulverización centrífuga con tractor, guantes de protección química y en manual centrífuga, guantes y ropa de
+protección química (equipo de tipo 3 ó 4 de acuerdo a norma UNE-EN14605:2005 + A1:2009). 
+- Vid (cultivo bajo): En pulverización con tractor (centrífuga o normal) y en manual centrífuga se deberán utilizar guantes
+de protección química. En el caso de realizar una pulverización manual se deberán utilizar guantes y ropa de
+protección química (equipo de tipo 3 ó 4 de acuerdo a norma UNE-EN14605:2005 + A1:2009) y calzado adecuado.
+- Frutales de pepita y de hueso: En pulverización normal con tractor y manual se deberán de utilizar guantes y ropa de
+protección química (equipo de tipo 3 ó 4 de acuerdo a norma UNE-EN14605:2005 + A1:2009) y calzado adecuado. En
+pulverización manual centrífuga guantes y ropa de protección química (equipo de tipo 3 ó 4 de acuerdo a norma
+UNE-EN14605:2005 + A1:2009) y en pulverización tractor centrífuga guantes de protección química.
+- Platanera: En pulverización normal con tractor y manual se deberán de utilizar guantes y ropa de protección química
+(equipo de tipo 3 ó 4 de acuerdo a norma UNE-EN14605:2005 + A1:2009) y calzado adecuado. En pulverización
+manual centrífuga guantes y ropa de protección química (equipo de tipo 3 ó 4 de acuerdo a norma UNE-EN14605:2005
++ A1:2009) y en pulverización tractor centrífuga guantes de protección química.
+Durante la aplicación con tractor con cabina cerrada y dispositivo de filtrado de aire, se podrá prescindir del equipo de
+protección, siempre que se mantengan las ventanas cerradas. 
+Seguridad del trabajador:
+En tareas que supongan una estancia superior a 2 horas en el cultivo se deberán utilizar guantes de protección
+química en todos los cultivos autorizados.
+No entrar al cultivo hasta que el producto esté seco.
+No tratar con este producto en caso de que se prevea la realización de labores mecánicas que puedan deteriorar los
+guantes de protección química.
+El preparado no se usará en combinación con otros productos.
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Sensibilizantes cutáneos. Categoría 1 B., Carcinogenicidad. Categoría 2.,
+Acuático crónico 2
+Símbolos y pictogramas: --
+Frases de riesgo: H317, H351, H411, EUH 401
+Registro de Productos FitoSanitarios
+Nº Registro: 23.972
+Nombre comercial: ENVIDOR
+Consejos de prudencia: P261, P273, P280, P391, P302+P352, P501, P201+P202
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que: contiene 1,2 benzisotiazol-3-(2H)-ona, nº CAS:
+2634-33-5 y mezcla de 5-cloro-2-metil-2H-isotiazol-3-ona y
+2-metil-2H-isotiazol-3-ona (3:1) nº CAS: 55965-84-9".
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.

@@ -1,0 +1,91 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 22.992
+Nombre comercial: LASER PLUS
+Titular:
+INDUSTRIAS AFRASA, S.A.
+c/ Ciudad de Sevilla, 53 - Polg. Ind. Fuente Jarro
+PATERNA
+46988
+VALENCIA
+Fabricante:
+INDUSTRIAS AFRASA, S.A.
+c/ Ciudad de Sevilla, 53 - Polg. Ind. Fuente Jarro
+46988 PATERNA
+VALENCIA
+Fecha de inscripción: 15/06/2007
+Fecha de caducidad: 31/12/2018
+Tipo de envase:
+Botella HDPE de 1 l (diámetro 54 mm) y garrafas HDPE de 5 l (diámetro 54 mm), 10 l (diámetro 54 mm) y 20 l (diámetro
+48 mm)
+Composición: GLIFOSATO 20% (SAL ISOPROPILAMINA) + OXIFLUORFEN 3% (ESP) [SC] P/V
+Tipo de preparado: SUSPENSION CONCENTRADA [SC]
+Tipo de función: Herbicida
+Ámbitos de utilización: Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Cítricos MALAS HIERBAS 4-6 l/ha 21
+(2) Frutales de hueso MALAS HIERBAS 4-6 l/ha NP
+(3) Frutales de pepita MALAS HIERBAS 4-6 l/ha NP
+(4) Olivo de almazara MALAS HIERBAS 4-6 l/ha 7
+(5) Olivo de verdeo MALAS HIERBAS 4-6 l/ha 7
+(6) Vid de mesa MALAS HIERBAS 4-6 l/ha NP
+(7) Vid de vinificación MALAS HIERBAS 4-6 l/ha NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar en pulverización dirigida al suelo para no mojar las partes verdes del cultivo, en tratamientos
+en bandas sobre la línea de plantación, asegurando una buena cobertura de la pulverización. Aplicar
+cuando las malas hierbas se encuentren en crecimiento activo y en los primeros estadios de
+desarrollo. Se recomienda el uso de las dosis más altas para el control de malas hierbas anuales en
+estado avanzado de desarrollo y para control de malas hierbas perennes.
+Evitar el uso repetido del mismo herbicida o de herbicidas con el mismo modo de acción.
+Utilizar prácticas alternativas de manejo de malas hierbas como labranza, plantación tardía,
+pastoreo, etc.
+Evitar la propagación de malas hierbas resistentes.
+Registro de Productos FitoSanitarios
+Nº Registro: 22.992
+Nombre comercial: LASER PLUS
+Específicos: (1), (2), (3), (6), (7) Pulverización normal dirigida al suelo, realizando una única aplicación antes de la
+floración, con un volumen de caldo de  200-400 l/ha.
+(4), (5) Pulverización normal dirigida al suelo, realizando una única aplicación anterior a la
+recolección, con un volumen de caldo de  200-400 l/ha. No tratar en presencia de aceituna caída al
+suelo.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad hasta las masas de agua
+superficial de 10 metros con cubierta vegetal y boquillas de reducción de deriva del 90%.
+ SPe 3: Para proteger las plantas no objetivo, respétese sin tratar una banda de seguridad de 5 metros hasta la zona
+no cultivada.
+Mitigación de riesgos en la manipulación:
+Aplicador:
+En mezcla/carga el aplicador deberá llevar guantes de protección química, ropa de trabajo (manga larga y pantalón
+largo) y calzado adecuado.
+En la aplicación, limpieza y mantenimiento del equipo deberá llevar ropa de trabajo (manga larga y pantalón largo) y
+calzado adecuado.
+Trabajador:
+En la re-entrada a la parcela, el trabajador deberá llevar guantes de protección química, ropa de trabajo (manga larga y
+pantalón largo) y calzado adecuado.
+No entrar al cultivo hasta que el producto esté seco.
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Carcinogénico cat. 2, Atención, Acuático crónico 1, Acuático agudo 1
+Símbolos y pictogramas: --
+Frases de riesgo: H351, H410, EUH 401
+Consejos de prudencia: P261, P273, P280, P391, P501, P201+P202
+Otras indicaciones reglamentarias: SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.
+El preparado no se usará en combinación con otros productos.

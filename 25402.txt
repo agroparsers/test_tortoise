@@ -1,0 +1,107 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.402
+Nombre comercial: PROFUME
+Titular:
+DOW AGROSCIENCES IBERICA, S.A.
+C/ Ribera del Loira 4-6, Edificio Iris, 4ª Planta
+28042
+MADRID
+Fabricante:
+DOW AGROSCIENCES LLC (USA)
+9330 Zionsville Rd.
+46268 Indianapolis
+INDIANA
+EEUU
+Fecha de inscripción: 16/06/2014
+Fecha de caducidad: 31/10/2020
+Tipo de envase:
+Cilindros de acero de 0,043 y 0,055 m3.
+Composición: FLUORURO DE SULFURILO 99,8% [GA] P/P
+Tipo de preparado: GAS [GA]
+Tipo de función: Fumigante, Insecticida
+Ámbitos de utilización: Instalaciones de procesado, Productos Recolectados, Almacenes
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Almacenes INSECTOS DE ALMACEN (ver nota) NP
+(2) Envases y embalajes ESCARABAJO ASIATICO DE CUERNOS (ver nota) NP
+LARGOS
+(3) Envases y embalajes NEMATODO DE LA MADERA DEL PINO (ver nota) NP
+(4) Frutos secos INSECTOS DE ALMACEN (ver nota) NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.402
+Nombre comercial: PROFUME
+Generales : Fumigar en función de la programación de los tratamientos, (desde un máximo de 2 aplicaciones por
+año, hasta una aplicación a lo largo de varios años), realizando una fumigación en caso de aparición
+de un brote de la plaga.
+La dosis máxima individual acumulada no será superior a 1500 g/hora/m3 en ausencia de productos
+alimentarios
+Se recomienda utilizar trampas de insectos y lugares específicos de monitoreo de forma rutinaria
+para asegurar una sincronización y alcance eficaz de la fumigación. No debe utilizarse el producto
+en partes de plantas vivas o semillas susceptibles de germinar.
+La dosificación se realizará de acuerdo con el programa específico FUMIGUIDE, que en función de
+los factores biológicos de la plaga, la tasa de retención de gas, del material a tratar, la temperatura
+y el tiempo de exposición determinará la concentración inicial objetivo.
+La concentración inicial en almacenes y productos en postcosecha es de 128 g/m3 y en
+tratamientos de cuarentena 104 g/m3.
+Todo producto vegetal o alimento que no sea objeto de la fumigación deberá ser retirado o cubierto
+para evitar la penetración del gas.
+En la etiqueta se incluirán las instrucciones necesarias para la correcta utilización del producto y se
+indicará el programa para el manejo de resistencias. 
+Específicos: (1) Aplicar en instalaciones de almacenamiento y de procesado de alimentos, vacíos.
+(2), (3) Tratamientos de cuarentena.
+(4) En castañas la dosis máxima individual será 300 g hora/m3.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos en la manipulación:
+Durante la introducción del gas se utilizará un equipo de respiración autónoma según norma UNE-EN 137:2007 así
+como en la entrada al recinto fumigado si se supera el AOEC para trabajadores (1 ppm) en la monitorización tras
+airear.
+No deben usarse botas ni guantes de goma, debido al riesgo de quemaduras por congelación en caso de que el gas,
+líquido bajo presión, se derrame y quede atrapado en el interior de las botas o guantes. 
+Se sellarán todas las estructuras que se vayan a fumigar (aperturas al exterior y áreas conectadas)
+Se debe utilizar exclusivamente en locales que se cierren herméticamente de forma inmediata después de iniciada la
+aplicación, por lo que se requiere la ausencia de personas en el local tratado.
+La concentración interna del gas se deberá medir mediante monitoreo o registro. La comprobación del monitor exterior
+debe realizarse con exactitud para detectar inmediatamente la concentración de fluoruro de sulfurilo en el aire cuando
+ésta sobrepasa el nivel del AOEC. Si la concentración en el aire en el exterior supera el valor del AOEC, los usuarios
+(o demás personas presentes) deberán abandonar el lugar inmediatamente o bien utilizar el equipo de respiración
+autónomo.
+Se evitará la presencia de personas ajenas en las inmediaciones de la instalación tratada. Se delimitará una zona de
+seguridad en torno a la zona a tratar.
+Se colocará señalización de advertencia en las paredes exteriores de la estructura a fumigar con el aviso "PELIGRO:
+GAS TOXICO", así como la frase "NO ENTRAR: ESTRUCTURA EN FUMIGACION".
+Una vez verificados valores de concentración del fumigante inferiores a 1 ppm. en toda la zona fumigada y posibles
+áreas conectadas, se procederá a retirar los carteles de peligro y se extenderá un certificado "Libre de Gas" antes de
+que cualquier persona entre en los locales sometidos a fumigación.
+SPo 2: Lávese toda la ropa de protección después de usarla.
+SPo 5: Ventilar las zonas tratadas antes de volver a entrar.
+Restricciones por clases de usuarios:
+Restringido a empresas de tratamientos autorizadas y usuarios que hayan realizado cursos específicos.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Registro de Productos FitoSanitarios
+Nº Registro: 25.402
+Nombre comercial: PROFUME
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Gases a presión., Gases licuados., Toxicidad aguda (oral, cutánea, por
+inhalación). Categoría 2., Toxicidad aguda (oral, cutánea, por inhalación). Categoría 3.,
+Tóxicos específicos en determinados órganos tras una exposición única. Categoría 3.,
+Tóxicos específicos en determinados órganos tras exposiciones repetidas. Categoría 2.,
+Peligro, Acuático agudo 1
+Símbolos y pictogramas: --
+Frases de riesgo: H280, H301, H330, H335, H373, H400, EUH 401
+Consejos de prudencia: P260, P273, P284, P330, P391, P304+P340, P410, P403+P233, P501
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que existe riesgo de explosión en ambiente
+confinado.
+"A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO AMBIENTE
+SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el texto.  
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

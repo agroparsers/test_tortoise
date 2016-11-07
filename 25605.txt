@@ -1,0 +1,86 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.605
+Nombre comercial: LAMDEX 50 CS
+Titular:
+ADAMA AGRICULTURE ESPAÑA S.A.
+C/ Méndez Álvaro nº 20, 5ª Planta
+28045
+MADRID
+Fabricante:
+ADAMA MAKHTESHIM LTD.
+P.O. Box 60
+84100001 Beer Sheva
+ISRAEL
+Fecha de inscripción: 27/01/2016
+Fecha de caducidad: 30/06/2016
+Tipo de envase:
+Garrafa de plástico HDPE monocapa y multicapa de 5 L (boca de 63 mm) y botellas de plástico HDPE monocapa y
+multicapa de 1 L (boca de 48,4 mm)
+Composición: LAMBDA CIHALOTRIN 5% [CS] P/V
+Tipo de preparado: SUSPENSION DE CAPSULAS [CS]
+Tipo de función: Insecticida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Calabacín ÁFIDOS 0,02-0,04 % 3
+(2) Calabacín LEPIDOPTEROS 0,02-0,04 % 3
+(3) Calabacín MOSCA BLANCA 0,02-0,04 % 3
+(4) Pepino ÁFIDOS 0,02-0,04 % 3
+(5) Pepino LEPIDOPTEROS 0,02-0,04 % 3
+(6) Pepino MOSCA BLANCA 0,02-0,04 % 3
+(7) Sandía ÁFIDOS 0,02-0,04 % 3
+(8) Sandía LEPIDOPTEROS 0,02-0,04 % 3
+(9) Sandía MOSCA BLANCA 0,02-0,04 % 3
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Sólo cultivo en invernadero
+Específicos: (1), (2), (3), (4), (5), (6) Sólo para cultivos menores de 1 metro de altura. Una única aplicación en
+pulverización manual con un volumen de caldo de 400-900 l/ha para un máximo  de  0.,18 l/ha.
+(7), (8), (9) Una única aplicación en pulverización manual con un volumen de caldo de 400-900 l/ha
+para un máximo  de  0,18 l/ha.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.605
+Nombre comercial: LAMDEX 50 CS
+Para evitar el riesgo en abejas, se limita la colocación de colmenas en invernadero durante las épocas de aplicación
+del producto.
+Mitigación de riesgos en la manipulación:
+Aplicador:
+Durante la mezcla/carga se deberán utilizar guantes de protección química y mascarilla de tipo FFA2P2; FFA2B2P2, y
+durante la aplicación, limpieza y mantenimiento del equipo se deberán utilizar guantes y ropa de protección química
+(tipo 3 o 4 de acuerdo a norma UNE-EN14605: 2005 + A1: 2009) y mascarilla de tipo FFA2P2; FFA2B2P2.
+Evítese el contacto con el follaje húmedo durante el tratamiento. 
+Trabajador:
+Para todos los usos autorizados se deberán utilizar guantes de protección química para tareas de reentrada de más de
+2 horas. 
+No tratar con este producto en caso de que se prevea la realización de labores mecánicas que puedan deteriorar los
+guantes de protección química. 
+No entrar al cultivo hasta que el producto este seco. 
+SPo 2: Lávese toda la ropa de protección después de usarla.
+SPo 5: Ventilar el invernadero hasta que se haya secado la pulverización antes de volver a entrar.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Toxicidad aguda (inhalación). Categoría 4., Acuático
+agudo 1
+Símbolos y pictogramas: --
+Frases de riesgo: H332, H410, EUH 401
+Consejos de prudencia: P261, P273, P280, P391, P304+P340, P501
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene 1,2-benzisotiazol-3 (2H)-ona (nº CAS
+2634-33-5)". Puede provocar una reacción alérgica.
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.

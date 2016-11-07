@@ -1,0 +1,66 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.763
+Nombre comercial: BANKO CHAMPIÑON
+Titular:
+ARYSTA LIFESCIENCE ESPAÑA, S.A.
+Pº de la Castellana, 177. 7º  D.1
+28046
+MADRID
+Fabricante:
+ARYSTA LIFESCIENCE, S.A.S.
+Route d'Artrix. B.P. 80
+64150 Nogueres
+FRANCIA
+Fecha de inscripción: 26/08/2015
+Fecha de caducidad: 31/10/2017
+Tipo de envase:
+Garrafa de plástico (HDPE) de 5 l.
+Composición: CLORTALONIL 50% ((ESP I)) [SC] P/V
+Tipo de preparado: SUSPENSION CONCENTRADA [SC]
+Tipo de función: Fungicida
+Ámbitos de utilización: Cultivos confinados
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Champiñón MYCOGONE 0,03 l/10 m2 14
+(2) Champiñón VERTICILIUM 0,03 l/10 m2 14
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar en pulverización al sustrato, mediante sistemas automáticos preinstalados
+La dosis se puede fraccionar en dos aplicaciones, la primera de 0,02 l/10 m2 tras la operación de
+cobertura y la segunda dos días después del rastrillado a razón de 0,01 l/10 m2.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Totalmente desaconsejable el uso del sustrato tratado con el producto, como abono para otros cultivos al aire libre.
+Mitigación de riesgos en la manipulación:
+El trabajador deberá utilizar guantes, protección para los ojos y ropa de protección tipo 3 o 4 durante la mezcla/carga,
+y durante la reentrada a las naves tratadas. 
+SPo 2: Lávese toda la ropa de protección después de usarla. 
+SPo 4: El recipiente debe abrirse al aire libre y en tiempo seco. SPo 5: Renovar el aire de la nave antes de volver a
+entrar.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.763
+Nombre comercial: BANKO CHAMPIÑON
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Carcinogénico cat. 2, Atención, Acuático crónico 1, Toxicidad aguda (oral, cutánea, por
+inhalación). Categoría 4., Lesión ocular grave. Categoría 1., Sensibilizantes cutáneos.
+Categoría 1 B., Tóxicos específicos en determinados órganos tras una exposición única.
+Categoría 3., Peligro, Acuático agudo 1
+Símbolos y pictogramas: --
+Frases de riesgo: H317, H318, H332, H335, H351, H410, EUH 401
+Consejos de prudencia: P201, P202, P261, P264, P273, P280, P391, P304+P340, P305+P351+P338, P501
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene
+hexahydro-1,3,5-trist(2-hydroxy-ethyl)triazine nº CAS:4719-04-4"  
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

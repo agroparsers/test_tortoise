@@ -1,0 +1,85 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.602
+Nombre comercial: ELEVATOR
+Titular:
+TRADE CORPORATION INTERNATIONAL, S.A.
+Alcalá, 498 - 2ª Planta
+MADRID
+28027
+Fabricante:
+TRADE CORPORATION INTERNATIONAL, S.A.
+Alcalá, 498 - 2ª Planta
+28027 MADRID
+Fecha de inscripción: 17/03/2015
+Fecha de caducidad: 31/07/2017
+Tipo de envase:
+Botellas de polietileno de 0,1 (boca 26 mm) y 1 l. (boca 54,4-63 mm).
+Garrafas de polietileno de 5 (boca 54,4-63 mm), 10 y 20 l.(boca 63 mm).
+Composición: PENDIMETALINA 33% [EC] P/V (ESP.)
+Tipo de preparado: CONCENTRADO EMULSIONABLE [EC]
+Tipo de función: Herbicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Ajos MALAS HIERBAS ANUALES 3-5 l/ha NP
+(2) Cebolla MALAS HIERBAS ANUALES 3-5 l/ha NP
+(3) Maíz MALAS HIERBAS ANUALES 4-6 l/ha NP
+(4) Patata MALAS HIERBAS ANUALES 4-6 l/ha NP
+(5) Tomate MALAS HIERBAS ANUALES 4-6 l/ha NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Controla malas hierbas en preemergencia o postemergencia precoz.
+Aplicar al suelo en pulverización a baja presión, mediante tractor o manualmente, en aplicación
+única, con el suelo bien preparado y limpio de malas hierbas, pudiendo ser incorporado a través del
+riego o labor.
+En la etiqueta se darán las indicaciones para el correcto uso del producto. Asimismo se indicarán
+las especies vegetales diana no sensibles a esta formulación (con especial mención de Cyperus
+rotundus, datura stramonium, Erigeron bonariensis y Senecio vulgaris)
+Se informará sobre la probabilidad de aparición de resistencias, proponiendo estrategiass de
+prevención y manejo de las mismas.
+Registro de Productos FitoSanitarios
+Nº Registro: 25.602
+Nombre comercial: ELEVATOR
+Específicos: (1) Aplicar en preemergencia o postemergencia precoz hasta el estado de 3 hojas.
+(2) Aplicar en preemergencia o postemergencia precoz hasta el estado de 3 hojas, si el cultivo es de
+siembra directa o en pretrasplante.
+(3) Aplicar en pre o postemergencia precoz del cultivo.
+(4) Aplicar en preemergencia del cultivo.
+(5) Aplicar en presiembra o pretrasplante.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 20 m. (10 m con
+cubierta vegatal en tomate, maíz y ajo) hasta las masas de agua superficial. 
+SPe 3: Para proteger las plantas no objetivo, respétese sin tratar una banda de seguridad de 5 m. hasta la zona no
+cultivada.
+Mitigación de riesgos en la manipulación:
+El aplicador deberá utilizar guantes de protección química durante la mezcla/carga, aplicación, limpieza, manejo del
+equipo y reentrada de los trabajadores a las parcelas tratadas, además durante la aplicación (si el tractor carece de
+cabina cerrada) se utilizará ropa de protección química de tipo 3 o 4 así como en la limpieza del equipo y calzado
+adecuado, capucha y pantalla facial. 
+No entrar al cultivo hasta que el producto esté seco. 
+SPo 2: Lávese toda la ropa de protección después de usarla.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Atención, Acuático crónico 1, Líquidos inflamables. Categoría 3., Irritación ocular.
+Categoría 2., Tóxicos específicos en determinados órganos tras una exposición única.
+Categoría 3., Peligro por aspiración. Categoría 1., Peligro, Acuático agudo 1
+Símbolos y pictogramas: --
+Frases de riesgo: H226, H304, H319, H335, H336, H410, EUH 066, EUH 401
+Consejos de prudencia: P210, P233, P261, P273, P280, P331, P391, P303+P361+P353, P305+P351+P338,
+P370+P378, P501
+Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene nafta disolvente del petróleo, (nº CAS:
+64742-94-5  y nº CAS: 64742-95-6)" y que contiene pendimetalina. Puede provocar
+una reacción alérgica.  
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

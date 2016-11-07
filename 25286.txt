@@ -1,0 +1,76 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.286
+Nombre comercial: CHARDEX
+Titular:
+DOW AGROSCIENCES IBERICA, S.A.
+C/ Ribera del Loira 4-6, Edificio Iris, 4ª Planta
+28042
+MADRID
+Fabricante:
+DOW AGROSCIENCES S.A.S.(MOUGINS)
+Marco Polo-Bâtiment B, ZAC Du Font de l`Orme 1 - BP 1220
+06254 790 Avenue du Docteur Donat
+MOUGINS CEDEX
+FRANCIA
+Fecha de inscripción: 31/08/2011
+Fecha de caducidad: 30/04/2017
+Tipo de envase:
+Botellas PET de capacidad inferior a 5 l, con cualquier diámetro de boca y de capacidad entre 5 y 20 l con diámetro de
+boca >= 45 mm.
+Composición: MCPA 35% (SAL AMINA) + CLOPIRALIDA 3,5% (SAL AMINA) [SL] P/V
+Tipo de preparado: CONCENTRADO SOLUBLE [SL]
+Tipo de función: Herbicida
+Ámbitos de utilización: Cultivos
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Cebada DICOTILEDONEAS ANUALES 1,5-2 l/ha NP
+(2) Trigo DICOTILEDONEAS ANUALES 1,5-2 l/ha NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Controla malas hierbas de hoja ancha.
+Aplicar en pulverización en tratamientos mecanizados, en una única aplicación por campaña desde
+el inicio del ahijado hasta el encañado (2º nudo visible) con las malas hierbas entre 6 y 12 hojas,
+con un volumen de caldo de 200 l/Ha.
+Se observarán las normas oficiales para aplicación de herbicidas hormonales (O.M. de 8-10-73, BOE
+del 17-10-73).
+En la etiqueta se darán las indicaciones oportunas para la correcta utilización del producto y se
+advertirá del riesgo de su uso en variedades sensibles del propio cultivo o de los siguientes en la
+alternativa, así como sobre los colindantes, particularmentelos de girasol, leguminosas y otras
+especies sensibles; igualmente sobre su efecto residual en los rastrojos y en el estiércol procedente
+de pajas de cultivos para los sucesivos cultivos sensibles.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los artrópodos no objeto del tratamiento, respétese sin tratar una banda de seguridad de 10 m.
+hasta la zona no cultivada. 
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 20 m.hasta las masas
+de agua superficial.
+Mitigación de riesgos en la manipulación:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.286
+Nombre comercial: CHARDEX
+El aplicador debe utilizar guantes de protección química adecuados durante la mezcla/carga del producto, aplicación y
+limpieza del equipo, así como ropa de protección adecuada para el tronco y las piernas. Se debe utilizar pantalla facial
+que proteja frente a salpicaduras durante la mezcla/carga del producto.
+No realizar actividades que impliquen el contacto con el área o el cultivo tratado hasta que el producto  depositado
+este seco y al menos 24 horas después de la aplicación.
+SPo 2: Lávese toda la ropa de protección después de usarla.
+SPo 4: El recipiente debe abrirse al aire libre y en tiempo seco.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales.
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Lesión ocular grave. Categoría 1., Peligro, Toxicidad aguda (inhalación). Categoría 4.
+Símbolos y pictogramas: --
+Frases de riesgo: H318, H332
+Consejos de prudencia: P261, P271, P280, P304+P340, P305+P351+P338
+Otras indicaciones reglamentarias: SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

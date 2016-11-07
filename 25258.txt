@@ -1,0 +1,87 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 25.258
+Nombre comercial: BIOSCROP BT 16
+Titular:
+PROBELTE S.A.U.
+C/ Antonio Belmonte Abellán 3-5
+Espinardo
+30100
+MURCIA
+Fabricante:
+EUROCHEM, S.A.
+Ctra. de Madrid - Km. 384
+30100 Espinardo
+MURCIA
+Fecha de inscripción: 29/04/2009
+Fecha de caducidad: 29/04/2019
+Tipo de envase:
+Botes de plástico de 0,5 y 1 kg.
+Sacos de plástico de 5, 10 y 20 kg.
+Composición: BACILLUS THURINGIENSIS KURSTAKI 16% (16 MILL. DE U.I./G) [WP] P/P
+Tipo de preparado: POLVO MOJABLE [WP]
+Tipo de función: Insecticida
+Ámbitos de utilización: Cultivos, Forestales, Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Algodonero HELIOTIS 0,5-1,5 Kg/ha NP
+(2) Algodonero PLUSIA 0,5-1,5 Kg/ha NP
+(3) Cítricos CACOECIA 0,5-1,5 Kg/ha NP
+(4) Cítricos PRAYS 0,5-1,5 Kg/ha NP
+(5) Coliflor ORUGAS 0,5-1,5 Kg/ha NP
+(6) Coníferas PROCESIONARIA 0,5-1,5 Kg/ha NP
+(7) Encinas LAGARTA 0,5-1,5 Kg/ha NP
+(8) Encinas TORTRIX 0,5-1,5 Kg/ha NP
+(9) Frutales de hoja caduca ARAÑUELO 0,5-1,5 Kg/ha NP
+(10) Frutales de hoja caduca CARPOCAPSA 0,5-1,5 Kg/ha NP
+(11) Frutales de hoja caduca LAGARTA 0,5-1,5 Kg/ha NP
+(12) Frutales de hoja caduca ORUGAS DEFOLIADORAS 0,5-1,5 Kg/ha NP
+(13) Frutales de hoja caduca ORUGUETA 0,5-1,5 Kg/ha NP
+(14) Hortalizas del género brassica ORUGAS 0,5-1,5 Kg/ha NP
+(15) Olivo PRAYS (GEN. ANTOFAGA) 0,5-1,5 Kg/ha NP
+(16) Pimiento HELIOTIS 0,5-1,5 Kg/ha NP
+(17) Pimiento PLUSIA 0,5-1,5 Kg/ha NP
+Registro de Productos FitoSanitarios
+Nº Registro: 25.258
+Nombre comercial: BIOSCROP BT 16
+(18) Platanera ORUGAS 0,5-1,5 Kg/ha NP
+(19) Robles LAGARTA 0,5-1,5 Kg/ha NP
+(20) Robles TORTRIX 0,5-1,5 Kg/ha NP
+(21) Tomate HELIOTIS 0,5-1,5 Kg/ha NP
+(22) Tomate PLUSIA 0,5-1,5 Kg/ha NP
+(23) Vid POLILLAS DEL RACIMO 0,5-1,5 Kg/ha NP
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar en pulverización, diluido en la conveniente cantidad de agua, según técnica de aplicación,
+dependiendo de la intensidad de la plaga y estado de desarrollo de la misma.
+No mezclar con otros productos no recomendados, ya que podría alterarse la viabilidad de las
+esporas.
+Específicos: (1), (2), (16), (17), (21), (22) En aplicación conjunta con otros insecticidas autorizados,
+expresamente para este fin y bajo asesoramiento técnico del titular.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Mamíferos: A
+Aves: A
+Peces: A
+Abejas: Compatible con abejas
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Este envase está clasificado según la Ley 11/1997 por lo que el usuario final es responsable de entregarlos en alguno
+de los puntos de recogida indicados por el distribuidor que haya suministrado el producto.
+Indicar en la etiqueta la obligación de entregar los envases vacíos a un gestor autorizado de residuos clasificados y
+peligrosos así como las opciones alternativas que el titular está obligado a ofrecer, conforme a lo establecido en el
+R.D. 1416/2001, de entregarlos directamente al sistema integrado de gestión al que esté adherido o al propio, de
+depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Nocivo
+Símbolos y pictogramas: Xn
+Frases de riesgo: R42/43
+Consejos de prudencia: S2, S13, S45, S22, S36/37, S25, S38
+Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.  
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

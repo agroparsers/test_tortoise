@@ -1,0 +1,91 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 23.433
+Nombre comercial: BORNEO
+Titular:
+KENOGARD, S.A.
+c/ Diputación, 279 - 5º
+08007
+BARCELONA
+Fabricante:
+SUMITOMO CHEMICAL AGRO EUROPE S.A.S.
+Parc d'affaires de Crécy - 10A rue de la Voie Lactée
+69370 Saint Didier au Mont D'or
+FRANCIA
+Fecha de inscripción: 26/07/2005
+Fecha de caducidad: 31/07/2017
+Tipo de envase:
+Botellas de plástico de 0,5 y 1 l.
+Envases de 3 y 5 ml y 0,2 l,  de cualquier anchura de boca.
+Composición: ETOXAZOL 11% [SC] P/V
+Tipo de preparado: SUSPENSION CONCENTRADA [SC]
+Tipo de función: Acaricida
+Ámbitos de utilización: Cultivos, Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Algodonero ACAROS TETRANÍQUIDOS 0,25-0,375 l/ha NP
+(2) Cítricos ACAROS TETRANÍQUIDOS 0,0125-0,05 % 14
+(3) Manzano ACAROS TETRANÍQUIDOS 0,025-0,05 % 28
+(4) Melocotonero ACAROS TETRANÍQUIDOS 0,025-0,05 % 14
+(5) Cerezo ACAROS TETRANÍQUIDOS 0,025-0,05 % 3
+(6) Ciruelo ACAROS TETRANÍQUIDOS 0,5 l/ha 3
+(7) Fresales ACAROS TETRANÍQUIDOS 0,025-0,05 % 3
+(8) Melón ACAROS TETRANÍQUIDOS 0,025-0,05 % 3
+(9) Ornamentales herbáceas ACAROS TETRANÍQUIDOS 0,025-0,05 % NP
+(10) Platanera ACAROS TETRANÍQUIDOS 0,015-0,02 % 3
+(11) Sandía ACAROS TETRANÍQUIDOS 0,025-0,05 % 3
+(12) Tomate ACAROS TETRANÍQUIDOS 0,025-0,05 % 3
+(13) Vid ACAROS TETRANÍQUIDOS 0,025 % 28
+P.S.: Plazo de seguridad (días)
+Usos protegidos hasta fecha: (5) , (6) , (7) , (8) , (9) , (10) , (11) , (12) , (13) 
+Condicionamientos fitoterapeúticos:
+Registro de Productos FitoSanitarios
+Nº Registro: 23.433
+Nombre comercial: BORNEO
+Generales : Aplicar en pulverización normal al inicio de la infestación, al aire libre mediante tractor y en
+invernadero con lanza o pistola sólo cuando el desarrollo vegetativo sea inferior a 1 m. de altura.
+Para cultivo alto, el producto no se podrá diluir en un volumen de agua inferior a 600 l/Ha.
+En la etiqueta se darán las indicaciones oportunas para la correcta aplicación del producto así como
+información sobre los posibles riesgos de fitotoxicidad en variedades sensibles, particularmente en
+ornamentales herbáceas de flor.
+Spa1: A efectos de prevenir la aparición de resistencias no aplicar con este producto ni con ningún
+otro que contenga etoxazol, más de 1 tratamiento por período vegetativo.
+Específicos: (1) Aplicar al inicio de la infestación y antes de la apertura de las cápsulas. 
+(2), (3), (4), (7), (8), (9), (11), (12) Aplicar con un máximo de 0,5 l/Ha. de producto formulado.
+(5), (10) Aplicar con un máximo de 0,5 l/Ha.
+(13) No aplicar en vides que vayan a utilizarse con fines de multiplicación, sin exceder un máximo
+de 0,25 l/Ha..
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 30 m. en cultivos
+leñosos y de 5 m. en algodonero y 15 m. en el resto de los cultivos hasta las masas de agua superficial. 
+SPe 3: Para proteger los artrópodos no objeto del tratamiento, respétese sin tratar una banda de seguridad de 3 m.
+hasta la zona no cultivada.
+Mitigación de riesgos en la manipulación:
+El aplicador deberá utilizar guantes de protección química adecuados durante la mezcla/carga, aplicación y limpieza
+del equipo, así como ropa de protección adecuada para el tronco y las piernas.
+No realizar actividades que impliquen el contacto con el área o el cultivo tratado hasta que el producto depositado esté
+seco y al menos 24 horas después de la aplicación. 
+SPo 2: Lávese toda la ropa de protección después de usarla. 
+SPo 5: Ventilar los invernaderos tratados hasta que se haya secado la pulverización antes de volver a entrar.
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
+Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
+fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
+en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
+en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
+sistema de depósito, devolución y retorno.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Peligroso para el medio ambiente
+Símbolos y pictogramas: N
+Frases de riesgo: R50/53
+Consejos de prudencia: S2, S13, S45, S24/25, S23
+Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.  
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).

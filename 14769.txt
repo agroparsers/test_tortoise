@@ -1,0 +1,80 @@
+Registro de Productos FitoSanitarios
+Nº Registro: 14.769
+Nombre comercial: VAPOR-GARD
+Titular:
+AGRICHEM, S.A.
+Plaza de Castilla, 3- 14 A
+28046
+MADRID
+Fabricante:
+MILLER CHEMICAL FERTILIZER CORP.
+P.O. Box 333 - Radio Road
+Hanover
+PENNSYLVANIA
+ESTADOS UNIDOS
+Fecha de inscripción: 19/12/1978
+Fecha de caducidad: 30/12/2022
+Tipo de envase:
+Botella de plástico de 1 l.
+Composición: DIMENTENO 96% [EC] P/V
+Tipo de preparado: CONCENTRADO EMULSIONABLE [EC]
+Tipo de función: Antievaporante
+Ámbitos de utilización: Cultivos, Plantaciones Agrícolas
+Usos autorizados:
+Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
+(1) Céspedes EVITAR CHOQUE TRANSPLANTE 2-2,5 % 21
+(2) Céspedes PREVENIR DESECACION PLANTAS 2-2,5 % 21
+(3) Cítricos EVITAR CHOQUE TRANSPLANTE Máx. 1 % 21
+(4) Cítricos PREVENIR DESECACION PLANTAS Máx. 1 % 21
+(5) Coníferas EVITAR CHOQUE TRANSPLANTE Máx. 5 % 21
+(6) Coníferas PREVENIR DESECACION PLANTAS Máx. 5 % 21
+(7) Frondosas EVITAR CHOQUE TRANSPLANTE 2-2,5 % 21
+(8) Frondosas PREVENIR DESECACION PLANTAS 2-2,5 % 21
+(9) Hortícolas EVITAR CHOQUE TRANSPLANTE 2-2,5 % 21
+(10) Hortícolas PREVENIR DESECACION PLANTAS 2-2,5 % 21
+(11) Ornamentales leñosas EVITAR CHOQUE TRANSPLANTE 2-2,5 % NP
+(12) Tabaco EVITAR CHOQUE TRANSPLANTE 2-2,5 % 21
+(13) Tabaco PREVENIR DESECACION PLANTAS 2-2,5 % 21
+(14) Viveros de frutales EVITAR CHOQUE TRANSPLANTE (ver nota) 21
+(15) Viveros de frutales PREVENIR DESECACION PLANTAS (ver nota) 21
+(16) Viveros de leñosas EVITAR CHOQUE TRANSPLANTE 2-2,5 % 21
+(17) Viveros de leñosas PREVENIR DESECACION PLANTAS 2-2,5 % 21
+P.S.: Plazo de seguridad (días)
+Registro de Productos FitoSanitarios
+Nº Registro: 14.769
+Nombre comercial: VAPOR-GARD
+Condicionamientos fitoterapeúticos:
+Generales : Adicionar a los caldos plaguicidas.
+Aplicar en pulverización de caldos a la dosis marcada.
+Tratamientos como antitranspirante.
+Específicos: (3), (4) Aplicar en precosecha.
+(11) Aplicar en pretrasplante.
+(14), (15) Dosis del 5% para leñosas de hoja perenne y de 2-2,5% para las caducifolias.
+(16), (17) Leñosas caducifolias.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+Mamíferos: A
+Aves: A
+Peces: B Mediana peligrosidad para peces
+Restricciones por clases de usuarios:
+Uso reservado a agricultores y aplicadores profesionales
+Envases:
+Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
+Es obligatorio enjuagar enérgicamente tres veces, o mediante dispositivo de presión, cada envase de producto que se
+vacíe al preparar la dilución y verter las aguas al depósito del pulverizador.
+ Indicar en la etiqueta la obligación de entregar los envases vacíos a un gestor autorizado de residuos clasificados y
+peligrosos así como las opciones alternativas que el titular está obligado a ofrecer, conforme a lo establecido en el
+R.D. 1416/01, de entregarlos directamente al sistema integrado de gestión al que esté adherido o al propio, de
+depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
+Clasificación y etiquetado (R.D. 255/2003):
+Clasificación : Irritante, Peligroso para el medio ambiente
+Símbolos y pictogramas: --
+Frases de riesgo: R38, R43, R50/53
+Consejos de prudencia: S2, S13, S45, S37, S24, S23
+Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten del
+texto. 
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
+(No limpiar el equipo de aplicación del producto cerca de aguas
+superficiales/Evitese la contaminación a través de los sistemas de evacuación de
+aguas de las explotaciones o de los caminos).
