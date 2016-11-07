@@ -12,7 +12,7 @@ Via Patroclo, 21 - Cap 20151
 MILAN
 ITALIA
 Fecha de inscripción: 31/07/2002
-Fecha de caducidad: 30/11/2016
+Fecha de caducidad: 31/05/2018
 Tipo de envase:
 Botellas de plástico PET de 100, 250, 500 y 1000 ml.
 Composición: MICLOBUTANIL 24% [EC] P/V
@@ -53,7 +53,7 @@ Nombre comercial: SYSTHANE FORTE
 (27) Vid OIDIO 0,02-0,04 % 15
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
-Generales : Aplicar en pulverización normal.
+Generales :
 Específicos: (1), (7), (11), (16), (17) Efectuar como máximo 5 aplicaciones por campaña.
 (10) Aplicar en el periodo comprendido entre después de la última cosecha y antes del corte del
 follaje, con un máximo de 5 aplicaciones por campaña
@@ -78,7 +78,7 @@ R.D. 1416/2001, de entregarlos directamente al sistema integrado de gestión al 
 depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Nocivo, Peligroso para el medio ambiente, Tóxico para la reproducción cat. 3
-Símbolos y pictogramas: --
+Símbolos y pictogramas: 0
 Frases de riesgo: R20, R36/38, R10, R63, R51/53, R65
 Consejos de prudencia: S2, S13, S45, S36/37, S25, S38, S43, S62, S23
 Registro de Productos FitoSanitarios

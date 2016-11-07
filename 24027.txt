@@ -13,7 +13,8 @@ HOLANDA
 Fecha de inscripción: 19/01/2006
 Fecha de caducidad: 31/07/2017
 Tipo de envase:
-Sacos de papel de 5, 10 y 20 Kg.
+Envases de 1 kg.
+Sacos de papel de 5, 10 y 20 kg.
 Composición: CIMOXANILO 5% + MANCOZEB 68% [WG] P/P
 Tipo de preparado: GRANULADO DISPERSABLE EN AGUA [WG]
 Tipo de función: Fungicida
@@ -39,10 +40,10 @@ Aves: A
 Peces: B Mediana peligrosidad para peces
 Abejas: Compatible con abejas
 Restricciones por clases de usuarios:
-Uso reservado a agricultores y aplicadores profesionales
 Registro de Productos FitoSanitarios
 Nº Registro: 24.027
 Nombre comercial: NAUTILE
+Uso reservado a agricultores y aplicadores profesionales
 Envases:
 Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
 Este envase está clasificado según la Ley 11/1997 por lo que el usuario final es responsable de entregarlos en alguno

@@ -12,7 +12,7 @@ C/ Ribera del Loira 4-6, Edificio Iris, 4ª Planta
 28042
 MADRID
 Fecha de inscripción: 26/05/1999
-Fecha de caducidad: 31/12/2016
+Fecha de caducidad: 31/01/2018
 Tipo de envase:
 Botella de polietileno teraftalato de 1 l. y garrafa del mismo material de 5 l.
 Botellas "coex" de 100 ml.
@@ -99,7 +99,7 @@ R.D. 1416/2001, de entregarlos directamente al sistema integrado de gestión al 
 depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Nocivo, Peligroso para el medio ambiente
-Símbolos y pictogramas: N,Xn
+Símbolos y pictogramas: 0
 Frases de riesgo: R20/22, R36/37/38, R10, R50/53, R65
 Consejos de prudencia: S2, S13, S45, S28, S36/37, S43, S62, S23
 Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene nafta disolvente del petróleo, Nº CAS:

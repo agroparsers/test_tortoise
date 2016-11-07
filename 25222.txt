@@ -45,7 +45,13 @@ Nº Registro: 25.222
 Nombre comercial: ROVRAL WG
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
-Generales :
+Generales : Aplicar en pulverización normal. Al aire libre mediante tractor o aplicación manual, con un volumen
+de caldo máximo de 500 l/Ha. en cultivos altos y 200 l/Ha. en cultivos bajos. y en invernadero
+mediante lanza o pistola con un volumen de caldo de 500 l/Ha.
+En la etiqueta se darán las indicaciones oportunas para el correcto uso del producto, así como las
+advertencias necesarias para que el agricultor pueda cerciorarse de los riesgos de su utilización por
+fitotoxicidad en variedades sensibles del propio cultivo, en los cultivos adyacentes o en los
+siguientes en la alternativa.
 Específicos: (1), (3), (4), (7), (13), (18) Efectuar un máximo de 4 aplicaciones por campaña a intervalos de 7 días.
 (2), (16) Aire libre e invernadero. Efectuar un máximo de 4 aplicaciones por campaña, con un
 intervalo de 7 días.
@@ -87,12 +93,12 @@ R.D. 1416/2001, de entregarlos directamente al sistema integrado de gestión al 
 depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Nocivo, Carcinogénico cat. 3, Peligroso para el medio ambiente
-Símbolos y pictogramas: 0
-Frases de riesgo: R36, R40, R50/53
-Consejos de prudencia: S2, S13, S45, S36/37, S25, S23
 Registro de Productos FitoSanitarios
 Nº Registro: 25.222
 Nombre comercial: ROVRAL WG
+Símbolos y pictogramas: 0
+Frases de riesgo: R36, R40, R50/53
+Consejos de prudencia: S2, S13, S45, S36/37, S25, S23
 Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
 AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
 texto.  

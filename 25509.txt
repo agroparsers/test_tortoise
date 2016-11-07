@@ -30,7 +30,9 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 (5) Trigo PULGONES 0,3 l/ha 30
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
-Generales :
+Generales : Aplicar en pulverización normal mediante tractor, con un volumen de 300-400 l/Ha. de caldo, en una
+sola aplicación a la aparición de los primeros daños visibles.
+No aplicar en cultivos que sufran sequía u otro tipo de estrés.
 Condicionamientos preventivos de riesgos:
 Mitigación de riesgos medioambientales:
 SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m. hasta las masas

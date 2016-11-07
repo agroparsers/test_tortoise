@@ -57,7 +57,17 @@ Nombre comercial: PLENUM
 (29) Tomate PULGONES 0,04 % 3
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
-Generales :
+Generales : Aplicar en pulverización normal, tratando a favor del viento con un máximo de 0,5 Kg/Ha.
+Compatibilidad: En caso de mezcla con otros productos, se recomienda respetar el plazo de
+seguridad más largo. Además, se deberán tener en cuenta las frases de riesgo y los consejos de
+prudencia para los productos más tóxicos.
+Fitotoxicidad: En caso de mezcla con otros productos, se recomienda efectuar un ensayo en una
+superficie reducida para observar la compatibilidad física y la reacción del cultivo en los días
+siguientes al ensayo.
+En la etiqueta se darán instrucciones para la correcta utilización del producto, así como las
+advertencias necesarias para que el agricultor pueda cerciorarse de los riesgos de utilización del
+producto por fitotoxicidad en variedades sensibles del propio cultivo, en los cultivos adyacentes o en
+los siguientes en la alternativa.
 Específicos: (1), (3), (5), (13), (17), (20), (25) Aplicar al inicio de la infestación, efectuando un solo tratamiento por
 campaña.
 (2), (4), (6), (9), (10), (11), (12), (14), (15), (16), (18), (19), (21), (22), (24), (26), (27), (29) Aplicar al

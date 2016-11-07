@@ -21,7 +21,7 @@ PRODUCCIÓN AGRARIA
 Nombre comercial: KAIMO 
 Número de autorización: 25606 
 Fecha de inscripción: 16/12/2015 
-Fecha de caducidad: 30/06/2017 
+Fecha de caducidad: 29/06/2019 
  
 Titular  
 Fabricante 
@@ -51,6 +51,12 @@ Presentación/Capacidad/Material
 Botellas PET de 0,5 l (boca 42,5 mm), 1 l (boca 41,6 mm) y 5 l (boca 63 mm), y envases HDPE de 500 
 g. 
   
+ 
+     Página 1 de 8       Nº REGISTRO:   25606  
+KAIMO
+Nº REGISTRO: 
+KAIMO 
+ 
 Usos y dosis autorizados:  
   
     
@@ -58,22 +64,12 @@ Usos y dosis autorizados:
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 Kg/ha  
-Una única aplicación en pulverización normal con un volumen de caldo de 
 0,125 - 
-Centeno PULGONES 150-400 l/ha, desde el comienzo del encañado hasta el comienzo de la 
+PULGONES 
 0,3 
+Una única aplicación en pulverización normal con un volumen de caldo de 
+Centeno 150-400 l/ha, desde el comienzo del encañado hasta el comienzo de la 
 floración 
- 
-     Página 1 de 7       Nº REGISTRO:   25606  
-KAIMO
-Nº REGISTRO: 
-KAIMO 
- 
-    
-  Dosis FORMA Y ÉPOCA DE APLICACIÓN 
-USO AGENTE Min- (Condic.Específico) 
-máx. 
-Kg/ha  
 CHINCHES 0,3 
 PULGONES 
 Una única aplicación en pulverización normal con un volumen de caldo de 
@@ -82,12 +78,7 @@ Colza ORUGAS 150-300 l/ha, desde el estado de dos hojas desplegadas hasta  la ap
 0,15 
 los botones florales en el tallo principal 
 COLEOPTEROS 
-PULGONES 0,1 - 0,3 
-Una única aplicación en pulverización normal con un volumen de caldo de 
-Maíz 150-300 l/ha, desde que es visible el extremo del penacho floral hasta que 
-todos los granos alcanzan su tamaño definitivo 
-ORUGAS 0,3 
- Página 2 de 7                                92316
+ Página 2 de 8                                102016
 Nº REGISTRO: 
 KAIMO 
  
@@ -96,22 +87,39 @@ KAIMO
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 Kg/ha  
+ORUGAS 0,3 
+Una única aplicación en pulverización normal con un volumen de caldo de 
+Maíz 150-300 l/ha, desde que es visible el extremo del penacho floral hasta que 
+todos los granos alcanzan su tamaño definitivo 
 PULGONES 0,1 - 0,3 
+ORUGAS 0,3 
 Máximo de 2 aplicaciones separadas al menos 14 días, en pulverización 
 normal con un volumen de caldo de 300 -1000 l/ha, desde la aparición de 
-Patata ORUGAS 0,3 
+Patata 
 los primeros botones florales hasta que el 50% de las bayas han  alcanzado 
 su tamaño definitivo 
-ESCARABAJO 0,1 - 0,3 
+PULGONES 0,1 - 0,3 
+ Página 3 de 8                                102016
+Nº REGISTRO: 
+KAIMO 
+ 
+    
+  Dosis FORMA Y ÉPOCA DE APLICACIÓN 
+USO AGENTE Min- (Condic.Específico) 
+máx. 
+Kg/ha  
+ESCARABAJO 
 PULGONES 
 Una única aplicación en pulverización normal con un volumen de caldo de 
 Remolacha PULGUILLA 0,1 - 0,3 
 150-300 l/ha, en otoño o primavera 
 ORUGAS 
+ORUGAS 0,3 
 Una única aplicación en pulverización normal con un volumen de caldo de 
-Sorgo PULGONES 0,1 - 0,3 150-300 l/ha, desde que es visible el extremo del penacho floral hasta que 
+Sorgo 150-300 l/ha, desde que es visible el extremo del penacho floral hasta que 
 todos los granos alcanzan su tamaño definitivo 
- Página 3 de 7                                92316
+PULGONES 0,1 - 0,3 
+ Página 4 de 8                                102016
 Nº REGISTRO: 
 KAIMO 
  
@@ -120,7 +128,6 @@ KAIMO
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 Kg/ha  
-ORUGAS 0,3 
 0,125 - 
 PULGONES 
 0,3 
@@ -149,13 +156,13 @@ Maíz, Sorgo 60
  
 Condiciones generales de uso:   
 Deberá utilizarse el volumen de caldo adecuado para mojar bien toda la superficie del cultivo 
- Página 4 de 7                                92316
-Nº REGISTRO: 
-KAIMO 
- 
  
 Excepciones: -- 
   
+ Página 5 de 8                                102016
+Nº REGISTRO: 
+KAIMO 
+ 
 Clase de usuario:   
 Uso reservado a agricultores y aplicadores profesionales 
   
@@ -179,7 +186,8 @@ SPo 2: Lávese toda la ropa de protección después de usarla
   
 Clasificaciones y Etiquetado: 
  
-Clase y categoría Irritación cutánea. Categoría 2. 
+Irritación cutánea. Categoría 2. 
+Clase y categoría 
 Irritación ocular. Categoría 2. 
 de peligro 
 Toxicidad aguda (oral, cutánea, por inhalación). Categoría 4. 
@@ -188,15 +196,14 @@ Pictograma
 GSH07 (signo de exclamación)  
 Palabra -- 
 Advertencia 
-EUH 401 - A fin de evitar riesgos para las personas y el medio 
-Indicaciones de 
+Indicaciones de EUH 401 - A fin de evitar riesgos para las personas y el medio 
 ambiente, siga las instrucciones de uso. 
 peligro 
 H302+H332 - Nocivo en caso de ingestión o inhalación. 
  
 H315 - Provoca irritación cutánea. 
 H319 - Provoca irritación ocular grave.  
- Página 5 de 7                                92316
+ Página 6 de 8                                102016
 Nº REGISTRO: 
 KAIMO 
  
@@ -256,7 +263,7 @@ de los cultivos. No utilizar donde haya abejas en pecoreo activo
   
  Eliminación Producto y/o caldo: -- 
  
- Página 6 de 7                                92316
+ Página 7 de 8                                102016
 Nº REGISTRO: 
 KAIMO 
  
@@ -280,4 +287,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 7 de 7                                92316
+ Página 8 de 8                                102016

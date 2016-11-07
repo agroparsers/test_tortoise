@@ -120,17 +120,18 @@ Clase y categoría
 de peligro 
 (Humana) 
 Pictograma  
--- 
-Palabra 
-Advertencia 
-Indicaciones de EUH 210 - Puede solicitarse la ficha de datos de seguridad. 
-EUH 401 - A fin de evitar riesgos para las personas y el medio 
-peligro 
-ambiente, siga las instrucciones de uso.  
- Página 2 de 4                                92316
+ Página 2 de 4                                102016
 Nº REGISTRO: 
 DEFT PREMIUM 
  
+-- 
+Palabra 
+Advertencia 
+EUH 210 - Puede solicitarse la ficha de datos de seguridad. 
+Indicaciones de 
+EUH 401 - A fin de evitar riesgos para las personas y el medio 
+peligro 
+ambiente, siga las instrucciones de uso.  
 P261 - Evitar respirar el polvo/el humo/el gas/la niebla/los vapores/ el 
 Consejos de 
 aerosol. (El fabricante o el proveedor especificarán las condiciones 
@@ -180,6 +181,10 @@ donde se hubiera adquirido si dichos envases se han puesto en el mercado a trav�
 sistema de depósito, devolución y retorno 
   
 Otras indicaciones reglamentarias:   
+ Página 3 de 4                                102016
+Nº REGISTRO: 
+DEFT PREMIUM 
+ 
 SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE. (No limpiar 
 el equipo de aplicación del producto cerca de aguas superficiales/Evitese la contaminación a 
 través de los sistemas de evacuación de aguas de las explotaciones o de los caminos) 
@@ -187,10 +192,6 @@ través de los sistemas de evacuación de aguas de las explotaciones o de los ca
 Condiciones de almacenamiento: -- 
   
 Requerimiento de datos/estudios complementarios: -- 
- Página 3 de 4                                92316
-Nº REGISTRO: 
-DEFT PREMIUM 
- 
   
  
- Página 4 de 4                                92316
+ Página 4 de 4                                102016

@@ -25,27 +25,39 @@ Usos autorizados:
 Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 (1) Berenjena ALTERNARIA 2,4 l/ha 3
 (2) Berenjena MILDIU 2,4 l/ha 3
-(3) Patata ALTERNARIA 2 l/ha 28
-(4) Patata MILDIU 2 l/ha 28
-(5) Tomate ALTERNARIA 2,4 l/ha 3
-(6) Tomate MILDIU 2,4 l/ha 3
+(3) Cucurbitáceas de piel comestible MILDIU 2,4 l/ha 7
+(4) Cucurbitáceas de piel no comestible MILDIU 2 l/ha 14
+(5) Patata ALTERNARIA 2 l/ha 28
+(6) Patata MILDIU 2 l/ha 28
+(7) Tomate ALTERNARIA 2,4 l/ha 3
+(8) Tomate MILDIU 2,4 l/ha 3
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
 Generales : Aplicar en pulverización normal, iniciando los tratamientos preventivamente o al inicio de la
 enfermedad, repitiendo si se mantienen las condiciones favorables para su desarrollo cada 10-20
 días en función de las condiciones meteorológicas y estado fenológico del cultivo.
 En la etiqueta se darán las instrucciones oportunas para la correcta realización de los tratamientos.
-Específicos: (1), (2), (5), (6) Volumen de caldo: 400-1000 l/ha. Máximo dos aplicaciones por campaña con un
-intervalo de 7 días entre aplicaciones mediante pulverización normal con tractor (dirigido al suelo) y
-siempre entre el estado BBCH 21 (Formación del primer brote lateral) y el BBCH 70(Comienzo
-formación del fruto).
-(3), (4) Volumen de caldo: 110-800 l/ha. Máximo dos aplicaciones por campaña con un intervalo de
-7 días entre aplicaciones y mediante pulverización normal con tractor con reducción de deriva
-(dirigido al suelo), y solo una de las aplicaciones a BBCH<40 (antes del comienzo de la formación
-de los tubérculos).
 Registro de Productos FitoSanitarios
 Nº Registro: 23.695
 Nombre comercial: CRUCERO
+Específicos: (1), (2), (7), (8) Volumen de caldo: 400-1000 l/ha. Máximo dos aplicaciones por campaña con un
+intervalo de 7 días entre aplicaciones mediante pulverización normal con tractor (dirigido al suelo) y
+siempre entre el estado BBCH 21 (Formación del primer brote lateral) y el BBCH 70(Comienzo
+formación del fruto).
+(3) Volumen de caldo: 400-1000 l/ha. Aire libre: Max de 2 aplicaciones por campaña con un intervalo
+de al menos 7 días mediante pulverización normal con tractor y dentro del periodo BBCH 21-70 (de
+primer brote lateral primario visible a la aparición del primer fruto con tamaño y forma típica). En
+invernadero: Max de 2 aplicaciones por campaña con un intervalo de al menos 12 días mediante
+pulverización con sistemas automáticos. 
+(4) Volumen de caldo: 400-800 l/ha. Aire libre: Max de 2 aplicaciones por campaña con un intervalo
+de al menos 7 días mediante pulverización normal con tractor y dentro del periodo BBCH 21-70 (de
+primer brote lateral primario visible a la aparición del primer fruto con tamaño y forma típica). En
+invernadero: Max de 2 aplicaciones por campaña con un intervalo de al menos 7 días mediante
+pulverización con sistemas automáticos. 
+(5), (6) Volumen de caldo: 110-800 l/ha. Máximo dos aplicaciones por campaña con un intervalo de
+7 días entre aplicaciones y mediante pulverización normal con tractor con reducción de deriva
+(dirigido al suelo), y solo una de las aplicaciones a BBCH<40 (antes del comienzo de la formación
+de los tubérculos). 
 Condicionamientos preventivos de riesgos:
 Mitigación de riesgos medioambientales:
 Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 15 m. hasta la masa de agua

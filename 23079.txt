@@ -14,7 +14,7 @@ Domnic Holm, 29th Road
 MUMBAI
 INDIA
 Fecha de inscripción: 03/03/2003
-Fecha de caducidad: 30/11/2016
+Fecha de caducidad: 30/05/2018
 Tipo de envase:
 Bolsas de polietileno de 0,25 Kg., bolsas de plástico de 1 y 5 Kg presentadas en estuches de cartón de 20 y 5
 unidades respectivamente y sacos de papel "kraft" de 10 Kg.  y "clupack" de 25 kg.
@@ -66,7 +66,7 @@ R.D. 1416/01, de entregarlos directamente al sistema integrado de gestión al qu
 devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Corrosivo
-Símbolos y pictogramas: C
+Símbolos y pictogramas: 0
 Frases de riesgo: R34
 Consejos de prudencia: S13, S45, S22, S1/2, S28, S36/37/39, S26
 Otras indicaciones reglamentarias: En la etiqueta se hará constar que

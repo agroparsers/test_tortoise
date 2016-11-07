@@ -30,7 +30,22 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 (2) Tabaco INHIBIR BROTES AXILARES 8-11 l/ha NP
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
-Generales :
+Generales : Aplicar en pulverización normal mediante aplicaciones manuales (sólo en cebolla) y con tractor, se
+recomienda en este caso el uso de boquillas de baja deriva, utilizando la cantidad de caldo
+suficiente para mojar las plantas sin exceso (normalmente entre 350 y 600 litros por ha.) 
+La eficacia del tratamiento depende de las condiciones vegetativas y ambientales: El cultivo debe
+tener hojas verdes, estar sano y no padecer estrés o desequilibrios fisiológicos.  
+Los tratamientos precoces pueden tener efectos desfavorables sobre el cultivo. Este no debe estar
+mojado de rocio o por lluvia o riego. 
+La aplicación debe efectuarse durante la mañana antes de que la humedad relativa descienda y la
+temperatura se eleve o a la caída de la tarde. No tratar con ambiente seco y caluroso.
+En la etiqueta se darán las instrucciones oportunas para la correcta utilización del producto, así
+como las advertencias necesarias para que el agricultor pueda cerciorarse de los riesgos de su
+utilización por fitotoxicidad en variedades sensibles del propio cultivo, en los cultivoa adyacentes o
+en los siguientes en la alternativa.
+Registro de Productos FitoSanitarios
+Nº Registro: 17.571
+Nombre comercial: ROYAL MH-30
 Específicos: (1) Aplicar un solo tratamiento en pulverización, diluido en 300-400 l. de agua, sólo en cebollas de
 bulbo, con el 50% de plantas con cuello emergido, aproximadamente unos 15 días antes de la
 recolección, preferentemente después de un riego. No aplicar con temperaturas superiores a 26 ºC.
@@ -41,9 +56,6 @@ Mitigación de riesgos medioambientales:
 SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m. hasta las masas
 de agua superficial.
 Mitigación de riesgos en la manipulación:
-Registro de Productos FitoSanitarios
-Nº Registro: 17.571
-Nombre comercial: ROYAL MH-30
 El aplicador deberá utilizar guantes de protección química adecuados durante la mezcla/carga, aplicación manual y
 limpieza del equipo, así como ropa de protección adecuada para el tronco y las piernas.
 No entrar al cultivo hasta que el producto esté seco. En tabaco se utilizará ropa que cubra antebrazos y piernas, así

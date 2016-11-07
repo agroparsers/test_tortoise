@@ -2,14 +2,14 @@ Registro de Productos FitoSanitarios
 Nº Registro: 25.201
 Nombre comercial: DUAXO FUNGICIDA POLIVALENTE
 Titular:
-COMPO AGRICULTURA S.L.
-Joan d'Austria, 39-47
+COMPO IBERIA, S.L.
+Joan d´Austria, 39-47
 08005
 BARCELONA
 Fabricante:
-COMPO GMBH & CO. KG
+COMPO GMBH
 GildenstraBe 38
-D-48157
+48157
 Münster
 ALEMANIA
 Fecha de inscripción: 25/07/2014
@@ -55,7 +55,7 @@ en el punto de venta donde se hubiera adquirido si dichos envases se han puesto 
 sistema de depósito, devolución y retorno.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : --
-Símbolos y pictogramas: --
+Símbolos y pictogramas: 0
 Frases de riesgo:
 Consejos de prudencia: S2, S13, S45, S24/25, S23
 Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene 1,2-benzisotiazol-3(2H)-ona nº CAS:

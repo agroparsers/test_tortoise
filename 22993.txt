@@ -23,7 +23,10 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 (1) Suelos ESCLEROTINIA 2-4 Kg/ha NP
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
-Generales :
+Generales : Aplicar en pulverización al suelo, antes de la siembra o plantación, utilizando 100-1000 l. de
+agua/ha. e incorporar mediante una labor superficial.
+En la etiqueta se darán las instrucciones necesarias para una correcta conservación y utilización del
+producto así como las dosis a utilizar en cada cultivo que se pretenda implantar.
 Condicionamientos preventivos de riesgos:
 Mitigación de riesgos en la manipulación:
 Utilizar guantes y gafas de protección durante la mezcla/carga y aplicación.
@@ -37,12 +40,12 @@ R.D. 1416/01, de entregarlos directamente al sistema integrado de gestión al qu
 depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Nocivo
-Símbolos y pictogramas: 0
-Frases de riesgo: R42
-Consejos de prudencia: S2, S13, S45, S22, S42, S36/37, S47, S63
 Registro de Productos FitoSanitarios
 Nº Registro: 22.993
 Nombre comercial: CONTANS WG
+Símbolos y pictogramas: 0
+Frases de riesgo: R42
+Consejos de prudencia: S2, S13, S45, S22, S42, S36/37, S47, S63
 Otras indicaciones reglamentarias: La frase: 'A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
 AMBIENTE SIGA LAS INSTRUCCIONES DE USO', en caracteres que resalten del
 texto. 

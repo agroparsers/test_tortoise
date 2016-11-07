@@ -157,7 +157,9 @@ Nombre comercial: DELTAPLAN
 (121) Vid SCAPHOIDEUS TITANUS 0,03 % 7
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
-Generales :
+Generales : Aplicar en pulverización normal mediante aplicaciones manuales y con tractor.
+Puede inducir la proliferación de ácaros por lo que se recomienda vigilar los cultivos en que sean
+frecuentes los ataques de ácaros.
 Registro de Productos FitoSanitarios
 Nº Registro: 13.688
 Nombre comercial: DELTAPLAN

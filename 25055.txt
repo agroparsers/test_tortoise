@@ -16,7 +16,8 @@ Fecha de inscripción: 04/09/2009
 Fecha de caducidad: 04/09/2019
 Tipo de envase:
 Botella de plástico (BDPE) de 1 l.
-Garrafa de plástico (BDPE) de3 5 l.
+Garrafa de plástico (BDPE) de 3 y 5 l.
+Envases de 10 l.
 Composición: AZUFRE 82,5% [SC] P/V
 Tipo de preparado: SUSPENSION CONCENTRADA [SC]
 Tipo de función: Acaricida, Fungicida
@@ -39,10 +40,10 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 (14) Vid ERINOSIS 0,175-0,52 % NP
 (15) Vid OIDIO 0,175-0,52 % NP
 P.S.: Plazo de seguridad (días)
-Condicionamientos fitoterapeúticos:
 Registro de Productos FitoSanitarios
 Nº Registro: 25.055
 Nombre comercial: THIOPRON 825
+Condicionamientos fitoterapeúticos:
 Generales : Aplicar en pulverización normal realizando una buena cobertura de las plantas, en tratamientos
 preventivos espaciados 7-10 días sin sobrepasar la dosis de 5,2 l/Ha.
 No mezclar con aceites ni con productos de reacción alcalina, ni efectuar tratamientos a

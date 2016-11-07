@@ -109,11 +109,11 @@ que en aplicación.
 Durante la aplicación con tractor con cabina cerrada y dispositivo de filtrado de aire, se podrá 
 prescindir del equipo de protección, siempre que se mantengan las ventanas cerradas. 
 Seguridad del trabajador: 
-Será necesario el uso de guantes de protección química en tareas de menos de 2 h de 
- Página 2 de 4                                92316
+ Página 2 de 4                                102016
 Nº REGISTRO: 
 MELODY COMBI WG 
  
+Será necesario el uso de guantes de protección química en tareas de menos de 2 h de 
 duración. Será necesaria una reentrada de 4 días en tareas de 2 h y de 28 días en tareas 
 superiores a 2 h. 
 No entrar al cultivo hasta que el producto esté seco. 
@@ -123,8 +123,7 @@ SPo 2: Lávese toda la ropa de protección después de usarla
   
 Clasificaciones y Etiquetado: 
  
-Carcinogenicidad. Categoría 2. 
-Clase y categoría 
+Clase y categoría Carcinogenicidad. Categoría 2. 
 Lesión ocular grave. Categoría 1. 
 de peligro 
 Sensibilizantes cutáneos. Categoría 1. 
@@ -134,11 +133,9 @@ Pictograma
 GSH05 (corrosión)  
 GSH07 (signo de exclamación)  
 GSH08 (peligro para la salud)  
--- 
-Palabra 
+Palabra -- 
 Advertencia 
-EUH 401 - A fin de evitar riesgos para las personas y el medio 
-Indicaciones de 
+Indicaciones de EUH 401 - A fin de evitar riesgos para las personas y el medio 
 ambiente, siga las instrucciones de uso. 
 peligro 
 H317 - Puede provocar una reacción alérgica en la piel. 
@@ -171,11 +168,11 @@ Toxicidad específica en determinados órganos (exposición única),
 de peligro 
 categoría 3 
 (Medio ambiental) 
-Pictograma  
- Página 3 de 4                                92316
+ Página 3 de 4                                102016
 Nº REGISTRO: 
 MELODY COMBI WG 
  
+Pictograma  
 -- 
 Palabra 
 Advertencia 
@@ -219,4 +216,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 4 de 4                                92316
+ Página 4 de 4                                102016

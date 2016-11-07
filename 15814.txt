@@ -13,7 +13,7 @@ GU2 7YH Guildford
 SURREY
 REINO UNIDO
 Fecha de inscripción: 12/03/1982
-Fecha de caducidad: 03/12/2016
+Fecha de caducidad: 30/06/2018
 Tipo de envase:
 Botella tipo PET de 250  ml. y de 1 l.
 Envase de 5 l.
@@ -38,7 +38,7 @@ Condicionamientos fitoterapeúticos:
 Registro de Productos FitoSanitarios
 Nº Registro: 15.814
 Nombre comercial: FUSILADE MAX
-Generales : Aplicar en pulverización al suelo en un único tratamiento al año.
+Generales : Aplicar en pulverización normal.
 Es necesario adicionar un mojante compatible y puede mezclarse con los herbicidas de espectro
 complementario recomendados en la etiqueta.
 La utilización de un mojante compatible autorizado, al 1% en el caldo, permite reducir la dosis del
@@ -69,7 +69,7 @@ R.D. 1416/01, de entregarlos directamente al sistema integrado de gestión al qu
 depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Nocivo, Peligroso para el medio ambiente, Tóxico para la reproducción cat. 3
-Símbolos y pictogramas: --
+Símbolos y pictogramas: 0
 Frases de riesgo: R38, R63, R50/53
 Consejos de prudencia: S2, S13, S45, S36/37
 Otras indicaciones reglamentarias: La frase: 'A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO

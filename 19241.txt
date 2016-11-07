@@ -23,16 +23,16 @@ Usos autorizados:
 Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 (1) Berenjena ARAÑA ROJA 0,1-0,125 % 7
 (2) Calabacín ARAÑA ROJA 0,1-0,125 % 7
-(3) Ciruelo ARAÑA ROJA 0,1-0,125 % 14
+(3) Ciruelo ACAROS TETRANÍQUIDOS 0,1-0,125 % 14
 (4) Cítricos ACAROS TETRANÍQUIDOS 0,1 % 14
 (5) Cítricos MOSQUITO VERDE 0,1 % 14
 (6) Fresal ARAÑA ROJA 0,1-0,125 % 7
-(7) Frutales de pepita ARAÑA ROJA 0,1-0,125 % 21
+(7) Frutales de pepita ACAROS TETRANÍQUIDOS 0,1-0,125 % 21
 (8) Judías verdes ARAÑA ROJA 0,15-0,2 % 7
-(9) Melocotonero ARAÑA ROJA 0,1-0,125 % 14
-(10) Nectarino ARAÑA ROJA 0,1-0,125 % 14
-(11) Ornamentales herbáceas ARAÑA ROJA 0,1-0,125 % NP
-(12) Ornamentales leñosas ARAÑA ROJA 0,1-0,125 % NP
+(9) Melocotonero ACAROS TETRANÍQUIDOS 0,1-0,125 % 14
+(10) Nectarino ACAROS TETRANÍQUIDOS 0,1-0,125 % 14
+(11) Ornamentales herbáceas ACAROS TETRANÍQUIDOS 0,1-0,125 % NP
+(12) Ornamentales leñosas ACAROS TETRANÍQUIDOS 0,1-0,125 % NP
 (13) Pepino ARAÑA ROJA 0,1-0,125 % 7
 (14) Peral ERINOSIS 0,1-0,125 % 21
 (15) Peral PSILA 0,1-0,125 % 21

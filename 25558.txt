@@ -65,7 +65,7 @@ Controla Myzus persicae. Realizar 2 aplicaciones/campaña e
 Achicoria PULGONES 20 - 50 
 intervalo de 14 días. 
  
-     Página 1 de 8       Nº REGISTRO:   25558  
+     Página 1 de 9       Nº REGISTRO:   25558  
 AXIENDO
 Nº REGISTRO: 
 AXIENDO 
@@ -100,15 +100,9 @@ TALADRO DEL 50 - Controla Ostrinia nubilalis. Pulverización manual foliar. Real
 Calabaza 
 MAIZ 66,67 aplicaciones/campaña e intervalo de 12 días. 
 Controla Plutella xylostella. Pulverización manual foliar. Realizar 
-POLILLAS 
+Coles POLILLAS 50 
 2 aplicaciones/campaña e intervalo de 14 días. 
-Coles 50 
-MARIPOSA 
-Controla Pieris brassicae. Pulverización manual foliar. Realizar 2 
-BLANCA DE LA 
-aplicaciones/campaña e intervalo de 14 días. 
-CALABAZA 
- Página 2 de 8                                92316
+ Página 2 de 9                                102016
 Nº REGISTRO: 
 AXIENDO 
  
@@ -117,6 +111,11 @@ AXIENDO
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 ml/m2  
+MARIPOSA 
+Controla Pieris brassicae. Pulverización manual foliar. Realizar 2 
+BLANCA DE LA 
+aplicaciones/campaña e intervalo de 14 días. 
+CALABAZA 
 Controla Plutella xylostella. Pulverización manual foliar. Realizar 
 POLILLAS 
 2 aplicaciones/campaña e intervalo de 14 días. 
@@ -135,23 +134,14 @@ aplicaciones/campaña e intervalo de 12 días.
 Controla Amphorophora rubi y Aphis idae. Pulverización manual 
 Frambueso PULGONES 50 
 foliar. Realizar 2 aplicaciones/campaña e intervalo de 14 días. 
-Controla Agrotis ipsilon, Agrotis segetum y Euxoa nigricans. 
-ORUGAS 50 Aplicación manual foliar. Máximo 2 aplicaciones/campaña con un 
-intervalo de 14-21 días. 
-Fresal 
 Controla Chaetosiphon fragaefolii. Pulverización foliar manual. 
 PULGONES 66,7 
 Realizar 2 aplicaciones/campaña, intervalo de 14-21 días. 
-Grosella negra: controla Aphis scheneideri. Pulverización manual 
-Grosellero PULGONES 50 
-foliar. Realizar 2 aplicaciones/campaña e intervalo de 14 días. 
-PULGÓN DEL 41,67 - Controla Acyrthosiphon pisum. Pulverización manual foliar. 
-Guisantes 
-GUISANTE 50 Realizar dos aplicaciones/campaña e intervalo de 12 días. 
-Hierbas 66,67 - 
-ORUGAS Pulverización manual foliar. Realizar 1 aplicación/campaña. 
-aromáticas 83,33 
- Página 3 de 8                                92316
+Fresal 
+Controla Agrotis ipsilon, Agrotis segetum y Euxoa nigricans. 
+ORUGAS 50 Aplicación manual foliar. Máximo 2 aplicaciones/campaña con un 
+intervalo de 14-21 días. 
+ Página 3 de 9                                102016
 Nº REGISTRO: 
 AXIENDO 
  
@@ -160,7 +150,16 @@ AXIENDO
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 ml/m2  
+Grosella negra: controla Aphis scheneideri. Pulverización manual 
+Grosellero PULGONES 50 
+foliar. Realizar 2 aplicaciones/campaña e intervalo de 14 días. 
+PULGÓN DEL 41,67 - Controla Acyrthosiphon pisum. Pulverización manual foliar. 
+Guisantes 
+GUISANTE 50 Realizar dos aplicaciones/campaña e intervalo de 12 días. 
 PULGONES Pulverización manual foliar. 1 aplicación/campaña. 
+Hierbas 66,67 - 
+aromáticas 83,33 
+ORUGAS Pulverización manual foliar. Realizar 1 aplicación/campaña. 
 PULGÓN DEL 41,67 - Controla Acyrthosiphon pisum. Pulverización manual foliar. 
 Judías 
 GUISANTE 50 Realizar dos aplicaciones/campaña e intervalo de 12 días. 
@@ -172,29 +171,11 @@ Melón
 MAIZ 66,67 aplicaciones/campaña e intervalo de 12 días. 
 BARRENADOR DE Controla Curculionidae y Scolytidae. Realizar una única 
 MADERA aplicación/campaña. 
-Controla Trialeurodes vaporariorum. Realizar una única 
-MOSCA BLANCA 
-aplicación/campaña. 
 Ornamentales 
-TRIPS 30 - 100 
+30 - 100 
 herbáceas 
-NOCTUIDOS 
-Pulverización manual foliar. Realizar 1 aplicación/campaña. 
-CHINCHES 
-PULGONES 
-BARRENADOR DE Controla Curculionidae y Scolytidae. Realizar una única 
-LA MADERA aplicación/campaña. 
-Controla Trialeurodes vaporariorum. Realizar una única 
-MOSCA BLANCA 
-aplicación/campaña. 
-Ornamentales 
-TRIPS 30 - 100 
-leñosas 
-NOCTUIDOS 
-Pulverización manual foliar. Realizar 1 aplicación/campaña. 
-CHINCHES 
-PULGONES 
- Página 4 de 8                                92316
+CHINCHES Pulverización manual foliar. Realizar 1 aplicación/campaña. 
+ Página 4 de 9                                102016
 Nº REGISTRO: 
 AXIENDO 
  
@@ -203,11 +184,38 @@ AXIENDO
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 ml/m2  
+Controla Trialeurodes vaporariorum. Realizar una única 
+MOSCA BLANCA 
+aplicación/campaña. 
+TRIPS 
+PULGONES Pulverización manual foliar. Realizar 1 aplicación/campaña. 
+NOCTUIDOS 
+BARRENADOR DE Controla Curculionidae y Scolytidae. Realizar una única 
+LA MADERA aplicación/campaña. 
+CHINCHES Pulverización manual foliar. Realizar 1 aplicación/campaña. 
+Controla Trialeurodes vaporariorum. Realizar una única 
+MOSCA BLANCA 
+aplicación/campaña. 
+Ornamentales 
+30 - 100 
+leñosas 
+TRIPS 
+PULGONES Pulverización manual foliar. Realizar 1 aplicación/campaña. 
+NOCTUIDOS 
 ESCARABAJO DE LA Controla Leptinotarsa decemlineata. Pulverización manual foliar, 
 PATATA dos aplicaciones/campaña e intervalo de 10 días. 
+Patata 50 - 66,7 
 POLILLA DE LA Controla Phthorimaea operculella. Pulverización manual foliar, 
 PATATA dos aplicaciones/campaña e intervalo de 10 días. 
-Patata 50 - 66,7 
+ Página 5 de 9                                102016
+Nº REGISTRO: 
+AXIENDO 
+ 
+    
+  Dosis FORMA Y ÉPOCA DE APLICACIÓN 
+USO AGENTE Min- (Condic.Específico) 
+máx. 
+ml/m2  
 Controla Aphis fabae, Aphis frangulae, Aphis nasturtii, 
 Aulacorthum solani, Macrosiphum euphorbiae y Myzus persicae. 
 PULGONES 
@@ -225,17 +233,20 @@ Pepino
 Controla Aphis sp. Realizar 2 aplicaciones/campaña e intervalo de 
 PULGONES 
 12 días. 
-Controla Agrotis ipsilon, Agrotis segetum y Euxoa nigricans. 
-ORUGAS 50 Pulverización manual foliar, máximo 2 aplicaciones/campaña con 
-un intervalo de 12 días. 
-Pimiento 
 Controla Macrosiphum euphorbiae y Myzus persicae. 
 PULGONES 66,7 Pulverización manual foliar, realizar 2 aplicaciones/campaña e 
 intervalo de 12 días. 
+Pimiento 
+Controla Agrotis ipsilon, Agrotis segetum y Euxoa nigricans. 
+ORUGAS 50 Pulverización manual foliar, máximo 2 aplicaciones/campaña con 
+un intervalo de 12 días. 
 Controla Phyllotreta aerea. Realizar dos aplicaciones/campaña e 
 Rábano PULGA 33,33 
 intervalo de 12 días. 
- Página 5 de 8                                92316
+33,33 - Controla Circulifer tenellus. Pulverización manual foliar. Realizar 
+Remolacha CHICHARRITA 
+50 una única aplicación/campaña. 
+ Página 6 de 9                                102016
 Nº REGISTRO: 
 AXIENDO 
  
@@ -244,12 +255,6 @@ AXIENDO
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 ml/m2  
-Controla Circulifer tenellus. Pulverización manual foliar. Realizar 
-CHICHARRITA 
-una única aplicación/campaña. 
-33,33 - 
-Remolacha 
-50 
 Controla Chaetocnema tibialis. Pulverización manual foliar. 
 PULGUILLA 
 Realizar una única aplicación/campaña.  
@@ -283,7 +288,7 @@ aplicaciones/campaña e intervalo de 12 días.
   
 Plazos de Seguridad (Protección del consumidor):  
   
- Página 6 de 8                                92316
+ Página 7 de 9                                102016
 Nº REGISTRO: 
 AXIENDO 
  
@@ -339,7 +344,7 @@ aerosol. (El fabricante o el proveedor especificarán las condiciones
 aplicables) 
 P262 - Evitar el contacto con los ojos, la piel o la ropa. 
 P405 - Guardar bajo llave. 
- Página 7 de 8                                92316
+ Página 8 de 9                                102016
 Nº REGISTRO: 
 AXIENDO 
  
@@ -397,4 +402,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 8 de 8                                92316
+ Página 9 de 9                                102016

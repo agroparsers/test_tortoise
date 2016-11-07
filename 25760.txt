@@ -572,7 +572,21 @@ Nombre comercial: METEOR
 (506) Zanahoria TRIPS 0,06-0,07 % 3
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
-Generales :
+Generales : Modo de aplicación: 
+Aire libre:
+En cítricos, frutales de hueso y de pepita (manzano, peral, albaricoque, melocotón, cerezo, ciruelo y
+almendro), vid, olivo, hortícolas (ajo, esparrago, alcachofa, col, zanahoria, judías, habas, lechuga y
+similares, melón, guisante, pimiento y espinaca, cebolla, patata, puerro y apio), tabaco, álamo
+(viveros), pepino, fresa, berenjena, tomate, calabacín y calabaza, flores, ornamentales y viveros,
+pulverización manual o normal con tractor, o pulverización manual de bajo y ultra bajo volumen, o
+pulverización con tractor de bajo y ultra bajo volumen, un máximo de 3 aplicaciones por campaña
+con un intervalo de 7-14 días. 
+En trigo, cebada, maíz, soja, colza, algodón, alfalfa, remolacha, pulverización normal con tractor o
+pulverización con tractor de bajo y ultra bajo volumen, un máximo de 3 aplicaciones por campaña
+con un intervalo de 7-14 días. 
+Invernadero:
+En pepino, fresa, berenjena, tomate, calabacín y calabaza, flores, ornamentales y viveros,
+pulverización manual, un máximo de 3 aplicaciones por campaña con un intervalo de 7-14 días. 
 Específicos: (1), (34), (71), (86), (101), (116), (136), (183), (203), (218), (254), (269), (284), (299), (347), (378),
 (393), (422), (437), (492) Pulguilla.
 (16), (19) En viveros.
@@ -589,6 +603,9 @@ invernadero.
 (486), (488) Contra Lobesia, Noctua, Taladros, Ostrinia, etc.
 Condicionamientos preventivos de riesgos:
 Mitigación de riesgos medioambientales:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.760
+Nombre comercial: METEOR
 SPe3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de
 - 20m o 15 m más boquillas de reducción de deriva del 30% o 10m más boquillas de reducción de deriva del 50% o 5m
 más boquillas de reducción de deriva del 90% para frutales de pepita en aplicación temprana
@@ -603,9 +620,6 @@ Hasta las masas de agua superficial.
 SPe8: Peligroso para las abejas. Para proteger las abejas y otros insectos polinizadores, no aplicar durante la
 floración de los cultivos.
 Mitigación de riesgos en la manipulación:
-Registro de Productos FitoSanitarios
-Nº Registro: 25.760
-Nombre comercial: METEOR
 Seguridad del aplicador:
 Aire libre:
 En todos los usos autorizados al aire libre MENOS trigo, cebada, maíz, soja, colza, algodón, alfalfa y remolacha, en
@@ -643,6 +657,9 @@ en el punto de venta donde se hubiera adquirido si dichos envases se han puesto 
 sistema de depósito, devolución y retorno."
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Atención, Acuático crónico 1, Acuático agudo 1
+Registro de Productos FitoSanitarios
+Nº Registro: 25.760
+Nombre comercial: METEOR
 Símbolos y pictogramas: 0
 Frases de riesgo: H410, EUH 210, EUH 401
 Consejos de prudencia: P261, P262, P273, P391, P501

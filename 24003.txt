@@ -3,8 +3,8 @@ Nº Registro: 24.003
 Nombre comercial: MINUET
 Titular:
 FMC CHEMICAL SPRL
-Boulevard de la Plaine 9/3
-B-1050
+Rue Royale 97, 4ª Planta
+B-1000
 BRUSELAS
 BELGICA
 Fabricante:
@@ -72,7 +72,7 @@ Nombre comercial: MINUET
 P.S.: Plazo de seguridad (días)
 Usos protegidos hasta fecha: (30) , (31) , (32) , (33) , (34) , (35) , (36) , (37) , (38) , (39) , (40) , (41) , (42) , (43) 
 Condicionamientos fitoterapeúticos:
-Generales :
+Generales : Aplicar en pulverización normal.
 Específicos: (38), (39) Tratar con un máximo de 0,1 l/ha. por aplicación.
 Condicionamientos preventivos de riesgos:
 Mitigación de riesgos medioambientales:

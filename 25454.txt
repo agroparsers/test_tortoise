@@ -64,11 +64,11 @@ Usos y dosis autorizados:
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 l/Hl  
-Volumen de caldo: 333 l/ha. Máximo 2 aplicaciones/campaña e 
-Alcachofa ORUGAS 0,03 
-intervalo entre aplicaciones de 14 días. 
+GORTYNA Volumen de caldo: 333 l/ha. Máximo 2 aplicaciones/campaña e 
+Alcachofa 0,03 
+XANTHENES intervalo entre aplicaciones de 14 días. 
  
-     Página 1 de 6       Nº REGISTRO:   25454  
+     Página 1 de 7       Nº REGISTRO:   25454  
 AMPLIGO
 Nº REGISTRO: 
 AMPLIGO 
@@ -78,9 +78,8 @@ AMPLIGO
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 l/Hl  
+ORUGAS 
 PULGONES 
-GORTYNA 
-XANTHENES 
 Una aplicación por campaña: Pulverización normal con tractor: 
 HELIOTHIS 
 Algodonero 0,04 volumen de caldo: 750 l/ha. Pulverización manual: Volumen de caldo: 
@@ -93,18 +92,15 @@ Hortalizas del
 género brassica 
 e intervalo entre aplicaciones de 7-10 días. 
 PULGONES 
-ORUGAS 
+PULGONES 
 Lechugas y Volumen de caldo: 375 l/ha. Máximo 2 aplicaciones/campaña e 
 0,04 
 similares intervalo entre aplicaciones de 7-10 días. 
-PULGONES 
+ORUGAS 
 Una aplicación por campaña: Pulverización normal con tractor: 
 Maíz ORUGAS 0,03 volumen de caldo: 1000 l/ha. Pulverización manual: Volumen de 
 caldo: 667 l/ha. 
-Una aplicación por campaña: Pulverización normal con tractor: 
-Maíz dulce ORUGAS 0,03 volumen de caldo: 1000 l/ha. Pulverización manual: Volumen de 
-caldo: 667 l/ha. 
- Página 2 de 6                                92316
+ Página 2 de 7                                102016
 Nº REGISTRO: 
 AMPLIGO 
  
@@ -113,6 +109,9 @@ AMPLIGO
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 l/Hl  
+Una aplicación por campaña: Pulverización normal con tractor: 
+Maíz dulce ORUGAS 0,03 volumen de caldo: 1000 l/ha. Pulverización manual: Volumen de 
+caldo: 667 l/ha. 
 ESCARABAJO 
 Pulverización normal con tractor: volumen de caldo: 1000 l/ha. 
 Patata 0,03 Pulverización manual: Volumen de caldo: 667 l/ha. Máximo 2 
@@ -120,17 +119,21 @@ aplicaciones por campaña, e intervalo de 8-10 días entre aplicaciones.
 POLILLAS 
 ORUGAS 
 Pulverización normal con tractor ó manual. Volumen de caldo: 250 
-TUTA 
-Tomate 0,04 l/ha. Máximo 2 aplicaciones/campaña e intervalo entre aplicaciones 
-ABSOLUTA 
+Tomate PULGONES 0,04 l/ha. Máximo 2 aplicaciones/campaña e intervalo entre aplicaciones 
 de 7-10 días. 
-PULGONES 
+TUTA 
+ABSOLUTA 
   
 Plazos de Seguridad (Protección del consumidor):  
   
 Cultivo P.S. (días) 
 Lechugas y similares, Patata 14 
 Algodonero 21 
+ Página 3 de 7                                102016
+Nº REGISTRO: 
+AMPLIGO 
+ 
+Cultivo P.S. (días) 
 Alcachofa, Hortalizas del género brassica, 
 3 
 Tomate 
@@ -138,10 +141,6 @@ Maíz, Maíz dulce 7
   
  
  
- 
- Página 3 de 6                                92316
-Nº REGISTRO: 
-AMPLIGO 
  
 Condiciones generales de uso:   
 Aplicar en pulverización foliar normal solo al aire libre preferentemente al pico de vuelo de los 
@@ -186,6 +185,10 @@ protección química (tipo 3 ó 4 de acuerdo a norma UNE-EN 14605:2005+A1:2009),
 adecuado, capucha y pantalla facial, mascarilla A1P2. 
 Para algodón, maíz, maíz dulce y patata en pulverización manual, durante la mezcla/carga 
 se deberán utilizar guantes de protección química, y en aplicación, limpieza y mantenimiento 
+ Página 4 de 7                                102016
+Nº REGISTRO: 
+AMPLIGO 
+ 
 del equipo se deberá utilizar guantes y ropa de protección química (tipo 3 ó 4 de acuerdo a 
 norma UNE-EN 14605:2005+A1:2009), calzado adecuado, capucha y pantalla facial, 
 mascarilla A1P2. 
@@ -195,10 +198,6 @@ Seguridad del trabajador:
 En tomate, brassicas y alcachofa se deberá utilizar guantes de protección química solo para 
 tareas de más de 2 horas de duración.  
 En lechuga y similares, algodón, maíz y maíz dulce y patata de deberán utilizar guantes de 
- Página 4 de 6                                92316
-Nº REGISTRO: 
-AMPLIGO 
- 
 protección química.  
 En lechuga el periodo de reentrada será de 14 días para tareas de más de 2 horas de 
 duración.  
@@ -216,7 +215,8 @@ de peligro
 (Humana) 
 Pictograma 
 GSH07 (signo de exclamación)  
-Palabra -- 
+-- 
+Palabra 
 Advertencia 
 Indicaciones de EUH 208 - Contiene <nombre de la sustancia sensibilizante>. Puede 
 provocar una reacción alérgica. 
@@ -225,8 +225,7 @@ EUH 401 - A fin de evitar riesgos para las personas y el medio
 ambiente, siga las instrucciones de uso. 
 H302+H332 - Nocivo en caso de ingestión o inhalación. 
  
-P261 - Evitar respirar el polvo/el humo/el gas/la niebla/los vapores/ el 
-Consejos de 
+Consejos de P261 - Evitar respirar el polvo/el humo/el gas/la niebla/los vapores/ el 
 aerosol. (El fabricante o el proveedor especificarán las condiciones 
 Prudencia 
 aplicables) 
@@ -235,8 +234,7 @@ P272 - Las prendas de trabajo contaminadas no podrán sacarse del
 lugar de trabajo. 
 P280 - Llevar guantes/prendas/gafas/máscara de protección. (El 
 fabricante o el proveedor especificarán el tipo de equipo) 
-Acuático agudo 1 
-Clase y categoría 
+Clase y categoría Acuático agudo 1 
 Acuático crónico 1 
 de peligro 
 (Medio ambiental) 
@@ -248,6 +246,10 @@ Advertencia
 H410 - Muy tóxico para los organismos acuáticos, con efectos nocivos 
 Frases de Riesgo 
 duraderos.  
+ Página 5 de 7                                102016
+Nº REGISTRO: 
+AMPLIGO 
+ 
 P273 - Evitar su liberación al medio ambiente. (Si no es éste su uso 
 Consejos 
 previsto) 
@@ -258,10 +260,6 @@ normativa local, regional, nacional o internacional (especifíquese))
   
  “A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO AMBIENTE 
 SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el texto. 
- Página 5 de 6                                92316
-Nº REGISTRO: 
-AMPLIGO 
- 
 Mitigación de riesgos ambientales:   
 SPe3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad 
 hasta las masas de agua superficial de: 
@@ -305,10 +303,14 @@ el equipo de aplicación del producto cerca de aguas superficiales/Evitese la co
 través de los sistemas de evacuación de aguas de las explotaciones o de los caminos). 
 La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO AMBIENTE 
 SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el texto 
+ Página 6 de 7                                102016
+Nº REGISTRO: 
+AMPLIGO 
+ 
   
 Condiciones de almacenamiento: -- 
   
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 6 de 6                                92316
+ Página 7 de 7                                102016

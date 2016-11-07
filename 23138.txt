@@ -87,25 +87,29 @@ Cítricos DICOTILEDONEAS
 Frutales de 0,25 - Efectuar una única aplicación por campaña con un volúmen de caldo 
 DICOTILEDONEAS 
 hoja caduca 0,35 l/ha de 250-300 l/Ha. 
-0,25 - Efectuar una única aplicación por campaña con un volúmen de caldo 
-DICOTILEDONEAS 
-0,35 l/ha de 250-300 l/Ha. 
-Olivo 
 Aplicar cuando los brotes alcancen los 5-15 cm. de longitud 
 (exclusivamente brotes del suelo o de la parte baja de la planta), 
 REBROTES 0,25 l/Hl 
 efectuando 2 aplicaciones con un caldo de 100 l/Ha. y dosis máxma de 
 0,25 l/Ha.. Tratar en otoño y primavera. No tratar antes de la cosecha. 
-Efectuar un único tratamiento por campaña con un volumen de caldo 
-Patata DESECANTE 1 l/ha 
-de 500-1.000 l/Ha. 
+Olivo 
 0,25 - Efectuar una única aplicación por campaña con un volúmen de caldo 
 DICOTILEDONEAS 
 0,35 l/ha de 250-300 l/Ha. 
-Vid 
+Efectuar un único tratamiento por campaña con un volumen de caldo 
+Patata DESECANTE 1 l/ha 
+de 500-1.000 l/Ha. 
 Aplicar cuando los brotes alcancen los 20 cm. de longitud. Tratar en 
 REBROTES 0,25 l/Hl primavera con un máximo de 2 aplicaciones por año con un caldo de 
 350 l/Ha. y dosis máxima de 0,850 l/Ha.. 
+Vid 
+0,25 - Efectuar una única aplicación por campaña con un volúmen de caldo 
+DICOTILEDONEAS 
+0,35 l/ha de 250-300 l/Ha. 
+ Página 2 de 5                                102016
+Nº REGISTRO: 
+GOZAI 
+ 
   
 Plazos de Seguridad (Protección del consumidor):  
   
@@ -116,10 +120,6 @@ Areas no cultivadas, Cereales, Cítricos, Frutales
 NP 
 de hoja caduca, Olivo, Patata, Vid 
   
- Página 2 de 5                                92316
-Nº REGISTRO: 
-GOZAI 
- 
  
  
  
@@ -160,6 +160,10 @@ de peligro
 Pictograma 
 N  
 Xn  
+ Página 3 de 5                                102016
+Nº REGISTRO: 
+GOZAI 
+ 
 Palabra  
 Advertencia 
 R20 - Nocivo por inhalación 
@@ -170,10 +174,6 @@ R41 - Riesgo de lesiones oculares graves
 R50/53 - Muy tóxico para los organismos acuáticos, puede provocar a 
 largo plazo efectos negativos en el medio ambiente acuático 
 R65 - Nocivo, si se ingiere puede causar daño pulmonar 
- Página 3 de 5                                92316
-Nº REGISTRO: 
-GOZAI 
- 
 S13 - Conservar separado de alimentos, bebidas y piensos 
 Consejos de 
 S2 - Manténgase fuera del alcance de los niños. 
@@ -188,17 +188,14 @@ S45 - En caso de accidente o malestar, acúdase inmediatamente al
 médico, si es posible enseñándole esta etiqueta 
 S62 - En caso de ingestión no provocar el vómito: acúdase 
 inmediatamente al médico y muéstrele la etiqueta o el envase 
-Clase y categoría 
- 
+Clase y categoría  
 de peligro 
 (Medio ambiental) 
 Pictograma 
  
-Palabra 
- 
+Palabra  
 Advertencia 
-Frases de Riesgo 
- 
+Frases de Riesgo  
 Consejos  
 Prudencia 
   
@@ -221,6 +218,10 @@ obligado a ofrecer, conforme a lo establecido en el R.D. 1416/2001, de entregarl
 directamente al sistema integrado de gestión al que esté adherido o al propio, de depósito, 
 devolución y retorno, a través del punto de venta donde el usuario lo adquiera 
   
+ Página 4 de 5                                102016
+Nº REGISTRO: 
+GOZAI 
+ 
 Otras indicaciones reglamentarias:   
 En la etiqueta se hará constar que "contiene nafta disolvente del petróleo nº CAS: 64742-94-
 5 .  
@@ -229,14 +230,10 @@ SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten del texto.
 SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE. (No limpiar 
 el equipo de aplicación del producto cerca de aguas superficiales/Evitese la contaminación a 
 través de los sistemas de evacuación de aguas de las explotaciones o de los caminos) 
- Página 4 de 5                                92316
-Nº REGISTRO: 
-GOZAI 
- 
   
 Condiciones de almacenamiento: -- 
   
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 5 de 5                                92316
+ Página 5 de 5                                102016

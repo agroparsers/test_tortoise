@@ -17,6 +17,7 @@ Fecha de inscripción: 14/12/2015
 Fecha de caducidad: 31/07/2017
 Tipo de envase:
 Bolsas de aluminio de 100 g.
+Bolsas de aluminio termoselladas de 0.5 , 1 y 5 kg.
 Composición: GLIOCLADIUM CATENULATUM (CEPA J1446) 32% (2 X 10E8 CFU/G) [WP] P/P
 Tipo de preparado: POLVO MOJABLE [WP]
 Tipo de función: Fungicida
@@ -40,10 +41,10 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 (15) Pepino BOTRYTIS CINEREA 0,5 % NP
 (16) Pepino DIDYMELLA BRYONIAE 0,5 % NP
 (17) Pepino FUSARIUM 0,5 % NP
-(18) Pepino PHYTOPHTORA 0,5 % NP
 Registro de Productos FitoSanitarios
 Nº Registro: 25.736
 Nombre comercial: PRESTOP
+(18) Pepino PHYTOPHTORA 0,5 % NP
 (19) Pepino PITIUM 0,5 % NP
 (20) Pepino RIZOCTONIA 0,5 % NP
 (21) Pimiento BOTRYTIS CINEREA 0,5 % NP

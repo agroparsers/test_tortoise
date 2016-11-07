@@ -16,6 +16,7 @@ INDIA
 Fecha de inscripción: 18/06/1997
 Fecha de caducidad: 30/11/2016
 Tipo de envase:
+Envases de 1 kg (con y sin cartón).
 Bolsas/sacos de 5 a 25 kg, multicapa con revestimiento interior de:
 - PE microperforado con capas de Papel/AL/PE/Papel/LDPE/Papel
 - PE/EVOH/PE con capas de Papel/Papel/PE/Papel, o solo capa de papel.
@@ -42,10 +43,10 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 (12) Cerezo GNOMONIA 0,2 % 30
 (13) Cerezo MONILIA 0,2 % 30
 (14) Cerezo ROYA 0,2 % 30
-(15) Chalote MILDIU 0,2-0,25 % 28
 Registro de Productos FitoSanitarios
 Nº Registro: 21.601
 Nombre comercial: MANCOFIT WP
+(15) Chalote MILDIU 0,2-0,25 % 28
 (16) Ciruelo MONILIA 0,2 % 30
 (17) Ciruelo ROYA 0,2 % 30
 (18) Cítricos AGUADO 0,2-0,3 % 14
@@ -85,10 +86,10 @@ Nombre comercial: MANCOFIT WP
 (52) Puerro MILDIU 0,2-0,25 % 28
 (53) Salsifies ALTERNARIA 0,2 % 30
 (54) Salsifies MILDIU 0,2 % 30
-(55) Tomate ALTERNARIA 0,2 % 3
 Registro de Productos FitoSanitarios
 Nº Registro: 21.601
 Nombre comercial: MANCOFIT WP
+(55) Tomate ALTERNARIA 0,2 % 3
 (56) Tomate ANTRACNOSIS 0,2 % 3
 (57) Tomate MILDIU 0,2 % 3
 (58) Tomate SEPTORIA 0,2 % 3

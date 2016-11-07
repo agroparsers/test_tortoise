@@ -27,7 +27,7 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 (2) Vid BOTRITIS 1-1,5 Kg/ha 14
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
-Generales :
+Generales : Aplicar en pulverización normal.
 Específicos: (1) Sólo en invernadero. Aplicar mediante lanza o pistola de pulverización con un volúmen de caldo
 de 300-1.000 l/Ha. Realizar un máximo de 3 aplicaciones por campaña con un intervalo de 15 días.
 Cuando el cultivo supere el metro de altura, la anchura libre entre líneas del cultivo deberá ser como

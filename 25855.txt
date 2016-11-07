@@ -21,7 +21,7 @@ PRODUCCIÓN AGRARIA
 Nombre comercial: KYLEO 
 Número de autorización: 25855 
 Fecha de inscripción: 21/03/2016 
-Fecha de caducidad: 01/01/2017 
+Fecha de caducidad: 31/03/2020 
  
 Titular  
 Fabricante 
@@ -86,18 +86,17 @@ pepita
 Nogal MALAS HIERBAS 6 
  
 MALAS HIERBAS 
-5 
-VIVACES 
+3 - 5 
+ANUALES 
 En tratamientos generales: antes de la instalación del cultivo o 
 Parcelas sin 
 plantación (entre cultivos). Para monocotiledóneas anuales, dosis de 3 
 cultivo 
 l/ha y para dicotiledóneas, dosis de 5 l/ha 
 MALAS HIERBAS 
-3 - 5 
-ANUALES 
-Pino 
-MALAS HIERBAS 6 
+5 
+VIVACES 
+Pino MALAS HIERBAS 6 
   
 piñonero 
   
@@ -126,14 +125,14 @@ Seguridad del operador:
 En cultivos de frutales de pepita, almendro, castaño, avellano, nogal y pino piñonero, en 
 operaciones de mezcla/carga se utilizarán guantes de protección química y en operaciones 
 de aplicación, se utilizarán guantes de protección química, ropa de protección química tipo 3 
+ Página 2 de 4                                102016
+Nº REGISTRO: 
+KYLEO 
+ 
 ó 4, de acuerdo a norma UNE-EN 14605:2005 + A1:2009, y calzado adecuado. 
 En tratamientos generales, antes de la instalación/plantación del cultivo se deberán utilizar 
 guantes de protección química en operaciones de mezcla/carga y aplicación. 
 En la limpieza y mantenimiento del equipo se aplicarán las mismas medidas de protección 
- Página 2 de 4                                92316
-Nº REGISTRO: 
-KYLEO 
- 
 que en la aplicación.  
 Durante la aplicación con tractor con cabina cerrada y dispositivo de filtrado de aire, se podrá 
 prescindir del equipo de protección, siempre que se mantenga las ventanas cerradas. 
@@ -143,8 +142,7 @@ SPo 2: Lávese toda la ropa de protección después de usarla
   
 Clasificaciones y Etiquetado: 
  
-Irritación ocular. Categoría 2. 
-Clase y categoría 
+Clase y categoría Irritación ocular. Categoría 2. 
 Sensibilizantes cutáneos. Categoría 1 B. 
 de peligro 
 (Humana) 
@@ -159,7 +157,8 @@ ambiente, siga las instrucciones de uso.
 peligro 
 H317 - Puede provocar una reacción alérgica en la piel. 
 H319 - Provoca irritación ocular grave.  
-Consejos de P261 - Evitar respirar el polvo/el humo/el gas/la niebla/los vapores/ el 
+P261 - Evitar respirar el polvo/el humo/el gas/la niebla/los vapores/ el 
+Consejos de 
 aerosol. (El fabricante o el proveedor especificarán las condiciones 
 Prudencia 
 aplicables) 
@@ -178,7 +177,8 @@ Pictograma
 -- 
 Palabra 
 Advertencia 
-Frases de Riesgo H412 - Nocivo para los organismos acuáticos, con efectos nocivos 
+H412 - Nocivo para los organismos acuáticos, con efectos nocivos 
+Frases de Riesgo 
 duraderos.  
 P273 - Evitar su liberación al medio ambiente. (Si no es éste su uso 
 Consejos 
@@ -189,14 +189,14 @@ normativa local, regional, nacional o internacional (especifíquese))
   
  “A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO AMBIENTE 
 SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el texto. 
+ Página 3 de 4                                102016
+Nº REGISTRO: 
+KYLEO 
+ 
 Mitigación de riesgos ambientales:   
 SPe 1: Para proteger la aguas subterráneas, no aplicar este producto ni ninguno que 
 contenga ácido 2,4-diclorofenoxiacético (2,4-D) más de una vez cada dos años en la misma 
 parcela para usos entre cultivos. 
- Página 3 de 4                                92316
-Nº REGISTRO: 
-KYLEO 
- 
 SPe 1: Para proteger la aguas subterráneas, no aplicar este producto ni ninguno que 
 contenga ácido 2,4-diclorofenoxiacético (2,4-D) en toda la parcela de las plantaciones, sino 
 únicamente en las filas. 
@@ -234,4 +234,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 4 de 4                                92316
+ Página 4 de 4                                102016

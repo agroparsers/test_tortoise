@@ -62,9 +62,9 @@ Usos y dosis autorizados:
    
   Dosis 
 USO AGENTE Min-máx. 
-PULGONES 
-Algodonero 0,4 - 0,6 l/ha 
 ORUGAS 
+Algodonero 0,4 - 0,6 l/ha 
+PULGONES 
 Avena PULGONES 0,4 - 0,6 l/ha 
 PULGONES 
 Cebada 0,4 - 0,6 l/ha 
@@ -73,7 +73,7 @@ PULGONES
 Centeno 0,4 - 0,6 l/ha 
 GARRAPATILLO 
  
-     Página 1 de 4       Nº REGISTRO:   18216  
+     Página 1 de 5       Nº REGISTRO:   18216  
 SUMICIDIN SUPRA
 Nº REGISTRO: 
 SUMICIDIN SUPRA 
@@ -86,19 +86,19 @@ PULGONES
 Coles de bruselas 0,4 - 0,6 l/ha 
 ORUGAS 
 Colza ORUGAS 0,4 - 0,6 l/ha 
-PULGONES 
-Frutales de pepita ORUGAS 0,04 - 0,06 % 
-PSILA 
-PULGONES 
-Ornamentales herbáceas 0,4 - 0,6 l/ha 
 ORUGAS 
+Frutales de pepita PSILA 0,04 - 0,06 % 
+PULGONES 
+ORUGAS 
+Ornamentales herbáceas 0,4 - 0,6 l/ha 
+PULGONES 
 PULGONES 
 Ornamentales leñosas 0,4 - 0,6 l/ha 
 ORUGAS 
 CHINCHES 
-PULGONES 
-Patata 0,4 - 0,6 l/ha 
 ESCARABAJO 
+Patata 0,4 - 0,6 l/ha 
+PULGONES 
 ORUGAS 
 PULGONES 
 Remolacha azucarera PULGUILLA 0,4 - 0,6 l/ha 
@@ -129,6 +129,11 @@ Tabaco 21
 Avena, Cebada, Centeno, Trigo, Triticale 28 
 Tomate 3 
 Algodonero, Remolacha azucarera 30 
+ Página 2 de 5                                102016
+Nº REGISTRO: 
+SUMICIDIN SUPRA 
+ 
+Cultivo P.S. (días) 
 Colza 42 
 Coles de bruselas, Repollo 7 
 Clavel, Ornamentales herbáceas, Ornamentales 
@@ -136,10 +141,6 @@ NP
 leñosas 
   
  
- 
- Página 2 de 4                                92316
-Nº REGISTRO: 
-SUMICIDIN SUPRA 
  
  
 Condiciones generales de uso:   
@@ -166,7 +167,8 @@ de peligro
 Pictograma 
 N  
 Xn  
-Palabra  
+Palabra 
+ 
 Advertencia 
 R10 - Inflamable 
 Indicaciones de 
@@ -176,6 +178,10 @@ R41 - Riesgo de lesiones oculares graves
 R43 - Posibilidad de sensibilización en contacto con la piel 
 R50/53 - Muy tóxico para los organismos acuáticos, puede provocar a 
 largo plazo efectos negativos en el medio ambiente acuático 
+ Página 3 de 5                                102016
+Nº REGISTRO: 
+SUMICIDIN SUPRA 
+ 
 S13 - Conservar separado de alimentos, bebidas y piensos 
 Consejos de 
 S2 - Manténgase fuera del alcance de los niños. 
@@ -195,10 +201,6 @@ Clase y categoría
 de peligro 
 (Medio ambiental) 
 Pictograma  
- Página 3 de 4                                92316
-Nº REGISTRO: 
-SUMICIDIN SUPRA 
- 
 Palabra  
 Advertencia 
 Frases de Riesgo  
@@ -231,6 +233,10 @@ Otras indicaciones reglamentarias:
 En la etiqueta se hará constar que "contiene xileno y 2-fenoxietanol nº CAS: 122-99-6".   
 La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO AMBIENTE 
 SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el texto.   
+ Página 4 de 5                                102016
+Nº REGISTRO: 
+SUMICIDIN SUPRA 
+ 
 SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE. (No limpiar 
 el equipo de aplicación del producto cerca de aguas superficiales/Evitese la contaminación a 
 través de los sistemas de evacuación de aguas de las explotaciones o de los caminos) 
@@ -240,4 +246,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 4 de 4                                92316
+ Página 5 de 5                                102016

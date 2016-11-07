@@ -3,18 +3,18 @@ Nº Registro: 16.064
 Nombre comercial: TAIREL C
 Titular:
 FMC CHEMICAL SPRL
-Boulevard de la Plaine 9/3
-B-1050
+Rue Royale 97, 4ª Planta
+B-1000
 BRUSELAS
 BELGICA
 Fabricante:
 FMC CORPORATION
-1735 Market St.
-PA19103 Philadelphia
+2929 Walnut Street
+19104 Philadelphia
 PENNSYLVANIA
-ESTADOS UNIDOS
+USA
 Fecha de inscripción: 15/06/1992
-Fecha de caducidad: 30/10/2016
+Fecha de caducidad: 31/01/2018
 Tipo de envase:
 Bolsa de complejo de 1 kg. (cajas 10-1, 20-1 y 5-1) y  y sacos "kraft" de 5 kg. y "clupack" de 25 kg.
 Composición: BENALAXIL 4% + OXICLORURO DE COBRE 33% (EXPR. EN CU) [WP] P/P
@@ -57,7 +57,7 @@ R.D. 1416/01, de entregarlos directamente al sistema integrado de gestión al qu
 depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Nocivo, Peligroso para el medio ambiente
-Símbolos y pictogramas: --
+Símbolos y pictogramas: 0
 Frases de riesgo: R22, R50/53
 Consejos de prudencia: S2, S13, S45, S22, S36, S24/25
 Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO

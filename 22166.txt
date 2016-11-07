@@ -14,7 +14,7 @@ Avda. de Bizet, 8-12
 08191 RUBI
 BARCELONA
 Fecha de inscripción: 16/04/2001
-Fecha de caducidad: 30/11/2016
+Fecha de caducidad: 30/05/2018
 Tipo de envase:
 Frascos de polietileno de alta densidad (HDPE) de 100 cc y 1 l.
 Composición: AZADIRACTIN 4,5% [EC] P/V
@@ -34,19 +34,16 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 (9) Cítricos PHYLLOCNISTIS 0,05-0,1 % NP
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
-Generales : Aplicar en pulverización foliar procurando un buen revestimiento del cultivo.
-En la etiqueta se darán las indicaciones oportunas en cuanto se refiere al manejo del producto y la
-práctica del tratamiento como condiciones ambientales, preparación del caldo, adición de aceite, PH
-del caldo de tratamiento, compatibilidad de las mezclas, almacenamiento, etc.
+Generales :
 Específicos: (9) Unicamente en plantones de cítricos de hasta 3 años. Aplicar la dosis más baja en mezcla con
 aceite mineral de verano a dosis de 0,5%.
 Condicionamientos preventivos de riesgos:
 Mitigación de riesgos medioambientales:
+Mamíferos: A
+Aves: A
 Registro de Productos FitoSanitarios
 Nº Registro: 22.166
 Nombre comercial: EINA
-Mamíferos: A
-Aves: A
 Peces: A
 Restricciones por clases de usuarios:
 Uso reservado a agricultores y aplicadores profesionales.
@@ -62,7 +59,7 @@ tóxicos así como las opciones alternativas que el titular está obligado a ofr
 devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Nocivo, Peligroso para el medio ambiente
-Símbolos y pictogramas: Xn
+Símbolos y pictogramas: 0
 Frases de riesgo: R22, R36, R43, R52/53
 Consejos de prudencia: S2, S13, S45, S36/37, S24, S23
 Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene acetofenona" 

@@ -49,7 +49,12 @@ Nombre comercial: ABOTRIL 500
 (20) Vid BOTRITIS 0,15 % 15
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
-Generales :
+Generales : Tratamiento fungicida por contacto al aire libre en viña contra botritis,  en melocotonero, nectarino,
+albaricoquero, cerezo y ciruelo contra monilia, en kiwi contra botritis, esclerotina y alternaría, en
+hierbas aromáticas contra botritis, rhizoctonia y esclerotina, en manzano contra alternaría alternata,
+en peral contra stemphylium vesicarium, y en bulbos de ornamentales contra botritis y rhizoctonia,
+y al aire libre e invernadero en fresa contra botritis y en lechuga y similares contra rizoctonia, botritis
+y esclerotina.
 Específicos: (1), (17), (18) Aplicar máx de 1,5 L pf/ha para 1000 L/ha. Máx 2 aplicaciones por campaña con un
 intervalo de 20 días entre aplicaciones en pulverización manual o con tractor, solo en suelos con
 ph>6.  Aplicar desde que aparecen las primeras flores abiertas (BBCH 60-87) 
@@ -83,6 +88,9 @@ superficial de:
 - 10 m con cubierta vegetal en vid, lechuga y similares, hierbas frescas y aromáticas y fresas. 
 - 5 m en flores y ornamentales, bulbos de flores.
 Mitigación de riesgos en la manipulación:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.593
+Nombre comercial: ABOTRIL 500
 Seguridad del aplicador:
 Para todos los usos autorizados durante la mezcla/carga, aplicación, limpieza y mantenimiento del equipo se deberán
 utilizar guantes de protección química. 
@@ -93,9 +101,6 @@ SPo 2: Lávese toda la ropa de protección después de usarla.
 SPo 4: El recipiente debe abrirse al aire libre y en tiempo seco.
 SPo 5: Ventilar los invernaderos tratados hasta que se haya secado la pulverización antes de volver a entrar.
 Restricciones por clases de usuarios:
-Registro de Productos FitoSanitarios
-Nº Registro: 25.593
-Nombre comercial: ABOTRIL 500
 Uso profesional en lugares no destinados al público en general.
 No autorizado para parques y jardines ni para uso profesional en lugares destinados al público en general, en
 cumplimiento con el artículo 49.4 del Real Decreto 1311/2012 de 14 de septiembre por el que se establece el marco de

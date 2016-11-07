@@ -61,9 +61,6 @@ l/ha
 Efectuar un sola aplicación entre el final del ahijado y el inicio del 
 Avena DICOTILEDONEAS 0,7 
 encañado. 
-Efectuar un sola aplicación entre el final del ahijado y el inicio del 
-Cebada DICOTILEDONEAS 0,7 
-encañado. 
  
      Página 1 de 4       Nº REGISTRO:   14328  
 U-46 COMBI FLUID
@@ -75,6 +72,9 @@ U-46 COMBI FLUID
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 l/ha  
+Efectuar un sola aplicación entre el final del ahijado y el inicio del 
+Cebada DICOTILEDONEAS 0,7 
+encañado. 
 Efectuar un sola aplicación entre el final del ahijado y el inicio del 
 Centeno DICOTILEDONEAS 0,7 - 1,2 
 encañado. 
@@ -110,6 +110,10 @@ adyacentes o en los siguientes en la alternativa o en las condiciones concurrent
 especial mención a la espera de 8 semanas entre la aplicación del producto y la siembra del 
 cultivo en la alternativa 
  
+ Página 2 de 4                                102016
+Nº REGISTRO: 
+U-46 COMBI FLUID 
+ 
 Excepciones: -- 
   
 Clase de usuario:   
@@ -118,10 +122,6 @@ Uso reservado a agricultores y aplicadores profesionales
 Mitigación de riesgos en la manipulación:   
 El aplicador deberá  utilizar guantes de protección química, para la mezcla/carga y aplicación. 
 Durante la aplicación con tractor con cabina cerrada y dispositivo de filtrado de aire, se podrá 
- Página 2 de 4                                92316
-Nº REGISTRO: 
-U-46 COMBI FLUID 
- 
 prescindir del equipo de protección, siempre que se mantengan las ventanas cerradas 
 En la limpieza y mantenimiento del equipo se aplicarán las mismas medidas de protección 
 que en aplicación. 
@@ -131,19 +131,16 @@ SPo4: El recipiente debe abrirse al aire libre y en tiempo seco
   
 Clasificaciones y Etiquetado: 
  
-Lesión ocular grave. Categoría 1. 
-Clase y categoría 
+Clase y categoría Lesión ocular grave. Categoría 1. 
 Toxicidad aguda (oral, cutánea, por inhalación). Categoría 4. 
 de peligro 
 (Humana) 
 Pictograma 
 GSH05 (corrosión)  
 GSH07 (signo de exclamación)  
--- 
-Palabra 
+Palabra -- 
 Advertencia 
-EUH 401 - A fin de evitar riesgos para las personas y el medio 
-Indicaciones de 
+Indicaciones de EUH 401 - A fin de evitar riesgos para las personas y el medio 
 ambiente, siga las instrucciones de uso. 
 peligro 
 H318 - Provoca lesiones oculares graves. 
@@ -169,6 +166,10 @@ Acuático crónico 1
 Clase y categoría 
 de peligro 
 (Medio ambiental) 
+ Página 3 de 4                                102016
+Nº REGISTRO: 
+U-46 COMBI FLUID 
+ 
 Pictograma 
 GSH09 (medio ambiente)  
 -- 
@@ -177,12 +178,7 @@ Advertencia
 H410 - Muy tóxico para los organismos acuáticos, con efectos nocivos 
 Frases de Riesgo 
 duraderos.  
- Página 3 de 4                                92316
-Nº REGISTRO: 
-U-46 COMBI FLUID 
- 
-P273 - Evitar su liberación al medio ambiente. (Si no es éste su uso 
-Consejos 
+Consejos P273 - Evitar su liberación al medio ambiente. (Si no es éste su uso 
 previsto) 
 Prudencia 
 P391 - Recoger el vertido. 
@@ -217,4 +213,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 4 de 4                                92316
+ Página 4 de 4                                102016

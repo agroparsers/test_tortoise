@@ -21,7 +21,7 @@ PRODUCCIÓN AGRARIA
 Nombre comercial: INTENSITY 
 Número de autorización: 25116 
 Fecha de inscripción: 18/02/2011 
-Fecha de caducidad: 01/01/2017 
+Fecha de caducidad: 30/12/2017 
  
 Titular  
 Fabricante 
@@ -62,7 +62,7 @@ Botellas de plástico con contenido entre 100 g y 10 kg. Bolsas de plástico con
 aluminio con un contenido desde 25 g hasta 1 kg. 
   
  
-     Página 1 de 4       Nº REGISTRO:   25116  
+     Página 1 de 5       Nº REGISTRO:   25116  
 INTENSITY
 Nº REGISTRO: 
 INTENSITY 
@@ -95,16 +95,16 @@ Trigo MALAS
 duro HIERBAS 
 primer nudo). Para obtener máxima eficacia, debe ser aplicado cuando la mala 
 hierba se encuentre entre 6 y 12 hojas. 
+ Página 2 de 5                                102016
+Nº REGISTRO: 
+INTENSITY 
+ 
   
 Plazos de Seguridad (Protección del consumidor):  
   
 Cultivo P.S. (días) 
 Cebada, Trigo blando, Trigo duro NP 
   
- 
- Página 2 de 4                                92316
-Nº REGISTRO: 
-INTENSITY 
  
  
  
@@ -144,6 +144,10 @@ Indicaciones de
 ambiente, siga las instrucciones de uso. 
 peligro 
 H319 - Provoca irritación ocular grave.  
+ Página 3 de 5                                102016
+Nº REGISTRO: 
+INTENSITY 
+ 
 P261 - Evitar respirar el polvo/el humo/el gas/la niebla/los vapores/ el 
 Consejos de 
 aerosol. (El fabricante o el proveedor especificarán las condiciones 
@@ -164,10 +168,6 @@ GSH09 (medio ambiente)
 -- 
 Palabra 
 Advertencia 
- Página 3 de 4                                92316
-Nº REGISTRO: 
-INTENSITY 
- 
 H410 - Muy tóxico para los organismos acuáticos, con efectos nocivos 
 Frases de Riesgo 
 duraderos.  
@@ -205,8 +205,12 @@ La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO AMBIENTE
 SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el texto 
   
 Condiciones de almacenamiento: -- 
+ Página 4 de 5                                102016
+Nº REGISTRO: 
+INTENSITY 
+ 
   
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 4 de 4                                92316
+ Página 5 de 5                                102016

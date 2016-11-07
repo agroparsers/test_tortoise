@@ -26,7 +26,10 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 (2) Vid BOTRITIS 0,1-0,15 % 21
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
-Generales :
+Generales : Tratamiento fungicida de contacto con acción protectora y curativa contra moho gris (Botritis cineréa
+en vid (aire libre) y fresal (aire libre e invernadero). Aplicar en pulverización normal con tractor y
+manual al aire libre. Pulverización manual (pistola) en invernadero.
+No utilizar en cultivos destinados a transformación y procesado. 
 Específicos: (1) Dosis máxima: 1,5 l/ha de dosis máxima para un volumen de caldo de 500 l/ha. Máximo 3
 aplicaciones/campaña e intervalo entre aplicaciones de 10 días. Aplicar desde plena floración hasta
 la segunda cosecha. 
@@ -39,12 +42,11 @@ SPe 2: Para proteger las aguas subterráneas, no aplicar en suelos con pH < 6..
 Spe3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad hasta las masas de agua
 superficial de:
 - 15 m con cubierta vegetal para vid.
-- 20 m con cubierta vegetal para fresa. 
- 
-Mitigación de riesgos en la manipulación:
+- 20 m con cubierta vegetal para fresa.
 Registro de Productos FitoSanitarios
 Nº Registro: 25.645
 Nombre comercial: GOLPE
+Mitigación de riesgos en la manipulación:
 Seguridad del aplicador:
 En vid (cultivo bajo y alto) en nebulización con tractor o manual, durante la mezcla/carga, aplicación, mantenimiento y
 limpieza del equipo se deberán utilizar guantes de protección química. 

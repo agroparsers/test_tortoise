@@ -63,11 +63,11 @@ máx.
 %  
 PULGONES 
 0,04 - 
-Alfalfa APION Aplicar al inicio de la infestación con un máximo de 0,3 Kg/Ha. 
+Alfalfa Aplicar al inicio de la infestación con un máximo de 0,3 Kg/Ha. 
 0,08 
-CUCA 
+APION 
  
-     Página 1 de 8       Nº REGISTRO:   17091  
+     Página 1 de 10       Nº REGISTRO:   17091  
 KARATE KING
 Nº REGISTRO: 
 KARATE KING 
@@ -77,50 +77,39 @@ KARATE KING
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 %  
+CUCA 
 GUSANO VERDE 
-PULGONES 
 EARIAS 
+HELIOTIS 
 0,04 - 
 Algodonero Aplicar al inicio de la infestación con un máximo de 0,48 kg/Ha.  
 0,08 
-HELIOTIS 
 ORUGAS 
 PULGONES 
+ORUGAS 
 0,04 - 
 Almendro Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
 0,08 
-ORUGAS 
 PULGONES 
+ORUGAS 
 0,04 - 
-Apio ORUGAS Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
+Apio PULGONES Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
 0,08 
 MOSCA 
-PULGONES 
+ORUGAS 
 0,04 - 
 Apionabo Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
 0,08 
-ORUGAS 
 PULGONES 
+ORUGAS 
 0,04 - 
 Avellano Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
 0,08 
-ORUGAS 
 PULGONES 
 0,04 - 
 Brécol MOSCA BLANCA Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
 0,08 
-ORUGAS 
-PULGONES 
-0,04 - 
-Cereales SANPEDRITO Aplicar al inicio de la infestación con un máximo de 0,32 Kg/Ha. 
-0,08 
-GARRAPATILLO 
-Sólo en pulverización-cebo, aplicado a razón de 0,1 l/árbol de caldo 
-MOSCA DE LA 
-Cerezo 0,4 - 0,5 tratando una superficie de 1-2 m2 preferentemente en su lado sur, 
-CEREZA 
-según la técnica necesaria para este tipo de aplicación. 
- Página 2 de 8                                92316
+ Página 2 de 10                                102016
 Nº REGISTRO: 
 KARATE KING 
  
@@ -129,6 +118,19 @@ KARATE KING
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 %  
+ORUGAS 
+PULGONES 
+PULGONES 
+0,04 - 
+Cereales SANPEDRITO Aplicar al inicio de la infestación con un máximo de 0,32 Kg/Ha. 
+0,08 
+GARRAPATILLO 
+Sólo en pulverización-cebo, aplicado a razón de 0,1 l/árbol de caldo 
+MOSCA DE LA 
+0,4 - 0,5 tratando una superficie de 1-2 m2 preferentemente en su lado sur, 
+CEREZA 
+según la técnica necesaria para este tipo de aplicación. 
+Cerezo 
 ORUGAS 0,04 - 
 Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
 DEFOLIADORAS 0,08 
@@ -138,37 +140,46 @@ Cítricos 0,4 - 0,5 tratando una superficie de 1-2 m2 preferentemente en su lado
 según la técnica necesaria para este tipo de aplicación. 
 MOSCA DE LA 
 CEREZA 
-PULGONES 
+ Página 3 de 10                                102016
+Nº REGISTRO: 
+KARATE KING 
+ 
+    
+  Dosis FORMA Y ÉPOCA DE APLICACIÓN 
+USO AGENTE Min- (Condic.Específico) 
+máx. 
+%  
+ORUGAS 
 Coles de 0,04 - 
 Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
 bruselas 0,08 
-ORUGAS 
 PULGONES 
+MOSCA BLANCA 
 0,04 - 
-Coliflor MOSCA BLANCA Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
+Coliflor ORUGAS Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
 0,08 
-ORUGAS 
 PULGONES 
+ORUGAS 
 0,04 - 
 Colza Aplicar al inicio de la infestación con un máximo de 0,48 kg/Ha.  
 0,08 
-ORUGAS 
 PULGONES 
+MOSCA BLANCA 
 0,04 - 
-Cucurbitáceas MOSCA BLANCA Aplicar al inicio de la infestación con un máximo de 1 Kg/Ha. 
+Cucurbitáceas ORUGAS Aplicar al inicio de la infestación con un máximo de 1 Kg/Ha. 
 0,08 
-ORUGAS 
 PULGONES 
+ORUGAS 
 Espinaca y 0,04 - 
 Aplicar al inicio de la infestación con un máximo de 0,27 Kg/Ha. 
 similar 0,08 
-ORUGAS 
 PULGONES 
+ORUGAS 
 0,04 - 
 Fresales Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
 0,08 
-ORUGAS 
- Página 3 de 8                                92316
+PULGONES 
+ Página 4 de 10                                102016
 Nº REGISTRO: 
 KARATE KING 
  
@@ -184,54 +195,34 @@ CERATITIS 0,4 - 0,5
 técnica necesaria para este tipo de aplicación. 
 Frutales de 
 hueso 
-ORUGAS 
-MINADORAS 
-PULGONES 
+ANARSIA 
+CARPOCAPSA 
 0,04 - 
 Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
 0,08 
-ANARSIA 
-CARPOCAPSA 
 ORUGAS 
 MINADORAS 
-Frutales de 0,04 - 
-PULGONES Aplicar al inicio de la infestación con un máximo de 1,2 Kg/Ha. 
-pepita 0,08 
+PULGONES 
 CARPOCAPSA 
+Frutales de ORUGAS 0,04 - 
+Aplicar al inicio de la infestación con un máximo de 1,2 Kg/Ha. 
+pepita MINADORAS 0,08 
+PULGONES 
 0,04 - 
 Grosellero PULGONES Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
 0,08 
 Guisantes 0,04 - 
 PULGONES Aplicar al inicio de la infestación con un máximo de 1 Kg/Ha. 
 verdes 0,08 
-PULGONES 
+ORUGAS 
 Hierbas 0,04 - 
 Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
 aromáticas 0,08 
-ORUGAS 
+PULGONES 
 Hortalizas de 0,04 - 
 PULGONES Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
 bulbo 0,08 
-0,04 - 
-Judías verdes PULGONES Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
-0,08 
-PULGONES 
-Lechugas y 0,04 - 
-Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
-similares 0,08 
-ORUGAS 
-Leguminosas de 0,04 - 
-PULGONES Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
-grano 0,08 
-0,04 - 
-Lúpulo PULGONES Aplicar al inicio de la infestación con un máximo de 1,2 Kg/Ha. 
-0,08 
-PULGONES 
-0,04 - 
-Maíz Aplicar al inicio de la infestación con un máximo de 0,24 Kg/Ha. 
-0,08 
-HELIOTIS 
- Página 4 de 8                                92316
+ Página 5 de 10                                102016
 Nº REGISTRO: 
 KARATE KING 
  
@@ -240,11 +231,30 @@ KARATE KING
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 %  
+0,04 - 
+Judías verdes PULGONES Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
+0,08 
+ORUGAS 
+Lechugas y 0,04 - 
+Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
+similares 0,08 
 PULGONES 
+Leguminosas de 0,04 - 
+PULGONES Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
+grano 0,08 
+0,04 - 
+Lúpulo PULGONES Aplicar al inicio de la infestación con un máximo de 1,2 Kg/Ha. 
+0,08 
+HELIOTIS 
+0,04 - 
+Maíz Aplicar al inicio de la infestación con un máximo de 0,24 Kg/Ha. 
+0,08 
+PULGONES 
+ORUGAS 
 0,04 - 
 Naranjo Aplicar al inicio de la infestación con un máximo de 1,4 Kg/Ha. 
 0,08 
-ORUGAS 
+PULGONES 
 PRAYS (GEN. 
 ANTOFAGA) 
 0,04 - La aplicación se realizará en el período comprendido entre la 
@@ -252,42 +262,55 @@ Olivo
 0,08 recolección de la cosecha y la floración de la siguiente. 
 PRAYS (GEN. 
 FILOFAGA) 
-PULGONES 
 HELIOTIS 
 Ornamentales 0,04 - 
-Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
+ORUGAS Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
 herbáceas 0,08 
-ORUGAS 
-TORTRIX 
 PULGONES 
+ Página 6 de 10                                102016
+Nº REGISTRO: 
+KARATE KING 
+ 
+    
+  Dosis FORMA Y ÉPOCA DE APLICACIÓN 
+USO AGENTE Min- (Condic.Específico) 
+máx. 
+%  
+TORTRIX 
+ESCARABAJO 
 0,04 - 
-Patata ESCARABAJO Aplicar al inicio de la infestación con un máximo de 0,56 kg/Ha.  
+Patata ORUGAS Aplicar al inicio de la infestación con un máximo de 0,56 kg/Ha.  
 0,08 
-ORUGAS 
+PULGONES 
 0,04 - 
 Platanera ORUGAS Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
 0,08 
-PULGONES 
+ORUGAS 
 0,04 - 
 Pomelo Aplicar al inicio de la infestación con un máximo de 1,4 Kg/Ha. 
 0,08 
-ORUGAS 
 PULGONES 
+ORUGAS 
 0,04 - 
 Rábano Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
 0,08 
-ORUGAS 
 PULGONES 
-Remolacha 0,04 - 
-PULGUILLA Aplicar al inicio de la infestación con un máximo de 0,36 Kg/Ha. 
-azucarera 0,06 
 CASIDA 
-PULGONES 
+Remolacha 0,04 - 
+PULGONES Aplicar al inicio de la infestación con un máximo de 0,36 Kg/Ha. 
+azucarera 0,06 
+PULGUILLA 
+ORUGAS 
 0,04 - 
 Repollo Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
 0,08 
+PULGONES 
+MOSCA BLANCA 
+0,04 - 
+Solanáceas Aplicar al inicio de la infestación con un máximo de 1 Kg/Ha. 
+0,08 
 ORUGAS 
- Página 5 de 8                                92316
+ Página 7 de 10                                102016
 Nº REGISTRO: 
 KARATE KING 
  
@@ -297,17 +320,12 @@ USO AGENTE Min- (Condic.Específico)
 máx. 
 %  
 PULGONES 
-MOSCA BLANCA 
-0,04 - 
-Solanáceas Aplicar al inicio de la infestación con un máximo de 1 Kg/Ha. 
-0,08 
-ORUGAS 
 CHINCHE VERDE 
-PULGONES 
+ORUGAS 
 0,04 - 
 Toronja Aplicar al inicio de la infestación con un máximo de 1,4 Kg/Ha. 
 0,08 
-ORUGAS 
+PULGONES 
 POLILLAS DEL 
 RACIMO 
 0,04 - 
@@ -343,14 +361,14 @@ Olivo, Ornamentales herbáceas, Vid NP
  
  
 Condiciones generales de uso:   
+ Página 8 de 10                                102016
+Nº REGISTRO: 
+KARATE KING 
+ 
 Aplicar en pulverización manual o con tractor en tratamiento al aire libre y aplicación manual 
 o con pistola en invernadero. 
 Utilizar la dosis más alta en caso de gran infestación o cuando se necesite una acción frenante 
 contra araña roja o si se desea alargar la persistencia 
- Página 6 de 8                                92316
-Nº REGISTRO: 
-KARATE KING 
- 
 En la etiqueta se darán las indicaciones oportunas para el correcto uso del producto, así como 
 las advertencias necesarias para que el agricultor pueda cerciorarse de los riesgos de su 
 utilización por fitotoxicidad en variedades sensibles del propio cultivo , en los cultivos 
@@ -374,17 +392,18 @@ volver a entrar
   
 Clasificaciones y Etiquetado: 
  
-Clase y categoría Nocivo 
+Nocivo 
+Clase y categoría 
 Peligroso para el medio ambiente 
 de peligro 
 (Humana) 
 Pictograma 
 N  
 Xn  
-Palabra 
- 
+Palabra  
 Advertencia 
-Indicaciones de R20/22 - Nocivo por inhalación y por ingestión 
+R20/22 - Nocivo por inhalación y por ingestión 
+Indicaciones de 
 R36/38 - Irritante para los ojos y la piel 
 peligro 
 R43 - Posibilidad de sensibilización en contacto con la piel 
@@ -401,16 +420,14 @@ S38 - En caso de ventilación insuficiente, úsese equipo respiratorio
 adecuado 
 S45 - En caso de accidente o malestar, acúdase inmediatamente al 
 médico, si es posible enseñándole esta etiqueta 
-Clase y categoría 
- 
-de peligro 
-(Medio ambiental) 
-Pictograma 
- 
- Página 7 de 8                                92316
+ Página 9 de 10                                102016
 Nº REGISTRO: 
 KARATE KING 
  
+Clase y categoría  
+de peligro 
+(Medio ambiental) 
+Pictograma  
 Palabra  
 Advertencia 
 Frases de Riesgo  
@@ -451,4 +468,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 8 de 8                                92316
+ Página 10 de 10                                102016

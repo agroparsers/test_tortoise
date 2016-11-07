@@ -13,7 +13,7 @@ c/ Botiguers, nº 3,. Planta 4ª L. Parque Empresarial Táctica
 46980 PATERNA
 VALENCIA
 Fecha de inscripción: 08/02/2001
-Fecha de caducidad: 30/12/2016
+Fecha de caducidad: 30/06/2018
 Tipo de envase:
 Cajas de cartón de 1 Kg. y sacos de papel de 5 Kg. con bolsa interior de polietileno.
 Composición: FOLPET 40% + METALAXIL 10% [WP] P/P
@@ -50,7 +50,7 @@ R.D. 1416/01, de entregarlos directamente al sistema integrado de gestión al qu
 depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Nocivo, Carcinogénico cat. 3, Peligroso para el medio ambiente
-Símbolos y pictogramas: --
+Símbolos y pictogramas: 0
 Frases de riesgo: R36, R38, R20/21, R40, R43, R50
 Consejos de prudencia: S2, S13, S45, S22, S36/37, S43, S24/25
 Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO

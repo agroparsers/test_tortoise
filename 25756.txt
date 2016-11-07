@@ -21,7 +21,7 @@ PRODUCCIÓN AGRARIA
 Nombre comercial: KARIS 10 CS 
 Número de autorización: 25756 
 Fecha de inscripción: 10/03/2015 
-Fecha de caducidad: 30/06/2017 
+Fecha de caducidad: 31/12/2019 
  
 Titular  
 Fabricante 
@@ -62,10 +62,10 @@ USO AGENTE Min- (Condic.Específico)
 máx. 
 l/ha  
 Realizar 1 aplicación por campaña mediante pulverización normal con 
-Avena PULGONES 0,05 
+Avena MOSCA 0,05 
 tractor. Emplear volumen de caldo de 200-300 l/ha. 
  
-     Página 1 de 9       Nº REGISTRO:   25756  
+     Página 1 de 10       Nº REGISTRO:   25756  
 KARIS 10 CS
 Nº REGISTRO: 
 KARIS 10 CS 
@@ -75,7 +75,7 @@ KARIS 10 CS
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 l/ha  
-MOSCA 
+PULGONES 
 ORUGAS 0,05 
 Realizar 2 aplicaciones por campaña, mediante pulverización normal con 
 Berza tractor, y con un intervalo de 10-14 días entre aplicaciones. Emplear un 
@@ -86,12 +86,10 @@ Realizar 2 aplicaciones por campaña, mediante pulverización normal con
 Brécol tractor, y con un intervalo de 10-14 días entre aplicaciones. Emplear un 
 volumen de caldo de 300-600 l/ha. 
 MOSCA 0,1 
-PULGONES 
 Realizar 1 aplicación por campaña mediante pulverización normal con 
-Cebada 0,05 
+Cebada MOSCA 0,05 
 tractor. Emplear volumen de caldo de 200-300 l/ha. 
-MOSCA 
- Página 2 de 9                                92316
+ Página 2 de 10                                102016
 Nº REGISTRO: 
 KARIS 10 CS 
  
@@ -100,6 +98,7 @@ KARIS 10 CS
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 l/ha  
+PULGONES 
 Realizar un máximo de 3 aplicaciones por campaña, mediante pulverización 
 Chirivia ORUGAS 0,075 normal con tractor, y con un intervalo de 10-14 días entre aplicaciones. 
 Emplear un volumen de caldo de 400-1000 L/ha. 
@@ -115,10 +114,7 @@ tractor, y con un intervalo de 10-14 días entre aplicaciones. Emplear un
 bruselas 
 volumen de caldo de 300-600 l/ha. 
 MOSCA 0,1 
-Realizar 2 aplicaciones por campaña, mediante pulverización normal con 
-Coliflor ORUGAS 0,05 tractor, y con un intervalo de 10-14 días entre aplicaciones. Emplear un 
-volumen de caldo de 300-600 l/ha. 
- Página 3 de 9                                92316
+ Página 3 de 10                                102016
 Nº REGISTRO: 
 KARIS 10 CS 
  
@@ -127,18 +123,17 @@ KARIS 10 CS
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 l/ha  
+ORUGAS 0,05 
+Realizar 2 aplicaciones por campaña, mediante pulverización normal con 
+Coliflor tractor, y con un intervalo de 10-14 días entre aplicaciones. Emplear un 
+volumen de caldo de 300-600 l/ha. 
 MOSCA 0,1 
 PULGUILLA 
-PULGONES 
 Realizar un máximo de 2 aplicaciones por campaña, mediante pulverización 
-Colza 0,075 normal con tractor, y con un intervalo de 10-14 días entre aplicaciones. 
+Colza PULGONES 0,075 normal con tractor, y con un intervalo de 10-14 días entre aplicaciones. 
 Emplear volumen de caldo de 200-300 l/ha. 
 MELIGUETES 
-GORGOJOS 
-Realizar un máximo de 2 aplicaciones por campaña, mediante pulverización 
-Guisantes SITONA 0,075 normal con tractor con un intervalo de 7 días entre aplicaciones. Emplear 
-volumen de caldo de 200-600 l/ha. 
- Página 4 de 9                                92316
+ Página 4 de 10                                102016
 Nº REGISTRO: 
 KARIS 10 CS 
  
@@ -147,10 +142,25 @@ KARIS 10 CS
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 l/ha  
+GORGOJOS 
+SITONA 
+0,075 
 MOSCA 
+Realizar un máximo de 2 aplicaciones por campaña, mediante pulverización 
+Guisantes normal con tractor con un intervalo de 7 días entre aplicaciones. Emplear 
+volumen de caldo de 200-600 l/ha. 
 POLILLAS 
 0,05 
 PULGON 
+ Página 5 de 10                                102016
+Nº REGISTRO: 
+KARIS 10 CS 
+ 
+    
+  Dosis FORMA Y ÉPOCA DE APLICACIÓN 
+USO AGENTE Min- (Condic.Específico) 
+máx. 
+l/ha  
 Realizar un máximo de 2 aplicaciones por campaña, mediante pulverización 
 Judías SITONA 0,075 normal con tractor con un intervalo de 14-21 días entre aplicaciones. 
 Emplear volumen de caldo de 200-300 l/ha. 
@@ -162,7 +172,12 @@ normal con tractor, y con un intervalo de 10-14 días entre aplicaciones.
 Patata PULGONES 0,075 
 Emplear un volumen de caldo de 400 l/ha. 
  
- Página 5 de 9                                92316
+PULGUILLA 
+Realizar un máximo de 2 aplicaciones por campaña, mediante pulverización 
+Remolacha 0,075 normal con tractor, y con un intervalo de 10-14 días entre aplicaciones. 
+Emplear un volumen de caldo de 200-1000 L/ha. 
+MOSCA 
+ Página 6 de 10                                102016
 Nº REGISTRO: 
 KARIS 10 CS 
  
@@ -171,16 +186,12 @@ KARIS 10 CS
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 l/ha  
-PULGUILLA 
-Realizar un máximo de 2 aplicaciones por campaña, mediante pulverización 
-Remolacha MOSCA 0,075 normal con tractor, y con un intervalo de 10-14 días entre aplicaciones. 
-Emplear un volumen de caldo de 200-1000 L/ha. 
 ORUGAS 
-PULGONES 
+MOSCA 
 Realizar 1 aplicación por campaña mediante pulverización normal con 
 Trigo 0,05 
 tractor. Emplear volumen de caldo de 200-300 l/ha. 
-MOSCA 
+PULGONES 
 Realizar un máximo de 3 aplicaciones por campaña, mediante pulverización 
 Zanahoria ORUGAS 0,075 normal con tractor, y con un intervalo de 10-14 días entre aplicaciones. 
 Emplear un volumen de caldo de 400-1000 L/ha. 
@@ -192,11 +203,6 @@ Avena, Cebada, Chirivia, Trigo, Zanahoria 14
 Guisantes, Judías 25 
 Remolacha 56 
 Colza, Lechuga 7 
- Página 6 de 9                                92316
-Nº REGISTRO: 
-KARIS 10 CS 
- 
-Cultivo P.S. (días) 
 Berza, Brécol, Coles, Coles de bruselas, Coliflor, 
 NP 
 Patata 
@@ -205,6 +211,10 @@ Patata
  
  
 Condiciones generales de uso:   
+ Página 7 de 10                                102016
+Nº REGISTRO: 
+KARIS 10 CS 
+ 
 Tratamiento insecticida (aire libre) en trigo, cebada, avena contra mosca, colza contra 
 pulguilla, meligetes y gorgojos, en judías contra sitona, en guisantes contra sitona, polilla, 
 pulgón y mosca, en patata contra pulgón, en remolacha azucarera contra pulguilla, mosca y 
@@ -245,10 +255,6 @@ Clase y categoría
 Toxicidad aguda (oral, cutánea, por inhalación). Categoría 4. 
 de peligro 
 (Humana) 
- Página 7 de 9                                92316
-Nº REGISTRO: 
-KARIS 10 CS 
- 
 Pictograma 
 GSH07 (signo de exclamación)  
 GSH08 (peligro para la salud)  
@@ -263,6 +269,10 @@ H302+H332 - Nocivo en caso de ingestión o inhalación.
  
 H334 - Puede provocar síntomas de alergia o asma o dificultades 
 respiratorias en caso de inhalación.  
+ Página 8 de 10                                102016
+Nº REGISTRO: 
+KARIS 10 CS 
+ 
 P261 - Evitar respirar el polvo/el humo/el gas/la niebla/los vapores/ el 
 Consejos de 
 aerosol. (El fabricante o el proveedor especificarán las condiciones 
@@ -275,8 +285,7 @@ proveedor especificarán el tipo de equipo)
 P304+P340 - EN CASO DE INHALACIÓN: Transportar a la víctima al 
 exterior y mantenerla en reposo en una posición confortable para 
 respirar. 
-Acuático agudo 1 
-Clase y categoría 
+Clase y categoría Acuático agudo 1 
 Acuático crónico 1 
 de peligro 
 (Medio ambiental) 
@@ -307,10 +316,6 @@ de 5m hasta las masas de agua superficial
  Eliminación Producto y/o caldo: -- 
  
 Gestión de envases:   
- Página 8 de 9                                92316
-Nº REGISTRO: 
-KARIS 10 CS 
- 
 Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases 
 de productos fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los 
 envases vacíos o resíduos de envases bien en los puntos de recogida establecidos por los 
@@ -324,6 +329,10 @@ En la etiqueta se hará constar que "contiene difenilmetano-4,4¨-diisocianato n
 8".  
 La nafta disolvente del petróleo con nº de CAS 64742-95-5 debe tener un contenido en 
 naftaleno menor del 1 %. 
+ Página 9 de 10                                102016
+Nº REGISTRO: 
+KARIS 10 CS 
+ 
 Contiene isocianatos. Puede provocar una reacción alérgica. 
 SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE. (No limpiar 
 el equipo de aplicación del producto cerca de aguas superficiales/Evitese la contaminación a 
@@ -336,4 +345,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 9 de 9                                92316
+ Página 10 de 10                                102016

@@ -74,7 +74,7 @@ en el punto de venta donde se hubiera adquirido si dichos envases se han puesto 
 sistema de depósito, devolución y retorno.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Atención, Acuático crónico 1, Sensibilizantes cutáneos. Categoría 1., Acuático agudo 1
-Símbolos y pictogramas: --
+Símbolos y pictogramas: GHS07,GHS09
 Frases de riesgo: H317, H410, EUH 401
 Consejos de prudencia: P101, P261, P273, P280, P391, P302+P352, P309+P311, P501
 Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene mezcla de
@@ -83,3 +83,6 @@ SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
 (No limpiar el equipo de aplicación del producto cerca de aguas
 superficiales/Evitese la contaminación a través de los sistemas de evacuación de
 aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.

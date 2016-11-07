@@ -17,45 +17,98 @@ Fecha de inscripción: 21/11/2013
 Fecha de caducidad: 31/08/2019
 Tipo de envase:
 Bolsa de plástico de 500 g.
-Composición: CARBONATO DE HIDROGENO DE POTASIO 85% ( ) [SP] P/P (ESP.)
+Composición: CARBONATO DE HIDROGENO DE POTASIO 85% ( ESPII) [SP] P/P
 Tipo de preparado: POLVO SOLUBLE EN AGUA [SP]
 Tipo de función: Fungicida
 Ámbitos de utilización: Jardinería Exterior Doméstica
 Usos autorizados:
 Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
-(1) Calabacín OIDIO (ver nota) 1
-(2) Frambueso OIDIO (ver nota) 1
-(3) Fresal OIDIO (ver nota) 1
-(4) Grosellero OIDIO (ver nota) 1
-(5) Hierbas aromáticas OIDIO (ver nota) 1
-(6) Pepinillo OIDIO (ver nota) 1
-(7) Pepino OIDIO (ver nota) 1
-(8) Vid BOTRITIS (ver nota) 1
-(9) Vid OIDIO (ver nota) 1
-P.S.: Plazo de seguridad (días)
-Condicionamientos fitoterapeúticos:
-Generales : Aplicar mediante mochila de pulverización para jardinería, con un máximo de 6 aplicaciones por ciclo
-de cultivo.
-Mezclar de 2.5 a 5 gramos de producto por cada litro de caldo. Aplicar de 0.5 a 2 litros de caldo por
-cada 10 m2.
+(1) Albaricoquero MONILIA (ver nota) 1
+(2) Berenjena OIDIO (ver nota) 1
+(3) Calabacín OIDIO (ver nota) 1
+(4) Flor cortada OIDIO (ver nota) 1
+(5) Frambueso OIDIO (ver nota) 1
+(6) Fresal OIDIO (ver nota) 1
+(7) Grosellero OIDIO (ver nota) 1
+(8) Hierbas aromáticas OIDIO (ver nota) 1
+(9) Manzano MOTEADO (ver nota) 1
+(10) Melocotonero MONILIA (ver nota) 1
+(11) Membrillero MOTEADO (ver nota) 1
+(12) Níspero MOTEADO (ver nota) 1
+(13) Ornamentales herbáceas OIDIO (ver nota) 1
+(14) Ornamentales leñosas OIDIO (ver nota) 1
+(15) Pepinillo OIDIO (ver nota) 1
+(16) Pepino OIDIO (ver nota) 1
+(17) Peral MOTEADO (ver nota) 1
+(18) Pimiento OIDIO (ver nota) 1
 Registro de Productos FitoSanitarios
 Nº Registro: 25.698
 Nombre comercial: ARMICARB GARDEN
-Específicos: (1), (2), (3), (4), (5), (6), (7), (9) Aplicar preventivamente repitiendo cada 7 a 10 días asegurando una
-buena cobertura de la pulverización.
-(8) Aplicar preventivamente en los estadíos de caída de capuchones florales, antes del cierre del
+(19) Rosal OIDIO (ver nota) 1
+(20) Tomate OIDIO (ver nota) 1
+(21) Vid BOTRITIS (ver nota) 1
+(22) Vid OIDIO (ver nota) 1
+P.S.: Plazo de seguridad (días)
+Condicionamientos fitoterapeúticos:
+Generales : Aplicar en pulverización manual con mochila.
+Registro de Productos FitoSanitarios
+Nº Registro: 25.698
+Nombre comercial: ARMICARB GARDEN
+Específicos: (1) (Al aire libre): Aplicar durante la maduración del fruto (BBCH 79 - 89). Máximo 3 aplicaciones con
+un intervalo de 3 días. Mezclar de 5 a 10 g de producto por litro de caldo. Volumen de caldo: 0,5-1,5
+l/ 10 m2. Máximo: 5 g de producto / 10 m2.
+(2), (18) (En interior no estrictamente cerrado e invernadero): Aplicar desde el principio del desarrollo
+de las hojas hasta la madurez completa (BBCH 10-89). Máximo 8 aplicaciones con un intervalo de 7
+días. Mezclar de 3 a 6 g de producto por litro de caldo. Volumen de caldo: 0,5-1 l/ 10 m2. Máximo: 3
+g de producto / 10 m2.
+(3), (5), (6), (7), (8), (15), (16), (22) Aplicar preventivamente repitiendo cada 7 a 10 días asegurando
+una buena cobertura de la pulverización. Mezclar de 2.5 a 5 gramos de producto por cada litro de
+caldo. Aplicar de 0.5 a 2 litros de caldo por cada 10 m2. Máximo de 6 aplicaciones por ciclo de
+cultivo.
+(4) (En interior no estrictamente cerrado, invernadero y aire libre): Máximo 6 aplicaciones con un
+intervalo de 7 días. Volumen de caldo: 0,5-2 l/ 10 m2. Con flor cortada en el estadio de crecimiento
+de follaje joven (por ejemplo Amelanchier) máximo 5 g de producto / 10 m2 (mezclar de 2,5 a 10 g
+de producto por litro de caldo). Con flor cortada en el estadío de crecimiento de flores, follaje joven y
+maduro (por ejemplo Gerbera y Daisy) máximo 3 g de producto / 10 m2 (mezclar de 1,5 a 6 g de
+producto por litro de caldo).
+(9), (11), (12), (17) (Al aire libre): Aplicar cuando el tamaño del fruto alcance los 20 mm (BBCH 72).
+Máximo 5 aplicaciones con un intervalo de 8 días. Mezclar de 5 a 12,5 g de producto por litro de
+caldo. Volumen de caldo: 0,4-2 l/ 10 m2. Máximo: 5 g de producto / 10 m2.
+(10) (Al aire libre): Aplicar durante la maduración del fruto (BBCH 79 - 89). Máximo 3 aplicaciones
+con un intervalo de 3 días. Mezclar de 5 a 10 g de producto por litro de caldo. Volumen de caldo:
+0,5-1,5 l/ 10 m2. Máximo: 5 g de producto / 10 m2. Incluye nectarino.
+(13), (14) (En interior no estrictamente cerrado, invernadero y aire libre): Aplicar en follaje joven.
+Máximo 6 aplicaciones con un intervalo de 7 días. Mezclar de 2,5 a 10 g de producto por litro de
+caldo. Volumen de caldo: 0,5-2 l/ 10 m2. Máximo: 5 g de producto / 10 m2. En planta en maceta
+(por ejemplo crisantemo) en los estadios de flores, follaje joven y maduro se deberá aplicar  una
+dosis máxima de 3 g de producto / 10 m2 (mezclar de 1,5 a 6 g de producto por litro de caldo).
+(19) (En interior no estrictamente cerrado, invernadero y aire libre): Aplicar en BBCH 41-49 (hojas)y
+BBCH 51-59 (brotes florales). Máximo 6 aplicaciones con un intervalo de 7 días. Mezclar de 2,5 a 10
+g de producto por litro de caldo. Volumen de caldo: 0,5-2 l/ 10 m2. Máximo: 5 g de producto / 10
+m2.
+(20) (En interior no estrictamente cerrado e invernadero): Incluye Lycium barbarum (bayas de goji) y
+Physallis. Aplicar desde el principio del desarrollo de las hojas hasta la madurez completa (BBCH
+10-89). Máximo 8 aplicaciones con un intervalo de 7 días. Mezclar de 3 a 6 g de producto por litro de
+caldo. Volumen de caldo: 0,5-1 l/ 10 m2. Máximo: 3 g de producto / 10 m2.
+(21) Aplicar preventivamente en los estadíos de caída de capuchones florales, antes del cierre del
 racimo, inicio del envero; seguir durante las últimas 3 semanas precedentes a la cosecha (con
 condiciones climáticas favorables al parásito). Asegurar una buena cobertura de la pulverización en
-los racimos.
+los racimos. Mezclar de 2.5 a 5 gramos de producto por cada litro de caldo. Aplicar de 0.5 a 2 litros
+de caldo por cada 10 m2. Máximo de 6 aplicaciones por ciclo de cultivo.
 Condicionamientos preventivos de riesgos:
 Mitigación de riesgos medioambientales:
-SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m hasta las masas
+Registro de Productos FitoSanitarios
+Nº Registro: 25.698
+Nombre comercial: ARMICARB GARDEN
+Spe3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m hasta las masas
 de agua superficial.
 Mitigación de riesgos en la manipulación:
-No entrar al cultivo hasta que el producto esté seco.
+Se recomienda el uso de guantes de protección química al manejar el producto.
+No entrar en los cultivos tratados hasta que se haya secado la pulverización.
+Evitar el contacto con el follaje húmedo durante la aplicación.
 Restricciones por clases de usuarios:
-Autorizado para jardineria exterior doméstica.
-Uso no profesional
+Uso no profesional.
+Autorizado para jardinería exterior doméstica.
 Envases:
 Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
 Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
@@ -66,9 +119,14 @@ sistema de depósito, devolución y retorno.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : --
 Símbolos y pictogramas: --
-Frases de riesgo: EUH 401
-Consejos de prudencia: P102, P261, P262, P405
+Frases de riesgo: EUH 210, EUH 401
+Consejos de prudencia: P102, P261, P262
 Otras indicaciones reglamentarias: SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
 (No limpiar el equipo de aplicación del producto cerca de aguas
 superficiales/Evitese la contaminación a través de los sistemas de evacuación de
 aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.
+En la etiqueta se indicará "Autorizado para jardinería exterior doméstica" en
+caracteres preferentemente visibles.

@@ -13,7 +13,7 @@ GA 31603 Valdosta
 Georgia
 ESTADOS UNIDOS
 Fecha de inscripción: 08/06/2000
-Fecha de caducidad: 30/11/2016
+Fecha de caducidad: 31/01/2018
 Tipo de envase:
 Bolsas de papel con barrera de plástico al vapor de 1, 5, 2  y 10 kg.
 Bolsas de plástico de 1,2,3,6 y 10 Kg.
@@ -111,9 +111,7 @@ Usos protegidos hasta fecha: (55) , (56) , (57) , (58) , (59) , (60) , (61) , (6
 , (73) , (74) , (75) , (76) 
 Excepciones: (46), (47), (48), (49) Excepto espárrago.
 Condicionamientos fitoterapeúticos:
-Generales : Aplicar en pulverización normal.
-Observar precauciones por la fitotoxicidad propia del cobre, sobre todo en zonas frías y húmedas, en
-algunas variedades de frutales, vid y otros cultivos.
+Generales :
 Específicos: (4), (5), (6), (7) P.S.: 3 días en cultivo de invernadero. Efectuar un máximo de 6 aplicaciones por
 campaña a intervalos de 7 días utilizando un volumen máximo de caldo de 1800 l/Ha. y un máximo
 de 7,5 Kg de cobre inorgánico por campaña.
@@ -130,11 +128,11 @@ Condicionamientos preventivos de riesgos:
 Mitigación de riesgos medioambientales:
 Mamíferos: A
 Aves: A
+Peces: C Muy peligroso para peces
+Abejas: Compatible con abejas
 Registro de Productos FitoSanitarios
 Nº Registro: 22.002
 Nombre comercial: KDOS
-Peces: C Muy peligroso para peces
-Abejas: Compatible con abejas
 Evitar la contaminación de aguas.
 Restricciones por clases de usuarios:
 Uso reservado a agricultores y aplicadores profesionales
@@ -146,7 +144,7 @@ R.D. 1416/2001, de entregarlos directamente al sistema integrado de gestión al 
 depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Nocivo, Peligroso para el medio ambiente
-Símbolos y pictogramas: --
+Símbolos y pictogramas: 0
 Frases de riesgo: R20/22, R41, R50/53
 Consejos de prudencia: S2, S13, S45, S36/37/39, S26, S23
 Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO

@@ -13,7 +13,7 @@ CH-4002
 BASILEA
 SUIZA
 Fecha de inscripción: 18/11/1976
-Fecha de caducidad: 31/12/2016
+Fecha de caducidad: 30/06/2018
 Tipo de envase:
 Sacos de papel plastificado de 1, 10 y 25 kg.
 Rango de envases comprendidos entre 50 g y 25 kg en forma de saco de papel (PE/EVOH/PE/Papel/Papel)
@@ -78,7 +78,7 @@ haya suministrado el producto.
 de recogida pública de residuos especiales o peligrosos.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Irritante
-Símbolos y pictogramas: Xi
+Símbolos y pictogramas: 0
 Frases de riesgo: R38
 Consejos de prudencia: S2, S13, S45, S37, S24, S41, S23
 Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO

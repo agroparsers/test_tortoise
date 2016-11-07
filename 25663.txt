@@ -62,14 +62,10 @@ Cebada ciclo
 DICOTILEDONEAS 0,7 
   
 corto 
-Cereales de DICOTILEDONEAS 1,4 
+Cereales de 
+DICOTILEDONEAS 1,4 
   
 invierno 
-Césped de DICOTILEDONEAS 1,2 
-  
-Gramíneas 
-Espárrago DICOTILEDONEAS 1,2 
-  
  
      Página 1 de 4       Nº REGISTRO:   25663  
 U-46 D COMPLET
@@ -81,6 +77,11 @@ U-46 D COMPLET
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 l/ha  
+Césped de 
+DICOTILEDONEAS 1,2   
+Gramíneas 
+Espárrago DICOTILEDONEAS 1,2 
+  
 Frutales de 
 DICOTILEDONEAS 1,6 Sólo en cultivos establecidos. 
 hueso 
@@ -88,7 +89,8 @@ Lavanda DICOTILEDONEAS 0,6
   
 Lavandín DICOTILEDONEAS 0,6 
   
-Lirio de los DICOTILEDONEAS 1,6 
+Lirio de los 
+DICOTILEDONEAS 1,6 
   
 Valles 
 Maíz DICOTILEDONEAS 2 
@@ -134,15 +136,15 @@ realizar dos.
 Se observarán las normas oficiales para aplicación de herbicidas hormonales (O.M. de 8-10-
 73, BOE del 17-10-73). 
 En la etiqueta figurarán las advertencias necesarias para que el agricultor pueda cerciorarse 
+ Página 2 de 4                                102016
+Nº REGISTRO: 
+U-46 D COMPLET 
+ 
 de los riesgos de utilización del producto por fitotoxicidad para el cultivo o para los cultivoa 
 adyacentes 
  
 Excepciones: -- 
   
- Página 2 de 4                                92316
-Nº REGISTRO: 
-U-46 D COMPLET 
- 
 Clase de usuario:   
 Uso reservado a agricultores y aplicadores profesionale 
   
@@ -170,8 +172,7 @@ de peligro
 Pictograma 
 N  
 Xi  
-Palabra 
- 
+Palabra  
 Advertencia 
 R37 - Irritante para las vias respiratorias 
 Indicaciones de 
@@ -180,7 +181,8 @@ peligro
 R43 - Posibilidad de sensibilización en contacto con la piel 
 R50/53 - Muy tóxico para los organismos acuáticos, puede provocar a 
 largo plazo efectos negativos en el medio ambiente acuático 
-Consejos de S13 - Conservar separado de alimentos, bebidas y piensos 
+S13 - Conservar separado de alimentos, bebidas y piensos 
+Consejos de 
 S2 - Manténgase fuera del alcance de los niños. 
 Prudencia 
 S23 - No respirar los gases/humos/vapores/aerosoles 
@@ -191,16 +193,16 @@ S36/37/39 - Utilizar ropa de protección adecuada, guantes y
 gafas/pantalla protectora de los ojos/de la cara 
 S45 - En caso de accidente o malestar, acúdase inmediatamente al 
 médico, si es posible enseñándole esta etiqueta 
+ Página 3 de 4                                102016
+Nº REGISTRO: 
+U-46 D COMPLET 
+ 
 Clase y categoría  
 de peligro 
 (Medio ambiental) 
 Pictograma  
 Palabra  
 Advertencia 
- Página 3 de 4                                92316
-Nº REGISTRO: 
-U-46 D COMPLET 
- 
 Frases de Riesgo  
 Consejos  
 Prudencia 
@@ -235,4 +237,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 4 de 4                                92316
+ Página 4 de 4                                102016

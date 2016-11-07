@@ -57,9 +57,9 @@ Usos y dosis autorizados:
    
   Dosis 
 USO AGENTE Min-máx. 
-PULGONES 
-Algodonero 0,4 - 0,6 l/ha 
 ORUGAS 
+Algodonero 0,4 - 0,6 l/ha 
+PULGONES 
 Avena PULGONES 0,4 - 0,6 l/ha 
 PULGONES 
 Cebada 0,4 - 0,6 l/ha 
@@ -69,7 +69,7 @@ Centeno 0,4 - 0,6 l/ha
 GARRAPATILLO 
 Clavel TORTRIX 0,4 - 0,6 l/ha 
  
-     Página 1 de 4       Nº REGISTRO:   18285  
+     Página 1 de 5       Nº REGISTRO:   18285  
 SUMIPOWER 2,5 EC
 Nº REGISTRO: 
 SUMIPOWER 2,5 EC 
@@ -81,19 +81,19 @@ PULGONES
 Coles de bruselas 0,4 - 0,6 l/ha 
 ORUGAS 
 Colza ORUGAS 0,4 - 0,6 l/ha 
-PULGONES 
-Frutales de pepita ORUGAS 0,04 - 0,06 % 
-PSILA 
-PULGONES 
-Ornamentales herbáceas 0,4 - 0,6 l/ha 
 ORUGAS 
+Frutales de pepita PSILA 0,04 - 0,06 % 
+PULGONES 
+ORUGAS 
+Ornamentales herbáceas 0,4 - 0,6 l/ha 
+PULGONES 
 PULGONES 
 Ornamentales leñosas 0,4 - 0,6 l/ha 
 ORUGAS 
 CHINCHES 
-PULGONES 
-Patata 0,4 - 0,6 l/ha 
 ESCARABAJO 
+Patata 0,4 - 0,6 l/ha 
+PULGONES 
 ORUGAS 
 PULGONES 
 Remolacha azucarera PULGUILLA 0,4 - 0,6 l/ha 
@@ -125,6 +125,11 @@ Avena, Cebada, Centeno, Trigo, Triticale 28
 Tomate 3 
 Algodonero, Remolacha azucarera 30 
 Colza 42 
+ Página 2 de 5                                102016
+Nº REGISTRO: 
+SUMIPOWER 2,5 EC 
+ 
+Cultivo P.S. (días) 
 Coles de bruselas, Repollo 7 
 Clavel, Ornamentales herbáceas, Ornamentales 
 NP 
@@ -132,10 +137,6 @@ leñosas
   
  
  
- 
- Página 2 de 4                                92316
-Nº REGISTRO: 
-SUMIPOWER 2,5 EC 
  
 Condiciones generales de uso:   
 Aplicar en pulverización normal mojando bien los cultivos 
@@ -171,6 +172,10 @@ R41 - Riesgo de lesiones oculares graves
 R43 - Posibilidad de sensibilización en contacto con la piel 
 R50/53 - Muy tóxico para los organismos acuáticos, puede provocar a 
 largo plazo efectos negativos en el medio ambiente acuático 
+ Página 3 de 5                                102016
+Nº REGISTRO: 
+SUMIPOWER 2,5 EC 
+ 
 S13 - Conservar separado de alimentos, bebidas y piensos 
 Consejos de 
 S2 - Manténgase fuera del alcance de los niños. 
@@ -186,15 +191,10 @@ especificar el fabricante).(Si el agua aumenta el riesgo, se deberá
 añadir: "No usar nunca agua") 
 S45 - En caso de accidente o malestar, acúdase inmediatamente al 
 médico, si es posible enseñándole esta etiqueta 
-Clase y categoría 
- 
+Clase y categoría  
 de peligro 
 (Medio ambiental) 
 Pictograma  
- Página 3 de 4                                92316
-Nº REGISTRO: 
-SUMIPOWER 2,5 EC 
- 
 Palabra  
 Advertencia 
 Frases de Riesgo  
@@ -227,6 +227,10 @@ directamente al sistema integrado de gestión al que esté adherido o al propio,
 devolución y retorno, a través del punto de venta donde el usuario lo adquiera 
   
 Otras indicaciones reglamentarias:   
+ Página 4 de 5                                102016
+Nº REGISTRO: 
+SUMIPOWER 2,5 EC 
+ 
 En la etiqueta se hará constar que "contiene xileno y 2-fenoxietanol nº CAS: 122-99-6".   
 La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO AMBIENTE 
 SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el texto.   
@@ -239,4 +243,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 4 de 4                                92316
+ Página 5 de 5                                102016

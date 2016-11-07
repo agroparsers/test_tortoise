@@ -15,7 +15,8 @@ MURCIA
 Fecha de inscripción: 19/02/2015
 Fecha de caducidad: 31/12/2021
 Tipo de envase:
-Garrafa de plástico de 5 l. (boca 63 mm).
+Botellas HDPE de 1 l (boca 45 mm).
+Garrafa de plástico de 5 l (boca 63 mm).
 Composición: 8-HIDROXIQUINOLEÍNA 37,5% (SULFATO) [SL] P/V
 Tipo de preparado: CONCENTRADO SOLUBLE [SL]
 Tipo de función: Fungicida
@@ -59,7 +60,7 @@ Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Atención, Acuático crónico 1, Toxicidad aguda (oral, cutánea, por inhalación). Categoría
 4., Corrosión cutánea. Categoría 1 A., Sensibilizantes cutáneos. Categoría 1., Tóxicos
 para la reproducción. Categoría 2., Peligro
-Símbolos y pictogramas: --
+Símbolos y pictogramas: GHS05,GHS07,GHS08,GHS09
 Frases de riesgo: H302, H314, H317, H361, H410, EUH 401
 Consejos de prudencia: P201, P202, P260, P273, P280, P391, P301+P330+P331, P303+P361+P353, P304+P340,
 P305+P351+P338, P501
@@ -68,3 +69,6 @@ SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
 (No limpiar el equipo de aplicación del producto cerca de aguas
 superficiales/Evitese la contaminación a través de los sistemas de evacuación de
 aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.

@@ -12,7 +12,7 @@ c/ Prof. Beltrán Báguena, 5 - Edificio Nuevo Centro
 46009
 VALENCIA
 Fecha de inscripción: 11/02/1983
-Fecha de caducidad: 30/10/2016
+Fecha de caducidad: 31/01/2018
 Tipo de envase:
 Envases de polietileno alta densidad de 1, 5 y 20 l. y bidón de boca ancha de 200 l.
 Composición: OXICLORURO DE COBRE 38% (EXPR. EN CU) [SC] P/V
@@ -153,7 +153,7 @@ R.D. 1416/2001, de entregarlos directamente al sistema integrado de gestión al 
 depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Nocivo, Peligroso para el medio ambiente
-Símbolos y pictogramas: --
+Símbolos y pictogramas: 0
 Frases de riesgo: R20, R22, R50/53
 Consejos de prudencia: S2, S13, S45, S36, S24/25, S23
 Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO

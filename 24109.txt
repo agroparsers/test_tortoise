@@ -18,7 +18,7 @@ Tipo de envase:
 Sobre de aluminio de 2,5 g.
 Botellas de plástico de 50 g (boca 40 mm), 250 g (40 mm) y
 1 kg (boca  53 mm).
-Bolsas de plástico de 1 kg.
+Bolsas de plástico de 150 g y 1 kg.
 Composición: CLOTIANIDINA 50% [WG] P/P
 Tipo de preparado: GRANULADO DISPERSABLE EN AGUA [WG]
 Tipo de función: Insecticida
@@ -33,11 +33,11 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 (6) Peral PULGONES 15 g/Hl 14
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
-Generales : Aplicar en pulverización normal procurando un buen recubrimiento del cultivo. 
+Generales : Aplicar en pulverización normal procurando un buen recubrimiento del cultivo.
 En la etiqueta se darán las instrucciones oportunas para la correcta utilización del producto, así
 como las advertencias necesarias para que el agricultor pueda cerciorarse de los riesgos de su
 utilización.
-SPa 1: A efectos de prevenir la aparición de resistencias, no efectuar con este producto ni con
+Spa 1: A efectos de prevenir la aparición de resistencias, no efectuar con este producto ni con
 ningún otro producto que contenga clotianidina más de 2 aplicaciones por período vegetativo.
 Registro de Productos FitoSanitarios
 Nº Registro: 24.109

@@ -14,9 +14,10 @@ VALENCIA
 Fecha de inscripción: 29/10/2014
 Fecha de caducidad: 31/03/2020
 Tipo de envase:
-Botellas de plástico de 100, 150, 300, 500 ml y 1 l.
+Rango de envases de 5 ml a 500 ml.
+Botellas de plástico de 1 l.
 Garrafa de plástico de 5 l.
-Composición: CIFLUFENAMID 10% [SC] P/V
+Composición: CIFLUFENAMID 10% ( ESP) [SC] P/V
 Tipo de preparado: SUSPENSION CONCENTRADA [SC]
 Tipo de función: Fungicida
 Ámbitos de utilización: Cultivos
@@ -31,45 +32,66 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 (7) Tomate OIDIO 10-30 ml/Hl 1
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
-Generales : Aplicar en pulverización manual y con tractor al aire libre y manual en invernadero, efectuando 2
-tratamientos separados al menos 7 días con un volumen de caldo de 500-1.500 l/Ha. sin superar 150
-ml. de producto/Ha.
-Condicionamientos preventivos de riesgos:
-Mitigación de riesgos medioambientales:
-SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m. hasta las masas
-de agua superficial.
-Mitigación de riesgos en la manipulación:
+Generales : Tratamiento fungicida preventivo y curativo.
+Uso profesional: Aplicar en pulverización manual y con tractor al aire libre y manual en invernadero,
+efectuando 2 tratamientos separados al menos 7 días con un volumen de caldo de 500-1500 l/ha sin
+superar 150 ml de producto/ha.
+Uso no profesional (jardinería exterior doméstica): Para todos los usos autorizados, serán
+necesarias 2 aplicaciones por campaña con un intervalo de 7 días entre aplicaciones y mediante
+pulverización manual.
+Específicos: (1), (2), (3), (4), (5), (6), (7) En jardinería exterior doméstica, la dosis máxima será de 0,015 ml/m2 y
+el volumen de caldo de 5-15 l/100 m2.
 Registro de Productos FitoSanitarios
 Nº Registro: 25.516
 Nombre comercial: ELIO
-El aplicador deberá utilizar guantes de protección química durante la mezcla/carga y aplicación y si el tractor no lleva
-cabina cerrada, además en aplicación en invernadero y en el manejo y limpieza del equipo, deberá utilizar ropa de
-protección química tipo 6, contra salpicaduras de productos líquidos
-No entrar al cultivo hasta que el producto esté seco.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
+SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m hasta las masas
+de agua superficial.
+Mitigación de riesgos en la manipulación:
+Seguridad del aplicador:
+En uso profesional, deberá utilizar guantes de protección química durante la mezcla-carga y aplicación y si el tractor
+no lleva cabina cerrada, además en aplicación en invernadero y en el manejo y limpieza del equipo, deberá utilizar ropa
+de protección química tipo 6, contra salpicaduras de productos líquidos.
 Evítese el contacto con el follaje húmedo.
-SPo 2: Lávese toda la ropa de protección después de usarla. 
-SPo 5: Ventilar los invernaderos tratados hasta que se haya secado la pulverización antes de volver a entrar.
+En jardinería exterior doméstica, no será necesario el uso de medidas de protección ni en mezcla-carga ni en
+aplicación.
+Seguridad del trabajador:
+Para todos los usos autorizados se deberá utilizar ropa de trabajo.
+Se entiende como ropa de trabajo: manga larga, pantalón largo y calzado adecuado.
+SPo 2: Lávese toda la ropa de protección después de usarla.
+SPo 5: Ventilar los invernaderos tratados hasta que se haya secado la pulverización antes de volver a entrar. 
 Restricciones por clases de usuarios:
-Uso reservado a agricultores y aplicadores profesionales
+Uso reservado a agricultores y aplicadores profesionales. 
+Uso no profesional. Jardinería exterior doméstica.
 Envases:
 Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
-Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
 Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
 fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
 en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente
 en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
 sistema de depósito, devolución y retorno.
+Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Acuático crónico 2
-Símbolos y pictogramas: --
-Frases de riesgo: H411
+Símbolos y pictogramas: GHS09
+Frases de riesgo: H411, EUH 208, EUH 401
 Consejos de prudencia: P261, P262, P273, P391, P501
-Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene 1,2-benzisotiazol-3(2H)-ona nº
-CAS:2634-33-5". Puede provocar una reacción alérgica  
-La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
-AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
-texto.  
+Otras indicaciones reglamentarias: Otros componentes además del ingrediente activo técnico: Contiene
+1,2-benzisotiazol-e-(2H)-ona, nº CAS: 2634-33-5. Puede provocar una reacción
+alérgica.
+En cumplimiento con el Real Decreto 1311/2012, de 14 de septiembre, por el que
+se establece el marco de actuación para conseguir un uso sostenible de productos
+fitosanitarios, artículo 48, "Condicionamientos para los usos no profesionales", "los
+envases unitarios de productos fitosanitarios que se comercialicen para usuarios
+no profesionales no podrán exceder de las siguientes capacidades:
+a) Un litro, cuando se trate de aerosoles u otros tipos de envases diseñados para
+aplicar directamente el producto fitosanitario ya diluido contenido.
+b) 500 g ó 500 ml para cualquier otro tipo de preparado.
 SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
 (No limpiar el equipo de aplicación del producto cerca de aguas
 superficiales/Evitese la contaminación a través de los sistemas de evacuación de
 aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.

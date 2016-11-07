@@ -12,7 +12,7 @@ C/ Méndez Álvaro nº 20, 5ª Planta
 28045
 MADRID
 Fecha de inscripción: 10/10/2003
-Fecha de caducidad: 28/02/2017
+Fecha de caducidad: 31/08/2019
 Tipo de envase:
 Botella de plástico "coex" de 1 l.
 Garrafas de plástico "coex" de 5, 10 y 25 l.
@@ -63,7 +63,7 @@ R.D. 1416/01, de entregarlos directamente al sistema integrado de gestión al qu
 devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Nocivo, Peligroso para el medio ambiente
-Símbolos y pictogramas: --
+Símbolos y pictogramas: 0
 Frases de riesgo: R22, R36/38, R51/53
 Consejos de prudencia: S2, S13, S45, S36/37, S25, S23
 Otras indicaciones reglamentarias: La frase: 'A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO

@@ -35,7 +35,11 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 (10) Vid BOTRITIS 1,5 l/ha 21
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
-Generales :
+Generales : Aplicar en pulverización normal mediante sistemas hidraúlicos al aire libre y con lanza o pistola en
+invernadero, con un volumen de caldo de 1.000 l/Ha.
+En la etiqueta se indicarán las instrucciones para el correcto uso del producto así como sobre las
+compatibilidades con otros plaguicidas y las advertencias sobre los posibles riesgos derivados de su
+aplicación.
 Registro de Productos FitoSanitarios
 Nº Registro: 25.715
 Nombre comercial: BOTRISEC SC

@@ -13,7 +13,7 @@ GA 31603 Valdosta
 Georgia
 Estados Unidos
 Fecha de inscripción: 21/10/2004
-Fecha de caducidad: 30/11/2016
+Fecha de caducidad: 31/01/2018
 Tipo de envase:
 Bolsas de papel de 0,5, 0,6, 1, 1,5 , 4,5 y 5 Kg 
 Bosas de papel con barrera de plástico de 1 y 2,5 Kg.
@@ -81,9 +81,7 @@ Nombre comercial: KOCIDE OPTI
 P.S.: Plazo de seguridad (días)
 Excepciones: (42), (43), (44) Excepto espárrago.
 Condicionamientos fitoterapeúticos:
-Generales : Aplicar en pulverización normal.
-En la etiqueta se indicarán las precauciones a observar por la fitotoxicidad propia del cobre, sobre
-todo en zonas frías y húmedas, en algunas variedades de frutales, vid y otros cultivos.
+Generales :
 Registro de Productos FitoSanitarios
 Nº Registro: 23.436
 Nombre comercial: KOCIDE OPTI
@@ -112,7 +110,7 @@ R.D. 1416/01, de entregarlos directamente al sistema integrado de gestión al qu
 depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Nocivo, Peligroso para el medio ambiente
-Símbolos y pictogramas: --
+Símbolos y pictogramas: 0
 Frases de riesgo: R20/22, R50/53
 Consejos de prudencia: S2, S13, S45, S22, S36/37, S25
 Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO

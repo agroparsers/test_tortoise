@@ -32,23 +32,22 @@ agrícolas
 Usos autorizados:
 Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 (1) Arroz PUDENTA 1,5-2 l/ha NP
-(2) Arroz PULGONES 1,5-2 l/ha NP
-(3) Encinas COLEOPTEROS 0,5-1 l/ha NP
-(4) Encinas LEPIDOPTEROS 0,5-1 l/ha NP
-(5) Encinas ORUGAS DEFOLIADORAS 0,5-1 l/ha NP
-(6) Encinas TORTRIX 0,5-1 l/ha NP
-(7) Eriales LANGOSTA 0,5-1 l/ha NP
-(8) Olivo PRAYS 0,5-1 l/ha NP
-(9) Pinos PROCESIONARIA 0,5-1 l/ha NP
-(10) Terrenos agrícolas GARRAPATAS 0,5-1 l/ha NP
-(11) Terrenos agrícolas MOSQUITOS 0,5-1 l/ha NP
-(12) Terrenos encharcados GARRAPATAS 0,5-1 l/ha NP
+(2) Encinas COLEOPTEROS 0,5-1 l/ha NP
+(3) Encinas LEPIDOPTEROS 0,5-1 l/ha NP
+(4) Encinas ORUGAS DEFOLIADORAS 0,5-1 l/ha NP
+(5) Encinas TORTRIX 0,5-1 l/ha NP
+(6) Eriales LANGOSTA 0,5-1 l/ha NP
+(7) Olivo PRAYS 0,5-1 l/ha NP
+(8) Pinos PROCESIONARIA 0,5-1 l/ha NP
+(9) Terrenos agrícolas GARRAPATAS 0,5-1 l/ha NP
+(10) Terrenos agrícolas MOSQUITOS 0,5-1 l/ha NP
+(11) Terrenos encharcados GARRAPATAS 0,5-1 l/ha NP
+(12) Terrenos encharcados MOSQUITOS 0,5-1 l/ha NP
 Registro de Productos FitoSanitarios
 Nº Registro: 18.554
 Nombre comercial: SADITRINA ULV MICRO
-(13) Terrenos encharcados MOSQUITOS 0,5-1 l/ha NP
-(14) Terrenos forestales GARRAPATAS 0,5-1 l/ha NP
-(15) Terrenos forestales MOSQUITOS 0,5-1 l/ha NP
+(13) Terrenos forestales GARRAPATAS 0,5-1 l/ha NP
+(14) Terrenos forestales MOSQUITOS 0,5-1 l/ha NP
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
 Generales : Tratamiento insecticida al aire libre en aplicación aérea  y terrestre.
@@ -57,15 +56,15 @@ pulverización centrifuga con tractor  y manual),  y en el uso de arroz aplicand
 BBCH 81-83 (maduración de frutos y semillas hasta pastoso temprano).
 Aplicar mediante técnicas de ULV, debiendo especificar en la etiqueta las precauciones técnicas a
 observar para la aplicación de este producto
-Específicos: (1), (2) Volumen de caldo: 50 l/ha. Para aplicaciones aéreas: dosis 1 l/ha.
-(3) Género Balaninus. Volumen de caldo: 50 l/ha. Aplicaciones aéreas: dosis de 0,86 l/ha.
-(4) Controla al picador de la bellota. Volumen de caldo: 50 l/ha. Aplicaciones aéreas: dosis de 0,86
+Específicos: (1) Tanto para aplicaciones terrestres como aéreas. Volumen de caldo: 50 l/ha. 
+(2) Género Balaninus. Volumen de caldo: 50 l/ha. Aplicaciones aéreas: dosis de 0,86 l/ha.
+(3) Controla al picador de la bellota. Volumen de caldo: 50 l/ha. Aplicaciones aéreas: dosis de 0,86
 l/ha.
-(5), (6) Volumen de caldo: 50 l/ha. Aplicaciones aéreas: dosis de 0,86 l/ha.
-(7) Los tratamientos contra langosta se harán bajo la supervisión de los Servicios Técnicos Oficiales
+(4), (5) Volumen de caldo: 50 l/ha. Aplicaciones aéreas: dosis de 0,86 l/ha.
+(6) Los tratamientos contra langosta se harán bajo la supervisión de los Servicios Técnicos Oficiales
 y de la Empresa.
-(8) Generación antófaga. Volumen de caldo: 50 l/ha. En aplicaciones aéreas, dosis: 0,86 l/ha.
-(9) Volumen de caldo: 50 l/ha. En aplicaciones aéreas: Dosis de 0,86 l/ha.
+(7) Generación antófaga. Volumen de caldo: 50 l/ha. En aplicaciones aéreas, dosis: 0,86 l/ha.
+(8) Volumen de caldo: 50 l/ha. En aplicaciones aéreas: Dosis de 0,86 l/ha.
 Condicionamientos preventivos de riesgos:
 Mitigación de riesgos medioambientales:
 Spe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m. en cultivos

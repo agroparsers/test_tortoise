@@ -61,13 +61,11 @@ Usos y dosis autorizados:
   Dosis FORMA Y ÉPOCA DE APLICACIÓN 
 USO AGENTE Min- (Condic.Específico) 
 máx. 
-PULGONES 1,4 l/ha Aplicar con un volumen de caldo de 500-800 l/Ha. 
-Algodonero 
-1,4 - 1,7 Aplicar al inicio de la incubación de los huevos de la 2ª y 3ª generación 
-HELIOTIS 
-l/ha con un volumen de caldo de 500-800 l/Ha. 
+GUSANOS 
+Algodonero 1,4 l/ha Aplicar con un volumen de caldo de 500-800 l/Ha. 
+ROSADOS 
  
-     Página 1 de 5       Nº REGISTRO:   25563  
+     Página 1 de 6       Nº REGISTRO:   25563  
 KARATE 1.5 CS
 Nº REGISTRO: 
 KARATE 1.5 CS 
@@ -76,29 +74,39 @@ KARATE 1.5 CS
   Dosis FORMA Y ÉPOCA DE APLICACIÓN 
 USO AGENTE Min- (Condic.Específico) 
 máx. 
-TRIPS 
-1,4 l/ha Aplicar con un volumen de caldo de 500-800 l/Ha. 
-GUSANOS 
-ROSADOS 
+1,4 - 1,7 Aplicar al inicio de la incubación de los huevos de la 2ª y 3ª generación 
+HELIOTIS 
+l/ha con un volumen de caldo de 500-800 l/Ha. 
 PULGONES 
+1,4 l/ha Aplicar con un volumen de caldo de 500-800 l/Ha. 
+TRIPS 
+ESCARABAJO 
 0,085 Aplicar con un volumen de caldo de 500-1.000 l/Ha. al aire libre y 500-
-Berenjena ESCARABAJO 
+Berenjena ORUGAS 
 l/Hl 1.500 l/Ha. en invernadero. 
-ORUGAS 
+PULGONES 
 0,5 - 0,85 
 Brécol ORUGAS Aplicar con un volumen de caldo de 500-1000 l/Ha. 
 l/ha 
-PULGONES 
+ORUGAS 
 0,085 Aplicar con un volumen de caldo de 500-1.000 l/Ha. al aire libre y 500-
 Calabacín 
 l/Hl 1.500 l/Ha. en invernadero. 
-ORUGAS 
+PULGONES 
 0,5 - 0,85 
 Coles ORUGAS Aplicar con un volumen de caldo de 500-1000 l/Ha. 
 l/ha 
 ORUGAS Aplicar a la aparición de los ataques con un volumen de caldo de 
 Manzano 0,07 l/Hl 
 MINADORAS 1.000-1.500 l/Ha. 
+ Página 2 de 6                                102016
+Nº REGISTRO: 
+KARATE 1.5 CS 
+ 
+    
+  Dosis FORMA Y ÉPOCA DE APLICACIÓN 
+USO AGENTE Min- (Condic.Específico) 
+máx. 
 ORUGAS Aplicar a la aparición de los ataques con un volumen de caldo de 
 Melocotonero 0,07 l/Hl 
 MINADORAS 1.000-1.500 l/Ha. 
@@ -114,7 +122,15 @@ monitoreo, a razón de 0,3 l. da caldo/árbol.
 PRAYS (GEN. Aplicar al comienzo de la puesta de huevos, con un volumen de caldo 
 CARPOFAGA) de 2.000 l/Ha. 
 Patata ESCARABAJO 0,7 l/ha Aplicar con un volumen de caldo de 400-800 l/Ha. 
- Página 2 de 5                                92316
+ORUGAS 
+0,085 Aplicar con un volumen de caldo de 500-1.000 l/Ha. al aire libre y 500-
+Pepino 
+l/Hl 1.500 l/Ha. en invernadero. 
+PULGONES 
+ORUGAS Aplicar a la aparición de los ataques con un volumen de caldo de 
+Peral 0,07 l/Hl 
+MINADORAS 1.000-1.500 l/Ha. 
+ Página 3 de 6                                102016
 Nº REGISTRO: 
 KARATE 1.5 CS 
  
@@ -122,33 +138,29 @@ KARATE 1.5 CS
   Dosis FORMA Y ÉPOCA DE APLICACIÓN 
 USO AGENTE Min- (Condic.Específico) 
 máx. 
-PULGONES 
-0,085 Aplicar con un volumen de caldo de 500-1.000 l/Ha. al aire libre y 500-
-Pepino 
-l/Hl 1.500 l/Ha. en invernadero. 
-ORUGAS 
-ORUGAS Aplicar a la aparición de los ataques con un volumen de caldo de 
-MINADORAS 1.000-1.500 l/Ha. 
-Peral 0,07 l/Hl 
 Aplicar en primavera, cuando la población es baja y en otoño, al inicio 
 PSILA de la caída de las hojas para prevenir el desarrollo de la plaga durante 
 el invierno. con un volumen de caldo de 1.000-1.500 l/Ha. 
-PULGONES 
+ESCARABAJO 
 0,085 Aplicar con un volumen de caldo de 500-1.000 l/Ha. al aire libre y 500-
-Pimiento ESCARABAJO 
+Pimiento ORUGAS 
 l/Hl 1.500 l/Ha. en invernadero. 
-ORUGAS 
 PULGONES 
+ESCARABAJO 
 0,085 Aplicar con un volumen de caldo de 500-1.000 l/Ha. al aire libre y 500-
-Tomate ESCARABAJO 
+Tomate ORUGAS 
 l/Hl 1.500 l/Ha. en invernadero. 
-ORUGAS 
+PULGONES 
 POLILLAS DEL Aplicar a la aparición de los ataques con un volumen de caldo de 1.000 
 Vid 0,7 l/Hl 
 RACIMO l/Ha. 
   
 Plazos de Seguridad (Protección del consumidor):  
   
+ Página 4 de 6                                102016
+Nº REGISTRO: 
+KARATE 1.5 CS 
+ 
 Cultivo P.S. (días) 
 Brécol, Coles 10 
 Algodonero 14 
@@ -157,10 +169,6 @@ Manzano, Melocotonero, Nectarino, Olivo,
 7 
 Patata, Peral, Vid 
   
- Página 3 de 5                                92316
-Nº REGISTRO: 
-KARATE 1.5 CS 
- 
  
  
  
@@ -185,14 +193,16 @@ de peligro
 Pictograma 
 N  
 Xi  
-Palabra  
+Palabra 
+ 
 Advertencia 
 R38 - Irritante para la piel 
 Indicaciones de 
 R50/53 - Muy tóxico para los organismos acuáticos, puede provocar a 
 peligro 
 largo plazo efectos negativos en el medio ambiente acuático 
-Consejos de S13 - Conservar separado de alimentos, bebidas y piensos 
+S13 - Conservar separado de alimentos, bebidas y piensos 
+Consejos de 
 S2 - Manténgase fuera del alcance de los niños. 
 Prudencia 
 S23 - No respirar los gases/humos/vapores/aerosoles 
@@ -205,10 +215,12 @@ Clase y categoría
  
 de peligro 
 (Medio ambiental) 
-Pictograma 
+Pictograma  
+ Página 5 de 6                                102016
+Nº REGISTRO: 
+KARATE 1.5 CS 
  
-Palabra 
- 
+Palabra  
 Advertencia 
 Frases de Riesgo  
 Consejos  
@@ -216,10 +228,6 @@ Prudencia
   
  “A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO AMBIENTE 
 SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el texto. 
- Página 4 de 5                                92316
-Nº REGISTRO: 
-KARATE 1.5 CS 
- 
 Mitigación de riesgos ambientales:   
 SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad 
 de de 30 m. en cultivos leñosos, 20 m. para cultivos hortícolas y 10 m. para algodón y patata 
@@ -257,4 +265,4 @@ El producto debe almacenarse en lugares frescos y oscuros
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 5 de 5                                92316
+ Página 6 de 6                                102016

@@ -59,12 +59,12 @@ ORUGAS
 Algodonero 0,2 - 0,3 l/ha 
 PULGONES 
 Avena PULGONES 0,2 - 0,3 l/ha 
-GARRAPATILLO 
+PULGONES 
 Cebada 0,2 - 0,3 l/ha 
-PULGONES 
 GARRAPATILLO 
-Centeno 0,2 - 0,3 l/ha 
 PULGONES 
+Centeno 0,2 - 0,3 l/ha 
+GARRAPATILLO 
 Clavel TORTRIX 0,2 - 0,3 l/ha 
  
      Página 1 de 4       Nº REGISTRO:   19934  
@@ -75,9 +75,9 @@ ASANA
    
   Dosis 
 USO AGENTE Min-máx. 
-ORUGAS 
-Coles de bruselas 0,2 - 0,3 l/ha 
 PULGONES 
+Coles de bruselas 0,2 - 0,3 l/ha 
+ORUGAS 
 Colza ORUGAS 0,2 - 0,3 l/ha 
 ORUGAS 
 Frutales de pepita PSILA 0,02 - 0,03 % 
@@ -88,29 +88,29 @@ PULGONES
 ORUGAS 
 Ornamentales leñosas 0,2 - 0,3 l/ha 
 PULGONES 
-ESCARABAJO 
-ORUGAS 
-Patata 0,2 - 0,3 l/ha 
 CHINCHES 
+ESCARABAJO 
+Patata 0,2 - 0,3 l/ha 
 PULGONES 
 ORUGAS 
-Remolacha azucarera PULGONES 0,2 - 0,3 l/ha 
-PULGUILLA 
+PULGONES 
+Remolacha azucarera PULGUILLA 0,2 - 0,3 l/ha 
 ORUGAS 
+PULGONES 
 Repollo 0,2 - 0,3 l/ha 
-PULGONES 
 ORUGAS 
+PULGONES 
 Tabaco 0,2 - 0,3 l/ha 
-PULGONES 
 ORUGAS 
+PULGONES 
 Tomate 0,2 - 0,3 l/ha 
+ORUGAS 
 PULGONES 
-GARRAPATILLO 
 Trigo 0,2 - 0,3 l/ha 
-PULGONES 
 GARRAPATILLO 
-Triticale 0,2 - 0,3 l/ha 
 PULGONES 
+Triticale 0,2 - 0,3 l/ha 
+GARRAPATILLO 
 Vid POLILLAS DEL RACIMO 0,2 - 0,3 l/ha 
   
 Plazos de Seguridad (Protección del consumidor):  
@@ -123,6 +123,11 @@ Avena, Cebada, Centeno, Trigo, Triticale 28
 Tomate 3 
 Algodonero, Remolacha azucarera 30 
 Colza 42 
+ Página 2 de 4                                102016
+Nº REGISTRO: 
+ASANA 
+ 
+Cultivo P.S. (días) 
 Coles de bruselas, Repollo 7 
 Clavel, Ornamentales herbáceas, Ornamentales 
 NP 
@@ -130,10 +135,6 @@ leñosas
   
  
  
- 
- Página 2 de 4                                92316
-Nº REGISTRO: 
-ASANA 
  
 Condiciones generales de uso:   
 Aplicar en pulverización normal mojando bien el cultivo 
@@ -177,24 +178,20 @@ S24/25 - Evítese el contacto con los ojos y la piel
 S36/37 - Utilizar ropa de protección y guantes adecuados 
 S45 - En caso de accidente o malestar, acúdase inmediatamente al 
 médico, si es posible enseñándole esta etiqueta 
-Clase y categoría 
- 
+Clase y categoría  
 de peligro 
 (Medio ambiental) 
-Pictograma  
-Palabra 
- 
-Advertencia 
-Frases de Riesgo 
- 
-Consejos 
- 
-Prudencia 
-  
- Página 3 de 4                                92316
+ Página 3 de 4                                102016
 Nº REGISTRO: 
 ASANA 
  
+Pictograma  
+Palabra  
+Advertencia 
+Frases de Riesgo  
+Consejos  
+Prudencia 
+  
  “A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO AMBIENTE 
 SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el texto. 
 Mitigación de riesgos ambientales:   
@@ -233,4 +230,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 4 de 4                                92316
+ Página 4 de 4                                102016

@@ -12,7 +12,7 @@ Avda. Josep Tarradellas 20-30. Pl. 4 - Desp. 7-8
 08029
 BARCELONA
 Fecha de inscripción: 22/05/2002
-Fecha de caducidad: 30/10/2016
+Fecha de caducidad: 30/04/2018
 Tipo de envase:
 Sacos de papel "KRAFT" con bolsa interior de plástico y sacos de polietileno con doble bolsa de 25, 50, 100, y 250 gr.
 y 5 y 25 Kg.
@@ -114,7 +114,7 @@ R.D. 1416/01, de entregarlos directamente al sistema integrado de gestión al qu
 depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Nocivo, Peligroso para el medio ambiente, Tóxico para la reproducción cat. 3
-Símbolos y pictogramas: --
+Símbolos y pictogramas: 0
 Frases de riesgo: R20/22, R43, R63, R50/53
 Consejos de prudencia: S2, S13, S45, S22, S36/37, S8, S38
 Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO

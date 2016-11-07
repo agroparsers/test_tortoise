@@ -70,13 +70,13 @@ Cereales de invierno DICOTILEDONEAS ANUALES 0,03
 Triticale DICOTILEDONEAS ANUALES 0,03 
   
 Plazos de Seguridad (Protección del consumidor):  
-  
  
      Página 1 de 3       Nº REGISTRO:   25801  
 DEFT
 Nº REGISTRO: 
 DEFT 
  
+  
 Cultivo P.S. (días) 
 Cereales de invierno, Triticale NP 
   
@@ -131,12 +131,13 @@ GSH09 (medio ambiente)
 -- 
 Palabra 
 Advertencia 
-Frases de Riesgo H410 - Muy tóxico para los organismos acuáticos, con efectos nocivos 
-duraderos.  
- Página 2 de 3                                92316
+ Página 2 de 3                                102016
 Nº REGISTRO: 
 DEFT 
  
+H410 - Muy tóxico para los organismos acuáticos, con efectos nocivos 
+Frases de Riesgo 
+duraderos.  
 P273 - Evitar su liberación al medio ambiente. (Si no es éste su uso 
 Consejos 
 previsto) 
@@ -181,4 +182,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 3 de 3                                92316
+ Página 3 de 3                                102016

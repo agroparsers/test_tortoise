@@ -1,10 +1,10 @@
 Registro de Productos FitoSanitarios
 Nº Registro: 17.488
-Nombre comercial: DANFITO
+Nombre comercial: DURSBAN PROACTIVE
 Titular:
-ADAMA AGRICULTURE ESPAÑA S.A.
-C/ Méndez Álvaro nº 20, 5ª Planta
-28045
+DOW AGROSCIENCES IBERICA, S.A.
+C/ Ribera del Loira 4-6, Edificio Iris, 4ª Planta
+28042
 MADRID
 Fabricante:
 ADAMA AGRICULTURE ESPAÑA S.A.
@@ -42,7 +42,7 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 (17) Vid de vinificación GORGOJOS 0,15 % 21
 Registro de Productos FitoSanitarios
 Nº Registro: 17.488
-Nombre comercial: DANFITO
+Nombre comercial: DURSBAN PROACTIVE
 (18) Vid de vinificación GUSANOS GRISES 0,15 % 21
 (19) Vid de vinificación MELAZO 0,15 % 21
 (20) Vid de vinificación MOSQUITO VERDE 0,15 % 21
@@ -93,7 +93,7 @@ Envases:
 Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
 Registro de Productos FitoSanitarios
 Nº Registro: 17.488
-Nombre comercial: DANFITO
+Nombre comercial: DURSBAN PROACTIVE
 Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
 Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
 fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
@@ -106,7 +106,7 @@ Categoría 1., Irritación cutánea. Categoría 2., Sensibilizantes cutáneos. C
 Tóxicos específicos en determinados órganos tras una exposición única. Categoría 3.,
 Peligro, Toxicidad aguda. Categoría 3., Toxicidad aguda. Categoría 4., Toxicididad por
 aspiración. Categoría 1., Acuático agudo 1
-Símbolos y pictogramas: GHS02,GHS05,GHS06,GHS08,GHS09
+Símbolos y pictogramas: 0
 Frases de riesgo: H226, H301, H304, H315, H317, H318, H332, H335, H410, EUH 401
 Consejos de prudencia: P210, P261, P273, P391, P370+P378, P501, P280+P264, P309+P311+P101, P301+P331,
 P403+P233+P235

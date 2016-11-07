@@ -11,7 +11,7 @@ TRADE CORPORATION INTERNATIONAL, S.A.
 Alcalá, 498 - 2ª Planta
 28027 MADRID
 Fecha de inscripción: 24/10/2006
-Fecha de caducidad: 24/10/2016
+Fecha de caducidad: 24/04/2018
 Tipo de envase:
 Sacos de papel plastificado de 1, 5 y 20 Kg.
 Composición: AZUFRE MICRONIZADO 60% + OXICLORURO DE COBRE 4% (EXPR. EN CU) [DP] P/P
@@ -24,6 +24,7 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
 Generales : Aplicar en espolvoreo.
+P.S. en hortícolas 3 días, excepto hortícolas de hoja, 15 días
 EXCEPTO: fresas, frutas de caña y otras bayas y frutas pequeñas, raíces y tubérculos, bulbos y
 frutos pepónidos (excepto tomate y berenjena), maíz dulce, espárragos, remolacha azucarera y
 caña de azúcar. En tomate y berenjena efectuar un máximo de 6 aplicaciones por campaña a
@@ -31,19 +32,19 @@ intervalos de 7 días con un máximo de 7,5 Kg de cobre inorgánico por campaña
 En frutales de hueso y pepita efectuar solo tratamientos desde la cosecha hasta la floración con un
 máximo de 3 tratamientos por campaña a intervalos de 14 días y un máximo de 7,5 Kg de cobre
 inorgánico por campaña, no procediendo P.S.. (Reglamento 396/05)
+Observar precauciones en frutales sensibles.
 No mezclar con aceites ni productos de reacción alcalina, ni efectuar tratamientos a temperaturas
 demasiado elevadas.
 No aplicar aceites minerales durante los 21 días anteriores o posteriores a la aplicación del azufre.
-Observar precauciones en frutales sensibles.
 Específicos: (1) Acción protectora contra mildiu.
 Condicionamientos preventivos de riesgos:
 Mitigación de riesgos medioambientales:
 Mamíferos: A
 Aves: A
-Peces: B Mediana peligrosidad para peces
 Registro de Productos FitoSanitarios
 Nº Registro: 24.551
 Nombre comercial: SULFOCUPRIL
+Peces: B Mediana peligrosidad para peces
 Abejas: Peligrosidad controlable para abejas
 Para protección de las abejas, tapar las colmenas previamente al tratamiento y mantenerlas así durante 1 ó 2 horas
 más tarde.
@@ -59,7 +60,7 @@ R.D. 1416/2001, de entregarlos directamente al sistema integrado de gestión al 
 depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Irritante, Peligroso para el medio ambiente
-Símbolos y pictogramas: --
+Símbolos y pictogramas: 0
 Frases de riesgo: R38, R51/53
 Consejos de prudencia: S2, S13, S45, S22, S37, S24, S41
 Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO

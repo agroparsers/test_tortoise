@@ -2,9 +2,10 @@ Registro de Productos FitoSanitarios
 Nº Registro: 23.342
 Nombre comercial: PACLOT
 Titular:
-CHEMINOVA AGRO, S.A.
-Pº Castellana, 257. 5º.
-28046
+PROPLAN-PLANT PROTECTION CO. S.L.
+c/ Valle del Roncal, nº 12-1ª pl. ofic. nº 7
+Las Rozas
+28232
 MADRID
 Fabricante:
 PROPLAN-PLANT PROTECTION CO. S.L.
@@ -30,7 +31,10 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
 Generales : Nota: Dosis en aplicación foliar 0,05-0,8%. En aplicación combinada la dosis máxima por año será
-de 2-6 l/ha.
+de 2-6 l/ha. variando la dosis según caracteristicas del cultivo.
+En aplicaciones por goteo al suelo, reducir la dosis a utilizar a la cuarta parte de la utilización en
+aplicaciones al suelo.
+La cantidad de caldo por ha debe ser de 1000 l excepto en viña, que será de 150 l.
 Debido a la diferente sensibilidad varietal y otros factores, es preciso consultar con los Servicios
 Técnicos de la Empresa antes de iniciar las aplicaciones.
 En la etiqueta se darán las indicaciones necesarias para su correcta aplicación.

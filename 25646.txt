@@ -26,10 +26,25 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 (2) Triticale MALAS HIERBAS ANUALES 250-330 g/ha NP
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
-Generales :
+Generales : Controla malas hierbas en postemergencia.
+Aplicar en pulverización normal con tractor a finales de invierno o comienzo de la primavera en una
+única aplicación por año con un volúmen de caldo de 100 l/Ha.. Si el tratamiento es contra bromo,
+solo o asociado a otras gramíneas, se puede fraccionar la dosis realizando 2 aplicaciones
+separadas menos de 3 semanas.
+En caso de destrucción accidental del cultivo, es posible reemplazarlo por trigo de primavera y tras
+un período de 8 semanas por soja. Al otoño siguiente se puede sembrar trigo blando o guisantes.
+Como cultivos siguientes en la alternativa no sembrar rábanos, mostaza y otras crucíferas, ni
+intercalar cultivos de especies dicotiledóneas.
+En la etiqueta se darán instrucciones para el correcto uso del producto, así como las advertencias
+necesarias para que el agricultor pueda cerciorarse de los riesgos de su utilización por fitotoxicidad
+en variedades del propio cultivo, en los cultivos adyacentes o en los siguioentes en la alternativa, así
+como la estrategia adecuada a efectos de prevenir la aparición de resistencias.
 Específicos: (1), (2) No aplicar en cultivos destinados a la producción de simiente.
 Condicionamientos preventivos de riesgos:
 Mitigación de riesgos medioambientales:
+Registro de Productos FitoSanitarios
+Nº Registro: 25.646
+Nombre comercial: CALIBAN DUO
 SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m. con cubierta
 vegetal hasta las masas de agua superficial. 
 SPe 3: Para proteger las plantas no objetivo, respétese sin tratar una banda de seguridad de 5 m. hasta la zona no
@@ -41,9 +56,6 @@ No entrar al cultivo hasta que el producto esté seco. Reentrada 6 horas.
 SPo 2: Lávese toda la ropa de protección después de usarla. 
 SPo 4: El recipiente debe abrirse al aire libre y en tiempo seco.
 Restricciones por clases de usuarios:
-Registro de Productos FitoSanitarios
-Nº Registro: 25.646
-Nombre comercial: CALIBAN DUO
 Uso reservado a agricultores y aplicadores profesionales.
 Envases:
 Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.

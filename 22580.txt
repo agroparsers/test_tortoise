@@ -21,16 +21,21 @@ Tipo de función: Herbicida
 Ámbitos de utilización: Humedales, Redes viarias y de servicio, Areas no cultivadas
 Usos autorizados:
 Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
-(1) Bordes de carreteras MALAS HIERBAS 3-10 l/ha NP
-(2) Canales de riego MALAS HIERBAS 3-10 l/ha NP
-(3) Desagües y drenajes MALAS HIERBAS 3-10 l/ha NP
-(4) Recintos industriales MALAS HIERBAS 3-10 l/ha NP
-(5) Redes de servicios MALAS HIERBAS 3-10 l/ha NP
-(6) Solares MALAS HIERBAS 3-10 l/ha NP
-(7) Terrenos pantanosos MALAS HIERBAS 3-10 l/ha NP
-(8) Vías férreas MALAS HIERBAS 3-10 l/ha NP
+(1) Acequias MALAS HIERBAS 3-10 l/ha NP
+(2) Bordes de carreteras MALAS HIERBAS 3-10 l/ha NP
+(3) Canales de riego MALAS HIERBAS 3-10 l/ha NP
+(4) Desagües y drenajes MALAS HIERBAS 3-10 l/ha NP
+(5) Recintos industriales MALAS HIERBAS 3-10 l/ha NP
+(6) Redes de servicios MALAS HIERBAS 3-10 l/ha NP
+(7) Redes viarias MALAS HIERBAS 3-10 l/ha NP
+(8) Solares MALAS HIERBAS 3-10 l/ha NP
+(9) Terrenos pantanosos MALAS HIERBAS 3-10 l/ha NP
+(10) Vías férreas MALAS HIERBAS 3-10 l/ha NP
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
+Registro de Productos FitoSanitarios
+Nº Registro: 22.580
+Nombre comercial: ORLADOR
 Generales : Controla malas hierbas en postemergencia.
 Aplicar en pulverización variando la dosis según especies de malas hierbas y estado de desarrollo
 de las mismas siendo el momento más oportuno después de la floración, de las malas hierbas y
@@ -39,12 +44,9 @@ atendiendo a las normas de seguridad, con equipos accionados por tractor y pulve
 l/Ha.) y con equipos de aplicación manual, con pulverización hidraúlica la dosis máxima de 10 l/Ha.
 no se podrá diluir en un volumen de caldo inferior a 325 l. y con pulverización centrífuga la dosis
 máxima de 3 l/Ha. no se podrá diluir en un volumen de caldo inferior a 25 l.
-Registro de Productos FitoSanitarios
-Nº Registro: 22.580
-Nombre comercial: ORLADOR
-Específicos: (2), (3) Sólo en márgenes o, previo corte del agua en el cauce, dejando un plazo de al menos 7 días
+Específicos: (3), (4) Sólo en márgenes o, previo corte del agua en el cauce, dejando un plazo de al menos 7 días
 antes de hacer circular el agua de nuevo.
-(7) Tratamientos localizados en las zonas no inundadas.
+(9) Tratamientos localizados en las zonas no inundadas.
 Condicionamientos preventivos de riesgos:
 Mitigación de riesgos medioambientales:
 SPe 3: Para proteger las plantas no objeto del tratamiento, respétese sin tratar una banda de seguridad de 5 m. hasta

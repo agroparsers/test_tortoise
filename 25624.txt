@@ -52,6 +52,12 @@ Presentación/Capacidad/Material
 Botellas de polietileno de 0,25, 0,5 y 1 l. 
 Garrafa de polietileno de 5 l. 
   
+ 
+     Página 1 de 9       Nº REGISTRO:   25624  
+POINTER 100 CS
+Nº REGISTRO: 
+POINTER 100 CS 
+ 
 Usos y dosis autorizados:  
   
     
@@ -59,39 +65,22 @@ Usos y dosis autorizados:
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 %  
+CERATITIS 
+ANARSIA 
 Efectuar 1 único tratamiento en campaña mediante pulverización 
 0,01 - 
-Albaricoquero CERATITIS foliar, con un gasto máximo de 200 ml/ha, realizado con tractor con 
+Albaricoquero foliar, con un gasto máximo de 200 ml/ha, realizado con tractor con 
 0,02 
 atomizador, o mochila hidráulica. 
- 
-     Página 1 de 8       Nº REGISTRO:   25624  
-POINTER 100 CS
-Nº REGISTRO: 
-POINTER 100 CS 
- 
-    
-  Dosis FORMA Y ÉPOCA DE APLICACIÓN 
-USO AGENTE Min- (Condic.Específico) 
-máx. 
-%  
 ORUGAS 
 MINADORAS 
 PULGONES 
-ANARSIA 
-PULGONES 
-MOSCA BLANCA 
 Efectuar 1 único tratamiento en campaña mediante pulverización 
 0,01 - 
-Berenjena foliar, con un gasto máximo de 150 ml/ha, realizado con tractor con 
+Berenjena MOSCA BLANCA foliar, con un gasto máximo de 150 ml/ha, realizado con tractor con 
 0,025 
 atomizador, o mochila hidráulica. 
-CHINCHE VERDE 
-ORUGAS 
-0,015 - Efectuar un máximo de 2 aplicaciones por campaña, separadas 20 
-Cebada PULGONES 
-0,025 días, sin superar un gasto máximo de  80 ml/ha 
- Página 2 de 8                                92316
+ Página 2 de 9                                102016
 Nº REGISTRO: 
 POINTER 100 CS 
  
@@ -100,25 +89,42 @@ POINTER 100 CS
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 %  
+CHINCHE VERDE 
+ORUGAS 
+PULGONES 
 0,01 - 
 GARRAPATILLO 
 0,02 
-Efectuar 1 único tratamiento en campaña mediante pulverización 
-PULGONES foliar, con un gasto máximo de 200 ml/ha, realizado con tractor con 
-atomizador, o mochila hidráulica. 
+Efectuar un máximo de 2 aplicaciones por campaña, separadas 20 
+Cebada 
+días, sin superar un gasto máximo de  80 ml/ha 
+0,015 - 
+PULGONES 
+0,025 
 Efectuar 1 único tratamiento en campaña mediante pulverización 
 0,01 - foliar, con un gasto máximo de 200 ml/ha. En  pulverización cebo, 
 Cítricos CERATITIS 
 0,02 realizar 1 única aplicación por campaña, a dosis de 0,01-0,02%, 
 equivalente a 20-80 ml producto formulado/ha 
+ Página 3 de 9                                102016
+Nº REGISTRO: 
+POINTER 100 CS 
+ 
+    
+  Dosis FORMA Y ÉPOCA DE APLICACIÓN 
+USO AGENTE Min- (Condic.Específico) 
+máx. 
+%  
+ORUGAS 
 Efectuar 1 único tratamiento en campaña mediante pulverización 
-ORUGAS foliar, con un gasto máximo de 200 ml/ha, realizado con tractor con 
+foliar, con un gasto máximo de 200 ml/ha, realizado con tractor con 
 atomizador, o mochila hidráulica. 
 PULGONES 
+HELIOTIS 
 0,01 - Efectuar un máximo de 2 aplicaciones con un intervalo de 15 días sin 
 Maíz 
 0,02 superar los 60 ml/Ha de producto por aplicación. 
-HELIOTIS 
+PULGONES 
 CERATITIS 
 Efectuar 1 único tratamiento en campaña mediante pulverización 
 0,01 - 
@@ -127,7 +133,7 @@ Melocotonero foliar, con un gasto máximo de 200 ml/ha, realizado con tractor co
 atomizador, o mochila hidráulica. 
 ORUGAS 
 MINADORAS 
- Página 3 de 8                                92316
+ Página 4 de 9                                102016
 Nº REGISTRO: 
 POINTER 100 CS 
  
@@ -138,23 +144,14 @@ máx.
 %  
 PULGONES 
 ANARSIA 
-CERATITIS 
-ORUGAS 
-MINADORAS 
+ANARSIA 
 Efectuar 1 único tratamiento en campaña mediante pulverización 
 0,01 - 
-Nectarino foliar, con un gasto máximo de 200 ml/ha, realizado con tractor con 
+Nectarino CERATITIS foliar, con un gasto máximo de 200 ml/ha, realizado con tractor con 
 0,02 
 atomizador, o mochila hidráulica. 
 PULGONES 
-ANARSIA 
-PULGONES 
-0,01 - Efectuar un máximo de 2 aplicaciones por campaña, separadas 20 
-Patata 
-0,02 días, sin superar los 140 ml/ha de producto por aplicación. 
-ESCARABAJO DE 
-LA PATATA 
- Página 4 de 8                                92316
+ Página 5 de 9                                102016
 Nº REGISTRO: 
 POINTER 100 CS 
  
@@ -164,38 +161,52 @@ USO AGENTE Min- (Condic.Específico)
 máx. 
 %  
 ORUGAS 
+MINADORAS 
+ESCARABAJO DE 
+LA PATATA 
+0,01 - Efectuar un máximo de 2 aplicaciones por campaña, separadas 20 
+Patata ORUGAS 
+0,02 días, sin superar los 140 ml/ha de producto por aplicación. 
 PULGONES 
-Remolacha 0,015 - Efectuar 1 aplicación por campaña, con un gasto máximo de 160 
-PULGUILLA 
-azucarera 0,025 ml/Ha de producto por aplicación. 
 CASIDA 
+Remolacha 0,015 - Efectuar 1 aplicación por campaña, con un gasto máximo de 160 
 PULGONES 
+azucarera 0,025 ml/Ha de producto por aplicación. 
+PULGUILLA 
+ Página 6 de 9                                102016
+Nº REGISTRO: 
+POINTER 100 CS 
+ 
+    
+  Dosis FORMA Y ÉPOCA DE APLICACIÓN 
+USO AGENTE Min- (Condic.Específico) 
+máx. 
+%  
 CHINCHE VERDE 
+MOSCA BLANCA 
 Efectuar 1 único tratamiento en campaña mediante pulverización 
 0,01 - 
 Tomate foliar, con un gasto máximo de 150 ml/ha, realizado con tractor con 
 0,025 
 atomizador, o mochila hidráulica. 
-MOSCA BLANCA 
 ORUGAS 
-0,015 - Efectuar un máximo de 2 aplicaciones por campaña, separadas 20 
-Trigo PULGONES 
-0,025 días, sin superar un gasto máximo de  80 ml/ha 
- Página 5 de 8                                92316
-Nº REGISTRO: 
-POINTER 100 CS 
- 
-    
-  Dosis FORMA Y ÉPOCA DE APLICACIÓN 
-USO AGENTE Min- (Condic.Específico) 
-máx. 
-%  
+PULGONES 
 0,01 - 
 GARRAPATILLO 
 0,02 
+Efectuar un máximo de 2 aplicaciones por campaña, separadas 20 
+Trigo 
+días, sin superar un gasto máximo de  80 ml/ha 
+0,015 - 
+PULGONES 
+0,025 
   
 Plazos de Seguridad (Protección del consumidor):  
   
+ Página 7 de 9                                102016
+Nº REGISTRO: 
+POINTER 100 CS 
+ 
 Cultivo P.S. (días) 
 Patata, Remolacha azucarera 14 
 Maíz 15 
@@ -234,15 +245,10 @@ de peligro
 (Humana) 
 Pictograma 
 GSH07 (signo de exclamación)  
- Página 6 de 8                                92316
-Nº REGISTRO: 
-POINTER 100 CS 
- 
 -- 
 Palabra 
 Advertencia 
-EUH 401 - A fin de evitar riesgos para las personas y el medio 
-Indicaciones de 
+Indicaciones de EUH 401 - A fin de evitar riesgos para las personas y el medio 
 ambiente, siga las instrucciones de uso. 
 peligro 
 H332 - Nocivo en caso de inhalación.  
@@ -255,6 +261,10 @@ P271 - Utilizar únicamente en exteriores o en un lugar bien ventilado.
 P304+P340 - EN CASO DE INHALACIÓN: Transportar a la víctima al 
 exterior y mantenerla en reposo en una posición confortable para 
 respirar. 
+ Página 8 de 9                                102016
+Nº REGISTRO: 
+POINTER 100 CS 
+ 
 Acuático agudo 1 
 Clase y categoría 
 Acuático crónico 1 
@@ -265,7 +275,8 @@ GSH09 (medio ambiente)
 -- 
 Palabra 
 Advertencia 
-Frases de Riesgo H410 - Muy tóxico para los organismos acuáticos, con efectos nocivos 
+H410 - Muy tóxico para los organismos acuáticos, con efectos nocivos 
+Frases de Riesgo 
 duraderos.  
 P273 - Evitar su liberación al medio ambiente. (Si no es éste su uso 
 Consejos 
@@ -296,10 +307,6 @@ directamente en el punto de venta donde se hubiera adquirido si dichos envases s
 puesto en el mercado a través de un sistema de depósito, devolución y retorno 
   
 Otras indicaciones reglamentarias:   
- Página 7 de 8                                92316
-Nº REGISTRO: 
-POINTER 100 CS 
- 
 En la etiqueta se hará constar que "contiene isocianatos y triazina sustituida". Puede provocar 
 una reacción alérgica.  
 SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE. (No limpiar 
@@ -311,4 +318,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 8 de 8                                92316
+ Página 9 de 9                                102016

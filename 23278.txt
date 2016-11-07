@@ -28,12 +28,7 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 P.S.: Plazo de seguridad (días)
 Usos protegidos hasta fecha: (2) 
 Condicionamientos fitoterapeúticos:
-Generales : Aplicar en pulverización foliar normal.
-Aplicar únicamente en plantaciones con frutos bien polinizados.
-No mezclar con otros productos fitosanitarios.
-En la etiqueta se darán instrucciones para el uso correcto del producto, así como las advertencias
-oportunas sobre los riesgos de deformaciones de los frutos y de merma de la calidad, en caso de
-aplicaciones a dosis superiores o en momentos anteriores a los especificados.
+Generales :
 Específicos: (1) Tratar a las 3-4 semanas de la plena floración, con un gasto de caldo de 1.000-1.500 l/Ha., sin
 superar 1 Kg/Ha. de producto.
 (2) Tratar en pulverización foliar, con un volúmen de caldo de hasta 1.000 l/Ha. (5-10 g.s.a/Ha.) o en
@@ -43,14 +38,14 @@ Mitigación de riesgos medioambientales:
 SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m. hasta las masas
 de agua superficial.
 Mitigación de riesgos en la manipulación:
-Registro de Productos FitoSanitarios
-Nº Registro: 23.278
-Nombre comercial: SITOFEX
 El aplicador debe utilizar guantes de protección química adecuados durante la mezcla/carga y limpieza del equipo y
 ropa de protección adecuada durante la aplicación.
 No entrar al cultivo hasta que el producto esté seco. 
 SPo 2: Lávese toda la ropa de protección después de usarla.
 Restricciones por clases de usuarios:
+Registro de Productos FitoSanitarios
+Nº Registro: 23.278
+Nombre comercial: SITOFEX
 Uso reservado a agricultores y aplicadores profesionales
 Envases:
 Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
@@ -63,7 +58,7 @@ depósito, devolución y retorno, a través del punto de venta donde el usuario 
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Fácilmente inflamable, Nocivo, Irritante, Carcinogénico cat. 3, Peligroso para el medio
 ambiente
-Símbolos y pictogramas: Xn,F,Xi
+Símbolos y pictogramas: 0
 Frases de riesgo: R11, R36/38, R40, R52/53
 Consejos de prudencia: S2, S13, S45, S36/37, S7, S16, S23
 Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO

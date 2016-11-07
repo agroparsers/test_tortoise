@@ -23,9 +23,12 @@ Tipo de función: Fungicida
 Ámbitos de utilización: Simientes
 Usos autorizados:
 Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
-(1) Simiente de cebada CARBÓN DESNUDO 100-200 cc/Qm NP
-(2) Simiente de trigo CARIES 100-200 cc/Qm NP
-(3) Simiente de trigo FUSARIUM 100-200 cc/Qm NP
+(1) Simiente de cebada CARBÓN DESNUDO 100 cc/Qm NP
+(2) Simiente de trigo CARIES 100 cc/Qm NP
+(3) Simiente de trigo FUSARIUM 100 cc/Qm NP
+(4) Simiente de cebada CARBÓN DESNUDO 100-200 cc/Qm NP
+(5) Simiente de trigo CARIES 100-200 cc/Qm NP
+(6) Simiente de trigo FUSARIUM 100-200 cc/Qm NP
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
 Generales : Aplicar el producto, bien directamente con la maquinaria adecuada o bien diluyendo la dosis en 1
@@ -39,13 +42,13 @@ Se evitará el contacto del producto con la piel, los ojos y otras partes del cu
 así como ropa de protección adecuada. En la manipulación de la semilla tratada durante la siembra se deberá utilizar
 guantes .      
 No emplear las semillas tratadas para consumo; destinarlas exclusivamente para siembra.
+Registro de Productos FitoSanitarios
+Nº Registro: 22.051
+Nombre comercial: PREMIS
 Restricciones por clases de usuarios:
 Uso reservado a agricultores y aplicadores profesionales
 Envases:
 Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
-Registro de Productos FitoSanitarios
-Nº Registro: 22.051
-Nombre comercial: PREMIS
 Indicar en la etiqueta la obligación de entregar los envases vacíos a un gestor autorizado de residuos clasificados y
 peligrosos así como las opciones alternativas que el titular está obligado a ofrecer, conforme a lo establecido en el
 R.D. 1416/01, de entregarlos directamente al sistema integrado de gestión al que esté adherido o al propio, de

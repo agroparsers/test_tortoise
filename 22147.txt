@@ -30,7 +30,20 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 P.S.: Plazo de seguridad (días)
 Usos protegidos hasta fecha: (4) 
 Condicionamientos fitoterapeúticos:
-Generales :
+Generales : Aplicar en pulverización manual o con tractor ( en tabaco solo con tractor) utilizando la cantidad de
+caldo suficiente para mojar las plantas sin exceso (normalmente entre 350 y 600 litros por ha.) 
+El cultivo debe tener hojas verdes, estar sano y no padecer estrés o desequilibrios fisiológicos. Los
+tratamientos precoces pueden tener efectos desfavorables sobre el cultivo. Este no debe estar
+afectado por rocío, lluvia o riego. La aplicación debe efectuarse durante la mañana antes de que la
+humedad relativa descienda y la temperatura se eleve o a la caída de la tarde. No tratar sise prevén
+lluvias ni con ambiente seco y caluroso. Deberán trascurrir 24 horas entre la aplicación y el riego en
+el cultivo tratado.
+En la etiqueta se darán las instrucciones oportunas para la correcta utilización del producto, así
+como las advertencias necesarias para que el agricultor pueda cerciorarse de los riesgos de su
+utilización por sobredosificación, efectos indeseados, etc.
+Registro de Productos FitoSanitarios
+Nº Registro: 22.147
+Nombre comercial: SUPER STOP BROT 60
 Específicos: (1) Aplicar un solo tratamiento en pulverización, diluido en 300-400 l. de agua, sólo en cebollas de
 bulbo, con el 50% de plantas con cuello emergido, aproximadamente unos 15 días antes de la
 recolección, preferentemente después de un riego. No aplicar con temperaturas superiores a 26 ºC.
@@ -43,9 +56,6 @@ plantas, únicamente mediante tractor.
 hojas estén caídas pero todavía verdes (10-15 días antes de la recolección) y preferentemente
 después de un riego. La cantidad de caldo utilizada debe ser suficiente para mojar las plantas sin
 exceso.
-Registro de Productos FitoSanitarios
-Nº Registro: 22.147
-Nombre comercial: SUPER STOP BROT 60
 Condicionamientos preventivos de riesgos:
 Mitigación de riesgos en la manipulación:
 El aplicador debe utilizar guantes de protección química adecuados durante la aplicación, así como ropa de protección

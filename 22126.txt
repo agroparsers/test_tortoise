@@ -15,7 +15,8 @@ SUIZA
 Fecha de inscripción: 26/03/2003
 Fecha de caducidad: 31/03/2015
 Tipo de envase:
-Garrafas de plástico de 5 y 20 l (boca de 63 mm)
+Envases de 250 ml, 500 ml y 1 l (cualquier anchura de boca).
+Envases desde 5 l hasta 20 l (anchura de boca mayor ó igual a 45 mm).
 Composición: S-METOLACLORO 96% [EC] P/V
 Tipo de preparado: CONCENTRADO EMULSIONABLE [EC]
 Tipo de función: Herbicida
@@ -39,11 +40,11 @@ Específicos: (1), (3), (4) Tratar en pre o postemergencia precoz del cultivo.
 (2) Tratar en preemergencia del cultivo.
 (5) Aplicar en preemergencia del cultivo.
 (6), (7) Aplicar en pretrasplante.
-Condicionamientos preventivos de riesgos:
-Mitigación de riesgos medioambientales:
 Registro de Productos FitoSanitarios
 Nº Registro: 22.126
 Nombre comercial: DUAL GOLD
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
 SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 20 m. hasta las
 masas de agua superficial. 
 SPe 3: Para proteger los artrópodos no objetivo, no se deberán sobrepasar las dosis indicadas.
@@ -68,11 +69,11 @@ en los puntos de recogida establecidos por los sistemas colectivos de responsabi
 en el punto de venta donde se hubiera adquirido si dichos envases se han puesto en el mercado a través de un
 sistema de depósito, devolución y retorno.
 Clasificación y etiquetado (R.D. 255/2003):
-Clasificación : Atención, Acuático crónico 1, Irritación ocular. Categoría 2., Sensibilizantes cutáneos.
-Categoría 1 A., Acuático agudo 1
-Símbolos y pictogramas: --
-Frases de riesgo: H317, H319, H410, EUH 401
-Consejos de prudencia: P261, P273, P280, P391, P302+P352, P305+P351+P338, P501
+Clasificación : Atención, Acuático crónico 1, Sensibilizantes cutáneos. Categoría 1 A., Acuático agudo
+1
+Símbolos y pictogramas: GHS07,GHS09
+Frases de riesgo: H317, H410, EUH 401
+Consejos de prudencia: P261, P273, P280, P391, P302+P352, P501
 Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
 AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
 texto.  

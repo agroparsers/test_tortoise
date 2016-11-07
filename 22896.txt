@@ -12,7 +12,7 @@ Avda. Josep Tarradellas 20-30. Pl. 4 - Desp. 7-8
 08029
 BARCELONA
 Fecha de inscripción: 08/10/2002
-Fecha de caducidad: 31/10/2016
+Fecha de caducidad: 30/04/2018
 Tipo de envase:
 Estuches de cartón/sacos de papel con bolsa interior de plástico de 1 y 5 Kg.
 Composición: CIMOXANILO 3% + SULFATO CUPROCALCICO 22,5% (EXPR. EN CU) [WP] P/P
@@ -56,7 +56,7 @@ R.D. 1416/2001, de entregarlos directamente al sistema integrado de gestión al 
 depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Nocivo, Peligroso para el medio ambiente
-Símbolos y pictogramas: --
+Símbolos y pictogramas: 0
 Frases de riesgo: R20, R41, R43, R51/53
 Consejos de prudencia: S2, S13, S45, S22, S36/37/39, S26
 Otras indicaciones reglamentarias: La frase: 'A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO

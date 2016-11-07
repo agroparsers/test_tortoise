@@ -35,7 +35,7 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 (9) Rosal PULGONES 1 l/10 m2 NP
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
-Generales :
+Generales : Aplicar en pulverización foliar sin diluir, solo en cultivos al aire libre.
 Específicos: (1), (2), (3) Efectuar como máximo 2 aplicaciones por campaña, con un intervalo mínimo de 7 días
 entre ellas.
 (4), (5), (6) Efectuar como máximo 2 aplicaciones por campaña, con un intervalo mínimo de 14 días

@@ -78,7 +78,9 @@ Nombre comercial: DECIS EC 100
 (50) Tabaco PULGONES 0,075-0,125 l/ha 7
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
-Generales :
+Generales : Aplicar en pulverización normal.
+SPa 1: Para evitar la aparición de resistencias, no aplicar este producto ni ningún otro que contenga
+deltametrin más de las veces que se indica en la resolución para cada cultivo.
 Registro de Productos FitoSanitarios
 Nº Registro: 24.556
 Nombre comercial: DECIS EC 100

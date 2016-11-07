@@ -16,6 +16,7 @@ Fecha de inscripción: 28/11/2005
 Fecha de caducidad: 28/05/2017
 Tipo de envase:
 Sacos de papel de 20 Kg.
+Envases de 1 y 5 kg.
 Composición: SULFATO CUPROCALCICO 20% (EXPR. EN CU) [WG] P/P
 Tipo de preparado: GRANULADO DISPERSABLE EN AGUA [WG]
 Tipo de función: Fungicida
@@ -39,10 +40,10 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 (15) Cebolla BACTERIOSIS 0,6-0,9 % 3
 (16) Cebolla MILDIU 0,6-0,9 % 3
 (17) Chalote ALTERNARIA 0,6-0,9 % 3
-(18) Chalote ANTRACNOSIS 0,6-0,9 % 3
 Registro de Productos FitoSanitarios
 Nº Registro: 23.852
 Nombre comercial: CALDO BORDELES RSR DISPERSS
+(18) Chalote ANTRACNOSIS 0,6-0,9 % 3
 (19) Chalote BACTERIOSIS 0,6-0,9 % 3
 (20) Chalote MILDIU 0,6-0,9 % 3
 (21) Coliflor ALTERNARIA 0,6-1 % 15
@@ -82,10 +83,10 @@ Nombre comercial: CALDO BORDELES RSR DISPERSS
 (55) Judías verdes ALTERNARIA 0,6-1 % 3
 (56) Judías verdes ANTRACNOSIS 0,6-1 % 3
 (57) Judías verdes BACTERIOSIS 0,6-1 % 3
-(58) Judías verdes MILDIU 0,6-1 % 3
 Registro de Productos FitoSanitarios
 Nº Registro: 23.852
 Nombre comercial: CALDO BORDELES RSR DISPERSS
+(58) Judías verdes MILDIU 0,6-1 % 3
 (59) Lúpulo MILDIU 0,6-1 % 15
 (60) Olivo REPILO 0,6-1 % 15
 (61) Olivo TUBERCULOSIS 0,6-1 % 15
@@ -128,10 +129,10 @@ peligrosos así como las opciones alternativas que el titular está obligado a o
 R.D. 1416/2001, de entregarlos directamente al sistema integrado de gestión al que esté adherido o al propio, de
 depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
 Clasificación y etiquetado (R.D. 255/2003):
-Clasificación : Nocivo, Peligroso para el medio ambiente
 Registro de Productos FitoSanitarios
 Nº Registro: 23.852
 Nombre comercial: CALDO BORDELES RSR DISPERSS
+Clasificación : Nocivo, Peligroso para el medio ambiente
 Símbolos y pictogramas: --
 Frases de riesgo: R20, R41, R50/53
 Consejos de prudencia: S2, S13, S45, S22, S36/37/39, S26

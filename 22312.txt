@@ -1,9 +1,9 @@
 Registro de Productos FitoSanitarios
 Nº Registro: 22.312
-Nombre comercial: ASTEROIDE 36
+Nombre comercial: GLYFOS PROGRESS
 Titular:
-DENAGRO, S.L.U.
-Paseo de la Castellana nº 257- 5º
+CHEMINOVA AGRO, S.A.
+Pº Castellana, 257. 5º.
 28046
 MADRID
 Fabricante:
@@ -42,7 +42,7 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 P.S.: Plazo de seguridad (días)
 Registro de Productos FitoSanitarios
 Nº Registro: 22.312
-Nombre comercial: ASTEROIDE 36
+Nombre comercial: GLYFOS PROGRESS
 Condicionamientos fitoterapeúticos:
 Generales : Controla malas hierbas en postemergencia.
 Aplicar mediante equipos accionados por tractor en pulverización hidraúlica (100-250 l/Ha. de caldo -
@@ -96,7 +96,7 @@ Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Peligroso para el medio ambiente
 Registro de Productos FitoSanitarios
 Nº Registro: 22.312
-Nombre comercial: ASTEROIDE 36
+Nombre comercial: GLYFOS PROGRESS
 Símbolos y pictogramas: --
 Frases de riesgo: R53
 Consejos de prudencia: S2, S13, S45, S24/25, S23

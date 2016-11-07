@@ -13,7 +13,7 @@ C/ Charles Robert Darwin, 13. Parque Tecnológico
 46980 PATERNA
 VALENCIA
 Fecha de inscripción: 17/02/1976
-Fecha de caducidad: 31/10/2016
+Fecha de caducidad: 31/01/2018
 Tipo de envase:
 Bolsas de 60 g..Cajas de cartón de 1 kg. conteniendo 2 bolsas de 500 g.c/u. Bobina de aluminio en estuche de cartón
 de 1 kg. y Sacos de papel, aluminio y polietileno de 5, 10 y 25 kg.
@@ -46,9 +46,7 @@ Nombre comercial: CUPROSAN PRO
 (18) Vid MILDIU 0,3-0,4 % NP
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
-Generales : Aplicar en pulverización normal.
-En la etiqueta figurará la fecha de fabricación y el plazo de garantía de la riqueza declarada,
-pudiéndose formular al 17% de propineb para prevenir la degradación en un plazo superior a un año.
+Generales :
 Específicos: (1), (2) Efectuar sólo tratamientos desde la cosecha hasta la floración, limitando la aplicación a 1300
 l. de caldo/Ha. y un máximo de 3 aplicaciones por campaña (con un intervalo de tratamientos de 14
 días) y un máximo de 7,5 Kg. de cobre inorgánico/Ha.por campaña.
@@ -75,7 +73,7 @@ R.D. 1416/2001, de entregarlos directamente al sistema integrado de gestión al 
 depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Nocivo, Peligroso para el medio ambiente
-Símbolos y pictogramas: --
+Símbolos y pictogramas: 0
 Frases de riesgo: R20/22, R43, R48/20/22, R50/53
 Consejos de prudencia: S2, S13, S45, S22, S36/37, S38
 Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO

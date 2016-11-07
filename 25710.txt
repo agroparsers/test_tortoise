@@ -33,7 +33,9 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 (6) Granos de cereales POLILLAS 20 cc/Tm NP
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
-Generales :
+Generales : Aplicar en pulverización normal
+En la etiqueta se especificará la dosis y el volumen de caldo a emplear en cada aplicación, así
+como el sistema
 Específicos: (1), (2), (3) Aplicar sobre las paredes delos almacenes de cereales en el momento de la limpieza de
 los locales, antes de un nuevo periodo de almacenaje..
 (4), (5), (6) Aplicar directamente sobre los cereales a proteger en el momento del almacenaje  o

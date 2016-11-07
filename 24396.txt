@@ -61,13 +61,13 @@ Usos y dosis autorizados:
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 l/ha  
-MALAS HIERBAS 
-Herbáceas  
-1 - 2 
-VIVACES 
-extensivas MALAS HIERBAS 
- 
+MALAS HIERBAS  
 ANUALES 
+Herbáceas 
+1 - 2 
+extensivas 
+MALAS HIERBAS  
+VIVACES 
  
      Página 1 de 4       Nº REGISTRO:   24396  
 HALCON
@@ -80,12 +80,12 @@ USO AGENTE Min- (Condic.Específico)
 máx. 
 l/ha  
 MALAS HIERBAS 
-VIVACES 
+ANUALES 
 Sólo en cultivos de porte no rastrero, de más de 3-4 años y en 
 Leñosas 2 - 6 
 aplicación dirigida. 
 MALAS HIERBAS 
-ANUALES 
+VIVACES 
   
 Plazos de Seguridad (Protección del consumidor):  
   
@@ -121,13 +121,13 @@ SPo 2: Lávese toda la ropa de protección después de usarla
   
 Clasificaciones y Etiquetado: 
  
-Clase y categoría  
-de peligro 
-(Humana) 
- Página 2 de 4                                92316
+ Página 2 de 4                                102016
 Nº REGISTRO: 
 HALCON 
  
+Clase y categoría  
+de peligro 
+(Humana) 
 Pictograma  
 -- 
 Palabra 
@@ -156,8 +156,7 @@ Palabra
 Advertencia 
 Frases de Riesgo H410 - Muy tóxico para los organismos acuáticos, con efectos nocivos 
 duraderos.  
-P273 - Evitar su liberación al medio ambiente. (Si no es éste su uso 
-Consejos 
+Consejos P273 - Evitar su liberación al medio ambiente. (Si no es éste su uso 
 previsto) 
 Prudencia 
 P391 - Recoger el vertido. 
@@ -184,13 +183,13 @@ directamente en el punto de venta donde se hubiera adquirido si dichos envases s
 puesto en el mercado a través de un sistema de depósito, devolución y retorno 
   
 Otras indicaciones reglamentarias:   
-En la etiqueta se hará constar que "contiene 1,2-benzisotiazol-3 (2H)-ona nº CAS 2634-33-
-5".  SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE. (No 
-limpiar el equipo de aplicación del producto cerca de aguas superficiales/Evitese la 
- Página 3 de 4                                92316
+ Página 3 de 4                                102016
 Nº REGISTRO: 
 HALCON 
  
+En la etiqueta se hará constar que "contiene 1,2-benzisotiazol-3 (2H)-ona nº CAS 2634-33-
+5".  SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE. (No 
+limpiar el equipo de aplicación del producto cerca de aguas superficiales/Evitese la 
 contaminación a través de los sistemas de evacuación de aguas de las explotaciones o de 
 los caminos) 
   
@@ -199,4 +198,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 4 de 4                                92316
+ Página 4 de 4                                102016

@@ -20,15 +20,12 @@ Bolsas hidrosolubles de 10, 15, 20 y 30 g.
 Composición: TRIBENURON-METIL 50% [SG] P/P
 Tipo de preparado: GRANULOS SOLUBLES EN AGUA [SG]
 Tipo de función: Herbicida
-Ámbitos de utilización: Cultivos, Plantaciones Agrícolas
+Ámbitos de utilización: Cultivos
 Usos autorizados:
 Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
-(1) Cebada DICOTILEDONEAS 22,5-37,5 g/ha NP
-(2) Trigo DICOTILEDONEAS 22,5-37,5 g/ha NP
-(3) Girasol DICOTILEDONEAS 23-37 g/ha NP
-(4) Olivo DICOTILEDONEAS 25-40 g/ha 28
+(1) Girasol DICOTILEDONEAS 23-37 g/ha NP
 P.S.: Plazo de seguridad (días)
-Usos protegidos hasta fecha: (3) , (4) 
+Usos protegidos hasta fecha: (1) 
 Condicionamientos fitoterapeúticos:
 Generales : Controla malas hierbas en post-emergencia.
 Aplicar en pulverización a baja presión dirigida al suelo, evitando pulverizar a otros cultivos limítrofes.
@@ -43,14 +40,12 @@ como las advertencias necesarias para que el agricultor pueda cerciorarse de los
 utilización por fitotoxicidad en variedades sensibles del propio cultivo, en los cultivos adyacentes o
 en los siguientes en la rotación o en las condiciones concurrentes, como bajas temperaturas,
 estados de depresión del cultivo, suelo arenoso, etc.
+Específicos: (1) Girasol tolerante a tribenurón. Aplicar con el cultivo entre los estados vegetativos de 2 y 8 hojas.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
 Registro de Productos FitoSanitarios
 Nº Registro: 25.672
 Nombre comercial: EXPRESS SX
-Específicos: (1), (2) Tratar con el cultivo entre los estados de 3 hojas hasta el inicio del encañado. En caso de
-resiembra por fallo del cultivo, sólo se efectuará ésta con cereales de invierno.
-(3) Girasol tolerante a tribenurón. Aplicar con el cultivo entre los estados vegetativos de 2 y 8 hojas.
-Condicionamientos preventivos de riesgos:
-Mitigación de riesgos medioambientales:
 SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 metros hasta las
 masas de agua superficial.
 SPe 3: Para proteger las plantas no objetivo, respétese sin tratar una banda de seguridad de 10 metros hasta la zona
@@ -73,7 +68,7 @@ sistema de depósito, devolución y retorno.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Atención, Acuático crónico 1, Sensibilizantes cutáneos. Categoría 1 B., Acuático agudo
 1
-Símbolos y pictogramas: --
+Símbolos y pictogramas: GHS07,GHS09
 Frases de riesgo: H317, H410, EUH 401
 Consejos de prudencia: P261, P273, P280, P391, P302+P352, P501
 Otras indicaciones reglamentarias: El preparado no se usará en combinación con otros productos.

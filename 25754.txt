@@ -25,21 +25,21 @@ Fecha de caducidad: 30/06/2017
  
 Titular  
 Fabricante 
-UPL BENELUX B.V. 
- UPL BENELUX B.V. 
-Koopvaardijweg 9, 
-Koopvaardijweg 9, 
+UPL EUROPE LTD. 
+ UPL EUROPE LTD. 
+The Centre, Birchwood 
+The Centre, Birchwood Park 
  
-Industrieterrein 
-Industrieterrein waststad 
+Park 
+WA3 6YN CHESCHIRE 
  
-waststad 
-4906 CV Oosterhout 
+WA3 6YN CHESCHIRE 
+(Warrington) 
  
-4906 CV Oosterhout 
-PAISES BAJOS 
+(Warrington) 
+Reino Unido 
  
-PAISES BAJOS 
+Reino Unido 
  
  
  
@@ -126,7 +126,7 @@ Advertencia
 H410 - Muy tóxico para los organismos acuáticos, con efectos nocivos 
 Frases de Riesgo 
 duraderos.  
- Página 2 de 3                                92316
+ Página 2 de 3                                102016
 Nº REGISTRO: 
 FINY 
  
@@ -170,4 +170,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 3 de 3                                92316
+ Página 3 de 3                                102016

@@ -13,7 +13,7 @@ Avda. Rafael Casanova, 81
 08100 Mollet del Vallès
 BARCELONA
 Fecha de inscripción: 01/09/1994
-Fecha de caducidad: 30/12/2016
+Fecha de caducidad: 30/06/2018
 Tipo de envase:
 Cajas de 1 kg. (dos bolsas de 0,5 kg.) y bolsas de 5 kg.
 Composición: MANCOZEB 64% + METALAXIL 8% [WP] P/P
@@ -59,7 +59,7 @@ R.D. 1416/01, de entregarlos directamente al sistema integrado de gestión al qu
 depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Nocivo, Peligroso para el medio ambiente, Tóxico para la reproducción cat. 3
-Símbolos y pictogramas: --
+Símbolos y pictogramas: 0
 Frases de riesgo: R43, R63, R50/53
 Consejos de prudencia: S2, S13, S45, S36/37, S8, S23
 Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO

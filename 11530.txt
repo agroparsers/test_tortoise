@@ -16,7 +16,8 @@ INDIA
 Fecha de inscripción: 05/05/1975
 Fecha de caducidad: 30/11/2016
 Tipo de envase:
-Sacos de papel multicapa con revestimento interior de polietileno de 5 a 25 kg:
+Envases de 1 kg (con y sin cartón).
+Sacos de papel multicapa con revestimento interior de polietileno de 5 a 25 kg.
 Composición: MANCOZEB 80% ((ESP I)) [WP] P/P
 Tipo de preparado: POLVO MOJABLE [WP]
 Tipo de función: Fungicida
@@ -40,10 +41,10 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 (15) Calabaza MILDIU 0,2 % 3
 (16) Cebolla MILDIU 0,2-0,25 % 28
 (17) Cerezo CRIBADO 0,2 % 30
-(18) Cerezo GNOMONIA 0,2 % 30
 Registro de Productos FitoSanitarios
 Nº Registro: 11.530
 Nombre comercial: NUFO-Z
+(18) Cerezo GNOMONIA 0,2 % 30
 (19) Cerezo MONILIA 0,2 % 30
 (20) Cerezo ROYA 0,2 % 30
 (21) Chalote MILDIU 0,2-0,25 % 28
@@ -83,10 +84,10 @@ Nombre comercial: NUFO-Z
 (55) Pimiento MILDIU 0,2 % 3
 (56) Puerro MILDIU 0,2-0,25 % 28
 (57) Salsifies ALTERNARIA 0,2 % 30
-(58) Salsifies MILDIU 0,2 % 30
 Registro de Productos FitoSanitarios
 Nº Registro: 11.530
 Nombre comercial: NUFO-Z
+(58) Salsifies MILDIU 0,2 % 30
 (59) Tomate ALTERNARIA 0,2 % 3
 (60) Tomate ANTRACNOSIS 0,2 % 3
 (61) Tomate MILDIU 0,2 % 3
@@ -136,11 +137,11 @@ aplicación.
 (64), (65) Efectuar una aplicación desde el estadio de 3 hojas desplegadas hasta la floración y 2
 aplicaciones durante la misma con un intervalo de 16 días con un volumen de caldo de 1.000 l/Ha.
 sin superar los 2 kg/ha. por aplicación.
-Condicionamientos preventivos de riesgos:
-Mitigación de riesgos medioambientales:
 Registro de Productos FitoSanitarios
 Nº Registro: 11.530
 Nombre comercial: NUFO-Z
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
 SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 40 m. en cultivos
 leñosos, excepto en vid que será de 12 m. y 5 m. en el resto de cultivos, hasta las masas de agua superficial.
 Mitigación de riesgos en la manipulación:

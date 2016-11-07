@@ -21,7 +21,7 @@ PRODUCCIÓN AGRARIA
 Nombre comercial: ATRAPA 
 Número de autorización: 25637 
 Fecha de inscripción: 20/12/2012 
-Fecha de caducidad: 30/06/2017 
+Fecha de caducidad: 31/12/2019 
  
 Titular  
 Fabricante 
@@ -86,14 +86,16 @@ Lechuga PULGONES 0,0125 %
 caldo de 1.000 l/Ha. y un máximo de 2 aplicaciones. 
 GUSANOS 
 GRISES 
+0,075 - 0,2 
+l/ha 
+PULGONES 
+0,0075 - 
+Maíz TALADRO No sobrepasar la dosis de 0,20 l/Ha. 
+0,02 % 
 CICADELIDOS 
 0,075 - 0,2 
 l/ha 
-Maíz DELFÁCIDOS No sobrepasar la dosis de 0,20 l/Ha. 
-PULGONES 
-0,0075 - 
-TALADRO 
-0,02 % 
+DELFÁCIDOS 
 CARPOCAPSA 
 0,0075 - 
 Manzano CERATITIS No sobrepasar la dosis de 0,125 l/Ha. 
@@ -108,20 +110,13 @@ GUSANOS 0,075 - 0,2
 GRISES l/ha 
 CARPOCAPSA 
 0,0075 - 
-PSILA No sobrepasar la dosis de 0,15 l/Ha. 
+CERATITIS No sobrepasar la dosis de 0,15 l/Ha. 
 0,015 % 
-Peral 
-CERATITIS 
+Peral PSILA 
 Aplicar un máximo de 0,125 l/Ha. con un volumen de caldo de 500-
 PULGONES 0,0125 % 
 1.000 l/Ha. 
-MOSCA 0,015 - 
-Pimiento No sobrepasar la dosis de 0,20 l/Ha. 
-BLANCA 0,02 % 
-Remolacha 
-PULGONES 0,015 % No sobrepasar la dosis de 0,15 l/Ha. 
-azucarera 
- Página 2 de 5                                92316
+ Página 2 de 5                                102016
 Nº REGISTRO: 
 ATRAPA 
  
@@ -129,13 +124,19 @@ ATRAPA
   Dosis FORMA Y ÉPOCA DE APLICACIÓN 
 USO AGENTE Min- (Condic.Específico) 
 máx. 
+MOSCA 0,015 - 
+Pimiento No sobrepasar la dosis de 0,20 l/Ha. 
+BLANCA 0,02 % 
+Remolacha 
+PULGONES 0,015 % No sobrepasar la dosis de 0,15 l/Ha. 
+azucarera 
 Efectuar un tratamiento generalizado al suelo a la aparición de la 
 GUSANOS 0,075 - 0,2 
 plaga sin sobrepasar los 0,25 l/Ha. y un volumen de caldo de 500-
 GRISES l/ha 
 1.000 l/Ha. 
-Tomate 
 MOSCA 
+Tomate 
 BLANCA 
 No sobrepasar la dosis de 0,25 l/ha. en tomate industrial. Para 
 0,0075 - 
@@ -161,6 +162,10 @@ Olivo NP
  
  
 Condiciones generales de uso:   
+ Página 3 de 5                                102016
+Nº REGISTRO: 
+ATRAPA 
+ 
 Aplicar en pulverización normal mediante aplicación manual y con tractor a la aparición de la 
 plaga, con un volumen de caldo de 500-1.000 l/Ha. en peral, manzano, tomate, hortalizas del 
 género brassica y patata; 1.000 l. en olivo, judías pimiento, lechuga y remolacha azucarera y 
@@ -171,10 +176,6 @@ Excepciones: --
 Clase de usuario:   
 Uso reservado a agricultores y aplicadores profesionales 
   
- Página 3 de 5                                92316
-Nº REGISTRO: 
-ATRAPA 
- 
 Mitigación de riesgos en la manipulación:   
 El aplicador deberá utilizar guantes de protección química adecuados durante la 
 mezcla/carga, aplicación y limpieza del equipo. Durante la aplicación del producto se utilizará 
@@ -198,15 +199,15 @@ de peligro
 Pictograma 
 N  
 Xn  
-Palabra  
+Palabra 
+ 
 Advertencia 
 R20/22 - Nocivo por inhalación y por ingestión 
 Indicaciones de 
 R50/53 - Muy tóxico para los organismos acuáticos, puede provocar a 
 peligro 
 largo plazo efectos negativos en el medio ambiente acuático 
-S13 - Conservar separado de alimentos, bebidas y piensos 
-Consejos de 
+Consejos de S13 - Conservar separado de alimentos, bebidas y piensos 
 S2 - Manténgase fuera del alcance de los niños. 
 Prudencia 
 S23 - No respirar los gases/humos/vapores/aerosoles 
@@ -218,13 +219,14 @@ Clase y categoría
 de peligro 
 (Medio ambiental) 
 Pictograma  
-Palabra 
- 
+Palabra  
 Advertencia 
-Frases de Riesgo 
+ Página 4 de 5                                102016
+Nº REGISTRO: 
+ATRAPA 
  
-Consejos 
- 
+Frases de Riesgo  
+Consejos  
 Prudencia 
   
  “A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO AMBIENTE 
@@ -232,10 +234,6 @@ SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el texto.
 Mitigación de riesgos ambientales:   
 SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad 
 de 10 m. con cubierta vegetal en cultivos herbáceos y de 40 m. en cultivos leñosos hasta las 
- Página 4 de 5                                92316
-Nº REGISTRO: 
-ATRAPA 
- 
 masas de agua superficial. Con utilización de boquillas de reducción de la deriva del 95% 
 respetar en cultivos leñosos una banda de seguridad de 10 m. a masas de agua superficial.  
 SPe 3: Para proteger los artrópodos no objeto del tratamiento, respétese sin tratar una banda 
@@ -271,4 +269,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 5 de 5                                92316
+ Página 5 de 5                                102016

@@ -14,6 +14,7 @@ BARCELONA
 Fecha de inscripción: 03/05/1984
 Fecha de caducidad: 31/01/2017
 Tipo de envase:
+Estuche de cartón que contiene 6 bolsas de polietileno de 500 g cada una.
 Estuche de cartón 10 x 1 kg. (cartón DDF).
 Bolsa de papel/alumninio/polietileno de 1 kg.
 Composición: METIL TOLCLOFOS 50% [WP] P/P
@@ -29,8 +30,8 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 (5) Patata de siembra RIZOCTONIA 0,2-0,4 Kg/Tm NP
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
-Generales : Aplicar en pulverización según lo epecificado en cada caso.
-En la etiqueta se darán las indicaciones oportunas para el correcto uso del producto.
+Generales : Aplicar en pulverización normal al suelo con suficiente cantidad de caldo para que el recubrimiento
+del suelo sea uniforme.
 Específicos: (1), (2), (3) Aplicar en los primeros estadios del cultivo, antes o durante la siembra o plantación, con
 un volumen de caldo de 1000-10000 l/ha.
 (4), (5) Tratar los tubérculos en el momento de la siembra utilizando un volumen de caldo de 125-250
@@ -63,10 +64,13 @@ en el punto de venta donde se hubiera adquirido si dichos envases se han puesto 
 sistema de depósito, devolución y retorno.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Atención, Acuático crónico 1, Sensibilizantes cutáneos. Categoría 1.
-Símbolos y pictogramas: --
+Símbolos y pictogramas: GHS07,GHS09
 Frases de riesgo: H317, H410, EUH 401
 Consejos de prudencia: P261, P273, P280, P391, P302+P352, P501
 Otras indicaciones reglamentarias: SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
 (No limpiar el equipo de aplicación del producto cerca de aguas
 superficiales/Evitese la contaminación a través de los sistemas de evacuación de
 aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.

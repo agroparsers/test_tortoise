@@ -22,7 +22,7 @@ Para jardinería exterior doméstica envases de 5, 20, 100 y 500 ml.
 Composición: DIFENOCONAZOL 25% [EC] P/V (ESP.)
 Tipo de preparado: CONCENTRADO EMULSIONABLE [EC]
 Tipo de función: Fungicida
-Ámbitos de utilización: Cultivos, Plantaciones Agrícolas
+Ámbitos de utilización: Cultivos, Plantaciones Agrícolas, Jardinería Exterior Doméstica
 Usos autorizados:
 Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 (1) Albaricoquero ABOLLADURA 0,03 % 7
@@ -157,8 +157,8 @@ volumen de caldo entre 500-1.200 l/ha. No superar un gasto de 0,5 l/ha.
 volumen de caldo entre 500-1.000 l/ha. No superar un gasto de 0,3 l/ha.
 (50) Aire libre. Efectuar un máximo de 2 aplicaciones por campaña, con un intervalo de 10 días, en
 un volumen de caldo entre 400-1.000 l/ha. No superar un gasto de 0,5 l/ha.
-(53), (54), (55) Aire libre. Efectuar un máximo de 4 aplicaciones por campaña, con un intervalo de
-7-10 días, en un volumen de caldo entre 500-1.200 l/ha. No superar un gasto de 0,5 l/ha.
+(53), (54), (55) Aire libre e invernadero. Efectuar un máximo de 3 aplicaciones por campaña, con un
+intervalo de 7-10 días, en un volumen de caldo entre 500-1.200 l/ha. No superar un gasto de 0,5 l/ha.
 (56), (57) Efectuar un máximo de 4 aplicaciones por campaña con un intervalo de 10 días, en un
 volumen de caldo entre 800-1.000 l/ha. No superar un gasto de 0,2 l/ha.
 Registro de Productos FitoSanitarios
@@ -171,6 +171,7 @@ pepita, frutales de hueso y caqui; 20 m o 10 m con boquillas de reducción de la
 viñedo; 10 m con cubierta vegetal en hortalizas de hoja, de raíz, de fruto, patata, fresa y ornamentales, 5 m en
 remolacha, hasta la masa de agua superficial.
 Mitigación de riesgos en la manipulación:
+Uso profesional: 
 El operador deberá utilizar guantes de protección química durante la mezcla/carga, aplicación, manejo y limpieza del
 equipo, siempre y cuando el tractor carezca de cabina cerrada y dispositivo de filtrado de aire.
 En aplicaciones en invernadero el operador deberá utilizar guantes de protección química y ropa de protección química
@@ -179,8 +180,7 @@ SPo 2: Lávese toda la ropa de protección después de usarla.
 SPo 5: Ventilar los invernaderos tratados hasta que se haya secado la pulverización antes de volver a entrar.
 Restricciones por clases de usuarios:
 Uso reservado a agricultores y aplicadores profesionales.
-Para usuarios no profesionales, exclusivamente los tipos de envases autorizados para jardinería exterior doméstica.
-Para jardinería exterior doméstica la capacidad del envase no excederá los 500 ml.
+Uso no profesional: Para jardinería exterior doméstica la capacidad del envase no excederá los 500 ml.
 Envases:
 Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
 Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al depósito (del pulverizador).
@@ -192,12 +192,22 @@ sistema de depósito, devolución y retorno.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Atención, Acuático crónico 1, Irritación ocular. Categoría 2., Peligro por aspiración.
 Categoría 1., Peligro
-Símbolos y pictogramas: --
+Símbolos y pictogramas: GHS07,GHS08
 Frases de riesgo: H304, H319, H410, EUH 066, EUH 401
 Consejos de prudencia: P102, P261, P273, P280, P331, P391, P301+P310, P305+P351+P338, P337+P313, P501
 Otras indicaciones reglamentarias: En la etiqueta deberá indicarse que "contiene nafta disolvente del petróleo (nº
-CAS: 64742-94-5)"
+CAS: 64742-94-5)". La Nafta disolvente del petróleo debe tener un contenido en
+naftaleno menor de 1%.
+En la etiqueta de este producto se deberá incluir en la leyenda "autorizado su uso
+para jardinería exterior doméstica", en caracteres preferentemente visibles.
+Para los usos en jardinería exterior doméstica y en aquellas zonas destinadas al
+uso público en general, se deberá cumplir con las especificaciones recogidas en el
+Real Decreto 1311/2012 por el que se establece el marco de actuación para
+conseguir un uso sostenible de los productos fitosanitarios.
 SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.
 (No limpiar el equipo de aplicación del producto cerca de aguas
 superficiales/Evitese la contaminación a través de los sistemas de evacuación de
 aguas de las explotaciones o de los caminos).
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
+AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el
+texto.

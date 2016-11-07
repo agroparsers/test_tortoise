@@ -94,6 +94,10 @@ Areas no cultivadas, Leñosas, Praderas NP
  
  
 Condiciones generales de uso:   
+ Página 2 de 5                                102016
+Nº REGISTRO: 
+GENOXONE ZX 
+ 
 Aplicar en pulverización a baja presión, con las malas hierbas en crecimiento activo y máximo 
 desarrollo , manualmente (mochila ó lanza) o mediante tractor, sin superar una dosis máxima 
 de 4,5 l/ha de producto en la superficie realmente tratada 
@@ -101,10 +105,6 @@ de 4,5 l/ha de producto en la superficie realmente tratada
 Excepciones: -- 
   
 Clase de usuario:   
- Página 2 de 5                                92316
-Nº REGISTRO: 
-GENOXONE ZX 
- 
 Uso reservado a agricultores y aplicadores profesionales en lugares no destinados al público 
 en general 
   
@@ -138,7 +138,8 @@ GSH02 (llama)
 GSH05 (corrosión)  
 GSH07 (signo de exclamación)  
 GSH08 (peligro para la salud)  
-Palabra -- 
+-- 
+Palabra 
 Advertencia 
 Indicaciones de EUH 401 - A fin de evitar riesgos para las personas y el medio 
 ambiente, siga las instrucciones de uso. 
@@ -148,7 +149,7 @@ H304 - Puede ser mortal en caso de ingestión y penetración en las vías
 respiratorias. 
 H315 - Provoca irritación cutánea. 
 H318 - Provoca lesiones oculares graves.  
- Página 3 de 5                                92316
+ Página 3 de 5                                102016
 Nº REGISTRO: 
 GENOXONE ZX 
  
@@ -207,7 +208,7 @@ depósito (del pulverizador). Conforme a lo establecido en el Real Decreto 1416/
 de diciembre, sobre envases de productos fitosanitarios, en la etiqueta deberá figurar la 
 siguiente frase: Entregar los envases vacíos o resíduos de envases bien en los puntos de 
 recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o 
- Página 4 de 5                                92316
+ Página 4 de 5                                102016
 Nº REGISTRO: 
 GENOXONE ZX 
  
@@ -233,4 +234,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 5 de 5                                92316
+ Página 5 de 5                                102016

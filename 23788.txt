@@ -12,7 +12,7 @@ C/ Méndez Álvaro nº 20, 5ª Planta
 28045
 MADRID
 Fecha de inscripción: 22/02/2005
-Fecha de caducidad: 31/05/2017
+Fecha de caducidad: 30/04/2018
 Tipo de envase:
 Estuches de cartón con bolsa interior de aluminio-polietileno de 0,1, 0,5, 1, 5 y 10 Kg.
 Composición: FOSETIL-AL 80% [WG] P/P
@@ -51,7 +51,7 @@ R.D. 1416/2001, de entregarlos directamente al sistema integrado de gestión al 
 depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Irritante
-Símbolos y pictogramas: Xi
+Símbolos y pictogramas: 0
 Frases de riesgo: R41
 Consejos de prudencia: S2, S13, S45, S22, S36/37/39, S26
 Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO

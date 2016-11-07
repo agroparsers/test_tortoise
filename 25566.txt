@@ -21,7 +21,7 @@ PRODUCCIÓN AGRARIA
 Nombre comercial: ASCOT 
 Número de autorización: 25566 
 Fecha de inscripción: 28/05/2014 
-Fecha de caducidad: 30/06/2017 
+Fecha de caducidad: 31/03/2018 
  
 Titular  
 Fabricante 
@@ -108,25 +108,25 @@ Mitigación de riesgos en la manipulación: --
   
 Clasificaciones y Etiquetado: 
  
-Toxicidad aguda (oral, cutánea, por inhalación). Categoría 4. 
-Clase y categoría 
+Clase y categoría Toxicidad aguda (oral, cutánea, por inhalación). Categoría 4. 
 de peligro 
 (Humana) 
 Pictograma 
 GSH07 (signo de exclamación)  
--- 
-Palabra 
-Advertencia 
- Página 2 de 4                                92316
+ Página 2 de 4                                102016
 Nº REGISTRO: 
 ASCOT 
  
+-- 
+Palabra 
+Advertencia 
 EUH 401 - A fin de evitar riesgos para las personas y el medio 
 Indicaciones de 
 ambiente, siga las instrucciones de uso. 
 peligro 
 H302 - Nocivo en caso de ingestión.  
-Consejos de P264 - Lavarse concienzudamente tras la manipulación. (El fabricante o 
+P264 - Lavarse concienzudamente tras la manipulación. (El fabricante o 
+Consejos de 
 el proveedor especificarán las partes del cuerpo que hay que lavar tras 
 Prudencia 
 la manipulación) 
@@ -176,14 +176,14 @@ Otras indicaciones reglamentarias:
 SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE. (No limpiar 
 el equipo de aplicación del producto cerca de aguas superficiales/Evitese la contaminación a 
 través de los sistemas de evacuación de aguas de las explotaciones o de los caminos) 
-  
-Condiciones de almacenamiento: -- 
- Página 3 de 4                                92316
+ Página 3 de 4                                102016
 Nº REGISTRO: 
 ASCOT 
  
   
+Condiciones de almacenamiento: -- 
+  
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 4 de 4                                92316
+ Página 4 de 4                                102016

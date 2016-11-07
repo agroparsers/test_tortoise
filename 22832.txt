@@ -13,7 +13,7 @@ Vía A. Volta, 16
 MILAN
 ITALIA
 Fecha de inscripción: 08/10/2002
-Fecha de caducidad: 30/10/2016
+Fecha de caducidad: 30/04/2018
 Tipo de envase:
 Sacos de papel con bolsa interior de plástico de 5 Kg.
 Composición: CIMOXANILO 4% + MANCOZEB 40% [WP] P/P
@@ -35,16 +35,14 @@ P.S.: Plazo de seguridad (días)
 Usos protegidos hasta fecha: (9) 
 Condicionamientos fitoterapeúticos:
 Generales : Aplicar en pulverización normal.
-A efectos de evitar resistencias, se recomienda alternar los tratamientos con fungicidas de diferente
-modo de acción.
 Específicos: (7), (8) P.S.: 21 días para vid de vinificación.
 (9) Tratamientos preventivos que podrán repetirse en caso de mantenerse las condiciones de riesgo,
 cada 7 días.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
 Registro de Productos FitoSanitarios
 Nº Registro: 22.832
 Nombre comercial: CIMOSTAR
-Condicionamientos preventivos de riesgos:
-Mitigación de riesgos medioambientales:
 Mamíferos: A
 Aves: A
 Peces: B Mediana peligrosidad para peces
@@ -62,7 +60,7 @@ R.D. 1416/2001, de entregarlos directamente al sistema integrado de gestión al 
 depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Nocivo, Peligroso para el medio ambiente, Tóxico para la reproducción cat. 3
-Símbolos y pictogramas: --
+Símbolos y pictogramas: 0
 Frases de riesgo: R43, R63, R50/53
 Consejos de prudencia: S2, S13, S45, S36/37, S8, S23
 Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO

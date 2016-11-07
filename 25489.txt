@@ -18,53 +18,79 @@ Fecha de inscripción: 22/07/2011
 Fecha de caducidad: 30/04/2017
 Tipo de envase:
 Pistola pulverizadora de 200 y 750 ml. (listo uso)
-Composición: ACETAMIPRID 0,005% [AL] P/V
+Composición: ACETAMIPRID 0,005% ( ESPI) [AL] P/V
 Tipo de preparado: OTROS LIQUIDOS PARA APLICAR SIN DILUIR [AL]
 Tipo de función: Insecticida
 Ámbitos de utilización: Cultivos, Jardinería Exterior Doméstica
 Usos autorizados:
 Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
-(1) Arbustos ornamentales ACAROS (ver nota) NP
-(2) Arbustos ornamentales CICADELIDOS (ver nota) NP
-(3) Arbustos ornamentales COCHINILLAS (ver nota) NP
-(4) Arbustos ornamentales MOSCA BLANCA (ver nota) NP
-(5) Arbustos ornamentales PULGONES (ver nota) NP
-(6) Arbustos ornamentales TRIPS (ver nota) NP
-(7) Castaño de Indias MINADOR (ver nota) NP
-(8) Ornamentales herbáceas ACAROS (ver nota) NP
-(9) Ornamentales herbáceas COCHINILLAS (ver nota) NP
-(10) Ornamentales herbáceas LARVAS DE COLEOPTEROS (ver nota) NP
-(11) Ornamentales herbáceas MOSCA BLANCA (ver nota) NP
-(12) Ornamentales herbáceas ORUGAS (ver nota) NP
-(13) Ornamentales herbáceas PULGONES (ver nota) NP
-(14) Ornamentales herbáceas TRIPS (ver nota) NP
-(15) Plantas de interior INSECTOS (ver nota) NP
-(16) Rosal ACAROS (ver nota) NP
-(17) Rosal COCHINILLAS (ver nota) NP
-(18) Rosal MOSCA BLANCA (ver nota) NP
+(1) Arbustos ornamentales ACAROS 1 l/10 m2 NP
+(2) Arbustos ornamentales CICADELIDOS 1 l/10 m2 NP
+(3) Arbustos ornamentales COCHINILLAS 1 l/10 m2 NP
+(4) Arbustos ornamentales MOSCA BLANCA 1 l/10 m2 NP
+(5) Arbustos ornamentales PULGONES 1 l/10 m2 NP
+(6) Arbustos ornamentales TRIPS 1 l/10 m2 NP
+(7) Berenjena MOSCA BLANCA 1 l/10 m2 14
+(8) Calabacín MOSCA BLANCA 1 l/10 m2 14
+(9) Calabacín PULGONES 0,5 l/10 m2 14
+(10) Castaño de Indias MINADOR 1 l/10 m2 NP
+(11) Cerezo PULGON NEGRO 1 l/10 m2 14
+(12) Lechuga PULGONES 0,5 l/10 m2 14
+(13) Manzano CARPOCAPSA 1 l/10 m2 14
+(14) Manzano PULGONES 1 l/10 m2 14
+(15) Melón PULGONES 0,5 l/10 m2 14
+(16) Membrillero CARPOCAPSA 1 l/10 m2 14
+(17) Membrillero PULGONES 1 l/10 m2 14
+(18) Ornamentales herbáceas ACAROS 1 l/10 m2 NP
 Registro de Productos FitoSanitarios
 Nº Registro: 25.489
 Nombre comercial: POLYSECT ULTRA AL
-(19) Rosal NOCTUIDOS (ver nota) NP
-(20) Rosal PULGONES (ver nota) NP
-(21) Rosal TRIPS (ver nota) NP
+(19) Ornamentales herbáceas COCHINILLAS 1 l/10 m2 NP
+(20) Ornamentales herbáceas LARVAS DE COLEOPTEROS 1 l/10 m2 NP
+(21) Ornamentales herbáceas MOSCA BLANCA 1 l/10 m2 NP
+(22) Ornamentales herbáceas ORUGAS 1 l/10 m2 NP
+(23) Ornamentales herbáceas PULGONES 1 l/10 m2 NP
+(24) Ornamentales herbáceas TRIPS 1 l/10 m2 NP
+(25) Patata ESCARABAJO 0,5 l/10 m2 14
+(26) Pepino MOSCA BLANCA 1 l/10 m2 14
+(27) Pepino PULGONES 0,5 l/10 m2 14
+(28) Peral CARPOCAPSA 1 l/10 m2 14
+(29) Peral PULGONES 1 l/10 m2 14
+(30) Pimiento MOSCA BLANCA 1 l/10 m2 14
+(31) Plantas de interior INSECTOS 1 l/10 m2 NP
+(32) Rosal ACAROS 1 l/10 m2 NP
+(33) Rosal COCHINILLAS 1 l/10 m2 NP
+(34) Rosal MOSCA BLANCA 1 l/10 m2 NP
+(35) Rosal NOCTUIDOS 1 l/10 m2 NP
+(36) Rosal PULGONES 1 l/10 m2 NP
+(37) Rosal TRIPS 1 l/10 m2 NP
+(38) Tomate MOSCA BLANCA 1 l/10 m2 14
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
-Generales : Aplicar directamente sin diluir desde el inicio de los daños o de la presencia de insectos entre
-marzo y octubre a razón de 1 l/10 m2, con un máximo de 4 tratamientos/año espaciados al menos
-10-14 días.
-Tratar con temperaturas suaves, sin viento ni lluvia.
+Generales : Aplicar directamente sin diluir. Tratar con temperaturas suaves, sin viento ni lluvia.
+Específicos: (1), (2), (3), (4), (5), (6), (10), (18), (19), (20), (21), (22), (23), (24), (31), (32), (33), (34), (35), (36), (37)
+Aplicar desde el inicio de los daños o presencia de insectos entre marzo y octubre, con un máximo
+de 4 tratamientos/año espaciados al menos 10-14 días.
+(7), (8), (9), (12), (13), (14), (15), (16), (17), (25), (26), (27), (28), (29), (30), (38) Realizar un máximo
+de 2 aplicaciones por campaña.
+(11) Realizar una aplicación por campaña.
 Condicionamientos preventivos de riesgos:
 Mitigación de riesgos medioambientales:
 SPe 8: Peligroso para las abejas. Para proteger las abejas y otros insectos polinizadores, no utilizar donde haya
 abejas en pecoreo activo.
+Mitigación de riesgos en la manipulación:
+Aplicador:
+Evítese el contacto con el follaje húmedo
+Trabajador:
+Para todos los cultivos se deberá utilizar ropa de trabajo: manga larga, pantalón largo y calzado adecuado.
 Restricciones por clases de usuarios:
 Autorizado para uso doméstico y jardineria exterior doméstica. 
 Para uso doméstico y jardinería exterior doméstica la capacidad del envase no excederá los 750 ml.
 Envases:
 Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
-b) Los envases autorizados para jardinería exterior doméstica elimínense esta sustancia y su recipiente en un punto
-de recogida pública de residuos especiales o peligrosos. 
+Registro de Productos FitoSanitarios
+Nº Registro: 25.489
+Nombre comercial: POLYSECT ULTRA AL
 Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases de productos
 fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los envases vacíos o resíduos de envases bien
 en los puntos de recogida establecidos por los sistemas colectivos de responsabilidad ampliada (SIG) o directamente

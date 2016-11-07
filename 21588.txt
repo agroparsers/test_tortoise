@@ -13,7 +13,7 @@ DOW AGROSCIENCES LLC (USA)
 INDIANA
 EEUU
 Fecha de inscripción: 19/06/1997
-Fecha de caducidad: 30/12/2016
+Fecha de caducidad: 31/01/2018
 Tipo de envase:
 Botellas y garrafas de polietileno de 1 y 5 l.
 Composición: CLORPIRIFOS 48% (ESPIV) [EC]
@@ -100,7 +100,7 @@ en el punto de venta donde se hubiera adquirido si dichos envases se han puesto 
 sistema de depósito, devolución y retorno.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Nocivo, Peligroso para el medio ambiente
-Símbolos y pictogramas: N,Xn
+Símbolos y pictogramas: 0
 Frases de riesgo: R20/22, R10, R50/53, R65
 Consejos de prudencia: S2, S13, S45, S28, S36/37, S62
 Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene nafta disolvente del petróleo, Nº CAS:

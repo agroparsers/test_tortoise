@@ -11,7 +11,7 @@ TRADE CORPORATION INTERNATIONAL, S.A.
 Alcalá, 498 - 2ª Planta
 28027 MADRID
 Fecha de inscripción: 07/02/2003
-Fecha de caducidad: 31/10/2016
+Fecha de caducidad: 31/01/2018
 Tipo de envase:
 Sacos de papel plastificado con cubierta interior de aluminio de 1, 5 y 20 Kg.
 Composición: SULFATO CUPROCALCICO 20% (EXPR. EN CU) [WP] P/P
@@ -157,7 +157,7 @@ tóxicos así como las opciones alternativas que el titular está obligado a ofr
 devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Nocivo, Peligroso para el medio ambiente
-Símbolos y pictogramas: --
+Símbolos y pictogramas: 0
 Frases de riesgo: R20, R41, R51/53
 Consejos de prudencia: S2, S13, S45, S22, S36/37/39, S26
 Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO

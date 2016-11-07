@@ -12,7 +12,7 @@ Paseo de la Castellana nº 257- 5º
 28046
 MADRID
 Fecha de inscripción: 21/07/1976
-Fecha de caducidad: 31/10/2016
+Fecha de caducidad: 31/01/2018
 Tipo de envase:
 Bolsa de 1 Kg. de polietileno y saco de 5, 10, 15 y 25 Kg. de papel o polietileno.
 Para jardinería exterior doméstica bolsa de lámina metalizada de 15, 10 y 250 g.
@@ -111,8 +111,8 @@ P.S.: Plazo de seguridad (días)
 Excepciones: (70), (71), (72), (73) Excepto espárrago.
 Condicionamientos fitoterapeúticos:
 Generales : Aplicar en pulverización normal.
-Indicar en la etiqueta las precauciones a tomar para evitar la fitotoxicidad propia del cobre,
-principalmente en zonas frías y húmedas, y en algunas variedades de frutales y vid.
+Observar precauciones por la fitotoxicidad propia del cobre, sobre todo en zonas frías y húmedas, en
+algunas variedades de frutales, vid y otros cultivos.
 Específicos: (5), (6), (7), (8) P.S.: 3 días en cultivo de invernadero. Efectuar un máximo de 6 aplicaciones por
 campaña a intervalos de 7 días utilizando un volumen máximo de caldo de 600 l/Ha. y un máximo de
 7,5 Kg de cobre inorgánico por campaña.
@@ -152,7 +152,7 @@ Los envases destinados a usuarios no profesionales deberán ser de material ríg
 relieve detectable al tacto.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Nocivo, Peligroso para el medio ambiente
-Símbolos y pictogramas: --
+Símbolos y pictogramas: 0
 Frases de riesgo: R20, R22, R50/53
 Consejos de prudencia: S2, S13, S45, S22, S24/25
 Otras indicaciones reglamentarias:

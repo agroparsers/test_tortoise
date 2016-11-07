@@ -70,16 +70,20 @@ Cebada DICOTILEDONEAS ANUALES 0,05 - 0,09 De invierno y primavera.
 Centeno DICOTILEDONEAS ANUALES 0,05 - 0,09 
   
 Trigo blando DICOTILEDONEAS ANUALES 0,05 - 0,09 De invierno. 
-Trigo duro DICOTILEDONEAS ANUALES 0,05 - 0,09 
-  
-Triticale DICOTILEDONEAS ANUALES 0,05 - 0,09 
-  
  
-     Página 1 de 3       Nº REGISTRO:   25786  
+     Página 1 de 4       Nº REGISTRO:   25786  
 ERGON
 Nº REGISTRO: 
 ERGON 
  
+    
+  Dosis FORMA Y ÉPOCA DE APLICACIÓN 
+USO AGENTE Min-máx. (Condic.Específico) 
+Kg/ha  
+Trigo duro DICOTILEDONEAS ANUALES 0,05 - 0,09 
+  
+Triticale DICOTILEDONEAS ANUALES 0,05 - 0,09 
+  
   
 Plazos de Seguridad (Protección del consumidor):  
   
@@ -112,12 +116,10 @@ No entrar al cultivo hasta que el producto esté seco
   
 Clasificaciones y Etiquetado: 
  
-Clase y categoría 
- 
+Clase y categoría  
 de peligro 
 (Humana) 
-Pictograma 
- 
+Pictograma  
 -- 
 Palabra 
 Advertencia 
@@ -126,6 +128,10 @@ Indicaciones de
 EUH 401 - A fin de evitar riesgos para las personas y el medio 
 peligro 
 ambiente, siga las instrucciones de uso.  
+ Página 2 de 4                                102016
+Nº REGISTRO: 
+ERGON 
+ 
 P261 - Evitar respirar el polvo/el humo/el gas/la niebla/los vapores/ el 
 Consejos de 
 aerosol. (El fabricante o el proveedor especificarán las condiciones 
@@ -137,10 +143,6 @@ Clase y categoría
 Acuático crónico 1 
 de peligro 
 (Medio ambiental) 
- Página 2 de 3                                92316
-Nº REGISTRO: 
-ERGON 
- 
 Pictograma 
 GSH09 (medio ambiente)  
 -- 
@@ -186,6 +188,10 @@ través de los sistemas de evacuación de aguas de las explotaciones o de los ca
 Condiciones de almacenamiento: -- 
   
 Requerimiento de datos/estudios complementarios: -- 
+ Página 3 de 4                                102016
+Nº REGISTRO: 
+ERGON 
+ 
   
  
- Página 3 de 3                                92316
+ Página 4 de 4                                102016

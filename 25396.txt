@@ -59,13 +59,13 @@ Usos y dosis autorizados:
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 %  
-APION 
+PULGONES 
 0,04 - 
-Alfalfa CUCA Aplicar al inicio de la infestación con un máximo de 0,3 Kg/Ha. 
+Alfalfa Aplicar al inicio de la infestación con un máximo de 0,3 Kg/Ha. 
 0,08 
-GUSANO VERDE 
+APION 
  
-     Página 1 de 8       Nº REGISTRO:   25396  
+     Página 1 de 10       Nº REGISTRO:   25396  
 AKIRA
 Nº REGISTRO: 
 AKIRA 
@@ -75,7 +75,8 @@ AKIRA
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 %  
-PULGONES 
+CUCA 
+GUSANO VERDE 
 EARIAS 
 HELIOTIS 
 0,04 - 
@@ -90,9 +91,9 @@ Almendro Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha.
 PULGONES 
 ORUGAS 
 0,04 - 
-Apio MOSCA Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
+Apio PULGONES Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
 0,08 
-PULGONES 
+MOSCA 
 ORUGAS 
 0,04 - 
 Apionabo Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
@@ -103,22 +104,10 @@ ORUGAS
 Avellano Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
 0,08 
 PULGONES 
-MOSCA BLANCA 
 0,04 - 
-Brécol ORUGAS Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
+Brécol MOSCA BLANCA Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
 0,08 
-PULGONES 
-GARRAPATILLO 
-0,04 - 
-Cereales PULGONES Aplicar al inicio de la infestación con un máximo de 0,32 Kg/Ha. 
-0,08 
-SANPEDRITO 
-Sólo en pulverización-cebo, aplicado a razón de 0,1 l/árbol de caldo 
-MOSCA DE LA 
-Cerezo 0,4 - 0,5 tratando una superficie de 1-2 m2 preferentemente en su lado sur, 
-CEREZA 
-según la técnica necesaria para este tipo de aplicación. 
- Página 2 de 8                                92316
+ Página 2 de 10                                102016
 Nº REGISTRO: 
 AKIRA 
  
@@ -127,15 +116,37 @@ AKIRA
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 %  
+ORUGAS 
+PULGONES 
+PULGONES 
+0,04 - 
+Cereales SANPEDRITO Aplicar al inicio de la infestación con un máximo de 0,32 Kg/Ha. 
+0,08 
+GARRAPATILLO 
+Sólo en pulverización-cebo, aplicado a razón de 0,1 l/árbol de caldo 
+MOSCA DE LA 
+0,4 - 0,5 tratando una superficie de 1-2 m2 preferentemente en su lado sur, 
+CEREZA 
+según la técnica necesaria para este tipo de aplicación. 
+Cerezo 
 ORUGAS 0,04 - 
 Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
 DEFOLIADORAS 0,08 
-MOSCA DE LA 
-CEREZA 
+CERATITIS 
 Sólo en pulverización-cebo, aplicado a razón de 0,1 l/árbol de caldo 
 Cítricos 0,4 - 0,5 tratando una superficie de 1-2 m2 preferentemente en su lado sur, 
 según la técnica necesaria para este tipo de aplicación. 
-CERATITIS 
+MOSCA DE LA 
+CEREZA 
+ Página 3 de 10                                102016
+Nº REGISTRO: 
+AKIRA 
+ 
+    
+  Dosis FORMA Y ÉPOCA DE APLICACIÓN 
+USO AGENTE Min- (Condic.Específico) 
+máx. 
+%  
 ORUGAS 
 Coles de 0,04 - 
 Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
@@ -166,10 +177,7 @@ ORUGAS
 Fresales Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
 0,08 
 PULGONES 
-Frutales de 0,04 - 
-ANARSIA Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
-hueso 0,08 
- Página 3 de 8                                92316
+ Página 4 de 10                                102016
 Nº REGISTRO: 
 AKIRA 
  
@@ -178,17 +186,20 @@ AKIRA
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 %  
-CARPOCAPSA 
 Aplicar en pulverización foliar a la dosis de 40-80 g/Hl., o en 
 pulverización-cebo a dosis de 0,4-0,5%, tratando una superficie de 
 CERATITIS 0,4 - 0,5 
 1-2 m2 por árbol, preferentemente en su orientación sur, según la 
 técnica necesaria para este tipo de aplicación. 
-ORUGAS 
-MINADORAS 
+Frutales de 
+hueso 
+ANARSIA 
+CARPOCAPSA 
 0,04 - 
 Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
 0,08 
+ORUGAS 
+MINADORAS 
 PULGONES 
 CARPOCAPSA 
 Frutales de ORUGAS 0,04 - 
@@ -209,6 +220,15 @@ PULGONES
 Hortalizas de 0,04 - 
 PULGONES Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
 bulbo 0,08 
+ Página 5 de 10                                102016
+Nº REGISTRO: 
+AKIRA 
+ 
+    
+  Dosis FORMA Y ÉPOCA DE APLICACIÓN 
+USO AGENTE Min- (Condic.Específico) 
+máx. 
+%  
 0,04 - 
 Judías verdes PULGONES Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
 0,08 
@@ -228,18 +248,10 @@ HELIOTIS
 Maíz Aplicar al inicio de la infestación con un máximo de 0,24 Kg/Ha. 
 0,08 
 PULGONES 
+ORUGAS 
 0,04 - 
-Naranjo ORUGAS Aplicar al inicio de la infestación con un máximo de 1,4 Kg/Ha. 
+Naranjo Aplicar al inicio de la infestación con un máximo de 1,4 Kg/Ha. 
 0,08 
- Página 4 de 8                                92316
-Nº REGISTRO: 
-AKIRA 
- 
-    
-  Dosis FORMA Y ÉPOCA DE APLICACIÓN 
-USO AGENTE Min- (Condic.Específico) 
-máx. 
-%  
 PULGONES 
 PRAYS (GEN. 
 ANTOFAGA) 
@@ -249,12 +261,20 @@ Olivo
 PRAYS (GEN. 
 FILOFAGA) 
 HELIOTIS 
-ORUGAS 
 Ornamentales 0,04 - 
-Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
+ORUGAS Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
 herbáceas 0,08 
-TORTRIX 
 PULGONES 
+ Página 6 de 10                                102016
+Nº REGISTRO: 
+AKIRA 
+ 
+    
+  Dosis FORMA Y ÉPOCA DE APLICACIÓN 
+USO AGENTE Min- (Condic.Específico) 
+máx. 
+%  
+TORTRIX 
 ESCARABAJO 
 0,04 - 
 Patata ORUGAS Aplicar al inicio de la infestación con un máximo de 0,56 kg/Ha.  
@@ -283,10 +303,12 @@ ORUGAS
 Repollo Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
 0,08 
 PULGONES 
+MOSCA BLANCA 
 0,04 - 
-Solanáceas MOSCA BLANCA Aplicar al inicio de la infestación con un máximo de 1 Kg/Ha. 
+Solanáceas Aplicar al inicio de la infestación con un máximo de 1 Kg/Ha. 
 0,08 
- Página 5 de 8                                92316
+ORUGAS 
+ Página 7 de 10                                102016
 Nº REGISTRO: 
 AKIRA 
  
@@ -295,24 +317,22 @@ AKIRA
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 %  
-ORUGAS 
-CHINCHE VERDE 
 PULGONES 
+CHINCHE VERDE 
 ORUGAS 
 0,04 - 
 Toronja Aplicar al inicio de la infestación con un máximo de 1,4 Kg/Ha. 
 0,08 
 PULGONES 
-SCAPHOIDEUS 
-0,1 Aplicar al inicio de la infestación con un máximo de 1 Kg/Ha. 
-TITANUS 
 POLILLAS DEL 
-Vid 
 RACIMO 
 0,04 - 
 Aplicar al inicio de la infestación, con un máximo de 0,8 Kg/Ha. 
 0,08 
-PULGONES 
+Vid PULGONES 
+SCAPHOIDEUS 
+0,1 Aplicar al inicio de la infestación con un máximo de 1 Kg/Ha. 
+TITANUS 
   
 Plazos de Seguridad (Protección del consumidor):  
   
@@ -339,16 +359,16 @@ Olivo, Ornamentales herbáceas, Vid NP
  
  
 Condiciones generales de uso:   
+ Página 8 de 10                                102016
+Nº REGISTRO: 
+AKIRA 
+ 
 Aplicar en pulverización manual o con tractor en tratamiento al aire libre y aplicación manual 
 o con pistola en invernadero 
 Utilizar la dosis más alta en caso de gran infestación o cuando se necesite una acción frenante 
 contra araña roja o si se desea alargar la persistencia. 
 En la etiqueta se darán las indicaciones oportunas para el correcto uso del producto, así como 
 las advertencias necesarias para que el agricultor pueda cerciorarse de los riesgos de su 
- Página 6 de 8                                92316
-Nº REGISTRO: 
-AKIRA 
- 
 utilización por fitotoxicidad en variedades sensibles del propio cultivo , en los cultivos 
 adyacentes o en los siguientes en la alternativa 
  
@@ -398,14 +418,14 @@ S38 - En caso de ventilación insuficiente, úsese equipo respiratorio
 adecuado 
 S45 - En caso de accidente o malestar, acúdase inmediatamente al 
 médico, si es posible enseñándole esta etiqueta 
+ Página 9 de 10                                102016
+Nº REGISTRO: 
+AKIRA 
+ 
 Clase y categoría  
 de peligro 
 (Medio ambiental) 
 Pictograma  
- Página 7 de 8                                92316
-Nº REGISTRO: 
-AKIRA 
- 
 Palabra  
 Advertencia 
 Frases de Riesgo  
@@ -446,4 +466,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 8 de 8                                92316
+ Página 10 de 10                                102016

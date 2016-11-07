@@ -60,9 +60,6 @@ l/ha
 Efectuar un sola aplicación entre el final del ahijado y el inicio del 
 Avena DICOTILEDONEAS 0,7 
 encañado. 
-Efectuar un sola aplicación entre el final del ahijado y el inicio del 
-Cebada DICOTILEDONEAS 0,7 
-encañado. 
  
      Página 1 de 4       Nº REGISTRO:   19436  
 DICOPUR DOBLE LINZ
@@ -74,6 +71,9 @@ DICOPUR DOBLE LINZ
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 l/ha  
+Efectuar un sola aplicación entre el final del ahijado y el inicio del 
+Cebada DICOTILEDONEAS 0,7 
+encañado. 
 Efectuar un sola aplicación entre el final del ahijado y el inicio del 
 Centeno DICOTILEDONEAS 0,7 - 1,2 
 encañado. 
@@ -109,6 +109,10 @@ Mitigación de riesgos en la manipulación:
 El aplicador deberá  utilizar guantes de protección química, para la mezcla/carga y aplicación. 
 Durante la aplicación con tractor con cabina cerrada y dispositivo de filtrado de aire, se podrá 
 prescindir del equipo de protección, siempre que se mantengan las ventanas cerradas 
+ Página 2 de 4                                102016
+Nº REGISTRO: 
+DICOPUR DOBLE LINZ 
+ 
 En la limpieza y mantenimiento del equipo se aplicarán las mismas medidas de protección 
 que en aplicación. 
 No entrar al cultivo hasta que el producto esté seco. 
@@ -116,10 +120,6 @@ SPo2: Lávese toda la ropa de protección después de usarla.
 SPo4: El recipiente debe abrirse al aire libre y en tiempo seco 
   
 Clasificaciones y Etiquetado: 
- 
- Página 2 de 4                                92316
-Nº REGISTRO: 
-DICOPUR DOBLE LINZ 
  
 Lesión ocular grave. Categoría 1. 
 Clase y categoría 
@@ -129,7 +129,8 @@ de peligro
 Pictograma 
 GSH05 (corrosión)  
 GSH07 (signo de exclamación)  
-Palabra -- 
+-- 
+Palabra 
 Advertencia 
 EUH 401 - A fin de evitar riesgos para las personas y el medio 
 Indicaciones de 
@@ -137,8 +138,7 @@ ambiente, siga las instrucciones de uso.
 peligro 
 H318 - Provoca lesiones oculares graves. 
 H332 - Nocivo en caso de inhalación.  
-P101 - Si se necesita consejo médico, tener a mano el envase o la 
-Consejos de 
+Consejos de P101 - Si se necesita consejo médico, tener a mano el envase o la 
 etiqueta. 
 Prudencia 
 P261 - Evitar respirar el polvo/el humo/el gas/la niebla/los vapores/ el 
@@ -154,19 +154,21 @@ cuidadosamente con agua durante varios minutos. Quitar las lentes de
 contacto, si lleva y resulta fácil. Seguir aclarando. 
 P309+P311 - EN CASO DE exposición o si se encuentra mal: Llamar a un 
 CENTRO DE INFORMACIÓN TOXICOLÓGICA o a un médico. 
-Acuático crónico 1 
-Clase y categoría 
+Clase y categoría Acuático crónico 1 
 de peligro 
 (Medio ambiental) 
 Pictograma 
 GSH09 (medio ambiente)  
--- 
-Palabra 
+Palabra -- 
 Advertencia 
-H410 - Muy tóxico para los organismos acuáticos, con efectos nocivos 
-Frases de Riesgo 
+Frases de Riesgo H410 - Muy tóxico para los organismos acuáticos, con efectos nocivos 
 duraderos.  
-Consejos P273 - Evitar su liberación al medio ambiente. (Si no es éste su uso 
+ Página 3 de 4                                102016
+Nº REGISTRO: 
+DICOPUR DOBLE LINZ 
+ 
+P273 - Evitar su liberación al medio ambiente. (Si no es éste su uso 
+Consejos 
 previsto) 
 Prudencia 
 P391 - Recoger el vertido. 
@@ -178,10 +180,6 @@ SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el texto.
 Mitigación de riesgos ambientales:   
 Spe 3:Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad 
 de 5 m hasta las masas de agua superficial 
- Página 3 de 4                                92316
-Nº REGISTRO: 
-DICOPUR DOBLE LINZ 
- 
   
  Eliminación Producto y/o caldo: -- 
  
@@ -205,4 +203,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 4 de 4                                92316
+ Página 4 de 4                                102016

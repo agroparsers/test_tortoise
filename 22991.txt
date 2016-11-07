@@ -23,7 +23,14 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 (2) Trigo MALAS HIERBAS ANUALES 100-200 g/ha NP
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
-Generales :
+Generales : Controla malas hierbas anuales en postemergencia.
+Aplicacar en pulverización con tractor a alto volumen, en tratamiento único con el cultivo entre los
+estados de 3 hojas y final del ahijado, utilizando de 200 a 400 l. de caldo/Ha..
+Después de un tratamiento con este producto, como cultivos siguientes en la alternativa sólamente
+se podrán sembrar cereales.
+En la etiqueta se incluirá información sobre los cultivares de cebada que podrían ser sensibles al
+herbicida, así como las recomendaciones oportunas de alternar los tratamientos con herbicidas de
+diferente modo de acción a fin de evitar la aparición de resistencias.
 Específicos: (1), (2) En cultivo de ciclo corto reducir la dosis máxima a 150 g. de producto/Ha. 
 Condicionamientos preventivos de riesgos:
 Mitigación de riesgos medioambientales:

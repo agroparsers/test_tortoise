@@ -15,9 +15,9 @@ BARCELONA
 Fecha de inscripción: 29/01/2008
 Fecha de caducidad: 31/12/2018
 Tipo de envase:
-Botellas COEX  de HDPE de 0,1 l. (boca 26 mm), 0,25 l.(boca 41,5 mm) y 1 l. (boca 54,4 mm).
-Garrafas COEX  de HDPE de 5 l.(boca 54,7 mm).
-Botellas COEX  de HDPE/EVOH de 0.5 l.(boca 41,7 mm) y COEX/PA de 1 l. (boca 54,4 mm y 63 mm).
+Envases con capacidad menor a 1 l (con cualquier anchura de boca).
+Envases con capacidad mayor o igual a 1 l y menor a 5 l (con cualquier anchura de boca).
+Envases con capacidad menor ó igual a 5 l y menor o igual a 20 l (anchura de boca mayor o igual a 45 mm).
 Composición: PIRIPROXIFEN 10% [EC] P/V (ESP.)
 Tipo de preparado: CONCENTRADO EMULSIONABLE [EC]
 Tipo de función: Insecticida

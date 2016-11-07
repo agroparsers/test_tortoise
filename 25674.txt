@@ -21,7 +21,7 @@ PRODUCCIÓN AGRARIA
 Nombre comercial: ALLIANCE WG 
 Número de autorización: 25674 
 Fecha de inscripción: 04/10/2012 
-Fecha de caducidad: 30/06/2017 
+Fecha de caducidad: 30/06/2020 
  
 Titular  
 Fabricante 
@@ -120,7 +120,7 @@ S23 - No respirar los gases/humos/vapores/aerosoles
 S24/25 - Evítese el contacto con los ojos y la piel 
 S45 - En caso de accidente o malestar, acúdase inmediatamente al 
 médico, si es posible enseñándole esta etiqueta 
- Página 2 de 3                                92316
+ Página 2 de 3                                102016
 Nº REGISTRO: 
 ALLIANCE WG 
  
@@ -163,4 +163,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 3 de 3                                92316
+ Página 3 de 3                                102016

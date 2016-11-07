@@ -13,7 +13,7 @@ C/ Botiguers nº 3, planta 4ª L. Parque Empresarial Táctica
 46980 Paterna
 VALENCIA
 Fecha de inscripción: 12/07/2002
-Fecha de caducidad: 31/12/2016
+Fecha de caducidad: 30/06/2018
 Tipo de envase:
 Sacos de polietileno de 5, 25 y 50 Kg.
 Sacos de polipropileno 500 Kg.
@@ -48,12 +48,7 @@ Nombre comercial: GRANO DE ORO
 (20) Vid OIDIO 20-30 Kg/ha NP
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
-Generales : Aplicar en espolvoreo.
-No efectuar tratamientos a temperaturas demasiado elevadas.
-No aplicar aceites minerales durante los 21 días anteriores o posteriores a la aplicación del azufre.
-No aplicar en cultivos cuyos frutos sean destinados a conserva.
-No aplicar en alcachofa ni en algunas variedades de frutales sensibles, como albaricoquero,
-manzano y peral.
+Generales :
 Específicos: (2), (3), (4), (5), (6), (7) En la etiqueta deberán figurar las instrucciones de uso del producto en
 cultivos sensibles.
 (19) Tratar hasta el envero.
@@ -68,7 +63,7 @@ R.D. 1416/2001, de entregarlos directamente al sistema integrado de gestión al 
 depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Irritante
-Símbolos y pictogramas: Xi
+Símbolos y pictogramas: 0
 Frases de riesgo: R36/37/38
 Consejos de prudencia: S2, S13, S45, S22, S36/37, S41, S24/25
 Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO

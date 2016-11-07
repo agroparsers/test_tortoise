@@ -25,22 +25,19 @@ Fecha de caducidad: 30/06/2017
  
 Titular  
 Fabricante 
-MONSANTO 
+KENOGARD, S.A. 
  MONSANTO EUROPE, S.A. 
-AGRICULTURA 
+c/ Diputación, 279 - 5º 
 Avda. Tervuren, 270-272 
  
-ESPAÑA, S.L.U. 
+08007  
 B-1150 Brussels 
  
-Avda. de Burgos, 17 - 
+(Barcelona) 
 BÉLGICA 
  
-10º 
  
-28036 MADRID 
  
-(Madrid) 
  
  
  
@@ -67,22 +64,22 @@ USO AGENTE Min- (Condic.Específico)
 máx. 
 g/ha  
 GALIUM 
-BROMUS 
+MATRICARIA 
 Para mejorar la eficacia deberá añadirse al caldo de pulverización un 0,2% del 
 Trigo 25 coadyuvante Mon 0818 (Activador Leader Plus). No aplicar en la misma campaña 
 otros tratamientos herbicidas con productos que contengan sulfenilurea. 
+BROMUS 
 SINAPIS 
-MATRICARIA 
   
 Plazos de Seguridad (Protección del consumidor):  
   
+ Página 2 de 4                                102016
+Nº REGISTRO: 
+LEADER  PLUS 
+ 
 Cultivo P.S. (días) 
 Trigo NP 
   
- 
- Página 2 de 4                                92316
-Nº REGISTRO: 
-LEADER  PLUS 
  
  
  
@@ -114,13 +111,12 @@ de peligro
 (Humana) 
 Pictograma 
 Xn  
-Palabra  
+Palabra 
+ 
 Advertencia 
-R40 - Posibles efectos cancerígenos 
-Indicaciones de 
+Indicaciones de R40 - Posibles efectos cancerígenos 
 peligro 
-S2 - Manténgase fuera del alcance de los niños. 
-Consejos de 
+Consejos de S2 - Manténgase fuera del alcance de los niños. 
 Prudencia 
 Clase y categoría  
 de peligro 
@@ -128,19 +124,17 @@ de peligro
 Pictograma  
 Palabra  
 Advertencia 
-Frases de Riesgo 
- 
-Consejos 
- 
+Frases de Riesgo  
+Consejos  
 Prudencia 
+ Página 3 de 4                                102016
+Nº REGISTRO: 
+LEADER  PLUS 
+ 
   
  “A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO AMBIENTE 
 SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el texto. 
 Mitigación de riesgos ambientales:   
- Página 3 de 4                                92316
-Nº REGISTRO: 
-LEADER  PLUS 
- 
 No utilizar cerca de cursos de agua, dejar sin tratar una banda de seguridad de 5 mts de 
 distancia hasta los mismos 
   
@@ -158,4 +152,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 4 de 4                                92316
+ Página 4 de 4                                102016

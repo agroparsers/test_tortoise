@@ -12,7 +12,7 @@ D-67056 LUDWIGSHAFEN
 RHEIN
 ALEMANIA
 Fecha de inscripción: 22/02/2012
-Fecha de caducidad: 30/10/2016
+Fecha de caducidad: 30/04/2018
 Tipo de envase:
 Botes de 1, 5 y 10 l. (estos dos últimos con boca de 54 mm.). Los envases de 10 l. solo para aplicaciones con tractor.
 Composición: METAFLUMIZONA 24% [SC] P/V
@@ -42,8 +42,7 @@ Condicionamientos fitoterapeúticos:
 Registro de Productos FitoSanitarios
 Nº Registro: 25.414
 Nombre comercial: ALVERDE
-Generales : Aplicar en pulverización foliar al inicio de la plaga.
-En la etiqueta se darán las instrucciones oportunas para la correcta aplicación del producto
+Generales :
 Específicos: (1), (2), (3), (14), (15), (16) Efectuar un máximo de 2 aplicaciones por campaña, con un intervalo
 entre aplicaciones de 7 días.
 (4), (5), (6), (7), (8), (9) Sólo al aire libre. Efectuar una única aplicación por campaña,
@@ -80,7 +79,7 @@ R.D. 1416/2001, de entregarlos directamente al sistema integrado de gestión al 
 depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Nocivo, Peligroso para el medio ambiente
-Símbolos y pictogramas: Xn
+Símbolos y pictogramas: 0
 Frases de riesgo: R36, R48/20/22, R51/53
 Consejos de prudencia: S2, S13, S45, S36/37, S38, S23
 Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO

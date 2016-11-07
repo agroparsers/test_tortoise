@@ -78,11 +78,11 @@ CERATITIS
 Nectarino En la aplicación con tractor atomizador se emplearán 500 l/Ha. de caldo. 
 l/ha 
 PULGONES 
-PULGONES 
+ESCARABAJO 
 0,04 - 0,08 Efectuar un máximo de 2 aplicaciones por campaña, con un intervalo 
 Patata 
 % entre aplicaciones de 15 días. 
-ESCARABAJO 
+PULGONES 
   
 Plazos de Seguridad (Protección del consumidor):  
   
@@ -113,11 +113,11 @@ deriva.
 En caso de tener que colocar, retirar o mover los tubos del riego tras el tratamiento, antes de 
 que se seque el producto, se utilizarán botas de caucho o poliméricas, ropa y guantes de 
 protección química adecuados 
-Durante la limpieza del equipo se utilizará la misma protección que durante la aplicación. 
- Página 2 de 4                                92316
+ Página 2 de 4                                102016
 Nº REGISTRO: 
 PRETOR 
  
+Durante la limpieza del equipo se utilizará la misma protección que durante la aplicación. 
 No entrar al cultivo hasta que el producto esté seco.  
 SPo 2: Lávese toda la ropa de protección después de usarla 
   
@@ -147,17 +147,17 @@ S23 - No respirar los gases/humos/vapores/aerosoles
 S36/37 - Utilizar ropa de protección y guantes adecuados 
 S45 - En caso de accidente o malestar, acúdase inmediatamente al 
 médico, si es posible enseñándole esta etiqueta 
-Clase y categoría 
- 
+Clase y categoría  
 de peligro 
 (Medio ambiental) 
-Pictograma 
- 
+Pictograma  
 Palabra 
  
 Advertencia 
-Frases de Riesgo  
-Consejos  
+Frases de Riesgo 
+ 
+Consejos 
+ 
 Prudencia 
   
  “A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO AMBIENTE 
@@ -173,11 +173,11 @@ y no destaparlas hasta 1 ó 2 horas después de concluido
   
  Eliminación Producto y/o caldo: -- 
  
-Gestión de envases:   
- Página 3 de 4                                92316
+ Página 3 de 4                                102016
 Nº REGISTRO: 
 PRETOR 
  
+Gestión de envases:   
 Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases 
 de productos fitosanitarios, en la etiqueta deberá figurar la siguiente frase: Entregar los 
 envases vacíos o resíduos de envases bien en los puntos de recogida establecidos por los 
@@ -197,4 +197,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 4 de 4                                92316
+ Página 4 de 4                                102016

@@ -13,7 +13,7 @@ NUFARM AMERICAS INC.
 TEXAS
 EE.UU.
 Fecha de inscripción: 20/01/2003
-Fecha de caducidad: 30/10/2016
+Fecha de caducidad: 31/01/2018
 Tipo de envase:
 Frascos de PET de 1 l. y bidones de HDPE de 5 y 10 l.
 Composición: HIDROXIDO CUPRICO 36% (EXPR. EN CU) [SC] P/V
@@ -102,9 +102,7 @@ Nombre comercial: CHAMPION FLOW
 P.S.: Plazo de seguridad (días)
 Excepciones: (64), (65), (66) Excepto espárrago.
 Condicionamientos fitoterapeúticos:
-Generales : Aplicar en pulverización normal.
-En la etiqueta se indicarán las precauciones a observar en algunas variedades de frutales, vid y otros
-cultivos en zonas frías y húmedas, para evitar la fitotoxicidad propia del cobre.
+Generales :
 Específicos: (4), (5), (6) P.S.: 3 días en cultivo de invernadero. Efectuar un máximo de 6 aplicaciones por
 campaña a intervalos de 7 días utilizando un volumen máximo de caldo de 1000 l/Ha. y un máximo
 de 7,5 Kg de cobre inorgánico por campaña.
@@ -127,18 +125,18 @@ Restricciones por clases de usuarios:
 Uso reservado a agricultores y aplicadores profesionales
 Envases:
 Todos los tipos de envases deberán cumplir los requisitos establecidos por el Real Decreto 255/2003.
-Registro de Productos FitoSanitarios
-Nº Registro: 22.742
-Nombre comercial: CHAMPION FLOW
 Es obligatorio enjuagar enérgicamente tres veces, o mediante dispositivo de presión, cada envase de producto que se
 vacíe al preparar la dilución y verter las aguas al tanque del pulverizador.    Indicar en la etiqueta la obligación de
 entregar los envases vacíos a un gestor autorizado de residuos clasificados y peligrosos así como las opciones
 alternativas que el titular está obligado a ofrecer, conforme a lo establecido en el R.D. 1416/2001, de entregarlos
 directamente al sistema integrado de gestión al que esté adherido o al propio, de depósito, devolución y retorno, a
 través del punto de venta donde el usuario lo adquiera.
+Registro de Productos FitoSanitarios
+Nº Registro: 22.742
+Nombre comercial: CHAMPION FLOW
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Nocivo, Peligroso para el medio ambiente
-Símbolos y pictogramas: --
+Símbolos y pictogramas: 0
 Frases de riesgo: R20/22, R41, R50/53
 Consejos de prudencia: S2, S13, S45, S36/37/39, S26, S23
 Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO

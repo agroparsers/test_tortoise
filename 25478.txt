@@ -21,7 +21,7 @@ PRODUCCIÓN AGRARIA
 Nombre comercial: ABALAR 
 Número de autorización: 25478 
 Fecha de inscripción: 29/04/2013 
-Fecha de caducidad: 31/03/2018 
+Fecha de caducidad: 30/03/2019 
  
 Titular  
 Fabricante 
@@ -123,7 +123,7 @@ R50/53 - Muy tóxico para los organismos acuáticos, puede provocar a
 largo plazo efectos negativos en el medio ambiente acuático 
 R65 - Nocivo, si se ingiere puede causar daño pulmonar 
 R67 - La inhalación de vapores puede provocar somnolencia y vértigo. 
- Página 2 de 4                                92316
+ Página 2 de 4                                102016
 Nº REGISTRO: 
 ABALAR 
  
@@ -179,7 +179,7 @@ En la etiqueta se hará constar que "contiene nafta disolvente del petróleo, n�
 La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO AMBIENTE 
 SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el texto.   
 SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE. (No limpiar 
- Página 3 de 4                                92316
+ Página 3 de 4                                102016
 Nº REGISTRO: 
 ABALAR 
  
@@ -191,4 +191,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 4 de 4                                92316
+ Página 4 de 4                                102016

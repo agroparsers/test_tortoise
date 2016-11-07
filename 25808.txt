@@ -126,7 +126,7 @@ aerosol. (El fabricante o el proveedor especificarán las condiciones
 aplicables) 
 P262 - Evitar el contacto con los ojos, la piel o la ropa. 
 P405 - Guardar bajo llave. 
- Página 2 de 4                                92316
+ Página 2 de 4                                102016
 Nº REGISTRO: 
 DICOTEX RTU 
  
@@ -179,9 +179,9 @@ Condiciones de almacenamiento: --
   
 Requerimiento de datos/estudios complementarios: -- 
   
- Página 3 de 4                                92316
+ Página 3 de 4                                102016
 Nº REGISTRO: 
 DICOTEX RTU 
  
  
- Página 4 de 4                                92316
+ Página 4 de 4                                102016

@@ -109,14 +109,14 @@ Aplicar en pulverización normal mediante tractor hidraúlico, con un volúmen  
 Respetar un plazo de 120 días entre la interrupcción del cultivo y cualquier nueva siembra o 
 implantación, salvo en los cultivos en los que el metsulfuron-metil ya esté autorizado. 
 En la etiqueta se darán instrucciones para el correcto uso del producto, así com las 
+ Página 2 de 4                                102016
+Nº REGISTRO: 
+RACING 
+ 
 advertencias necesarias para que el agricultor pueda cerciorarse de los riesgos de la 
 utilización del producto por fitotoxicidad en variedades sensibles del propio cultivo, en los 
 cultivos adyacentes o en los siguientes en la alternativa y la estrategia adecuada a efectos 
 de prevenir la aparición de resistencias 
- Página 2 de 4                                92316
-Nº REGISTRO: 
-RACING 
- 
  
 Excepciones: -- 
   
@@ -138,10 +138,10 @@ de peligro
 (Humana) 
 Pictograma 
 N  
-Palabra 
- 
+Palabra  
 Advertencia 
-Indicaciones de R50/53 - Muy tóxico para los organismos acuáticos, puede provocar a 
+R50/53 - Muy tóxico para los organismos acuáticos, puede provocar a 
+Indicaciones de 
 largo plazo efectos negativos en el medio ambiente acuático 
 peligro 
 S13 - Conservar separado de alimentos, bebidas y piensos 
@@ -160,21 +160,20 @@ Pictograma
 Palabra  
 Advertencia 
 Frases de Riesgo  
-Consejos 
- 
+Consejos  
 Prudencia 
   
  “A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO AMBIENTE 
 SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el texto. 
 Mitigación de riesgos ambientales:   
+ Página 3 de 4                                102016
+Nº REGISTRO: 
+RACING 
+ 
 SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad 
 de 20 m. con cubierta vegetal hasta las masas de agua superficial 
   
  Eliminación Producto y/o caldo: -- 
- Página 3 de 4                                92316
-Nº REGISTRO: 
-RACING 
- 
  
 Gestión de envases:   
 Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases 
@@ -196,4 +195,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 4 de 4                                92316
+ Página 4 de 4                                102016

@@ -1,6 +1,6 @@
 Registro de Productos FitoSanitarios
 Nº Registro: 13.188
-Nombre comercial: MERPAN 80 AGAN
+Nombre comercial: MERPAN 80 WG
 Titular:
 ADAMA AGRICULTURE ESPAÑA S.A.
 C/ Méndez Álvaro nº 20, 5ª Planta
@@ -41,7 +41,7 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 (17) Ciruelo CHANCRO 0,15-0,25 % 21
 Registro de Productos FitoSanitarios
 Nº Registro: 13.188
-Nombre comercial: MERPAN 80 AGAN
+Nombre comercial: MERPAN 80 WG
 (18) Ciruelo CICATRIZACION HERIDAS GRANIZO 0,25-0,3 % 21
 (19) Ciruelo CRIBADO 0,15-0,25 % 21
 (20) Ciruelo MONILIA 0,15-0,25 % 21
@@ -80,7 +80,7 @@ Se informará en la etiqueta sobre la posibilidad de que se produzcan resistenci
 una estrategia de gestión y manejo de las mismas.
 Registro de Productos FitoSanitarios
 Nº Registro: 13.188
-Nombre comercial: MERPAN 80 AGAN
+Nombre comercial: MERPAN 80 WG
 Específicos: (1), (2), (3), (5), (6), (7), (15), (16), (17), (19), (20), (21), (28), (29), (30), (32), (33), (34), (35), (36),
 (37), (39), (40), (41) Pulverización normal a partir de la floración, con un máximo de 2 aplicaciones
 separadas al menos 10 días, sin superar en ningún caso la dosis de 2.7 kg/ha.
@@ -136,7 +136,7 @@ sistema de depósito, devolución y retorno.
 Clasificación y etiquetado (R.D. 255/2003):
 Registro de Productos FitoSanitarios
 Nº Registro: 13.188
-Nombre comercial: MERPAN 80 AGAN
+Nombre comercial: MERPAN 80 WG
 Clasificación : Atención, Irritación ocular. Categoría 2., Sensibilizantes cutáneos. Categoría 1 A.,
 Carcinogenicidad. Categoría 2., Peligro, Toxicidad aguda. Categoría 3., Acuático agudo
 1

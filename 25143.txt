@@ -66,7 +66,7 @@ máx.
 Ajos PULGONES 
 0,13 % producto. 
  
-     Página 1 de 13       Nº REGISTRO:   25143  
+     Página 1 de 15       Nº REGISTRO:   25143  
 KARATE ZEON + 1.5 CS
 Nº REGISTRO: 
 KARATE ZEON + 1.5 CS  
@@ -75,68 +75,59 @@ KARATE ZEON + 1.5 CS
   Dosis FORMA Y ÉPOCA DE APLICACIÓN 
 USO AGENTE Min- (Condic.Específico) 
 máx. 
-PULGONES 
+ORUGAS 
 0,65 - 1 Efectuar 2 aplicaciones por campaña con un intervalo de 15 días 
 Alcachofa 
 l/ha sin superar 1,3 l/Ha. de producto por aplicación.  
-ORUGAS 
 PULGONES 
 APION 
+CUCA 
 0,065 - No para consumo en brotes. Efectuar una aplicación por campaña, 
 Alfalfa 
 0,13 % sin superar los 0,6 l/Ha. de producto. 
-CUCA 
-GUSANO VERDE 
 PULGONES 
+GUSANO VERDE 
 EARIAS 
+HELIOTIS 
 0,065 - Efectuar una aplicación por campaña sin superar los 0,8 l/Ha. de 
 Algodonero 
 0,13 % producto. 
-HELIOTIS 
 ORUGAS 
 PULGONES 
+ Página 2 de 15                                102016
+Nº REGISTRO: 
+KARATE ZEON + 1.5 CS  
+ 
+    
+  Dosis FORMA Y ÉPOCA DE APLICACIÓN 
+USO AGENTE Min- (Condic.Específico) 
+máx. 
+ORUGAS 
 0,065 - Efectuar una aplicación por campaña, sin superar los 1,3 l/Ha. de 
 Almendro 
 0,13 % producto. 
+PULGONES 
 ORUGAS 
 0,065 - Sólo en cultivo al aire libre. Efectuar una aplicación por campaña 
 Apio PULGONES 
 0,13 % sin superar los 1,3 l/Ha. de producto. 
- Página 2 de 13                                92316
-Nº REGISTRO: 
-KARATE ZEON + 1.5 CS  
- 
-    
-  Dosis FORMA Y ÉPOCA DE APLICACIÓN 
-USO AGENTE Min- (Condic.Específico) 
-máx. 
-ORUGAS 
 MOSCA 
-PULGONES 
+ORUGAS 
 0,065 - Efectuar una aplicación por campaña, sin superar los 1,3 l/Ha. de 
 Apionabo 
 0,13 % producto. 
-ORUGAS 
 PULGONES 
+ORUGAS 
 0,065 - Efectuar una aplicación por campaña, sin superar los 1,3 l/Ha. de 
 Avellano 
 0,13 % producto. 
-ORUGAS 
 PULGONES 
-MOSCA BLANCA 
 Efectuar un máximo de 2 tratamientos por campaña con un 
 0,065 - 
-Berenjena intervalo mínimo de 15 días sin superar 1,6 l/Ha. de producto por 
+Berenjena MOSCA BLANCA intervalo mínimo de 15 días sin superar 1,6 l/Ha. de producto por 
 0,13 % 
 aplicación.  
-ORUGAS 
-CHINCHE VERDE 
-PULGONES 
-0,065 - Efectuar una aplicación por campaña, sin superar los 1,3 l/Ha. de 
-Brécol 
-0,13 % producto. 
-MOSCA BLANCA 
- Página 3 de 13                                92316
+ Página 3 de 15                                102016
 Nº REGISTRO: 
 KARATE ZEON + 1.5 CS  
  
@@ -145,18 +136,33 @@ KARATE ZEON + 1.5 CS
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 ORUGAS 
+PULGONES 
+CHINCHE VERDE 
+MOSCA BLANCA 
+0,065 - Efectuar una aplicación por campaña, sin superar los 1,3 l/Ha. de 
+Brécol ORUGAS 
+0,13 % producto. 
+PULGONES 
 0,065 - Efectuar una aplicación por campaña, sin superar los 1,3 l/Ha. de 
 Cebolla PULGONES 
 0,13 % producto. 
 0,065 - Efectuar una aplicación por campaña, sin superar los 1,3 l/Ha. de 
 Cebolleta PULGONES 
 0,13 % producto. 
-CHINCHES 
 Efectuar un máximo de 2 tratamientos por campaña con un 
 0,065 - 
-Cereales PULGONES intervalo mínimo de 15 días sin superar 0,5 l/Ha. de producto por 
+Cereales CHINCHES intervalo mínimo de 15 días sin superar 0,5 l/Ha. de producto por 
 0,13 % 
 aplicación.  
+ Página 4 de 15                                102016
+Nº REGISTRO: 
+KARATE ZEON + 1.5 CS  
+ 
+    
+  Dosis FORMA Y ÉPOCA DE APLICACIÓN 
+USO AGENTE Min- (Condic.Específico) 
+máx. 
+PULGONES 
 CALAMOBIUS 
 ORUGAS Efectuar una aplicación por campaña, sin superar los 1,3 l/Ha. de 
 MINADORAS producto. 
@@ -175,11 +181,14 @@ caldo /árbol.
 0,065 - 
 Cítricos 
 0,13 % 
-PULGONES 
+ORUGAS 
 Efectuar una aplicación por campaña, sin superar los 1,3 l/Ha. de 
 producto. 
+PULGONES 
+Coles de 0,065 - Efectuar una aplicación por campaña, sin superar los 1,3 l/Ha. de 
 ORUGAS 
- Página 4 de 13                                92316
+bruselas 0,13 % producto. 
+ Página 5 de 15                                102016
 Nº REGISTRO: 
 KARATE ZEON + 1.5 CS  
  
@@ -188,35 +197,27 @@ KARATE ZEON + 1.5 CS
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 PULGONES 
-Coles de 0,065 - Efectuar una aplicación por campaña, sin superar los 1,3 l/Ha. de 
-bruselas 0,13 % producto. 
-ORUGAS 
-PULGONES 
+MOSCA BLANCA 
 0,065 - Efectuar una aplicación por campaña, sin superar los 1,3 l/Ha. de 
-Coliflor MOSCA BLANCA 
+Coliflor ORUGAS 
 0,13 % producto. 
-ORUGAS 
 PULGONES 
+ORUGAS 
 Efectuar un máximo de 2 tratamientos por campaña con un 
 0,065 - 
 Colza intervalo mínimo de 15 días sin superar 0,8 l/Ha. de producto por 
 0,13 % 
 aplicación. 
-ORUGAS 
 PULGONES 
+MOSCA BLANCA 
 0,065 - Efectuar una aplicación por campaña sin superar los 1,6 l/Ha. de 
-Cucurbitáceas MOSCA BLANCA 
+Cucurbitáceas ORUGAS 
 0,13 % producto. 
-ORUGAS 
+PULGONES 
 0,065 - Efectuar una aplicación por campaña, sin superar los 1,3 l/Ha. de 
 Eriales ORTOPTEROS 
 0,13 % producto. 
-Sólo al aire libre. Efectuar un máximo de 2 tratamientos por 
-Espinaca y 0,065 - 
-PULGONES campaña con un intervalo mínimo de 15 días sin superar 0,45 l/Ha. 
-similar 0,13 % 
-de producto por aplicación.  
- Página 5 de 13                                92316
+ Página 6 de 15                                102016
 Nº REGISTRO: 
 KARATE ZEON + 1.5 CS  
  
@@ -225,36 +226,32 @@ KARATE ZEON + 1.5 CS
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 ORUGAS 
+Sólo al aire libre. Efectuar un máximo de 2 tratamientos por 
+Espinaca y 0,065 - 
+campaña con un intervalo mínimo de 15 días sin superar 0,45 l/Ha. 
+similar 0,13 % 
+de producto por aplicación.  
 PULGONES 
+ORUGAS 
 0,065 - Efectuar una aplicación por campaña, sin superar los 1,3 l/Ha. de 
 Fresales 
 0,13 % producto. 
-ORUGAS 
-Efectuar una aplicación por campaña sin superar los 2,3 l/Ha. de 
-CERATITIS producto, o en pulverización cebo a dosis de 0,65-0,83% y 0,1 l. de 
-caldo /árbol. 
-ORUGAS 
-MINADORAS 
-Frutales de 0,065 - 
-hueso 0,13 % 
 PULGONES 
-Efectuar una aplicación por campaña, sin superar los 1,3 l/Ha. de 
-producto. 
 ANARSIA 
-CARPOCAPSA 
-Efectuar una aplicación por campaña sin superar los 2,3 l/Ha. de 
-CERATITIS producto, o en pulverización cebo a dosis de 0,65-0,83% y 0,1 l. de 
-caldo /árbol. 
-ORUGAS 
-MINADORAS 
-Frutales de 0,065 - 
-pepita 0,13 % 
-PULGONES 
 Efectuar una aplicación por campaña, sin superar los 1,3 l/Ha. de 
 producto. 
 CARPOCAPSA 
-PSILA 
- Página 6 de 13                                92316
+Efectuar una aplicación por campaña sin superar los 2,3 l/Ha. de 
+Frutales de 0,065 - 
+CERATITIS producto, o en pulverización cebo a dosis de 0,65-0,83% y 0,1 l. de 
+hueso 0,13 % 
+caldo /árbol. 
+ORUGAS 
+MINADORAS 
+Efectuar una aplicación por campaña, sin superar los 1,3 l/Ha. de 
+producto. 
+PULGONES 
+ Página 7 de 15                                102016
 Nº REGISTRO: 
 KARATE ZEON + 1.5 CS  
  
@@ -262,6 +259,20 @@ KARATE ZEON + 1.5 CS
   Dosis FORMA Y ÉPOCA DE APLICACIÓN 
 USO AGENTE Min- (Condic.Específico) 
 máx. 
+Efectuar una aplicación por campaña, sin superar los 1,3 l/Ha. de 
+CARPOCAPSA 
+producto. 
+Efectuar una aplicación por campaña sin superar los 2,3 l/Ha. de 
+CERATITIS producto, o en pulverización cebo a dosis de 0,65-0,83% y 0,1 l. de 
+caldo /árbol. 
+Frutales de 0,065 - 
+pepita 0,13 % 
+ORUGAS 
+MINADORAS 
+Efectuar una aplicación por campaña, sin superar los 1,3 l/Ha. de 
+PSILA 
+producto. 
+PULGONES 
 PULGONES 
 0,065 - Efectuar una aplicación por campaña, sin superar los 1,3 l/Ha. de 
 Granado 
@@ -273,28 +284,11 @@ Grosellero PULGONES
 Guisantes 0,065 - Sólo al aire libre. Efectuar una aplicación por campaña, sin superar 
 PULGONES 
 verdes 0,13 % los 1,3 l/Ha. de producto. 
-PULGONES 
+ORUGAS 
 Hierbas 0,065 - Sólo al aire libre. Efectuar una aplicación por campaña, sin superar 
 aromáticas 0,13 % los 1,3 l/Ha. de producto. 
-ORUGAS 
-0,065 - Sólo al aire libre. Efectuar una aplicación por campaña, sin superar 
-Judías verdes PULGONES 
-0,13 % los 1,6 l/Ha. de producto. 
 PULGONES 
-Lechugas y 0,065 - Sólo al aire libre. Efectuar una aplicación por campaña, sin superar 
-similares 0,13 % los 1,3 l/Ha. de producto. 
-ORUGAS 
-Leguminosas de 0,065 - Efectuar una aplicación por campaña sin superar los 1,6 l/Ha. de 
-PULGONES 
-grano 0,13 % producto. 
-PULGONES 
-Efectuar un máximo de 2 tratamientos por campaña con un 
-0,065 - 
-Maíz intervalo mínimo de 15 días sin superar 0,4 l/Ha. de producto por 
-0,13 % 
-aplicación. 
-HELIOTIS 
- Página 7 de 13                                92316
+ Página 8 de 15                                102016
 Nº REGISTRO: 
 KARATE ZEON + 1.5 CS  
  
@@ -302,6 +296,23 @@ KARATE ZEON + 1.5 CS
   Dosis FORMA Y ÉPOCA DE APLICACIÓN 
 USO AGENTE Min- (Condic.Específico) 
 máx. 
+0,065 - Sólo al aire libre. Efectuar una aplicación por campaña, sin superar 
+Judías verdes PULGONES 
+0,13 % los 1,6 l/Ha. de producto. 
+ORUGAS 
+Lechugas y 0,065 - Sólo al aire libre. Efectuar una aplicación por campaña, sin superar 
+similares 0,13 % los 1,3 l/Ha. de producto. 
+PULGONES 
+Leguminosas de 0,065 - Efectuar una aplicación por campaña sin superar los 1,6 l/Ha. de 
+PULGONES 
+grano 0,13 % producto. 
+HELIOTIS 
+Efectuar un máximo de 2 tratamientos por campaña con un 
+0,065 - 
+Maíz intervalo mínimo de 15 días sin superar 0,4 l/Ha. de producto por 
+0,13 % 
+aplicación. 
+PULGONES 
 0,05 - Efectuar una aplicación por campaña, sin superar los 1,3 l/Ha. de 
 GLIFODES 
 0,13 % producto. 
@@ -310,11 +321,20 @@ PRAYS (GEN. 0,065 -
 recolección de la cosecha y la floración de la siguiente. Efectuar 
 ANTOFAGA) 0,13 % 
 una aplicación por campaña, sin superar los 1,3 l/Ha. de producto. 
+Olivo 
 Efectuar una aplicación por campaña, sin superar los 1,3 l/Ha. de 
 0,05 - 
-Olivo MOSCA producto, o en pulverización-cebo mediante parcheo a razón de 
+MOSCA producto, o en pulverización-cebo mediante parcheo a razón de 
 0,13 % 
 0,1 l/árbol de caldo.  
+ Página 9 de 15                                102016
+Nº REGISTRO: 
+KARATE ZEON + 1.5 CS  
+ 
+    
+  Dosis FORMA Y ÉPOCA DE APLICACIÓN 
+USO AGENTE Min- (Condic.Específico) 
+máx. 
 La aplicación se realizará en el período comprendido entre la 
 PRAYS (GEN. 0,065 - 
 recolección de la cosecha y la floración de la siguiente. Efectuar 
@@ -322,20 +342,20 @@ FILOFAGA) 0,13 %
 una aplicación por campaña, sin superar los 1,3 l/Ha. de producto. 
 PRAYS (GEN. 0,05 - Efectuar una aplicación por campaña, sin superar los 1,3 l/Ha. de 
 CARPOFAGA) 0,13 % producto. 
-PULGONES 
 HELIOTIS 
+ORUGAS 
 Ornamentales 0,065 - Efectuar una aplicación por campaña, sin superar los 1,3 l/Ha. de 
 herbáceas 0,13 % producto. 
-ORUGAS 
-TORTRIX 
 PULGONES 
+TORTRIX 
+ESCARABAJO 
 Efectuar un máximo de 2 tratamientos por campaña con un 
 0,065 - 
-Patata intervalo mínimo de 15 días sin superar 0,9 l/Ha. de producto por 
+Patata ORUGAS intervalo mínimo de 15 días sin superar 0,9 l/Ha. de producto por 
 0,13 % 
 aplicación.  
-ESCARABAJO 
- Página 8 de 13                                92316
+PULGONES 
+ Página 10 de 15                                102016
 Nº REGISTRO: 
 KARATE ZEON + 1.5 CS  
  
@@ -343,29 +363,28 @@ KARATE ZEON + 1.5 CS
   Dosis FORMA Y ÉPOCA DE APLICACIÓN 
 USO AGENTE Min- (Condic.Específico) 
 máx. 
-ORUGAS 
-PULGONES 
 MOSCA BLANCA 
+ORUGAS 
 Efectuar un máximo de 2 tratamientos por campaña con un 
 0,065 - 
 Pimiento intervalo mínimo de 15 días sin superar 1,6 l/Ha. de producto por 
 0,13 % 
 aplicación.  
-ORUGAS 
-CHINCHE VERDE 
 PULGONES 
+CHINCHE VERDE 
+ORUGAS 
 0,065 - Efectuar una aplicación por campaña, sin superar los 1,3 l/Ha. de 
 Rábano 
 0,13 % producto. 
-ORUGAS 
 PULGONES 
+CASIDA 
 Efectuar un máximo de 2 tratamientos por campaña con un 
 0,065 - 
-Remolacha PULGUILLA intervalo mínimo de 15 días sin superar 0,6 l/Ha. de producto por 
+Remolacha intervalo mínimo de 15 días sin superar 0,6 l/Ha. de producto por 
 0,13 % 
 aplicación. 
-CASIDA 
- Página 9 de 13                                92316
+PULGONES 
+ Página 11 de 15                                102016
 Nº REGISTRO: 
 KARATE ZEON + 1.5 CS  
  
@@ -373,26 +392,35 @@ KARATE ZEON + 1.5 CS
   Dosis FORMA Y ÉPOCA DE APLICACIÓN 
 USO AGENTE Min- (Condic.Específico) 
 máx. 
-PULGONES 
+PULGUILLA 
+ORUGAS 
 0,065 - Efectuar una aplicación por campaña, sin superar los 1,3 l/Ha. de 
 Repollo 
 0,13 % producto. 
-ORUGAS 
 PULGONES 
 MOSCA BLANCA 
+ORUGAS 
 Efectuar un máximo de 2 tratamientos por campaña con un 
 0,065 - 
 Tomate intervalo mínimo de 15 días sin superar 1,6 l/Ha. de producto por 
 0,13 % 
 aplicación.  
-ORUGAS 
+PULGONES 
 CHINCHE VERDE 
 POLILLAS DEL 
 RACIMO 
 0,065 - Efectuar una aplicación por campaña, sin superar los 1,3 l/Ha. de 
+Vid 
 0,13 % producto. 
 PULGONES 
-Vid 
+ Página 12 de 15                                102016
+Nº REGISTRO: 
+KARATE ZEON + 1.5 CS  
+ 
+    
+  Dosis FORMA Y ÉPOCA DE APLICACIÓN 
+USO AGENTE Min- (Condic.Específico) 
+máx. 
 SCAPHOIDEUS Tratar en prefloración. Efectuar una aplicación por campaña, sin 
 0,165 % 
 TITANUS superar los 1,3 l/Ha. de producto. 
@@ -406,11 +434,6 @@ Cebolleta, Lechugas y similares, Leguminosas de
 14 
 grano 
 Algodonero 21 
- Página 10 de 13                                92316
-Nº REGISTRO: 
-KARATE ZEON + 1.5 CS  
- 
-Cultivo P.S. (días) 
 Ajos, Alcachofa, Apionabo, Berenjena, Cebolla, 
 Chalote, Coliflor, Cucurbitáceas, Fresales, 3 
 Patata, Pimiento, Rábano, Tomate 
@@ -442,6 +465,10 @@ Uso reservado a agricultores y aplicadores profesionales
 Mitigación de riesgos en la manipulación:   
 El aplicador debe utilizar guantes de protección química adecuados durante la mezcla/carga, 
 aplicación y limpieza del equipo así como ropa de protección adecuada de tipo 6 (contra 
+ Página 13 de 15                                102016
+Nº REGISTRO: 
+KARATE ZEON + 1.5 CS  
+ 
 salpicaduras de productos líquidos) en aplicaciones manuales a cultivos bajos. En 
 tratamientos a cultivos altos (altura mayor de 1 metro) se utilizará protección respiratoria de 
 tipo FFP3 y ropa de protección de tipo 3 ó 4 (hermética a productos líquidos). 
@@ -460,13 +487,10 @@ SPo 4: El recipiente debe abrirse al aire libre y en tiempo seco.
 SPo 5: Ventilar los invernaderos tratados hasta que se haya secado la pulverización antes de 
 volver a entrar 
   
- Página 11 de 13                                92316
-Nº REGISTRO: 
-KARATE ZEON + 1.5 CS  
- 
 Clasificaciones y Etiquetado: 
  
-Clase y categoría Irritante 
+Irritante 
+Clase y categoría 
 Peligroso para el medio ambiente 
 de peligro 
 (Humana) 
@@ -475,7 +499,8 @@ N
 Xi  
 Palabra  
 Advertencia 
-Indicaciones de R38 - Irritante para la piel 
+R38 - Irritante para la piel 
+Indicaciones de 
 R50/53 - Muy tóxico para los organismos acuáticos, puede provocar a 
 peligro 
 largo plazo efectos negativos en el medio ambiente acuático 
@@ -496,10 +521,13 @@ Pictograma
 Palabra  
 Advertencia 
 Frases de Riesgo  
-Consejos 
- 
+Consejos  
 Prudencia 
   
+ Página 14 de 15                                102016
+Nº REGISTRO: 
+KARATE ZEON + 1.5 CS  
+ 
  “A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO AMBIENTE 
 SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el texto. 
 Mitigación de riesgos ambientales:   
@@ -515,10 +543,6 @@ floración de los cultivos. No utilizar donde haya abejas en pecoreo activo. Ret
 cúbranse las colmenas durante el tratamiento y durante 1 día después del mismo 
   
  Eliminación Producto y/o caldo: -- 
- 
- Página 12 de 13                                92316
-Nº REGISTRO: 
-KARATE ZEON + 1.5 CS  
  
 Gestión de envases:   
 Indicar en la etiqueta la obligación de entregar los envases vacíos a un gestor autorizado de 
@@ -542,4 +566,4 @@ El producto no debe almacenarse ni utilizarse a temperaturas superiores a 40º
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 13 de 13                                92316
+ Página 15 de 15                                102016

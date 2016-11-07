@@ -13,7 +13,7 @@ OX14 4RN Abingdon
 OXON
 REINO UNIDO
 Fecha de inscripción: 05/12/1990
-Fecha de caducidad: 30/11/2016
+Fecha de caducidad: 31/05/2018
 Tipo de envase:
 Envases de polietilen-tetraftalato (PET) de 0,5 l.
 Composición: ISOXABEN 50% [SC] P/V
@@ -34,17 +34,14 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 P.S.: Plazo de seguridad (días)
 Usos protegidos hasta fecha: (9) 
 Condicionamientos fitoterapeúticos:
-Registro de Productos FitoSanitarios
-Nº Registro: 18.874
-Nombre comercial: ROKENYL 50
 Generales : Controla malas hierbas en preemergencia o postemergencia precoz.
-Aplicar en pulverización normal. En la etiqueta se darán instrucciones para la correcta utilización del
-producto, así como las advertencias necesarias para que el agricultor pueda cerciorarse de los
-riesgos de utilización del producto por fitotoxicidad en variedades sensibles del propio cultivo o de
-los siguientes en la alternativa.
+Aplicar en pulverización normal.
 No controla malas hierbas establecidas o perennes.
 No plantar lechuga, escarola, coles u otras crucíferas hasta transcurridos al menos 15 meses de la
 aplicación.
+Registro de Productos FitoSanitarios
+Nº Registro: 18.874
+Nombre comercial: ROKENYL 50
 Específicos: (1) Aplicar en presiembra.
 (2), (7) En pre o postemergencia del cultivo. Diluir en un mínimo de 300 l. de agua/Ha, se puede
 utilizar mezclado con antigramíneas autorizadas y compatibles a 0,1-0,15 l/Ha. con la dosis
@@ -70,7 +67,7 @@ directamente al sistema integrado de gestión al que esté adherido o al propio,
 través del punto de venta donde el usuario lo adquiera.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Irritante, Peligroso para el medio ambiente
-Símbolos y pictogramas: Xi
+Símbolos y pictogramas: 0
 Frases de riesgo: R43, R53
 Consejos de prudencia: S2, S13, S45, S36/37, S24/25, S23
 Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO

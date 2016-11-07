@@ -13,7 +13,7 @@ Marco Polo-Bâtiment B, ZAC Du Font de l`Orme 1 - BP 1220
 MOUGINS CEDEX
 FRANCIA
 Fecha de inscripción: 18/06/1997
-Fecha de caducidad: 30/12/2016
+Fecha de caducidad: 31/01/2018
 Tipo de envase:
 Botellas y bidones de polietileno de 1, 5 y 10 l.
 Composición: CLORPIRIFOS 48% (ESPIV) [EC]
@@ -100,7 +100,7 @@ en el punto de venta donde se hubiera adquirido si dichos envases se han puesto 
 sistema de depósito, devolución y retorno.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Nocivo, Peligroso para el medio ambiente
-Símbolos y pictogramas: N,Xn
+Símbolos y pictogramas: 0
 Frases de riesgo: R22, R36/37, R10, R50/53, R65, R66
 Consejos de prudencia: S2, S13, S45, S28, S36/37, S43, S62, S23
 Otras indicaciones reglamentarias: En la etiqueta deberá indicarse que "contiene nafta disolvente del petróleo Nº CAS

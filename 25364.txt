@@ -30,7 +30,10 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 P.S.: Plazo de seguridad (días)
 Usos protegidos hasta fecha: (3) 
 Condicionamientos fitoterapeúticos:
-Generales :
+Generales : Aplicar mediante el riego por goteo de 3 a 6 días antes del transplante en berenjena y tomate y
+durante la etapa vegetativa en platanera.
+En la etiqueta se indicarán las advertencias necesarias para la correcta aplicación del producto y las
+indicaciones adecuadas para que el agricultor pueda cerciorarse de los riesgos de su utilización.
 Específicos: (1), (2) Sólo en cultivo de invernadero.
 Condicionamientos preventivos de riesgos:
 Mitigación de riesgos medioambientales:

@@ -296,7 +296,7 @@ Generales : Número máximo de aplicaciones: Para todos los cultivos autorizados
 campaña. 
 Tomate, pimiento y berenjena: aire libre e invernadero. Resto de cultivos autorizados, sólo al aire
 libre.
-No se autorizarán aquellos usos que se encuentren en zonas destinadas al uso público en general.
+No se autorizarán aquellos usos que se encuentren en zonas destinadas al uso p
 Registro de Productos FitoSanitarios
 Nº Registro: 25.807
 Nombre comercial: RIMI 101 RB
@@ -356,7 +356,7 @@ Clasificación : Atención, Acuático crónico 1, Acuático agudo 1
 Registro de Productos FitoSanitarios
 Nº Registro: 25.807
 Nombre comercial: RIMI 101 RB
-Símbolos y pictogramas: --
+Símbolos y pictogramas: GHS09
 Frases de riesgo: H410, EUH 210, EUH 401
 Consejos de prudencia: P261, P262, P273, P280, P391, P501
 Otras indicaciones reglamentarias: SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.

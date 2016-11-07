@@ -65,7 +65,7 @@ máx.
 Ajos PULGONES 
 0,02 producto. 
  
-     Página 1 de 12       Nº REGISTRO:   24942  
+     Página 1 de 15       Nº REGISTRO:   24942  
 KARATE TECNOLOGIA ZEON 
 10 CS
 Nº REGISTRO: 
@@ -76,69 +76,59 @@ KARATE TECNOLOGIA ZEON 10 CS
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 %  
-PULGONES 
+ORUGAS 
 Efectuar un máximo de 2 tratamientos por campaña con un 
 0,01 - 
 Alcachofa intervalo mínimo de 15 días sin superar los 200 ml/Ha. de producto 
 0,015 
 por aplicación. 
-ORUGAS 
 PULGONES 
 APION 
+CUCA 
 0,01 - No para consumo en brotes. Efectuar una aplicación por campaña, 
 Alfalfa 
 0,015 sin superar los 90 ml/Ha. de producto. 
-CUCA 
-GUSANO VERDE 
 PULGONES 
+GUSANO VERDE 
 EARIAS 
 0,01 - Efectuar una aplicación por campaña sin superar los 120 ml/Ha. de 
-Algodonero 
+Algodonero HELIOTIS 
 0,02 producto. 
-HELIOTIS 
 ORUGAS 
+ Página 2 de 15                                102016
+Nº REGISTRO: 
+KARATE TECNOLOGIA ZEON 10 CS 
+ 
+    
+  Dosis FORMA Y ÉPOCA DE APLICACIÓN 
+USO AGENTE Min- (Condic.Específico) 
+máx. 
+%  
 PULGONES 
+ORUGAS 
 0,01 - Efectuar una aplicación por campaña sin superar los 200 ml/Ha. de 
 Almendro 
 0,02 producto. 
+PULGONES 
 ORUGAS 
 0,01 - Sólo en cultivo al aire libre. Efectuar una aplicación por campaña 
 Apio PULGONES 
 0,02 sin superar los 200 ml/Ha. de producto. 
- Página 2 de 12                                92316
-Nº REGISTRO: 
-KARATE TECNOLOGIA ZEON 10 CS 
- 
-    
-  Dosis FORMA Y ÉPOCA DE APLICACIÓN 
-USO AGENTE Min- (Condic.Específico) 
-máx. 
-%  
-ORUGAS 
 MOSCA 
-PULGONES 
+ORUGAS 
 0,01 - Efectuar una aplicación por campaña sin superar los 200 ml/Ha. de 
 Apionabo 
 0,02 producto. 
-ORUGAS 
+PULGONES 
 0,01 - Efectuar una aplicación por campaña sin superar los 200 ml/Ha. de 
 Avellano PULGONES 
 0,02 producto. 
-PULGONES 
-MOSCA BLANCA 
 Efectuar un máximo de 2 tratamientos por campaña con un 
 0,01 - 
-Berenjena intervalo mínimo de 15 días sin superar los 250 ml/Ha. de producto 
+Berenjena MOSCA BLANCA intervalo mínimo de 15 días sin superar los 250 ml/Ha. de producto 
 0,02 
 y aplicación. 
-ORUGAS 
-CHINCHE VERDE 
-PULGONES 
-0,01 - Efectuar una aplicación por campaña sin superar los 200 ml/Ha. de 
-Brécol MOSCA BLANCA 
-0,02 producto. 
-ORUGAS 
- Página 3 de 12                                92316
+ Página 3 de 15                                102016
 Nº REGISTRO: 
 KARATE TECNOLOGIA ZEON 10 CS 
  
@@ -147,6 +137,14 @@ KARATE TECNOLOGIA ZEON 10 CS
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 %  
+ORUGAS 
+PULGONES 
+CHINCHE VERDE 
+MOSCA BLANCA 
+0,01 - Efectuar una aplicación por campaña sin superar los 200 ml/Ha. de 
+Brécol ORUGAS 
+0,02 producto. 
+PULGONES 
 Efectuar una aplicación por campaña en pulverización cebo a dosis 
 0,01 - 
 Caqui CERATITIS de 0,1-0,125%  0,1 l. de caldo por árbol sin superar los 100 ml/Ha. 
@@ -158,6 +156,15 @@ Cebolla PULGONES
 0,01 - Efectuar una aplicación por campaña sin superar los 200 ml/Ha. de 
 Cebolleta PULGONES 
 0,02 producto. 
+ Página 4 de 15                                102016
+Nº REGISTRO: 
+KARATE TECNOLOGIA ZEON 10 CS 
+ 
+    
+  Dosis FORMA Y ÉPOCA DE APLICACIÓN 
+USO AGENTE Min- (Condic.Específico) 
+máx. 
+%  
 Excepto avena. Efectuar un máximo de 2 tratamientos por 
 0,01 - 
 Cereales CHINCHES campaña con un intervalo mínimo de 15 días sin superar los 80 
@@ -180,15 +187,15 @@ caldo /árbol.
 0,01 - 
 Cítricos 
 0,02 
-PULGONES 
+ORUGAS 
 Efectuar una aplicación por campaña sin superar los 350 ml/Ha. de 
 producto. 
-ORUGAS 
 PULGONES 
+ORUGAS 
 Coles de 0,01 - Efectuar una aplicación por campaña sin superar los 200 ml/Ha. de 
 bruselas 0,02 producto. 
-ORUGAS 
- Página 4 de 12                                92316
+PULGONES 
+ Página 5 de 15                                102016
 Nº REGISTRO: 
 KARATE TECNOLOGIA ZEON 10 CS 
  
@@ -197,39 +204,32 @@ KARATE TECNOLOGIA ZEON 10 CS
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 %  
-PULGONES 
+MOSCA BLANCA 
 0,01 - Efectuar una aplicación por campaña sin superar los 200 ml/Ha. de 
-Coliflor MOSCA BLANCA 
+Coliflor ORUGAS 
 0,02 producto. 
-ORUGAS 
 PULGONES 
+ORUGAS 
 Efectuar un máximo de 2 tratamientos por campaña con un 
 0,01 - 
 Colza intervalo mínimo de 15 días sin superar los 120 ml/Ha. de producto 
 0,02 
 por aplicación. 
-ORUGAS 
 PULGONES 
+MOSCA BLANCA 
 0,01 - Efectuar una aplicación por campaña sin superar los 250 ml/Ha. de 
-Cucurbitáceas MOSCA BLANCA 
+Cucurbitáceas ORUGAS 
 0,02 producto. 
-ORUGAS 
+PULGONES 
 0,01 - Efectuar una aplicación por campaña sin superar los 200 ml/Ha. de 
 Eriales ORTOPTEROS 
 0,02 producto. 
-PULGONES 
 Sólo al aire libre. Efectuar un máximo de 2 tratamientos por 
 Espinaca y 0,01 - 
-campaña con un intervalo mínimo de 15 días sin superar los 67,5 
+ORUGAS campaña con un intervalo mínimo de 15 días sin superar los 67,5 
 similar 0,02 
 ml/Ha. de producto. 
-ORUGAS 
-PULGONES 
-0,01 - Efectuar una aplicación por campaña sin superar los 200 ml/Ha. de 
-Fresales 
-0,02 producto. 
-ORUGAS 
- Página 5 de 12                                92316
+ Página 6 de 15                                102016
 Nº REGISTRO: 
 KARATE TECNOLOGIA ZEON 10 CS 
  
@@ -238,30 +238,46 @@ KARATE TECNOLOGIA ZEON 10 CS
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 %  
+PULGONES 
+ORUGAS 
+0,01 - Efectuar una aplicación por campaña sin superar los 200 ml/Ha. de 
+Fresales PULGONES 
+0,02 producto. 
 DROSOPHILA 
+ANARSIA 
+Efectuar una aplicación por campaña sin superar los 200 ml/Ha. de 
+producto. 
+CARPOCAPSA 
 Efectuar una aplicación por campaña o en pulverización cebo a 
+Frutales de 0,01 - 
 CERATITIS dosis de 0,1-0,125%  0,1 l. de caldo por árbol sin superar los 200 
+hueso 0,02 
 ml/Ha. de producto. 
 ORUGAS 
 MINADORAS 
-Frutales de 0,01 - 
-hueso 0,02 
-PULGONES 
 Efectuar una aplicación por campaña sin superar los 200 ml/Ha. de 
 producto. 
-ANARSIA 
+PULGONES 
+Frutales de 0,01 - Efectuar una aplicación por campaña sin superar los 300 ml/Ha. de 
 CARPOCAPSA 
+pepita 0,02 producto. 
+ Página 7 de 15                                102016
+Nº REGISTRO: 
+KARATE TECNOLOGIA ZEON 10 CS 
+ 
+    
+  Dosis FORMA Y ÉPOCA DE APLICACIÓN 
+USO AGENTE Min- (Condic.Específico) 
+máx. 
+%  
 Efectuar una aplicación por campaña o en pulverización cebo a 
 CERATITIS dosis de 0,1-0,125%  0,1 l. de caldo por árbol sin superar los 300 
 g/Ha. de producto.  
 ORUGAS 
-Frutales de 0,01 - 
 MINADORAS 
-pepita 0,02 
 Efectuar una aplicación por campaña sin superar los 300 ml/Ha. de 
-PULGONES 
 producto. 
-CARPOCAPSA 
+PULGONES 
 PULGONES 
 0,01 - Efectuar una aplicación por campaña sin superar los 200 ml/Ha. de 
 Granado 
@@ -273,7 +289,14 @@ Grosellero PULGONES
 Guisantes 0,01 - Sólo en cultivo al aire libre. Efectuar una aplicación por campaña 
 PULGONES 
 verdes 0,02 sin superar los 200 ml/Ha. de producto. 
- Página 6 de 12                                92316
+ORUGAS 
+Hierbas 0,01 - Sólo en cultivo al aire libre. Efectuar una aplicación por campaña 
+aromáticas 0,02 sin superar los 200 ml/Ha. de producto. 
+PULGONES 
+0,01 - Sólo en cultivo al aire libre. Efectuar una aplicación por campaña 
+Judías verdes PULGONES 
+0,02 sin superar los 250 ml/Ha. de producto. 
+ Página 8 de 15                                102016
 Nº REGISTRO: 
 KARATE TECNOLOGIA ZEON 10 CS 
  
@@ -282,27 +305,20 @@ KARATE TECNOLOGIA ZEON 10 CS
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 %  
-PULGONES 
-Hierbas 0,01 - Sólo en cultivo al aire libre. Efectuar una aplicación por campaña 
-aromáticas 0,02 sin superar los 200 ml/Ha. de producto. 
 ORUGAS 
-0,01 - Sólo en cultivo al aire libre. Efectuar una aplicación por campaña 
-Judías verdes PULGONES 
-0,02 sin superar los 250 ml/Ha. de producto. 
-PULGONES 
 Lechugas y 0,01 - Sólo en cultivo al aire libre. Efectuar una aplicación por campaña 
 similares 0,02 sin superar los 200 ml/Ha. de producto. 
-ORUGAS 
+PULGONES 
 Leguminosas de 0,01 - Efectuar una aplicación por campaña sin superar los 200 ml/Ha. de 
 PULGONES 
 grano 0,02 producto. 
-PULGONES 
+HELIOTIS 
 Efectuar un máximo de 2 aplicaciones por campaña con un 
 0,01 - 
 Maíz intervalo mínimo de 15 días sin superar los 60 ml/Ha. de producto 
 0,02 
 y aplicación.  
-HELIOTIS 
+PULGONES 
 PRAYS (GEN. 
 ANTOFAGA) 
 La aplicación se realizará en el período comprendido entre la 
@@ -312,7 +328,7 @@ Olivo
 de producto. 
 PRAYS (GEN. 
 FILOFAGA) 
- Página 7 de 12                                92316
+ Página 9 de 15                                102016
 Nº REGISTRO: 
 KARATE TECNOLOGIA ZEON 10 CS 
  
@@ -321,32 +337,25 @@ KARATE TECNOLOGIA ZEON 10 CS
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 %  
-PULGONES 
 HELIOTIS 
+ORUGAS 
 Ornamentales 0,01 - Efectuar una aplicación por campaña sin superar los 200 ml/Ha. de 
 herbáceas 0,02 producto. 
-ORUGAS 
-TORTRIX 
 PULGONES 
+TORTRIX 
+ESCARABAJO 
 Efectuar un máximo de 2 tratamientos por campaña con un 
 0,01 - 
-Patata ESCARABAJO intervalo mínimo de 15 días sin superar los 140 ml/Ha. de producto 
+Patata ORUGAS intervalo mínimo de 15 días sin superar los 140 ml/Ha. de producto 
 0,02 
 por aplicación. 
-ORUGAS 
 PULGONES 
 MOSCA BLANCA 
 0,01 - Efectuar una aplicación por campaña sin superar los 250 ml/Ha. de 
-Pimiento 
+Pimiento ORUGAS 
 0,02 producto. 
-ORUGAS 
-CHINCHE VERDE 
 PULGONES 
-0,01 - Efectuar una aplicación por campaña sin superar los 200 ml/Ha. de 
-Rábano 
-0,02 producto. 
-ORUGAS 
- Página 8 de 12                                92316
+ Página 10 de 15                                102016
 Nº REGISTRO: 
 KARATE TECNOLOGIA ZEON 10 CS 
  
@@ -355,42 +364,46 @@ KARATE TECNOLOGIA ZEON 10 CS
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 %  
+CHINCHE VERDE 
+ORUGAS 
+0,01 - Efectuar una aplicación por campaña sin superar los 200 ml/Ha. de 
+Rábano 
+0,02 producto. 
 PULGONES 
+CASIDA 
 Efectuar un máximo de 2 tratamientos por campaña con un 
 0,01 - 
-Remolacha PULGUILLA intervalo mínimo de 15 días sin superar los 200 ml/Ha. de producto 
+Remolacha PULGONES intervalo mínimo de 15 días sin superar los 200 ml/Ha. de producto 
 0,015 
 por aplicación. 
-CASIDA 
-PULGONES 
+PULGUILLA 
+ORUGAS 
 0,01 - Efectuar una aplicación por campaña sin superar los 200 ml/Ha. de 
 Repollo 
 0,02 producto. 
-ORUGAS 
 PULGONES 
-MOSCA BLANCA 
 Efectuar un máximo de 2 tratamientos por campaña con un 
 0,01 - 
-Tomate intervalo mínimo de 15 días sin superar los 250 ml/Ha. de producto 
+Tomate MOSCA BLANCA intervalo mínimo de 15 días sin superar los 250 ml/Ha. de producto 
 0,02 
 y aplicación. 
+ Página 11 de 15                                102016
+Nº REGISTRO: 
+KARATE TECNOLOGIA ZEON 10 CS 
+ 
+    
+  Dosis FORMA Y ÉPOCA DE APLICACIÓN 
+USO AGENTE Min- (Condic.Específico) 
+máx. 
+%  
 ORUGAS 
+PULGONES 
 CHINCHE VERDE 
 POLILLAS DEL 
 RACIMO 
 0,01 - Efectuar una aplicación por campaña sin superar los 200 ml/Ha. de 
-Vid 
 0,02 producto. 
-PULGONES 
- Página 9 de 12                                92316
-Nº REGISTRO: 
-KARATE TECNOLOGIA ZEON 10 CS 
- 
-    
-  Dosis FORMA Y ÉPOCA DE APLICACIÓN 
-USO AGENTE Min- (Condic.Específico) 
-máx. 
-%  
+Vid PULGONES 
 SCAPHOIDEUS Tratar en prefloración, efectuando un solo tratamiento por período 
 0,025 
 TITANUS vegetativo. 
@@ -410,6 +423,11 @@ Cebolla, Chalote, Coliflor, Cucurbitáceas,
 Fresales, Frutales de hueso, Frutales de pepita, 
 Patata, Pimiento, Rábano, Tomate 
 Cereales, Colza, Maíz 30 
+ Página 12 de 15                                102016
+Nº REGISTRO: 
+KARATE TECNOLOGIA ZEON 10 CS 
+ 
+Cultivo P.S. (días) 
 Alfalfa, Apio, Cerezo, Cítricos, Coles de bruselas, 
 Espinaca y similar, Granado, Grosellero, 
 7 
@@ -439,10 +457,6 @@ salpicaduras de productos líquidos) en aplicaciones manuales a cultivos bajos. 
 tratamientos a cultivos altos (altura mayor de 1 metro) se utilizará protección respiratoria de 
 tipo FFP3 y ropa de protección de tipo 3 ó 4 (hermética a productos líquidos). 
 No entrar al cultivo hasta que el producto esté seco. 
- Página 10 de 12                                92316
-Nº REGISTRO: 
-KARATE TECNOLOGIA ZEON 10 CS 
- 
 Por motivos de seguridad, no realizar más de una aplicación por campaña en todos los 
 cultivos salvo en patata, tomate, berenjena, remolacha, colza, maíz, cereales, espinacas y 
 similares y alcachofa, en los que se podrán realizar dos. En el caso de ser necesario un mayor 
@@ -466,6 +480,10 @@ Clase y categoría
 Peligroso para el medio ambiente 
 de peligro 
 (Humana) 
+ Página 13 de 15                                102016
+Nº REGISTRO: 
+KARATE TECNOLOGIA ZEON 10 CS 
+ 
 Pictograma 
 N  
 Xn  
@@ -498,10 +516,6 @@ Advertencia
 Frases de Riesgo  
 Consejos  
 Prudencia 
- Página 11 de 12                                92316
-Nº REGISTRO: 
-KARATE TECNOLOGIA ZEON 10 CS 
- 
   
  “A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO AMBIENTE 
 SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el texto. 
@@ -522,6 +536,10 @@ Es obligatorio enjuagar enérgicamente tres veces, o mediante dispositivo de pre
 envase de producto que se vacíe al preparar la dilución y verter las aguas al depósito del 
 pulverizador. 
 Indicar en la etiqueta la obligación de entregar los envases vacíos a un gestor autorizado de 
+ Página 14 de 15                                102016
+Nº REGISTRO: 
+KARATE TECNOLOGIA ZEON 10 CS 
+ 
 residuos clasificados y peligrosos así como las opciones alternativas que el titular está 
 obligado a ofrecer, conforme a lo establecido en el R.D. 1416/2001, de entregarlos 
 directamente al sistema integrado de gestión al que esté adherido o al propio, de depósito, 
@@ -543,4 +561,4 @@ superiores a 40º
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 12 de 12                                92316
+ Página 15 de 15                                102016

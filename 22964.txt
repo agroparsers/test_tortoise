@@ -64,14 +64,14 @@ Cebada DICOTILEDONEAS 500 - 750 cc/ha
 Maíz DICOTILEDONEAS 0,75 l/ha Aplicar con el cultivo en estado de 4-8 hojas. 
 Trigo DICOTILEDONEAS 500 - 750 cc/ha 
   
-  
-Plazos de Seguridad (Protección del consumidor):  
  
      Página 1 de 4       Nº REGISTRO:   22964  
 MUSTANG
 Nº REGISTRO: 
 MUSTANG 
  
+  
+Plazos de Seguridad (Protección del consumidor):  
   
 Cultivo P.S. (días) 
 Maíz 15 
@@ -118,16 +118,16 @@ GSH07 (signo de exclamación)
 -- 
 Palabra 
 Advertencia 
+ Página 2 de 4                                102016
+Nº REGISTRO: 
+MUSTANG 
+ 
 EUH 401 - A fin de evitar riesgos para las personas y el medio 
 Indicaciones de 
 ambiente, siga las instrucciones de uso. 
 peligro 
 H302 - Nocivo en caso de ingestión. 
 H317 - Puede provocar una reacción alérgica en la piel.  
- Página 2 de 4                                92316
-Nº REGISTRO: 
-MUSTANG 
- 
 P261 - Evitar respirar el polvo/el humo/el gas/la niebla/los vapores/ el 
 Consejos de 
 aerosol. (El fabricante o el proveedor especificarán las condiciones 
@@ -137,8 +137,7 @@ P280 - Llevar guantes/prendas/gafas/máscara de protección. (El
 fabricante o el proveedor especificarán el tipo de equipo) 
 P302+P352 - EN CASO DE CONTACTO CON LA PIEL: Lavar con agua y 
 jabón abundantes. 
-Acuático agudo 1 
-Clase y categoría 
+Clase y categoría Acuático agudo 1 
 Acuático crónico 1 
 de peligro 
 (Medio ambiental) 
@@ -146,7 +145,8 @@ Pictograma
 GSH09 (medio ambiente)  
 Palabra -- 
 Advertencia 
-Frases de Riesgo H410 - Muy tóxico para los organismos acuáticos, con efectos nocivos 
+H410 - Muy tóxico para los organismos acuáticos, con efectos nocivos 
+Frases de Riesgo 
 duraderos.  
 P273 - Evitar su liberación al medio ambiente. (Si no es éste su uso 
 Consejos 
@@ -179,16 +179,16 @@ Otras indicaciones reglamentarias:
 En la etiqueta se hará constar que "contiene 1,2-Benzisotiazol-3-(2H)-ona (nº CAS: 2634-35-
 5) con hidróxido sódico (nº CAS: 1310-73-2)". 
 SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE. (No limpiar 
+ Página 3 de 4                                102016
+Nº REGISTRO: 
+MUSTANG 
+ 
 el equipo de aplicación del producto cerca de aguas superficiales/Evitese la contaminación a 
 través de los sistemas de evacuación de aguas de las explotaciones o de los caminos) 
   
 Condiciones de almacenamiento: -- 
- Página 3 de 4                                92316
-Nº REGISTRO: 
-MUSTANG 
- 
   
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 4 de 4                                92316
+ Página 4 de 4                                102016

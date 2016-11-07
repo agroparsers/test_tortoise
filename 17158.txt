@@ -13,7 +13,7 @@ C/ Botiguers nº 3, planta 4ª L. Parque Empresarial Táctica
 46980 Paterna
 VALENCIA
 Fecha de inscripción: 23/04/1985
-Fecha de caducidad: 31/12/2016
+Fecha de caducidad: 30/06/2018
 Tipo de envase:
 Botella de polietileno de 1 l.
 Garrafa de polietileno de 5 l.
@@ -68,7 +68,7 @@ R.D. 1416/01, de entregarlos directamente al sistema integrado de gestión al qu
 depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Irritante
-Símbolos y pictogramas: Xi
+Símbolos y pictogramas: 0
 Frases de riesgo: R38
 Consejos de prudencia: S2, S13, S45, S37, S24, S41, S23
 Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO

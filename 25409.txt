@@ -115,19 +115,19 @@ mezcla/carga y limpieza del equipo.
 No entrar al cultivo hasta que el producto esté seco.  
 SPo 2: Lávese toda la ropa de protección después de usarla 
   
-Clasificaciones y Etiquetado: 
- 
- Página 2 de 4                                92316
+ Página 2 de 4                                102016
 Nº REGISTRO: 
 DAYTONA 
  
-Peligroso para el medio ambiente 
-Clase y categoría 
+Clasificaciones y Etiquetado: 
+ 
+Clase y categoría Peligroso para el medio ambiente 
 de peligro 
 (Humana) 
 Pictograma 
 N  
-Palabra  
+Palabra 
+ 
 Advertencia 
 R51/53 - Tóxico para los organismos acuáticos, puede provocar a largo 
 Indicaciones de 
@@ -142,17 +142,17 @@ S23 - No respirar los gases/humos/vapores/aerosoles
 S24/25 - Evítese el contacto con los ojos y la piel 
 S45 - En caso de accidente o malestar, acúdase inmediatamente al 
 médico, si es posible enseñándole esta etiqueta 
-Clase y categoría 
- 
+Clase y categoría  
 de peligro 
 (Medio ambiental) 
-Pictograma 
- 
+Pictograma  
 Palabra 
  
 Advertencia 
-Frases de Riesgo  
-Consejos  
+Frases de Riesgo 
+ 
+Consejos 
+ 
 Prudencia 
   
  “A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO AMBIENTE 
@@ -175,13 +175,13 @@ devolución y retorno. Posteriormente los residuos de envases se gestionarán po
 autorizados de residuos conforme a lo que establece el citado Real Decreto 
   
 Otras indicaciones reglamentarias:   
-La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO AMBIENTE 
-SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el texto.   
-SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE. (No limpiar 
- Página 3 de 4                                92316
+ Página 3 de 4                                102016
 Nº REGISTRO: 
 DAYTONA 
  
+La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO AMBIENTE 
+SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el texto.   
+SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE. (No limpiar 
 el equipo de aplicación del producto cerca de aguas superficiales/Evitese la contaminación a 
 través de los sistemas de evacuación de aguas de las explotaciones o de los caminos) 
   
@@ -190,4 +190,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 4 de 4                                92316
+ Página 4 de 4                                102016

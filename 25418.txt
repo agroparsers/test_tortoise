@@ -63,15 +63,8 @@ máx. Caldo (Condic.Específico)
  1150 Dosis máxima: 1,5 l/ha. Aplicar 
 Albaricoquero PULGONES 0,13 % 2 14 
 l/ha después de la floración. 
-Dosis máxima: 1 l/ha. Aplicar desde 
-200-
-tercera hoja desplegada hasta 
-Alcachofa PULGONES 1 l/ha 1   1000 
-primeras flores individuales de la 
-l/ha 
-inflorescenecia principal visibles 
  
-     Página 1 de 7       Nº REGISTRO:   25418  
+     Página 1 de 8       Nº REGISTRO:   25418  
 EFORIA
 Nº REGISTRO: 
 EFORIA 
@@ -80,6 +73,14 @@ EFORIA
   Dosis Nº   FORMA Y ÉPOCA DE 
 USO AGENTE Min- Aplic. Intervalos Vol. APLICACIÓN 
 máx. Caldo (Condic.Específico) 
+Dosis máxima: 1 l/ha. Aplicar desde 
+tercera hoja desplegada hasta 
+PULGONES 
+primeras flores individuales de la 
+inflorescenecia principal visibles 
+200-
+Alcachofa 1 l/ha 1   1000 
+l/ha 
 Dosis máxima: 1 l/ha. Aplicar desde 
 tercera hoja desplegada hasta 
 ORUGAS 
@@ -91,19 +92,17 @@ l/ha después de la floración.
 MOSCA 
 BLANCA 
 1,25 1000 Dosis máxima: 1,25 l/ha. Aplicar al 
-Berenjena 1 
-  
+Berenjena 1   
 l/ha l/ha inicio de la primera infestación. 
 ORUGAS 
-Dosis máxima: 1,25 l/ha .Aplicar al 
-PULGONES 
-inicio de la primera infestación. 
-1,25 1500 
-Brécol 1 
-  
-l/ha l/ha 
 Dosis máxima: 1,25 l/ha. Aplicar al 
 ORUGAS 
+inicio de la primera infestación. 
+1,25 1500 
+Brécol 1   
+l/ha l/ha 
+Dosis máxima: 1,25 l/ha .Aplicar al 
+PULGONES 
 inicio de la primera infestación. 
 1200 Dosis máxima: 1,00 l/ha. Aplicar 
 Calabacín PULGONES 1 l/ha 1   
@@ -116,38 +115,13 @@ Ciruelo PULGONES 0,13 % 2 14
 l/ha después de la floración. 
 Dosis máxima: 2 l/ha. Aplicar 
 1000-
-después de la floración. La 
-PULGONES 2000 
-pulverización será normal con 
-l/ha 
-tractor con cabina cerrada. 
-0,075 - 
-Cítricos 1   
-0,1 % 
-Dosis máxima: 2 l/ha. Aplicar 
-1000-
-MINADORES después de la floración. La 
-2000 
-DE HOJAS pulverización será normal con 
+MINADORES 0,075 - después de la floración. La 
+Cítricos 1 2000 
+  
+DE HOJAS 0,1 % pulverización será normal con 
 l/ha. 
 tractor con cabina cerrada. 
-PULGONES 
-Dosis máxima: 1,25 l/ha. Aplicar 
-500- desde segunda hoja desplegada 
-1,25 
-Coliflor 1 1500 hasta primeras flores individuales 
-  
-l/ha 
-l/ha de la inflorescenecia principal 
-visibles. 
-ORUGAS 
-Lechugas y 1000 Dosis máxima: 1 l/ha. Aplicar 
-PULGONES 1 l/ha 1   
-similares l/ha después de la floración. 
-1150 Dosis máxima: 1,5 l/ha. Aplicar 
-Manzano PULGONES 0,13 % 2 14 
-l/ha después de la floración. 
- Página 2 de 7                                92316
+ Página 2 de 8                                102016
 Nº REGISTRO: 
 EFORIA 
  
@@ -155,26 +129,58 @@ EFORIA
   Dosis Nº   FORMA Y ÉPOCA DE 
 USO AGENTE Min- Aplic. Intervalos Vol. APLICACIÓN 
 máx. Caldo (Condic.Específico) 
+Dosis máxima: 2 l/ha. Aplicar 
+1000-
+después de la floración. La 
+PULGONES 2000 
+pulverización será normal con 
+l/ha 
+tractor con cabina cerrada. 
+ORUGAS 
+Dosis máxima: 1,25 l/ha. Aplicar 
+500- desde segunda hoja desplegada 
+1,25 
+Coliflor 1   1500 hasta primeras flores individuales 
+l/ha 
+l/ha de la inflorescenecia principal 
+visibles. 
+PULGONES 
+Lechugas y 1000 Dosis máxima: 1 l/ha. Aplicar 
+PULGONES 1 l/ha 1 
+  
+similares l/ha después de la floración. 
 POLILLAS 
-PSILA 
+1150 Dosis máxima: 1,5 l/ha. Aplicar 
+Manzano PSILA 0,13 % 2 14 
+l/ha después de la floración. 
+PULGONES 
 1150 Dosis máxima: 1,5 l/ha. Aplicar 
 Melocotonero PULGONES 0,13 % 2 14 
 l/ha después de la floración.  
 1200 Dosis máxima: 1,00 l/ha. Aplicar 
-Melón PULGONES 1 l/ha 1   
+Melón PULGONES 1 l/ha 1 
+  
 l/ha desde la floración. 
 1150 Dosis máxima: 1,5 l/ha. Aplicar 
 Nectarino PULGONES 0,13 % 2 14 
 l/ha después de la floración. 
-Dosis máxima: 1 l/ha. Aplicar 
-GLIFODES 15 
-después de la floración. 
+1330 Dosis máxima: 1 l/ha. Aplicar 
+Olivo GLIFODES 0,075 % 2 15 
+l/ha después de la floración. 
+ Página 3 de 8                                102016
+Nº REGISTRO: 
+EFORIA 
+ 
+       
+  Dosis Nº   FORMA Y ÉPOCA DE 
+USO AGENTE Min- Aplic. Intervalos Vol. APLICACIÓN 
+máx. Caldo (Condic.Específico) 
 Dosis máxima:1 l/ha. Aplicar 
 despues de la floración. En 
 parcheo, dosis máx: 0,05 l/ha, 2 
-MOSCA DEL 1330 
-Olivo 0,075 % 2 14 aplicaciones/campaña con intervalo 
-OLIVO l/ha 
+MOSCA DEL 
+14 aplicaciones/campaña con intervalo 
+OLIVO 
 de 15 días, en mezcla con una 
 proteína hidrolizada, tratando 1-2 
 m2 en la parte sur de cada árbol. 
@@ -187,33 +193,37 @@ Patata DE LA 2 12
 l/ha l/ha inicio de la primera infestación. 
 PATATA 
 1200 Dosis máxima: 1,00 l/ha. Aplicar 
-Pepino PULGONES 1 l/ha 1   
+Pepino PULGONES 1 l/ha 1 
+  
 l/ha desde la floración. 
-PULGONES 
+POLILLAS 
 1150 Dosis máxima: 1,5 l/ha. Aplicar 
-Peral POLILLAS 0,13 % 2 14 
+Peral PSILA 0,13 % 2 14 
 l/ha después de la floración. 
-PSILA 
+PULGONES 
 MOSCA Dosis máxima: 1,25 l/ha. Aplicar al 
 BLANCA inicio de la primera infestación. 
 1,25 1200 
-Pimiento 1   
+Pimiento 1 
+  
 l/ha l/ha 
 Dosis máxima: 1,25 l/ha. Aplicar al 
 ORUGAS 
 inicio de la primera infestación. 
 1200 Dosis máxima: 1,00 l/ha. Aplicar 
-Sandía PULGONES 1 l/ha 1   
+Sandía PULGONES 1 l/ha 1 
+  
 l/ha desde la floración. 
 MOSCA Dosis máxima: 1,25 l/ha. Aplicar al 
 BLANCA inicio de la primera infestación. 
 1,25 1000 
-Tomate 1   
+Tomate 1 
+  
 l/ha l/ha 
 Dosis máxima: 1,25 l/ha. Aplicar al 
 ORUGAS 
 inicio de la primera infestación. 
- Página 3 de 7                                92316
+ Página 4 de 8                                102016
 Nº REGISTRO: 
 EFORIA 
  
@@ -267,7 +277,7 @@ química y ropa de trabajo.
 En melocotonero, nectarino, albaricoquero, ciruelo, cerezo, manzano y peral mediante 
 pulverización con tractor, durante la mezcla/carga, aplicación, limpieza y mantenimiento del 
 equipo se deberá utilizar guantes de protección química, ropa de trabajo, mascarilla FFP2 
- Página 4 de 7                                92316
+ Página 5 de 8                                102016
 Nº REGISTRO: 
 EFORIA 
  
@@ -322,7 +332,7 @@ SPo 2: Lávese toda la ropa de protección después de usarla
   
 Clasificaciones y Etiquetado: 
  
- Página 5 de 7                                92316
+ Página 6 de 8                                102016
 Nº REGISTRO: 
 EFORIA 
  
@@ -386,7 +396,7 @@ Spe 8: Para proteger las abejas y otros insectos polinizadores, no utilizar dond
 en pecoreo activo. Retírense o cúbranse las colmenas durante el tratamiento. No aplicar 
 cuando las malas hierbas estén en floración o elimínense las malas hierbas antes de su 
 floración 
- Página 6 de 7                                92316
+ Página 7 de 8                                102016
 Nº REGISTRO: 
 EFORIA 
  
@@ -425,4 +435,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 7 de 7                                92316
+ Página 8 de 8                                102016

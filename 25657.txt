@@ -109,15 +109,15 @@ Aplicar en pulverización normal mediante tractor, con un volumen de caldo de 20
 en cereales y de 100-200 l/Ha. en lino. 
 Respetar un plazo de 120 días entre la interrupción del cultivo y cualquier nueva siembra o 
 plantación, salvo en los cultivos en los que el metsulfuron-metil ya esté autorizado. 
+ Página 2 de 4                                102016
+Nº REGISTRO: 
+ISOMEXX 
+ 
 En la etiqueta se darán instrucciones para el correcto uso del producto, así como las 
 advertencias necesarias para que el agricultor pueda cerciorarse de los riesgos de su 
 utilización por fitotoxicidad en variedades sensibles del propio cultivo, en los cultivos 
 adyacentes o en los siguientes en la alternativa y la estrategia adecuada a efectos de prevenir 
 la aparición de resistencias 
- Página 2 de 4                                92316
-Nº REGISTRO: 
-ISOMEXX 
- 
  
 Excepciones: -- 
   
@@ -137,10 +137,10 @@ de peligro
 (Humana) 
 Pictograma 
 N  
-Palabra  
+Palabra 
+ 
 Advertencia 
-R51/53 - Tóxico para los organismos acuáticos, puede provocar a largo 
-Indicaciones de 
+Indicaciones de R51/53 - Tóxico para los organismos acuáticos, puede provocar a largo 
 plazo efectos negativos en el medio ambiente acuático 
 peligro 
 Consejos de S13 - Conservar separado de alimentos, bebidas y piensos 
@@ -158,22 +158,23 @@ Pictograma
 Palabra  
 Advertencia 
 Frases de Riesgo  
-Consejos  
+Consejos 
+ 
 Prudencia 
   
  “A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO AMBIENTE 
 SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el texto. 
 Mitigación de riesgos ambientales:   
+ Página 3 de 4                                102016
+Nº REGISTRO: 
+ISOMEXX 
+ 
 SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad 
 de 20 m. con cubierta vegetal hasta las masas de agua superficial 
   
  Eliminación Producto y/o caldo: -- 
  
 Gestión de envases:   
- Página 3 de 4                                92316
-Nº REGISTRO: 
-ISOMEXX 
- 
 Indicar en la etiqueta la obligación de entregar los envases vacíos a un gestor autorizado de 
 residuos clasificados y peligrosos así como las opciones alternativas que el titular está 
 obligado a ofrecer, conforme a lo establecido en el R.D. 1416/2001, de entregarlos 
@@ -192,4 +193,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 4 de 4                                92316
+ Página 4 de 4                                102016

@@ -1,11 +1,11 @@
 Registro de Productos FitoSanitarios
 Nº Registro: 21.159
-Nombre comercial: DIMIDON
+Nombre comercial: PERFEKTHION TOP
 Titular:
-CHEMINOVA AGRO, S.A.
-Pº Castellana, 257. 5º.
-28046
-MADRID
+BASF ESPAÑOLA, S.L.
+Can Rabia, 3-5
+08017
+BARCELONA
 Fabricante:
 CHEMINOVA A/S
 Thyboronvej 78 P.O. Box 9
@@ -41,7 +41,7 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 (18) Ornamentales leñosas COCHINILLAS 0,1-0,15 % NP
 Registro de Productos FitoSanitarios
 Nº Registro: 21.159
-Nombre comercial: DIMIDON
+Nombre comercial: PERFEKTHION TOP
 (19) Ornamentales leñosas MINADORES DE HOJAS 0,1-0,15 % NP
 (20) Ornamentales leñosas PULGONES 0,1-0,15 % NP
 (21) Ornamentales leñosas TRIPS 0,1-0,15 % NP
@@ -88,7 +88,7 @@ Frases de riesgo: R20/21/22, R10, R51/53
 Consejos de prudencia: S2, S13, S45, S28, S36/37, S43, S23
 Registro de Productos FitoSanitarios
 Nº Registro: 21.159
-Nombre comercial: DIMIDON
+Nombre comercial: PERFEKTHION TOP
 Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene ciclohexanona y xileno".  
 La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO
 AMBIENTE SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el

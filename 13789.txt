@@ -16,6 +16,7 @@ INDIA
 Fecha de inscripción: 23/06/1977
 Fecha de caducidad: 31/01/2018
 Tipo de envase:
+Envases de 1 kg (con y sin cartón).
 Bolsas/sacos de papel multicapa con revestimiento interior de polietileno  de 5 a 25 kg:
  
 Composición: MANCOZEB 80% ((ESP I)) [WP] P/P
@@ -40,10 +41,10 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 (14) Calabaza ANTRACNOSIS 0,2 % 3
 (15) Calabaza MILDIU 0,2 % 3
 (16) Cebolla MILDIU 0,2-0,25 % 28
-(17) Cerezo CRIBADO 0,2 % 30
 Registro de Productos FitoSanitarios
 Nº Registro: 13.789
 Nombre comercial: DITHANE M 45
+(17) Cerezo CRIBADO 0,2 % 30
 (18) Cerezo GNOMONIA 0,2 % 30
 (19) Cerezo MONILIA 0,2 % 30
 (20) Cerezo ROYA 0,2 % 30
@@ -83,10 +84,10 @@ Nombre comercial: DITHANE M 45
 (54) Pimiento ANTRACNOSIS 0,2 % 3
 (55) Pimiento MILDIU 0,2 % 3
 (56) Puerro MILDIU 0,2-0,25 % 28
-(57) Salsifies ALTERNARIA 0,2 % 30
 Registro de Productos FitoSanitarios
 Nº Registro: 13.789
 Nombre comercial: DITHANE M 45
+(57) Salsifies ALTERNARIA 0,2 % 30
 (58) Salsifies MILDIU 0,2 % 30
 (59) Tomate ALTERNARIA 0,2 % 3
 (60) Tomate ANTRACNOSIS 0,2 % 3
@@ -146,7 +147,7 @@ SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda 
 leñosos (excepto vid que será de 12 m.) y 5 m. en el resto de cultivos, hasta las masas de agua superficial.
 Mitigación de riesgos en la manipulación:
 El aplicador deberá utilizar guantes de protección química y mascarilla tipo  FFP2SL o P2 durante la mezcla /carga y
-aplicación . En la aplicación, deberá llevar ropa de tipo 3 o 4 de protección química (hermética a productos líquidos) y
+aplicación. En la aplicación, deberá llevar ropa de tipo 3 o 4 de protección química (hermética a productos líquidos) y
 calzado adecuado y siempre que el tractor no tenga cabina cerrada y dispositivo de filtrado de aire. En la limpieza y
 mantenimiento del equipo se aplicarán las mismas medidias de protección que en la aplicación. 
 No entrar al cultivo hasta que el producto esté seco.

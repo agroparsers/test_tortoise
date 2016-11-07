@@ -28,7 +28,9 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 (3) Vid BOTRITIS 1,5 l/ha 21
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
-Generales :
+Generales : Tratamiento fungicida al aire libre e invernadero en fresa contra podredumbre gris y al aire libre en vid
+(mesa y vinificación) contra podredumbre gris. Aplicar mediante pulverización normal manual con
+mochilla y con tractor.
 Específicos: (1) (invernadero). Realizar 1 aplicación mediante pulverización normal con mochila. Emplear volumen
 de caldo 500 l/ha. Uso restringido a suelos alcalinos.
 (2) (aire libre). Realizar 1 aplicación mediante pulverización normal con tractor. Emplear volumen de

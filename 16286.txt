@@ -32,7 +32,20 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 P.S.: Plazo de seguridad (días)
 Usos protegidos hasta fecha: (4) 
 Condicionamientos fitoterapeúticos:
-Generales :
+Generales : Aplicar en pulverización normal mediante aplicaciones manuales y con tractor (en tabaco sólo con
+tractor), procurando un adecuado recubrimiento.
+El cultivo debe tener hojas verdes, estar sano y no padecer estrés o desequilibrios fisiológicos.  
+Los tratamientos precoces pueden tener efectos desfavorables sobre el cultivo. Este no debe estar
+mojado de rocio o por lluvia o riego. 
+No aplicar si se preveen lluvias. Deberán transcurrir 24 horas entre la aplicación y el riego en el
+cultivo tratado.
+En la etiqueta se darán las instrucciones oportunas y precisas para la correcta utilización del
+producto, así como las advertencias necesarias para que el agricultor pueda cerciorarse de los
+riesgos de su utilización por sobredosificación, fitotoxicidad, estado fisiológico, etc., en las distintas
+variedades de los cultivos autorizados.
+Registro de Productos FitoSanitarios
+Nº Registro: 16.286
+Nombre comercial: SUPER-STOP-BROT 18
 Específicos: (1) Aplicar un solo tratamiento en pulverización, sólo en cebollas de bulbo, con el 50% de plantas
 con cuello emergido, aproximadamente unos 15 días antes de la recolección. No aplicar con
 temperaturas superiores a 26º C
@@ -44,9 +57,6 @@ plantas, únicamente mediante tractor.
 (4) Efectuar una sola aplicación en pulverización en plena madurez del bulbo, cuando un 10% de las
 hojas estén caídas pero todavía verdes (10-15 días antes de la recolección). La cantidad de caldo
 utilizada debe ser suficiente para mojar las plantas sin exceso.
-Registro de Productos FitoSanitarios
-Nº Registro: 16.286
-Nombre comercial: SUPER-STOP-BROT 18
 Condicionamientos preventivos de riesgos:
 Mitigación de riesgos en la manipulación:
 El aplicador debe utilizar guantes de protección química adecuados durante la mezcla/carga y aplicación, así como

@@ -12,7 +12,7 @@ C/ Ribera del Loira, 8-10 - 3º Planta
 28042
 MADRID
 Fecha de inscripción: 02/02/1977
-Fecha de caducidad: 31/12/2016
+Fecha de caducidad: 30/06/2018
 Tipo de envase:
 Sacos de papel de 5 y 10 Kg.
 Composición: AZUFRE 80% [WP] P/P
@@ -45,14 +45,7 @@ Nombre comercial: SPERSUL
 (19) Vid OIDIO 0,2-0,5 % NP
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
-Generales : Aplicar en pulverización, variando la dosis según temperatura ambiente, cultivo, época de
-tratamiento, etc.
-No mezclar con aceites ni productos de reacción alcalina, ni efectuar tratamientos a temperaturas
-demasiado elevadas.
-No aplicar aceites minerales durante los 21 anteriores o posteriores a la aplicación del azufre.
-No aplicar en cultivos cuyos frutos sean destinados a conserva.
-No aplicar en alcachofa ni en algunas variedades de frutales sensibles, como albaricoquero,
-manzano y peral.
+Generales :
 Específicos: (2), (3), (4), (5), (6), (7) En la etiqueta deberán figurar las instrucciones de uso del producto en
 cultivos sensibles.
 Condicionamientos preventivos de riesgos:
@@ -66,7 +59,7 @@ R.D. 1416/2001, de entregarlos directamente al sistema integrado de gestión al 
 depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Irritante
-Símbolos y pictogramas: Xi
+Símbolos y pictogramas: 0
 Frases de riesgo: R36/37/38
 Consejos de prudencia: S2, S13, S45, S22, S41, S24/25
 Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO

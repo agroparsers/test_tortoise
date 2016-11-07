@@ -27,7 +27,8 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 (1) Arroz CHILO 100 Dif./ha NP
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
-Generales :
+Generales : Aplicar distribuyendo los difusores uniformemente, a un marco de 10 x 10 m., sobre soportes de
+caña o madera a una altura de 80 cm.
 Específicos: (1) Para evitar el apareamiento (técnica de confusión sexual), colocándolas 10 días antes de la
 fecha prevista para el primer vuelo, manteniéndose hasta la recolección.
 Condicionamientos preventivos de riesgos:
@@ -41,10 +42,10 @@ peligrosos así como las opciones alternativas que el titular está obligado a o
 R.D. 1416/01, de entregarlos directamente al sistema integrado de gestión al que esté adherido o al propio, de
 depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
 Clasificación y etiquetado (R.D. 255/2003):
-Clasificación : Peligroso para el medio ambiente
 Registro de Productos FitoSanitarios
 Nº Registro: 22.097
 Nombre comercial: FERSEX CHS DIFUSORES
+Clasificación : Peligroso para el medio ambiente
 Símbolos y pictogramas: 0
 Frases de riesgo: R50/53
 Consejos de prudencia: S2, S13, S45, S36

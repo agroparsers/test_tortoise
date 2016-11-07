@@ -16,7 +16,7 @@ Fecha de inscripción: 24/01/2014
 Fecha de caducidad: 31/10/2017
 Tipo de envase:
 Caja de cartón con 2 bolsas termoselladas de 500 g.
-Bolsa de poliéster/aluminio/polietileno termosellada de 5 kg.
+Bolsa de poliéster/aluminio/polietileno termosellada hasta 5 kg.
 Composición: IPRODIONA 50% [WG] P/P
 Tipo de preparado: GRANULADO DISPERSABLE EN AGUA [WG]
 Tipo de función: Fungicida
@@ -27,7 +27,7 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 (2) Vid BOTRITIS 1-1,5 Kg/ha 14
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
-Generales :
+Generales : Aplicar en pulverización normal.
 Específicos: (1) Sólo en invernadero. Aplicar mediante lanza o pistola de pulverización con un volúmen de caldo
 de 300-1.000 l/Ha. Realizar un máximo de 3 aplicaciones por campaña con un intervalo de 15 días.
 Cuando el cultivo supere el metro de altura, la anchura libre entre líneas del cultivo deberá ser como

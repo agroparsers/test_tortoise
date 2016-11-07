@@ -28,7 +28,8 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 (2) Tomate NEMATODOS 30 Kg/ha NP
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
-Generales :
+Generales : El producto se aplicará mediante distribuidores manuales de gránulos, de mochila o rodados en
+invernadero y mediante tractor al aire libre.
 Específicos: (1) El intervalo entre tratamientos debe ser de 7-10 días, con un máximo de 2 aplicaciones.
 (2) Aplicar sólo en invernadero, en tratamiento único al suelo, en preplantación, con incorporación.
 Condicionamientos preventivos de riesgos:

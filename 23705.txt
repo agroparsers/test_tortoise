@@ -15,7 +15,7 @@ WR52RQ Worcester
 Whittington
 REINO UNIDO
 Fecha de inscripción: 10/03/2005
-Fecha de caducidad: 31/10/2016
+Fecha de caducidad: 30/04/2018
 Tipo de envase:
 Botella de polietileno "HDPE" de 500 ml.
 Composición: 6-BENZILADENINA 1,9% ( ) + GIBERELINAS A4/A7 1,9% ( ) [SL] P/V
@@ -35,8 +35,6 @@ Condicionamientos fitoterapeúticos:
 Generales : Aplicar en pulverización, siendo conveniente adicionar al caldo un mojante no iónico a la dosis
 recomendada.
 Las aplicaciones se harán bajo el asesoramiento técnico de la empresa comercializadora.
-En la etiqueta se darán las indicaciones necesarias para la correcta aplicación del producto a fin de
-evitar posibles efectos fitotóxicos en variedades sensibles.
 Específicos: (1) Variedades rojas y golden, aplicar en estado F de Fleckinger o bien 2 aplicaciones a 0,06%
 espaciadas 2 semanas, realizando la 1ª en estado F. Mojar bien las flores.
 (2), (3) Variedades rojas y golden, aplicar cuando la altura del plantón sea de 70-100 cm.
@@ -44,11 +42,11 @@ espaciadas 2 semanas, realizando la 1ª en estado F. Mojar bien las flores.
 (5) Aplicar a razón de 25 cc/100 l. de caldo, durante el período de floración, con gota fina, mojando
 todas las partes de la flor, efectuando entre 1-2 aplicaciones por campaña en función de las
 condiciones climatológicas.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
 Registro de Productos FitoSanitarios
 Nº Registro: 23.705
 Nombre comercial: PERLAN
-Condicionamientos preventivos de riesgos:
-Mitigación de riesgos medioambientales:
 Mamíferos: A
 Aves: A
 Peces: A
@@ -67,7 +65,7 @@ R.D. 1416/2001, de entregarlos directamente al sistema integrado de gestión al 
 depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : --
-Símbolos y pictogramas: --
+Símbolos y pictogramas: 0
 Frases de riesgo:
 Consejos de prudencia: S2, S13, S45, S24/25, S23
 Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO

@@ -12,7 +12,7 @@ C/ Méndez Álvaro nº 20, 5ª Planta
 28045
 MADRID
 Fecha de inscripción: 01/03/2007
-Fecha de caducidad: 01/03/2017
+Fecha de caducidad: 31/12/2018
 Tipo de envase:
 Botella de plástico de 250 cc. y 1 l.
 Garrafa de plástico de 5 l.
@@ -59,7 +59,7 @@ R.D. 1416/2001, de entregarlos directamente al sistema integrado de gestión al 
 depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Irritante, Peligroso para el medio ambiente
-Símbolos y pictogramas: --
+Símbolos y pictogramas: 0
 Frases de riesgo: R36/37/38, R50/53
 Consejos de prudencia: S2, S13, S45, S36/37, S25, S38, S23
 Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO

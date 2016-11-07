@@ -33,7 +33,11 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 P.S.: Plazo de seguridad (días)
 Usos protegidos hasta fecha: (5) , (6) , (7) , (8) 
 Condicionamientos fitoterapeúticos:
-Generales :
+Generales : Controla malas hierbas en postemergencia.
+Aplicar en pulverización normal.
+No aplicar a temperaturas menores de 6 grados C.
+No efectuar tratamientos en días de viento y tomar precauciones para evitar daños en cultivos
+colindantes.
 Registro de Productos FitoSanitarios
 Nº Registro: 22.779
 Nombre comercial: TOMAHAWK

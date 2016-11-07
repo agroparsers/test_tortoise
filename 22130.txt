@@ -100,7 +100,7 @@ intervalo mínimo entre aplicaciones de 7 días.
 Dosis máxima: 1,5 kg/ha. Volumen de caldo 300-1000 l/ha. Máximo 
 Judías verdes BOTRITIS 0,15 % 2 aplicaciones/campaña e intervalo mínimo entre aplicaciones de 7 
 días. 
- Página 2 de 6                                92316
+ Página 2 de 6                                102016
 Nº REGISTRO: 
 TELDOR 
  
@@ -137,10 +137,7 @@ días.
 Dosis máxima: 1,5 kg/ha. Volumen de caldo: 300-1000 l/ha. Máximo 
 Pimiento BOTRITIS 0,15 % 3 aplicaciones/campaña e intervalo mínimo entre aplicaciones de 7 
 días. 
-Volumen de caldo 300-1000 l/ha. Máximo 3 aplicaciones/campaña e 
-Tomate BOTRITIS 0,15 % 
-intervalo mínimo entre aplicaciones de 7 días. 
- Página 3 de 6                                92316
+ Página 3 de 6                                102016
 Nº REGISTRO: 
 TELDOR 
  
@@ -148,6 +145,9 @@ TELDOR
   Dosis FORMA Y ÉPOCA DE APLICACIÓN 
 USO AGENTE Min- (Condic.Específico) 
 máx. 
+Volumen de caldo 300-1000 l/ha. Máximo 3 aplicaciones/campaña e 
+Tomate BOTRITIS 0,15 % 
+intervalo mínimo entre aplicaciones de 7 días. 
 Volumen de caldo 500-1000 l/ha. Máximo 2 aplicaciones/campaña e 
 Vid BOTRITIS 1 Kg/ha 
 intervalo mínimo entre aplicaciones de 7 días. 
@@ -188,15 +188,15 @@ tratamiento fitosanitario, no entrar ni situarse en las inmediaciones mientras s
 efectuando el tratamiento y hasta que no se deposite la nube de pulverización 
  
 Excepciones: -- 
+ Página 4 de 6                                102016
+Nº REGISTRO: 
+TELDOR 
+ 
   
 Clase de usuario:   
 Uso reservado a agricultores y aplicadores profesionales. Autorizado para uso doméstico y 
 jardineria exterior doméstica 
   
- Página 4 de 6                                92316
-Nº REGISTRO: 
-TELDOR 
- 
 Mitigación de riesgos en la manipulación:   
 No se requieren medidas de seguridad ni en aplicador, ni en trabajador. 
 No entrar al cultivo hasta que el producto este seco. 
@@ -206,28 +206,27 @@ SPo 5: Ventilar la zonas tratadas durante un tiempo especificado antes de volver
   
 Clasificaciones y Etiquetado: 
  
-Clase y categoría  
+Clase y categoría 
+ 
 de peligro 
 (Humana) 
-Pictograma  
--- 
-Palabra 
+Pictograma 
+ 
+Palabra -- 
 Advertencia 
 EUH 210 - Puede solicitarse la ficha de datos de seguridad. 
 Indicaciones de 
 EUH 401 - A fin de evitar riesgos para las personas y el medio 
 peligro 
 ambiente, siga las instrucciones de uso.  
-P102 - Mantener fuera del alcance de los niños. 
-Consejos de 
+Consejos de P102 - Mantener fuera del alcance de los niños. 
 P261 - Evitar respirar el polvo/el humo/el gas/la niebla/los vapores/ el 
 Prudencia 
 aerosol. (El fabricante o el proveedor especificarán las condiciones 
 aplicables) 
 P262 - Evitar el contacto con los ojos, la piel o la ropa. 
 P405 - Guardar bajo llave. 
-Acuático crónico 2 
-Clase y categoría 
+Clase y categoría Acuático crónico 2 
 de peligro 
 (Medio ambiental) 
 Pictograma 
@@ -235,7 +234,8 @@ GSH09 (medio ambiente)
 -- 
 Palabra 
 Advertencia 
-Frases de Riesgo H411 - Tóxico para los organismos acuáticos, con efectos nocivos 
+H411 - Tóxico para los organismos acuáticos, con efectos nocivos 
+Frases de Riesgo 
 duraderos.  
 P273 - Evitar su liberación al medio ambiente. (Si no es éste su uso 
 Consejos 
@@ -248,15 +248,15 @@ normativa local, regional, nacional o internacional (especifíquese))
  “A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO AMBIENTE 
 SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el texto. 
 Mitigación de riesgos ambientales:   
+ Página 5 de 6                                102016
+Nº REGISTRO: 
+TELDOR 
+ 
 SPe3: Para proteger los organismos acuáticos, repétese sin tratar una banda de seguridad 
 de 5 m, en cultivos herbáceos y de 20 
 m en cultivos leñosos hasta las masas de agua superficial 
   
  Eliminación Producto y/o caldo: -- 
- 
- Página 5 de 6                                92316
-Nº REGISTRO: 
-TELDOR 
  
 Gestión de envases:   
 Conforme a lo establecido en el Real Decreto 1416/2001, de 14 de diciembre, sobre envases 
@@ -284,4 +284,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 6 de 6                                92316
+ Página 6 de 6                                102016

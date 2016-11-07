@@ -12,7 +12,7 @@ Balmes, 200 - 1º-4ª
 08006
 BARCELONA
 Fecha de inscripción: 14/01/1981
-Fecha de caducidad: 30/10/2016
+Fecha de caducidad: 30/04/2018
 Tipo de envase:
 Botella de polietileno de 1 l.
 Garrafa de polietileno de 5 l.
@@ -48,7 +48,7 @@ R.D. 1416/01, de entregarlos directamente al sistema integrado de gestión al qu
 depósito, devolución y retorno, a través del punto de venta donde el usuario lo adquiera.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Nocivo
-Símbolos y pictogramas: Xn
+Símbolos y pictogramas: 0
 Frases de riesgo: R20/21/22
 Consejos de prudencia: S2, S13, S45, S36/37
 Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO

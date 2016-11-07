@@ -122,7 +122,7 @@ P280 - Llevar guantes/prendas/gafas/máscara de protección. (El
 fabricante o el proveedor especificarán el tipo de equipo) 
 P302+P352 - EN CASO DE CONTACTO CON LA PIEL: Lavar con agua y 
 jabón abundantes. 
- Página 2 de 3                                92316
+ Página 2 de 3                                102016
 Nº REGISTRO: 
 PRIMMA DOS 
  
@@ -176,4 +176,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 3 de 3                                92316
+ Página 3 de 3                                102016

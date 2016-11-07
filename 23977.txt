@@ -7,10 +7,9 @@ Can Rabia, 3-5
 08017
 BARCELONA
 Fabricante:
-BASF AKTIENGESELLSCHAFT
-Crop Protection Division Agricultural Center
-D-67058 LIMBURGERHOF
-LUDWIGSHAFEN
+BASF SE
+D-67056 LUDWIGSHAFEN
+RHEIN
 ALEMANIA
 Fecha de inscripción: 18/10/2007
 Fecha de caducidad: 31/07/2018
@@ -49,7 +48,7 @@ Nombre comercial: SIGNUM
 (22) Fresal BOTRITIS 1-1,8 Kg/ha 3
 (23) Fresal OIDIO 1-1,8 Kg/ha 3
 (24) Garbanzo ESCLEROTINIA 1-1,5 Kg/ha 7
-(25) Garbanzo RABIA DEL GUISANTE 1-1,5 Kg/ha 7
+(25) Garbanzo RABIA DEL GARBANZO 1-1,5 Kg/ha 7
 (26) Grosellero BOTRITIS 1-1,5 Kg/ha 3
 (27) Grosellero OIDIO 1-1,5 Kg/ha 3
 (28) Judías BOTRITIS 1-1,5 Kg/ha 10
@@ -171,7 +170,7 @@ en el punto de venta donde se hubiera adquirido si dichos envases se han puesto 
 sistema de depósito, devolución y retorno.
 Clasificación y etiquetado (R.D. 255/2003):
 Clasificación : Atención, Acuático crónico 1, Acuático agudo 1
-Símbolos y pictogramas: 0
+Símbolos y pictogramas: GHS09
 Frases de riesgo: H410, EUH 210, EUH 401
 Consejos de prudencia: P261, P262, P273, P391, P501
 Otras indicaciones reglamentarias: La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO

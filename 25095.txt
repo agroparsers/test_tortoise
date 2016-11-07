@@ -12,7 +12,7 @@ C/ Méndez Álvaro nº 20, 5ª Planta
 28045
 MADRID
 Fecha de inscripción: 24/07/2012
-Fecha de caducidad: 31/10/2016
+Fecha de caducidad: 31/10/2017
 Tipo de envase:
 Botellas de polietileno de 0,25 (apl. manual y cañón) y 1 l.
 Garrafas de polietileno 5 (boca 69,5 mm), 10 y 20 l. (boca 63 mm)
@@ -135,7 +135,7 @@ Clasificación : Nocivo, Peligroso para el medio ambiente
 Registro de Productos FitoSanitarios
 Nº Registro: 25.095
 Nombre comercial: BETACIFLUTRIN 2.5 SC
-Símbolos y pictogramas: --
+Símbolos y pictogramas: 0
 Frases de riesgo: R20/22, R50/53
 Consejos de prudencia: S2, S13, S45, S36/37, S38, S23
 Otras indicaciones reglamentarias: En la etiqueta se hará constar que "contiene (benziloxi)-methanol, nº CAS

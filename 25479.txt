@@ -61,9 +61,9 @@ Usos y dosis autorizados:
    
   Dosis 
 USO AGENTE Min-máx. 
-PULGONES 
-Algodonero 0,4 - 0,6 l/ha 
 ORUGAS 
+Algodonero 0,4 - 0,6 l/ha 
+PULGONES 
 Avena PULGONES 0,4 - 0,6 l/ha 
 PULGONES 
 Cebada 0,4 - 0,6 l/ha 
@@ -72,7 +72,7 @@ PULGONES
 Centeno 0,4 - 0,6 l/ha 
 GARRAPATILLO 
  
-     Página 1 de 4       Nº REGISTRO:   25479  
+     Página 1 de 5       Nº REGISTRO:   25479  
 SFENVALO STAR
 Nº REGISTRO: 
 SFENVALO STAR 
@@ -85,19 +85,19 @@ PULGONES
 Coles de bruselas 0,4 - 0,6 l/ha 
 ORUGAS 
 Colza ORUGAS 0,4 - 0,6 l/ha 
-PULGONES 
-Frutales de pepita ORUGAS 0,04 - 0,06 % 
-PSILA 
-PULGONES 
-Ornamentales herbáceas 0,4 - 0,6 l/ha 
 ORUGAS 
+Frutales de pepita PSILA 0,04 - 0,06 % 
+PULGONES 
+ORUGAS 
+Ornamentales herbáceas 0,4 - 0,6 l/ha 
+PULGONES 
 PULGONES 
 Ornamentales leñosas 0,4 - 0,6 l/ha 
 ORUGAS 
 CHINCHES 
-PULGONES 
-Patata 0,4 - 0,6 l/ha 
 ESCARABAJO 
+Patata 0,4 - 0,6 l/ha 
+PULGONES 
 ORUGAS 
 PULGONES 
 Remolacha azucarera PULGUILLA 0,4 - 0,6 l/ha 
@@ -128,6 +128,11 @@ Tabaco 21
 Avena, Cebada, Centeno, Trigo, Triticale 28 
 Tomate 3 
 Algodonero, Remolacha azucarera 30 
+ Página 2 de 5                                102016
+Nº REGISTRO: 
+SFENVALO STAR 
+ 
+Cultivo P.S. (días) 
 Colza 42 
 Coles de bruselas, Repollo 7 
 Clavel, Ornamentales herbáceas, Ornamentales 
@@ -135,10 +140,6 @@ NP
 leñosas 
   
  
- 
- Página 2 de 4                                92316
-Nº REGISTRO: 
-SFENVALO STAR 
  
  
 Condiciones generales de uso:   
@@ -165,7 +166,8 @@ de peligro
 Pictograma 
 N  
 Xn  
-Palabra  
+Palabra 
+ 
 Advertencia 
 R22 - Nocivo en caso de ingestión 
 Indicaciones de 
@@ -175,6 +177,10 @@ R50/53 - Muy tóxico para los organismos acuáticos, puede provocar a
 largo plazo efectos negativos en el medio ambiente acuático 
 R65 - Nocivo, si se ingiere puede causar daño pulmonar 
 R67 - La inhalación de vapores puede provocar somnolencia y vértigo. 
+ Página 3 de 5                                102016
+Nº REGISTRO: 
+SFENVALO STAR 
+ 
 S13 - Conservar separado de alimentos, bebidas y piensos 
 Consejos de 
 S2 - Manténgase fuera del alcance de los niños. 
@@ -186,22 +192,16 @@ S38 - En caso de ventilación insuficiente, úsese equipo respiratorio
 adecuado 
 S62 - En caso de ingestión no provocar el vómito: acúdase 
 inmediatamente al médico y muéstrele la etiqueta o el envase 
-Clase y categoría 
- 
+Clase y categoría  
 de peligro 
 (Medio ambiental) 
-Pictograma 
- 
-Palabra 
- 
+Pictograma  
+Palabra  
 Advertencia 
 Frases de Riesgo 
  
- Página 3 de 4                                92316
-Nº REGISTRO: 
-SFENVALO STAR 
+Consejos 
  
-Consejos  
 Prudencia 
   
  “A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO AMBIENTE 
@@ -235,6 +235,10 @@ CAS: 64742-94-5 y que contiene esfenvalerato. Puede provocar una reacción alér
 La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO AMBIENTE 
 SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el texto.   
 SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE. (No limpiar 
+ Página 4 de 5                                102016
+Nº REGISTRO: 
+SFENVALO STAR 
+ 
 el equipo de aplicación del producto cerca de aguas superficiales/Evitese la contaminación a 
 través de los sistemas de evacuación de aguas de las explotaciones o de los caminos) 
   
@@ -243,4 +247,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 4 de 4                                92316
+ Página 5 de 5                                102016

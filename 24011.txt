@@ -51,7 +51,11 @@ Nombre comercial: OBERON N
 (23) Tomate MOSCA BLANCA 0,04-0,06 % 3
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
-Generales :
+Generales : Aplicar en pulverización foliar, preferiblemente al inicio de la infestación con un máximo de 0,3 l/Ha.
+En la etiqueta se darán las instrucciones oportunas para la correcta utilización del producto. 
+SPa 1: A efectos de prevenir la aparición de resistencias, no efectuar con Oberon ni con ningún otro
+que contenga la sustancia activa spiromesifen más de 4 aplicaciones por período vegetativo
+espaciadas 10-12 días.
 Específicos: (1), (2), (14), (15), (16), (17), (18), (21), (22), (23) Realizar de 1-4 aplicaciones por campaña si se
 realizan mediante pulverización manual con lanza o pistola con intervalo entre las mismas de 12
 días. Realizar de 1-2 aplicaciones por campaña con intervalo 10-12 días si la/s aplicación/es se

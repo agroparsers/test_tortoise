@@ -62,7 +62,7 @@ Con medidor aparte.
  
   
  
-     Página 1 de 9       Nº REGISTRO:   19917  
+     Página 1 de 10       Nº REGISTRO:   19917  
 SUMICIDIN EXTRA 5 EW
 Nº REGISTRO: 
 SUMICIDIN EXTRA 5 EW 
@@ -73,75 +73,70 @@ Usos y dosis autorizados:
   Dosis FORMA Y ÉPOCA DE APLICACIÓN 
 USO AGENTE Min- (Condic.Específico) 
 máx. 
-0,02 - 
-PULGONES 
-0,025 % 
+ANARSIA 0,03 % 
 En jardinería exterior doméstica, la aplicación será mediante 
 pulverización manual con un máximo de 3 aplicaciones e intervalo 
 Albaricoquero 
 entre aplicaciones de 12 días, utilizando un volumen de caldo 
 máximo de 6 - 20 l/100 m2.  
-ANARSIA 0,03 % 
-PULGONES 0,2 - 0,3 
+0,02 - 
+PULGONES 
+0,025 % 
+ORUGAS 0,2 - 0,3 
 Algodonero 
   
-ORUGAS l/ha 
-PULGONES 
+PULGONES l/ha 
+NEFASIA 
 0,2 - 0,3 
-Avena LEMA   
+Avena PULGONES   
 l/ha 
+LEMA 
 NEFASIA 
 PULGONES 
-LEMA 
 0,2 - 0,3 
 Cebada 
   
 l/ha 
-NEFASIA 
 GARRAPATILLO 
-PULGONES 
 LEMA 
+NEFASIA 
+PULGONES 
 0,2 - 0,3 
 Centeno 
   
 l/ha 
-NEFASIA 
 GARRAPATILLO 
+LEMA 
 En jardinería exterior doméstica, la aplicación será mediante 
 0,2 - 0,3 pulverización manual, dosis 0,02-0,03 ml/m2, con un máximo de 3 
 Clavel TORTRIX 
 l/ha aplicaciones e intervalo entre aplicaciones de 7 días, utilizando un 
 volumen de caldo máximo de 10-20 l/100 m2.  
+ Página 2 de 10                                102016
+Nº REGISTRO: 
+SUMICIDIN EXTRA 5 EW 
+ 
+    
+  Dosis FORMA Y ÉPOCA DE APLICACIÓN 
+USO AGENTE Min- (Condic.Específico) 
+máx. 
+PULGONES 
 En jardinería exterior doméstica, la aplicación será mediante 
 Coles de 0,2 - 0,3 pulverización manual, dosis 0,02-0,03 ml/m2, con un máximo de 3 
-PULGONES 
 bruselas l/ha aplicaciones e intervalo entre aplicaciones de 7 días, utilizando un 
 volumen de caldo máximo de 3-8 l/100 m2.  
- Página 2 de 9                                92316
-Nº REGISTRO: 
-SUMICIDIN EXTRA 5 EW 
- 
-    
-  Dosis FORMA Y ÉPOCA DE APLICACIÓN 
-USO AGENTE Min- (Condic.Específico) 
-máx. 
 ORUGAS 
-Colza ORUGAS 0,2 - 0,3 
+0,2 - 0,3 
+Colza ORUGAS 
   
 l/ha 
-PULGONES 
+ORUGAS 
 En jardinería exterior doméstica, la aplicación será mediante 
 Frutales de 0,02 - pulverización manual, dosis 0,02-0,03 ml/m2, con un máximo de 3 
-ORUGAS 
 pepita 0,03 % aplicaciones e intervalo entre aplicaciones de 7 días, utilizando un 
 volumen de caldo máximo de 6-20 l/100 m2.  
-PSILA 
-En jardinería exterior doméstica, la aplicación será mediante 
-0,02 - pulverización manual con un máximo de 3 aplicaciones e intervalo 
-Melocotonero PULGONES 
-0,025 % entre aplicaciones de 12 días, utilizando un volumen de caldo 
-máximo de 6 - 20 l/100 m2.  
- Página 3 de 9                                92316
+PULGONES 
+ Página 3 de 10                                102016
 Nº REGISTRO: 
 SUMICIDIN EXTRA 5 EW 
  
@@ -149,28 +144,31 @@ SUMICIDIN EXTRA 5 EW
   Dosis FORMA Y ÉPOCA DE APLICACIÓN 
 USO AGENTE Min- (Condic.Específico) 
 máx. 
+PSILA 
 POLILLA 
 0,03 % 
 ORIENTAL 
-PULGONES 0,02 - 
-Nectarino   
+En jardinería exterior doméstica, la aplicación será mediante 
+pulverización manual con un máximo de 3 aplicaciones e intervalo 
+Melocotonero 
+entre aplicaciones de 12 días, utilizando un volumen de caldo 
+máximo de 6 - 20 l/100 m2.  
+0,02 - 
+PULGONES 
 0,025 % 
 POLILLA 
 0,03 % 
+Nectarino   
 ORIENTAL 
-PULGONES 
+PULGONES 0,02 - 
+0,025 % 
+ORUGAS 
 Tratamientos en pre y post-floración. En jardinería exterior 
 Ornamentales 0,2 - 0,3 doméstica, pulverización manual, dosis 0,02-0,03 ml/m2, con un 
 herbáceas l/ha máximo de 3 aplicaciones e intervalo de 7 días, utilizando un 
 volumen de caldo máximo de 10-15 l/100 m2.  
-ORUGAS 
 PULGONES 
-En jardinería exterior doméstica, la aplicación será mediante 
-Ornamentales 0,02 - pulverización manual, dosis 0,02-0,03 ml/m2, con un máximo de 3 
-leñosas 0,03 % aplicaciones e intervalo entre aplicaciones de 7 días, utilizando un 
-volumen de caldo máximo de 10-12 l/100 m2.  
-ORUGAS 
- Página 4 de 9                                92316
+ Página 4 de 10                                102016
 Nº REGISTRO: 
 SUMICIDIN EXTRA 5 EW 
  
@@ -178,25 +176,38 @@ SUMICIDIN EXTRA 5 EW
   Dosis FORMA Y ÉPOCA DE APLICACIÓN 
 USO AGENTE Min- (Condic.Específico) 
 máx. 
+ORUGAS 
+En jardinería exterior doméstica, la aplicación será mediante 
+Ornamentales 0,02 - pulverización manual, dosis 0,02-0,03 ml/m2, con un máximo de 3 
+leñosas 0,03 % aplicaciones e intervalo entre aplicaciones de 7 días, utilizando un 
+volumen de caldo máximo de 10-12 l/100 m2.  
 PULGONES 
-CHINCHES 
+ORUGAS 
 En jardinería exterior doméstica, la aplicación será mediante 
 0,2 - 0,3 pulverización manual, dosis 0,02-0,03 ml/m2, con un máximo de 3 
 Patata 
 l/ha aplicaciones e intervalo entre aplicaciones de 7 días, utilizando un 
 volumen de caldo máximo de 3-8 l/100 m2.  
-ORUGAS 
+CHINCHES 
+ Página 5 de 10                                102016
+Nº REGISTRO: 
+SUMICIDIN EXTRA 5 EW 
+ 
+    
+  Dosis FORMA Y ÉPOCA DE APLICACIÓN 
+USO AGENTE Min- (Condic.Específico) 
+máx. 
 ESCARABAJO 
 PULGONES 
+PULGONES 
 Remolacha 0,2 - 0,3 
-PULGUILLA 
-  
+PULGUILLA   
 azucarera l/ha 
 ORUGAS 
-PULGONES 0,2 - 0,3 
+ORUGAS 0,2 - 0,3 
 Repollo   
 l/ha 
-ORUGAS 
+PULGONES 
 PULGONES 
 0,2 - 0,3 
 Tabaco 
@@ -205,10 +216,10 @@ l/ha
 ORUGAS 
 En jardinería exterior doméstica, la aplicación será mediante 
 0,2 - 0,3 pulverización manual, dosis 0,02-0,03 ml/m2, con un máximo de 3 
-Tomate PULGONES 
+Tomate ORUGAS 
 l/ha aplicaciones e intervalo entre aplicaciones de 7 días, utilizando un 
 volumen de caldo máximo de 5-12 l/100 m2.  
- Página 5 de 9                                92316
+ Página 6 de 10                                102016
 Nº REGISTRO: 
 SUMICIDIN EXTRA 5 EW 
  
@@ -216,23 +227,21 @@ SUMICIDIN EXTRA 5 EW
   Dosis FORMA Y ÉPOCA DE APLICACIÓN 
 USO AGENTE Min- (Condic.Específico) 
 máx. 
-ORUGAS 
 PULGONES 
-LEMA 
-0,2 - 0,3 
-Trigo 
-  
-l/ha 
 NEFASIA 
-GARRAPATILLO 
 PULGONES 
-LEMA 
 0,2 - 0,3 
-Triticale 
-  
+Trigo   
 l/ha 
-NEFASIA 
 GARRAPATILLO 
+LEMA 
+NEFASIA 
+PULGONES 
+0,2 - 0,3 
+Triticale   
+l/ha 
+GARRAPATILLO 
+LEMA 
 En jardinería exterior doméstica, la aplicación será mediante 
 POLILLAS DEL 0,2 - 0,3 pulverización manual, dosis 0,02-0,03 ml/m2, con un máximo de 2 
 Vid 
@@ -258,13 +267,13 @@ leñosas
   
  
  
- 
-Condiciones generales de uso:   
-Aplicar en pulverización normal mojando bien el cultivo 
- Página 6 de 9                                92316
+ Página 7 de 10                                102016
 Nº REGISTRO: 
 SUMICIDIN EXTRA 5 EW 
  
+ 
+Condiciones generales de uso:   
+Aplicar en pulverización normal mojando bien el cultivo 
  
 Excepciones: -- 
   
@@ -285,16 +294,19 @@ SPo 2: Lávese toda la ropa de protección después de usarla
   
 Clasificaciones y Etiquetado: 
  
-Clase y categoría Peligro por aspiración. Categoría 1. 
+Peligro por aspiración. Categoría 1. 
+Clase y categoría 
 Toxicidad aguda (oral, cutánea, por inhalación). Categoría 4. 
 de peligro 
 (Humana) 
 Pictograma 
 GSH07 (signo de exclamación)  
 GSH08 (peligro para la salud)  
-Palabra -- 
+-- 
+Palabra 
 Advertencia 
-Indicaciones de EUH 208 - Contiene <nombre de la sustancia sensibilizante>. Puede 
+EUH 208 - Contiene <nombre de la sustancia sensibilizante>. Puede 
+Indicaciones de 
 provocar una reacción alérgica. 
 peligro 
 EUH 401 - A fin de evitar riesgos para las personas y el medio 
@@ -302,8 +314,7 @@ ambiente, siga las instrucciones de uso.
 H302 - Nocivo en caso de ingestión. 
 H304 - Puede ser mortal en caso de ingestión y penetración en las vías 
 respiratorias.  
-P102 - Mantener fuera del alcance de los niños. 
-Consejos de 
+Consejos de P102 - Mantener fuera del alcance de los niños. 
 P261 - Evitar respirar el polvo/el humo/el gas/la niebla/los vapores/ el 
 Prudencia 
 aerosol. (El fabricante o el proveedor especificarán las condiciones 
@@ -311,18 +322,17 @@ aplicables)
 P280 - Llevar guantes/prendas/gafas/máscara de protección. (El 
 fabricante o el proveedor especificarán el tipo de equipo) 
 P405 - Guardar bajo llave. 
-Clase y categoría 
- 
+Clase y categoría  
 de peligro 
 (Medio ambiental) 
-Pictograma 
- 
-Palabra -- 
-Advertencia 
- Página 7 de 9                                92316
+ Página 8 de 10                                102016
 Nº REGISTRO: 
 SUMICIDIN EXTRA 5 EW 
  
+Pictograma  
+-- 
+Palabra 
+Advertencia 
 Frases de Riesgo  
 Consejos  
 Prudencia 
@@ -370,12 +380,12 @@ La frase: "A FIN DE EVITAR RIESGOS PARA LAS PERSONAS Y EL MEDIO AMBIENTE
 SIGA LAS INSTRUCCIONES DE USO", en caracteres que resalten el texto 
   
 Condiciones de almacenamiento: -- 
-  
-Requerimiento de datos/estudios complementarios: -- 
-  
- Página 8 de 9                                92316
+ Página 9 de 10                                102016
 Nº REGISTRO: 
 SUMICIDIN EXTRA 5 EW 
  
+  
+Requerimiento de datos/estudios complementarios: -- 
+  
  
- Página 9 de 9                                92316
+ Página 10 de 10                                102016

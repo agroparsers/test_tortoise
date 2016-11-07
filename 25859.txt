@@ -30,9 +30,6 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
 Generales :
-Registro de Productos FitoSanitarios
-Nº Registro: 25.859
-Nombre comercial: BACARA
 Específicos: (1) Cebada de invierno. Volumen de caldo: 200-300 l/ha. Una aplicación por campaña mediante
 pulverización normal con tractor desde pre-emergencia de la mala hierba hasta el estado de 2-3
 hojas, siendo el límite de aplicación del producto el estado BBCH 29 del cultivo (fin del
@@ -41,14 +38,16 @@ macollamiento, máximo de hijuelos ó macollas).
 pulverización normal con tractor desde pre-emergencia de la mala hierba hasta el estado de 4 hojas,
 siendo el límite de aplicación del producto el estado BBCH 29 del cultivo (fin del macollamiento,
 máximo de hijuelos ó macollas). 
-(3)  Trigo blando de invierno. Volumen de caldo: 200-300 l/ha. Una aplicación por campaña mediante
-pulverización normal con tractor desde pre-emergencia de la mala hierba hasta el estado de 2-3
-hojas, siendo el límite de aplicación del producto el estado BBCH 29 del cultivo (fin del
-macollamiento, máximo de hijuelos ó macollas).
+(3) Aire libre: Volumen de caldo: 400-1000 l/ha. Max de 2 aplicaciones por campaña con un intervalo
+de al menos 7 días mediante pulverización normal con tractor y dentro del periodo BBCH 21-70 (de
+primer brote lateral primario visible a la aparición del primer fruto con tamaño y forma típica).
 (4)  Trigo blando de invierno. Volumen de caldo: 200-300 l/ha. Una aplicación por campaña mediante
 pulverización normal con tractor desde pre-emergencia de la mala hierba hasta el estado de 4 hojas,
 siendo el límite de aplicación del producto el estado BBCH 29 del cultivo (fin del macollamiento,
 máximo de hijuelos ó macollas).
+Registro de Productos FitoSanitarios
+Nº Registro: 25.859
+Nombre comercial: BACARA
 Condicionamientos preventivos de riesgos:
 Mitigación de riesgos medioambientales:
 SPe3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m hasta las masas
@@ -80,9 +79,6 @@ Clasificación : Atención, Acuático crónico 1, Acuático agudo 1
 Símbolos y pictogramas: GHS09
 Frases de riesgo: H410, EUH 208, EUH 210, EUH 401
 Consejos de prudencia: P261, P262, P273, P391, P501
-Registro de Productos FitoSanitarios
-Nº Registro: 25.859
-Nombre comercial: BACARA
 Otras indicaciones reglamentarias: Contiene 1,2-benzisotiazol-3(2H)-ona (CAS 2634-33-5). Puede provocar una
 reacción alérgica.
 SP1: NO CONTAMINAR EL AGUA CON EL PRODUCTO NI CON SU ENVASE.

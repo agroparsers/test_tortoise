@@ -65,7 +65,6 @@ l/ha
 Hortalizas del género Efectuar 1-2 tratamientos con un intervalo de 7 días. PS.: coliflor y 
 ORUGAS 0,4 
 brassica brécol 3 días. 
-Lechugas y similares ORUGAS 0,4 Efectuar 1-2 tratamientos con un intervalo de 7 días. 
  
      Página 1 de 4       Nº REGISTRO:   25712  
 AMPLIGO 150  ZC
@@ -77,6 +76,7 @@ AMPLIGO 150  ZC
 USO AGENTE Min- (Condic.Específico) 
 máx. 
 l/ha  
+Lechugas y similares ORUGAS 0,4 Efectuar 1-2 tratamientos con un intervalo de 7 días. 
 Efectuar 1-2 tratamientos con un intervalo de 7 días (sólo con el 
 Maíz ORUGAS 0,3 
 cultivo menor  de 1 m. de altura).. 
@@ -113,15 +113,15 @@ El aplicador deberá utilizar guantes de protección química durante la mezcla/
 y reentrada de los trabajadores a la parcela, además en la aplicación manual y si el tractor no 
 lleva cabina cerrada se utilizará ropa de protección tipo 3 o 4 hermética a productos líquidos 
 y calzado adecuado. En la limpieza y manipulación del equipo se utilizará la misma protección 
+ Página 2 de 4                                102016
+Nº REGISTRO: 
+AMPLIGO 150  ZC 
+ 
 que durante la aplicación. 
 No entrar al cultivo hasta que el producto esté seco.  
 SPo 2: Lávese toda la ropa de protección después de usarla 
   
 Clasificaciones y Etiquetado: 
- 
- Página 2 de 4                                92316
-Nº REGISTRO: 
-AMPLIGO 150  ZC 
  
 Toxicidad aguda (oral, cutánea, por inhalación). Categoría 4. 
 Clase y categoría 
@@ -138,8 +138,7 @@ ambiente, siga las instrucciones de uso.
 peligro 
 H302 - Nocivo en caso de ingestión. 
 H332 - Nocivo en caso de inhalación.  
-P262 - Evitar el contacto con los ojos, la piel o la ropa. 
-Consejos de 
+Consejos de P262 - Evitar el contacto con los ojos, la piel o la ropa. 
 P271 - Utilizar únicamente en exteriores o en un lugar bien ventilado. 
 Prudencia 
 P280 - Llevar guantes/prendas/gafas/máscara de protección. (El 
@@ -148,15 +147,13 @@ P302 - EN CASO DE CONTACTO CON LA PIEL:
 P304+P340 - EN CASO DE INHALACIÓN: Transportar a la víctima al 
 exterior y mantenerla en reposo en una posición confortable para 
 respirar. 
-Acuático agudo 1 
-Clase y categoría 
+Clase y categoría Acuático agudo 1 
 Acuático crónico 1 
 de peligro 
 (Medio ambiental) 
 Pictograma 
 GSH09 (medio ambiente)  
--- 
-Palabra 
+Palabra -- 
 Advertencia 
 Frases de Riesgo H410 - Muy tóxico para los organismos acuáticos, con efectos nocivos 
 duraderos.  
@@ -176,16 +173,16 @@ de 10 m. hasta las masas de agua superficial.
 SPe 3: Para proteger los artrópodos no objetivo, respétese sin tratar una banda de seguridad 
 de 10 m. hasta la zona no cultivada.  
 SPe 8: Para proteger las abejas y otros insectos polinizadores, no aplicar durante la floración 
+ Página 3 de 4                                102016
+Nº REGISTRO: 
+AMPLIGO 150  ZC 
+ 
 de los cultivos. No utilizar donde haya abejas en pecoreo activo. Eliminar las malas hierbas 
 antes de su floración 
   
  Eliminación Producto y/o caldo: -- 
  
 Gestión de envases:   
- Página 3 de 4                                92316
-Nº REGISTRO: 
-AMPLIGO 150  ZC 
- 
 Enjuague enérgicamente tres veces cada envase que utilice, vertiendo el agua de lavado al 
 depósito (del pulverizador). Conforme a lo establecido en el Real Decreto 1416/2001, de 14 
 de diciembre, sobre envases de productos fitosanitarios, en la etiqueta deberá figurar la 
@@ -206,4 +203,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 4 de 4                                92316
+ Página 4 de 4                                102016

@@ -29,7 +29,16 @@ Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
 (6) Vid BOTRITIS 1-1,5 l/ha 21
 P.S.: Plazo de seguridad (días)
 Condicionamientos fitoterapeúticos:
-Generales :
+Generales : Aplicar en pulverización normal, con un volumen de caldo de 1.000 l/Ha.
+En la etiqueta se darán las instrucciones oportunas para el correcto uso del producto, así como las
+advertencias necesarias para que el agricultor pueda cerciorarse de los riesgos de su utilización por
+fitotoxcicidad en variedades sensibles del propio cultivo o en los cultivos adyacentes o en las
+condiciones concurrentes, como bajas temperaturas, estados de depresión del cultivo, lluvias, etc.
+Asimismo se informará sobre la posibilidad de que se produzcan resistencias y se propondrá una
+estrategia de gestión y manejo de las mismas.
+Registro de Productos FitoSanitarios
+Nº Registro: 25.536
+Nombre comercial: BOTRISEC
 Específicos: (1), (3), (4) Efectuar 2 aplicaciones por campaña, la primera 2-3 semanas antes de la cosecha  y la
 segunda 1-2 semanas  antes de la cosecha.
 (2) Sólo al aire libre. Efectuar hasta 3 aplicaciones, desde el desarrollo de hojas, a intervalos de 14
@@ -40,9 +49,6 @@ de la enfemedad, a intervalos de 14 días.
 tratamiento 3-4 semanas antes de la cosecha.
 Condicionamientos preventivos de riesgos:
 Mitigación de riesgos medioambientales:
-Registro de Productos FitoSanitarios
-Nº Registro: 25.536
-Nombre comercial: BOTRISEC
 SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 20 m.con cubierta
 vegetal hasta las masas de agua superficial.
 Mitigación de riesgos en la manipulación:

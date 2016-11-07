@@ -23,12 +23,10 @@ Tipo de función: Herbicida
 Ámbitos de utilización: Cultivos, Plantaciones Agrícolas
 Usos autorizados:
 Cultivo/Especie: Plaga/Efecto: Dosis: P.S.
-(1) Cebada DICOTILEDONEAS 22,5-37,5 g/ha NP
-(2) Trigo DICOTILEDONEAS 22,5-37,5 g/ha NP
-(3) Girasol DICOTILEDONEAS 23-37 g/ha NP
-(4) Olivo DICOTILEDONEAS 25-40 g/ha 28
+(1) Girasol DICOTILEDONEAS 23-37 g/ha NP
+(2) Olivo DICOTILEDONEAS 25-40 g/ha 28
 P.S.: Plazo de seguridad (días)
-Usos protegidos hasta fecha: (3) , (4) 
+Usos protegidos hasta fecha: (1) , (2) 
 Condicionamientos fitoterapeúticos:
 Generales : Controla malas hierbas en postemergencia.
 Aplicar en pulverización a baja presión dirigida al suelo, evfitando pulverizar a otros cultivos limítrofes
@@ -42,14 +40,12 @@ como las advertencias necesarias para que el agricultor pueda cerciorarse de los
 utilización por fitotoxicidad en variedades sensibles del propio cultivo, en los cultivos adyacentes o
 en los siguientes en la alternativa o en las condiciones concurrentes, como bajas temperaturas,
 estados de depresión del cultivo, suelo arenoso etc..
+Específicos: (1) Girasol tolerante al tribenuron. Aplicar con el cultivo en los estados de entre 2 y 8 hojas.
+Condicionamientos preventivos de riesgos:
+Mitigación de riesgos medioambientales:
 Registro de Productos FitoSanitarios
 Nº Registro: 24.218
 Nombre comercial: GRANSTAR 50 SX
-Específicos: (1), (2) Tratar con el cultivo entre los estados de 3 hojas hasta el inicio del encañado. En caso de
-resiembra por fallo del cultivo, sólo se efectuará ésta con cereales de invierno.
-(3) Girasol tolerante al tribenuron. Aplicar con el cultivo en los estados de entre 2 y 8 hojas.
-Condicionamientos preventivos de riesgos:
-Mitigación de riesgos medioambientales:
 SPe 3: Para proteger los organismos acuáticos, respétese sin tratar una banda de seguridad de 5 m. hasta las masas
 de agua superficial.
 SPe 3: Para proteger las plantas no objeto del tratamiento, respétese sin tratar una banda de seguridad de 10 m.

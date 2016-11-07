@@ -21,7 +21,7 @@ PRODUCCIÓN AGRARIA
 Nombre comercial: FERRAMOL ANTILIMACOS 
 Número de autorización: 24670 
 Fecha de inscripción: 05/09/2006 
-Fecha de caducidad: 31/12/2016 
+Fecha de caducidad: 30/12/2017 
  
 Titular  
 Fabricante 
@@ -61,12 +61,7 @@ USO AGENTE Min-máx.
 BABOSAS 
 Fresales 50 Kg/ha 
 CARACOLES 
-BABOSAS 
-Hortalizas del género brassica 50 Kg/ha 
-CARACOLES 
-BABOSAS 
-Jardines 5 g/m2 
-CARACOLES 
+Hortalizas del género brassica BABOSAS 50 Kg/ha 
  
      Página 1 de 3       Nº REGISTRO:   24670  
 FERRAMOL ANTILIMACOS
@@ -76,6 +71,10 @@ FERRAMOL ANTILIMACOS
    
   Dosis 
 USO AGENTE Min-máx. 
+CARACOLES 
+BABOSAS 
+Jardines 5 g/m2 
+CARACOLES 
 BABOSAS 
 Lechuga 50 Kg/ha 
 CARACOLES 
@@ -111,19 +110,21 @@ Mitigación de riesgos en la manipulación: --
   
 Clasificaciones y Etiquetado: 
  
-Clase y categoría  
+Clase y categoría 
+ 
 de peligro 
 (Humana) 
 Pictograma 
  
-Palabra  
+Palabra 
+ 
 Advertencia 
-Indicaciones de  
-peligro 
- Página 2 de 3                                92316
+ Página 2 de 3                                102016
 Nº REGISTRO: 
 FERRAMOL ANTILIMACOS 
  
+Indicaciones de  
+peligro 
 S13 - Conservar separado de alimentos, bebidas y piensos 
 Consejos de 
 S2 - Manténgase fuera del alcance de los niños. 
@@ -173,4 +174,4 @@ Condiciones de almacenamiento: --
 Requerimiento de datos/estudios complementarios: -- 
   
  
- Página 3 de 3                                92316
+ Página 3 de 3                                102016
